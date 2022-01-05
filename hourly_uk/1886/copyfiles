@@ -1,0 +1,7 @@
+mv /bm/gkeep/lisaa/digitize/First_Data/1886/1886_03_Falmouth_qc.txt 1886_03_Falmouth.txt
+mv /bm/gkeep/lisaa/digitize/First_Data/1886/1886_06_Kew_qc.txt 1886_06_Kew.txt
+mv /bm/gkeep/lisaa/digitize/First_Data/1886/1886_08_Aberdeen_qc.txt 1886_08_Aberdeen.txt
+mv /bm/gkeep/lisaa/digitize/First_Data/1886/1886_10_Aberdeen_qc.txt 1886_10_Aberdeen.txt
+mv /bm/gkeep/lisaa/digitize/First_Data/1886/1886_10_Kew_qc.txt 1886_10_Kew.txt
+mv /bm/gkeep/lisaa/digitize/First_Data/1886/1886_11_Valencia_qc.txt 1886_11_Valencia.txt
+mv /bm/gkeep/lisaa/digitize/First_Data/1886/1886_12_Kew_qc.txt 1886_12_Kew.txt

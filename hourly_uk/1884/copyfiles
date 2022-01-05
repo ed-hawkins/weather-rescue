@@ -1,0 +1,3 @@
+mv /bm/gkeep/lisaa/digitize/First_Data/1884/1884_02_Aberdeen_qc.txt 1884_02_Aberdeen.txt
+mv /bm/gkeep/lisaa/digitize/First_Data/1884/1884_12_Falmouth_qc.txt 1884_12_Falmouth.txt
+mv /bm/gkeep/lisaa/digitize/First_Data/1884/1884_12_Kew_qc.txt 1884_12_Kew.txt
