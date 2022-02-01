@@ -1,0 +1,24 @@
+From: Trausti Jónsson <trausti@vedur.is> Sent: 27 January 2021 14:43 To: Philip Jones (ENV - Staff) <P.Jones@uea.ac.uk>; Trausti Jonsson <trj@simnet.is> Subject: Re: Early Icelandic Weather Data
+ 
+Hi Phil.
+  The data I sent to the ISPDv4 a few years ago were Stykkisholmur 1845 to 1873 (all barometers), Reykjavik 1820 to 1854 (one per day) and Akureyri 1851 to 1854. These should all be there - if not I can send it again. 
+  Akureyri 1807 to 1814 has also been digitised (3 obs per day). Pressure observations from the period 1806 to 1870 that remain to be digitised are Ketilsstadir (E-Iceland) 1829 to 1833, (3 per day) Möðruvellir (N-Iceland) 1829 to 1833 (3 or 4 per day), Akureyri 1848-1850 (if I remember the years correctly) and a set of sub-daily observations from Reykjavik for a few years in the 1840s. The last- mentioned were accurate enough to see the daily average atmospheric tidal wave (that we still see). 
+  In addition there are a few pressure observations from southern Iceland pre-1810, probably not useful at this stage, but possibly in the more advanced future. 
+  I recall sending Ed (I think it was him) the synoptic message pressure data that we have digitized from the years 1906 to 1919.
+  The ISPDv4 also (I think) includes the old WASA-dataset that included daily data from Stykkisholmur 1874 to 1919 (and later). This was digitized from the published yearbooks - which include more undigitized pressure data. The yearbooks have all been imaged and are available on the internet: 
+ 
+(1873 to 1919]
+ 
+https://timarit.is/page/2374971#page/n0/mode/2up
+ 
+and 1920 to 1923:
+ 
+https://timarit.is/page/2372497#page/n0/mode/2up
+ 
+We have recently completed the imaging of most of the original observation journals for 1873 to 1948 - and it is quite feasible to digitize the pressure observations of these. I attach an image of pressure observations in Reykjavik in 1886 as an example. 
+ 
+We have digitized all daily precipitation measurements in Iceland from their begining in the 19th century - but the quality checking is lax. 
+ 
+If Rob is interested in these images I can try to transfer those including pressure observations to him (or other persons involved in the digitization effort)
+ 
+I hope that we can continue with the imaging, there are still some observational series pre-1873 (mainly temperature) that have not been looked at and there are also the barographs - which contain a lot of information. 
