@@ -27,6 +27,7 @@ Kinfauns Castle - http://archivecatalogue.pkc.gov.uk/Record.aspx?src=CalmView.Ca
 Ackworth School (1824-1851): https://www.catalogue.wyjs.org.uk/calmview/Record.aspx?src=CalmView.Catalog&id=C678%2f4%2f4a%2f1&pos=3
 
 Whitehaven - John Fletcher Miller (1832-1854): https://archiveweb.cumbria.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=DH%2f1%2f1
+(observer was away in 1838-39 so no observations)
 
 York - Charles Piazzi Smyth (1831-1860): https://archives.exploreyork.org.uk/index.php/meteorological-records-of-charles-piazzi-smyth
 (Likely only monthly summaries for 1838-1839)
