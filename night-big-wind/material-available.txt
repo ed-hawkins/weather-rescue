@@ -63,7 +63,7 @@ MET/2/1/2/3/149	Private Weather Diary for Goodamoor and other sites, Devon DCnn:
 MET/2/1/2/3/150	Private Weather Diary for Guilsborough, Northamptonshire DCnn: 43GB	Silkes, T. Watson, F. D.	1815 - 1863
 MET/2/1/2/3/159	Private Weather Diary for Greenwich, Greater London DCnn: 50GB 1811 - 1851	Belville, J. H.	1811 - 1851
 MET/2/1/2/3/160	Private Weather Diary for Greenwhich, Greater London 1811 - 1856 DCnn: 50GE	Eaton, H. S.	1811 - 1856
-2MET/2/1/2/3/167	Private Weather Diary for Hackney, London DCnn: 50HA	Underhill, S.G. Underhill, S. G.	1832 - 1856
+MET/2/1/2/3/167	Private Weather Diary for Hackney, London DCnn: 50HA	Underhill, S.G. Underhill, S. G.	1832 - 1856
 MET/2/1/2/3/172	Private Weather Diary for Well Head, Halifax, West Yorkshire (DCnn: 40HW)	Waterhouse, J.	1829 - 1869
 MET/2/1/2/3/175	Private Weather Diary for Harleston, Norfolk DCnn: 30HA	Pallant, T.	1786 - 1842
 MET/2/1/2/3/177	Private Weather Diary for Pool Cottage, Hereford (old county Hereford and Worcester DCnn: 48HC) 1821 - 1842	Pendergrass, J.	1821 - 1842
@@ -101,7 +101,8 @@ Private Weather Diary for Edinburgh.		1795 - 1850
 Private weather diary for Glendoick, Perthshire.		1831 - 1864
 Private weather diary for Inverness - hourly readings,.		1838 - 1839
 
-
-
+SHIPS
+226 ship logbooks that include 1839 in National Archives - no idea on locations:
+https://discovery.nationalarchives.gov.uk/results/r?_dss=range&_sd=1839&_ed=1839&_ser=ADM%2053&id=C1762&_ps=60
 
 
