@@ -1,7 +1,7 @@
 MATERIAL ALREADY DIGITALLY AVAILABLE
 IN ISPDv4: Armagh, Rochefort, Stockholm, Uppsala, Marseille (and others in Switzerland, Italy, Germany)
 RICHARD CORNES: London, Paris, De Bilt
-OTHER NEW: Reykjavik, Ukraine (x6 station), at least 11 stations in CHIMES (Austria, Switzerland), Modbury
+OTHER NEW: Reykjavik, Ukraine (x6 station), at least 11 stations in Switzerland, Modbury
 
 NEW MATERIAL SCANNED
 Logbooks/diaries: Exeter, Thwaite, Oxford, London (Beaufort), Cobham
@@ -89,7 +89,6 @@ MET/2/1/2/3/439	Private Weather Diary for Walkeringham, Nottinghamshire (DCnn: 4
 MET/2/1/2/3/476	Private Weather Diary for Earl Grey's Dock Office, Dundee, Tayside (old county Angus), Scotland (DCnn: 13DD)	Lt. Smart RN	1837 - 1839
 MET/2/1/2/3/479	Private Weather Diary for Ballimore, Tayside (old county Perthshire), Scotland		1833 - 1857
 MET/2/1/2/3/491	Private Weather Diary for Tullygowan, Ireland	Dickson, T.	1817 - 1853
-MET/2/1/2/3/543	Private Weather Diary: Diary of Admiral Beaufort 1820 - 1857 for Manchester Square, London	Beaufort, F.	1820 - 1857
 
 IN NATIONAL RECORDS OF SCOTLAND (EDINBURGH)
 Private weather diary for Aberdeen.		1829 - 1841
@@ -97,7 +96,7 @@ Private weather diary for Captain McKellar for Greenock?		1835 - 1849
 Private weather diary for Carbeth, Stirlingshire 1839 - 1859.		1817 - 1859
 Private weather diary for Castle Newe, Aberdeenshire.		1836 - 1847
 Private weather diary for Dollar Institution.		1836 - 1856
-Private Weather Diary for Edinburgh.		1795 - 1850		
+Private Weather Diary for Edinburgh.		1795 - 1850 (possibly missing 1838)
 Private weather diary for Glendoick, Perthshire.		1831 - 1864
 Private weather diary for Inverness - hourly readings,.		1838 - 1839
 
