@@ -1,0 +1,39 @@
+Météo-France Pressure surface submission Avignon 84007004 1901-1912
+Inbox
+	x
+JOURDAIN Sylvie
+	
+Attachments11:33 AM (2 minutes ago)
+		
+to me
+Dear Yin,
+I follow the submission of  French  subdaily surface pressure  data.
+
+Metadata
+Station : Avignon school, Avignon city , France
+Latitude :   43.95 N
+Longitude : + 4.81 E
+Original hour :  Paris meridian until 10 March 1911   (9mn before Greenwich) , UTC after. No conversion
+
+Original latitude and original longitude are missing : geographical coordinates are  deducted from the location of the school.
+
+Barometer : Tonnelot mercury Barometer 
+Temperature correction made by source 
+Homogenization  corrrection : no
+
+Units of Original pressure data in mmHg , accuracy of  tenth of millimeter (for example : 747.6  mmHg)
+
+I have the images of records too.
+
+Cheers,
+Sylvie
+Attachments area
+	
+Click here to Reply or Forward
+22% full
+Using 6.86 GB of your 30 GB
+Program Policies
+Powered by
+Google
+Last account activity: 58 minutes ago
+Details

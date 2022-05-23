@@ -1,0 +1,32 @@
+Luterbacher, Jürg <Juerg.Luterbacher@geogr.uni-giessen.de>
+Attachments
+Nov 3, 2017, 6:38 AM
+to me, gilbert.p.compo@noaa.gov
+
+Hi Yin and Gil
+
+ 
+
+I found other digitised data from us for which I am not sure if I have sent them to you, sorry for any duplication
+
+ 
+
+cheers
+
+ 
+
+Jürg
+
+I am attaching the following stations:
+
+Astrakhan: For the period 1866-1880 and the variables Barometer, Temperature. The barometer seems to have different units for the period 1866-1870 compared to 1871-1880. Also the amplitude in temperature is larger after 1870 but most probably is due to the change of time the observation was taken.
+Nertchinsk: For the period 1839-1861 (wind direction 1839-1845). I am expecting more data (till 1880) from Christos in the next weeks, I just decided to sent these period since it was completed. The digitization was in a very good quality but it contained some mistakes so it took some time to quality control it. I think its normal due to the numerous data this station had for some years (hourly data) and the lack of monthly-daily mean (for quality control). Altitude and wind-explanation-signs are not available in the scans.
+Criminal Prison Observatory: For the year 1905.
+
+
+NOTE from Yin:
+The files with "complete" in names were received in 11/06/2014 from 
+Athanasios Tsikerdekis <atsikerdekis@gmail.com>
+
+They seem to have difference from my rough check.
+2018/11/26

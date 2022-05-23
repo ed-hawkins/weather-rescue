@@ -1,0 +1,31 @@
+ISPD: Karlsruhe series
+Inbox
+	x
+stefan.broennimann@giub.unibe.ch
+	
+Attachments11:06 AM (11 minutes ago)
+		
+to me
+Dear Yin,
+
+This is the pressure series from Karlsruhe, 1778-2008, originating from the German Weather Service (post 1875) and the Institute of Meteorology and Climate Research of the Karlsruhe Institute of Technology.
+Contact person is: Christoph Kottmeier [christoph.kottmeier@kit.edu]
+
+This is a long and important series and it would be nice if it could still be included into the ISPD v5 release.
+
+Best regards,
+Stefan Brönnimann
+Attachments area
+Preview attachment Karlsruhe_1778-2008_V-1.01_pressure.xlsx.7z
+[Binary File]
+---------------------------------
+Feb 26, 2016
+Hi Gil,
+
+the best is to name our data "Karlsruhe climate series, station database of the Institute of Meteorology and Climate Research of the Karlsruhe Institute of Technology".
+
+The series include not only pressure, but several other observations such as temperature, wind, precipitation, cloudiness etc.
+
+Thanks and best regards
+Michael
+	

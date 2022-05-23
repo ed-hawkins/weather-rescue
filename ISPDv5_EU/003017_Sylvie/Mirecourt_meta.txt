@@ -1,0 +1,23 @@
+2006 0613: email 
+Dear Yin,
+I send to you  one file  containing subdaily observed  surface pressure data :
+ 
+Metadata
+Station : Mirecourt school, Mirecourt city, France
+Latitude :  48.30
+Longitude : +6.13
+Original hour : solar time , 26mn before Greenwich. I did no conversion.
+
+Elevation (barometer) :  279 m until 1864-05-22 and 297 m after.
+
+Original latitude and original longitude are missing : geographical coordinates are  deducted from the location of the school.
+
+No information available about the barometer
+
+Temperature correction made by source 
+Homogenization  corrrection : no
+
+Units of Original pressure data in mmHg , measured in hundreds of millimeter (for example : 747.62 mmHg)
+
+Cheers,
+Sylvie 

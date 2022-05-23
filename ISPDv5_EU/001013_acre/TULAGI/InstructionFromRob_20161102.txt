@@ -1,0 +1,49 @@
+Yin,
+
+          I think that I have finally sorted out the historical weather data for 
+Tulagi in the Solomon Islands that I sent to my Swiss colleagues to get digitised 
+under their citizen science effort.
+
+ 
+
+          I really don’t know what happened, but the first four years of the 
+series 1/1909-12/1912 were a mess in the files that they sent back from the 
+digitisation – especially the pressure data!!!! 
+
+ 
+
+         So I will again give you access to the Tulagi file on my Drop Box 
+to get the data.  The thing to do is to use the TULAGI.xlsx file for the 
+1/1909-12/1912 Attached Temperature and Uncorrected Pressure values 
+(columns D and E)(noting the change in barometer height ASL from 53.6m 
+from 1/1909 to 7/1910 to 2.1m from 8/1910), then you’d have to extract 
+and reformat as a continuous series built up from each of the pieces of 
+the data that they did in blocks for the first, second and third 
+(10, 10, 10/11) days of each month in the export_So5_all.xlsx to 
+export_So13_all.xlsx files – I think you will see what I mean.   
+I’d note that all the columns for all of the other variables jump 
+about, and I didn’t do anything about that in the TULAGI.xlsx file.   
+So after that, from the 1/1913 onwards, you should be able to pick it 
+all up in the files export_So5_all.xlsx to export_So13_all.xlsx in the 
+form that I just mentioned. 
+
+ 
+
+         I hope that this is not too much of a hassle for you.  Let me 
+know if you strike any problems or my directions above don’t make sense.
+========================================================================
+E-mail part 2:
+
+Yin,
+
+       OK good luck with that.  I’d mention that one thing that I did 
+notice as I looked through the export_So5_all.xlsx to export_So13_all.xlsx 
+files in the later years is that they give two different sets of 
+observations for each of the blocks of 10, 10, 10/11 days, and looking 
+at the original scans I found out that they are for 1600 and 1200 hours 
+observations (so 2x daily) and in that apparent reverse time order???    
+Nothing is marked to indicate this of course…….    Note also that the 
+export_So5_all.xlsx to export_So13_all.xlsx files are not necessarily 
+in time order – so it is all a jigsaw puzzle….  Sorry about this, I will 
+not be sending any further data series to my Swiss colleagues to be 
+digitised.   Cheers,  Rob.

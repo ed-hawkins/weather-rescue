@@ -1,0 +1,14 @@
+2016 0613: email:
+
+Metadata about the data 
+
+
+No idea about the instrument
+
+Unit of Original Observed SLP :   tenths of hPa
+
+Original latitude :  22.27 S
+Original : longitude : 166.45 E
+
+Temperature correction is made by source.
+

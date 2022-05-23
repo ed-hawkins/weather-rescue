@@ -1,0 +1,23 @@
+Jonas Bhend
+	
+Attachments5:46 AM (3 hours ago)
+		
+to me, renate.auchmann
+Hi Yin
+
+please find 12 more digitised pressure records in the attached. These are the original files including columns with barometer readings converted to mm and temperature readings to deg. Celsius if other, non-standard units have been used in the original files.
+
+Additional metadata for the stations is included in Working_inventory_pressure_1815-17.xls, this includes the following:
+1. Location and elevation along with flags indicating whether location is known (0) or whether we have guessed the location and elevation using the available information
+2. An indication of whether the pressure observations have been reduced for temperature
+3. Indication of whether temperature readings at the barometer are available (1) or not (0)
+
+For the stations Salem and Turin, we only have access to the already reduced pressure to sea level but not the original readings.
+
+In addition, I’ve also included three observed records from voyages during 1815-17 that we got from Rob Allan (England_to_Ceylon.xls, Voyage_to_west_coast_of_Corea.xls, Journey_to_the_interior_of_China.xls). These are the original files and require additional quality control (some of the lon and lat lack N/S indication etc.) and research to recover metadata. Please let us know if you would like to get an updated version of these files as well as soon as these are ready.
+
+If you have questions, please also include renate.auchmann@giub.unibe.ch, as I will be moving to another job soon.
+
+Kind regards,
+Jonas
+
