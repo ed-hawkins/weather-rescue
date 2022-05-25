@@ -1,0 +1,7 @@
+Location in 2022
+
+Lat: 50.796849 
+Long: 4.358158  
+Alt: 100.6m
+ 
+Data from KMI
