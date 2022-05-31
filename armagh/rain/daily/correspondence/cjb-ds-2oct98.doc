@@ -1,0 +1,278 @@
+
+
+Dear David,
+
+This is the first of what I expect to be a series of notes about the
+reorganisation of the meteorological data and our attempts to make it more
+widely available over the Internet. We are really grateful to your offer to
+help with this, as its one of those activities which has received occasional
+attention, but has never been completed due to the pressure of events. 
+
+The most disorganised of all the data-sets is that pertaining to rainfall. This
+is principally because the data as it stands has been computerised in a
+piece-meal fashion by various different agencies, including the Met Office, the
+Planetarium and summer students at the Observatory, but also because, during
+the 19th C. several guages were kept in operation at any one time and data has
+been taken from different guages at different times. 
+
+To deal with our general requirements, first, most of which will be obvious to
+you: 
+
+(1) We need to be sure that the raw data files that have already been
+entered into file are accurate. For this it is necessary to check the data
+entered into the file with the tabulated material in the original record books.
+This does not need to be done for every entry, though this would be desirable,
+but random samples do need to be checked. The original record books have been
+photocopied and we can lend you the photocopies, volume by volume, so that you
+can do this at home, if you wish. We cannot allow the original record books to
+leave the Observatory and if you need to consult them, they must be returned to
+the archives at the end of the day. 
+
+(2) We have started a file of metadata, that is material concerning the setting
+up of the recording instruments, their location, calibration information, dates
+when put into and taken out of use, failures, breakages, times of observation
+etc; indeed anything about the data which has been recorded. Much of this
+information has been recorded at the beginning or end of the record books, but
+some is found in the comments column beside the daily data itself. Any such
+information needs to be recorded in this file in chronological order.
+Eventually it will be a very long file, containing all we know about our
+meteorological observations, except the data itself. Currently, the file is
+called metadata.lis and can be copied from the following directory
+/home/cjb/met/rain/david . As you go through the copies of the record books,
+when you spot information on the instruments, please check that the information
+has been recorded in the metadata.lis file, and if not please amend the
+metadata.lis file accordingly. In addition to the information in the record
+books themselves, we are also compiling any information in the form of letters
+to and from the met office, other material relating to the meteorological
+records which is in the archives etc. Eventually, we will want to print all
+this material in a book along with cross-references and a classified index, so
+if you can think of a way of including along with each item a reference field
+which would make this easier (and hopefully automatic) later, then please feel
+free to suggest how it could best be done. The types of categories I am
+thinking of would be "max and min temperatures, wet and dry temperatures,
+rainfall, sunshine etc". One could consider a numbering system, but one has to
+allow for the insertion of extra items throughout the series as they are
+discovered. Keywords, against each item, might also be useful. They could be
+encrypted, of course, for brevity.
+
+(3) Once the raw (that entered in the record books) data has been checked, then
+begins the tedious and often unstisfactory business of establishing what
+corrections need to be applied for instrumental error, change of observing time,
+change of observing method or whatever. Occasionally, though I think not often,
+corrections have been applied before the data has been entered into the book.
+Its crucial to know, of course, when this has been done and what "correction"
+was applied, as we may in the light of subsequent information want to undo that
+correction and apply a better one. With the rainfall guages, we are in a
+reasonably satisfactory position, as many of the guages have been kept operating
+for a while to provide some overlap. Unfortunately, this procedure did not
+continue right through the series, in particular in more recent times. Anyway,
+once one has settled on a calibration of the instrument then the correction
+needs to be applied, instrument by instrument, before amalgamating the files in
+to a single homogenous file. At all stages we need to keep a complete record of
+what has been done to each dataset in its progress from raw data to
+"homogeneous" data. In the past we have tended to do this by including some
+extra records, either at the beginning or end of the file, to alert the user to
+the histor of the data listed. We should standardise this procedure.
+
+(4) Once the daily data files have been corrected for instrumental error etc
+and put into a single homogeneous system, then begins the statistical part.
+Firstly, we need the monthly, seasonal and annual mean totals. In our earlier
+paper on rainfall we used mean daily rainfall per month, season etc, but one of
+the referees was not so happy about this and asked for totals to be given. As
+it seems this is standard, we should use totals rather than mean daily per
+season etc in future. By the way the seasons, go Dec/Jan/Feb, Mar/Apr/May,
+Jun/Jul/Aug and Sep/Oct/Nov so the winter season for a year includes the
+December of the previous year, whereas the annual total includes all the months
+(J-D) of the year in question. In addition to these monthly, seasonal and
+annual totals I would like to form totals on shorter time intervals in a
+non-calendar way, which is more amenable to comparison with other sorts of
+astronomical/geophysical data, such as cosmic ray fluxes etc. As non-leap years
+have 365 days, successive five-day totals would probably be useful for this
+reason. The successive five day bins, would be numbered 1-73, and the central
+day of each bin, be expressed in decimal parts of a year. For example the time
+axis for bin 2 in 1998 would be the midpoint of the second bin in the year
+(i.e. day number 8) 1998.0225. Barbara Bromage, a colleague at the University
+of Central Lancashire is particularly interested in data bins on this sort of
+time-scale to compare with cosmic ray data. She has some evidence that rainfall
+in Ireland and Northern Britain is influenced by the position of the storm
+tracks and these in turn are influenced by solar proton events. The five-day
+bins would be of about the right length to see these effects.
+
+(5) We need to look at extrema in the data. This is often for the benefit of the
+public, who like to know when was the wettest, the driest etc and when records
+are broken. In meteorology there are so many records that they are broken
+regularly. To take rainfall as an example, these extrema are: wettest day on
+record, driest day on record, wettest and driest days in any given month on
+record, wettest and driest months on record for each month throughout the year,
+wettest and driest seasons and years etc. Many of these records will probably
+change as a result of the homogenisation of the data. In the past, the recorded
+values have often been used for extrema without correction.
+
+(6) There is a lot of statistical information that can be determined once the
+homogeneous data file is available. We should look for trends, cycles,
+comparison with other data such as the North Atlantic Oscillation and El Nino
+as well as geophysical and astronomical data. It would also be useful to have
+such statistics as the number of days in the year during which rain was
+recorded, the rainfall on days of the week and days of the month. Just for fun
+we could look at the 40 days following St Swithin's Day. 
+
+(7) There are other items recorded in the meteorological data comments column
+that are of interest, such as the presence of Aurorae or high latitude luminous
+clouds. A file containing the dates and comments would be worth compiling, for
+instance in order to assess the level of solar activity. Eventually, these too
+should be published. 
+
+
+FILES
+*****
+
+Now to look at the individual files of data in chronological order.
+
+
+*****************************************************************************
+1838-1853    directory: /home/cjb/met/rain/raw  filename: r.dly38-53
+
+Contains rainfall in inches, recorded by Square Guage (S1) on Roof Data format:
+X = month, y = date,  -9999 should indicate that data does not exist but often
+it has been used, incorrectly, when no data was detected (i.e. a dry day). Up to
+1845 - 6 characters per field, from 1846 5 characters per field.
+
+Note the following missing data points, (check for others):
+
+1842 Apr      -    these data points probably should not have been given -9999,
+they are probably just dry days on which no rain was recorded - suggest that
+these values are changed to 0.000
+
+1849 May      -    some S1 data missing, suggest using the Round Guage data
+instead, make sure that corrections are applied for correct guage.
+
+1850 Jan/Feb   -   use 0.000 for days when the guage was frozen, the observer
+should have thawed the ice and the recorded it, but we can assume that he left
+it to be included in the following days rain, so the totals should not be
+affected.
+
+1851 Nov/Dec  -    S1 leaked from Nov 1851 till 27 April 1852, (this fact should
+be recorded in the metadata) Use the data from the Round guage, with the
+relevant correction.
+
+1852 Jan/Feb/Mar/Apr  - Use Round Guage data with correction
+
+1853 Jan/Feb/Mar/Dec  - frozen guage, assume 0.000 and that water remains until
+first mild day.
+
+Correction factors: S1 multiply by 1.31, R multiply by 0.85
+
+
+
+******************************************************************************
+1853(Nov)-1861(Mar 9)  directory: /home/cjb/met/rain/raw   file: sq1+sq2.53-61 
+
+Guages S1 and S2, S1 was placed on the Roof and S2 on the N. Lawn, 
+units  - inches
+
+Format: First year - Nov/Dec only, x = month, Y = Date, two data points per day
+- upper value is from S1, lower from S2.
+
+I would suggest that this file be separated into two files, one for S1 and one
+for S2. The correction factors are: S1 1.31, S2 1.00.
+
+The year for 1857 is incorrect.
+
+A number of entries show -9999 which should be 0.000 for reasons as above.
+
+For the whole of this period the Round Guage has also been recorded - this has
+not been entered onto file, but should probably be done at some stage.
+
+For the homogeneous data set we have previously used S2 where it is available,
+rather than S1, as the position of S2 is more similar to modern requirements.
+
+However, it might be of interest to look at both sets of data independently, as
+the data has been already entered onto computer. Unless there are any compelling
+reasons to do otherwise, it would probably be wisest to use the S2 data for the
+homogeneous data set, as previously.
+
+******************************************************************************
+
+1861-1865   This data was never enered onto computer. The square gauge data from
+S2 needs to be entered in. Round Guage data is also available.
+
+*******************************************************************************
+
+1865 (apr) - 1978   directory: /home/cjb/met/rain/raw   file: uea-rain
+
+Format: x = date, y = month,  data is in mm x 10
+
+origin: Univ. of East Anglia, typed in by unknown agency - probably Met Office
+Two similar files accompanied this file from the UEA, one of maximum
+temperature and the other minimum. The temperature files contained numerous
+errors and are not considered useable. This file has been found to be
+relatively accurate, however, it contains data from different guages and
+contains no information as to which guage was used at any particular time. 
+
+The file has been looked at by David Fee and compared with the record books. He
+was able to identify which parts of the data belonged to which instrument. He
+also noted that for prolonged periods the data is given one day ahead in the
+file to that recorded (probably for the reason that the rainfall was read in
+the morning and so mostly fell on the previous day). However, for consistencey
+with other data files, I suggest that we bring the data back to the day on
+which it is read.
+
+From 1865-Mar 1874 the data is from the Round Guage, even though the square
+guage S2 has been read. For consistency with the previous datset we should
+probably produce a new file for this period which contains the S2 data. The Kew
+Guage has been used from 1874-1880, once again the possibility of using the
+sgaure guage S2 should be looked into. From 1880 - 1964 sometimes the 8-inch
+has been used and sometimes the Kew Guage. Both should be reasonably accurate,
+but one or the other could be suspect at any particular time due to faults.
+This needs to be checked out in the metadata and the record books etc. In the
+mean data that is currently being published by the Royal Irish Academy, the
+mean monthly data for the period 1885-1964 has been taken from the 8-inch
+guage. Bearing in mind the inacuracies we have found in the UEA files and the
+constant switching from one guage to another perhaps we should consider whether
+we should take up the offer of help by QUB Dept of Agriculture to compile the
+data for 1865-1978 again, using only S2 and the 8-inch (I) guage.
+
+**************************************************************************
+
+1951-1987    directory: home/cjb/met/rain/raw  file rain1951-1987
+
+data in mm ,  up to 1963 8-inch (I), from 1964 5-inch (J), check metadata for
+exact date of change, x = month, y = date
+
+From a few spot checks, this data looks reliable.
+
+**************************************************************************
+
+1988-1995    directory: home/cjb/met/rain/raw   file: ARM88-95
+
+data in mm, 5-inch guage (J)
+
+Format x = datafield Max, Min Rain etc for Jan, Feb, Mar
+       y = date
+       
+Origin: the Met Office. It may be possible to get the updated file from the Met
+Office to complete this to 1998. In future we hope to set a procedure to update
+our homogeneous data file at the end of each month.
+       Origin Met Office
+       
+ ***************************************************************************
+ 
+
+
+Additional rainfall data files, directory: /home/cjb/met/rain   
+
+file: rain1840-1995
+
+Contains the homogenous mean daily rainfall per month for the years 1840-1995 in
+inches. See comments at end for data sources.
+ 
+ 
+ file: table2.dat 
+ Contains the mean daily rainfall per month in mm, for 1838-1997.
+ 
+ file: table3a.dat
+ Contains the mean daily rainfall per season and annually, in mm, for 1838-1997.
+ 
+ 
+ 
+ Cheers, John      

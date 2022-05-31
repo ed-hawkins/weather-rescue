@@ -1,0 +1,128 @@
+_______________________________________________________________________________
+
+		   MSLP series used in EMULATE
+_______________________________________________________________________________
+
+
+Two MSLP series for each station series used in EMULATE are provided.  
+These correspond to 'uncorrected' and 'corrected' series; the 'corrected 
+series was used to create the daily MSLP product for work package one. The  
+corrections will be described in detail below.  Firstly, the format of the
+files  is described. 
+______________________________________________________________________________
+
+1. Format
+
+Each file is in ascii format.  There are two lines of header information.  
+The first line is the station name (including the directory). 
+
+The second line contains some important station details:  
+station_number, first_year, last_year, latitude, longitude, station height
+
+eg. For  La Coruna
+
+  8001  1865  2002   4316   -850     58
+  
+The series then follows with 
+year, month, day, pressure 
+
+
+Notes:
+* the pressure is at mean sea level and is given in hPa.
+* missing MSLP values are given as   -999.90
+* if there is no station number, it is given 99999
+* station height is given in metres
+* if no details of station height were available, we used the height given in 
+  the WMO records
+* if a change of height was known, we took an average of the heights. 
+* latitudes are in degrees (not degree and minutes) x 100.  For example: 
+  45 degrees N, 30 minutes = 45.5 x 100  => 4550
+  43 degrees N, 15 minutes = 45.25 x 100 => 4525
+* longitudes are in degrees (not degrees and minutes) x 100.  West is denoted  
+  by negative values.  For example, 
+  30 degrees E, 12 minutes = 30.2 x 100 => 3020
+  10 degrees W, 55 minutes = -10.92 x 100 => -1092
+
+_______________________________________________________________________________
+
+2. 'Uncorrected' series 
+
+These files are denoted by the file ending : .ts.asc 
+For example for Armagh the filename is: 
+
+emulate_armagh.ts.asc
+
+Although they are classed here as 'uncorrected', many of these stations have 
+undergone considerable quality control (eg. WASA, IMPROVE stations, Durham, 
+Armagh etc).  We call them 'uncorrected', because we (at the Hadley Centre)  have
+applied minimal corrections.  
+Minimal corrections refers to  correcting  typos, calculating the
+daily average, filling in missing data points in a couple of stations (using a
+different source) and reducing Hohenpeissenberg, Jena, Milan and Athens to mean
+sea level.   NOTE: Rob also applied considerable QC and near neighbour checks 
+for the Armagh series (refer to his email). 
+
+_______________________________________________________________________________
+
+3. 'Corrected' series
+
+These files are denoted by the file ending : .ts.diurnal.adj.asc
+For example for Armagh the filename is :
+emulate_armagh.ts.diurnal.adj.asc
+
+Firstly we apply a correction for the diurnal  and semi diurnal oscillation.  We
+use the phase and amplitude fields (seasonal)  calculated by Dai and Wang (1999)
+to estimate the diurnal & semi diurnal cycle at each  station.  Observation
+hours for each day of a station series have been produced  and these are then
+used to determine the appropriate adjustment, given the cycle.   Due to a lack
+of sufficient sub-daily data, we were unable to calculate  the diurnal and
+semidiurnal cycle at each station directly.  The Dai and Wang fields are on a
+5x5 degree latitude longitude grid and hence we interpolate  the nearest grid
+point to our station.  It is rather a crude adjustment, however  corrections are
+generally small and, as stated above, it was not possible to estimate  diurnal
+waves  directly for each station in this project. 
+
+Secondly, we adjust the series such that the monthly mean is equal to a
+reference monthly mean (either the corresponding ADVICE station series, that 
+interpolated from the nearest ADVICE  grid point, or from the nearest HadSLP
+grid point)**.   Specifically, the monthly means are calculated from the daily
+series and compared  to the reference ADVICE/HadSLP monthly value.  The
+difference in  monthly means is then used to adjust the daily SLP values.  There
+was some concern  about jumps in adjustments at the end of each month, so a
+slight smoothing  was applied to the monthly adjustments.  Preference was given
+to the ADVICE station  series where possible, however in some cases problems
+were found with the ADVICE  station series.  In these instances, the ADVICE
+gridded value was used. 
+
+
+** ADVICE is a available as a monthly gridded MSLP product from 1780-1995  
+   and as individual monthly station series (see Jones et al, 1999)
+** HadSLP is a gridded monthly MSLP product developed at the Hadley Centre 
+   from 1871-1998
+________________________________________________________________________________
+
+4. Remaining issues
+
+We do still have come concerns about the quality of a number of series.  To
+properly  quality control 86 stations would require more than time allocated to
+the whole of  the EMULATE project.  Because the data would undergo further
+quality control in  the gridding procedure, we decided to proceed with the
+stations series as they stood.   For research being conducted with individual
+station series, we would recommend  however that some caution to be exercised. 
+
+Any feedback would be extremely useful!
+
+
+Tara Ansell
+
+tara.ansell@metoffice.com
+________________________________________________________________________________
+
+5. References
+
+Dai, A. and Wang, J. (1999) 'Diurnal and Semidiurnal Tides in Global Surface
+Pressure Fields', J. Atmos. Sci., 56, 3874-3891
+
+Jones, P. D. et al (1999) 'Monthly mean pressure reconstructions for Europe 
+for the 1780-1995 period', Int. J. Climatology, 19, 347-364
+

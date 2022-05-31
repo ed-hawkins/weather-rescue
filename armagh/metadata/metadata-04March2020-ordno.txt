@@ -1,0 +1,1682 @@
+ Metadata Catalogue for Documents concerning the Meteorological data at Armagh Observatory in order of Reference Number
+Last update 4 March 2020 by C.J. Butler   
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Key numbers:
+
+1  Barometric pressure
+2  Temperature
+3  Wind
+4  Rainfall
+5  Sunshine
+6  Cloud
+7  Humidity
+8  Fog
+9  Visibility
+10 Thunder and lightning
+11 Snow, hail, frost
+12 Recording forms and instructions
+13 Reports on station 
+14 Instrument list
+15 Plans of observatory meteorological station
+16 Request for information
+17 Newspaper articles
+18 Reference to old or missing weather data
+19 Questionnaire
+20 Self recording station (hourly)
+21 Photographs of meteorological site and instruments
+22 Publications
+23 Tornadoes and waterspouts
+24 Solar link and sunspots
+25 Flooding
+26 List of inspectors
+27 Funding of meteorological work
+28 War correspondence 1939-1945
+29 Staff
+30 Obituaries
+31 Observers, contributors 
+32 Phenological data
+33 Stationery
+34 List of inspectors reports
+35 Requests for publications
+36 Statistics
+37 Summary of HLF project
+38 Data, codes, format, files
+39 Validation of data, calibration, etc 
+40 Climatology, weather
+
+
+Abbreviations:
+
+AWS                 Automatic Weather Station in operation 1868-1883 incl.
+ADSC:               Alan Coughlin
+AMGS:               Ana Maria Garcia-Suarez
+CJB:                C. John Butler
+CML:                Chloe Morrel
+KRH                 Kieran Hickey
+MO and Met. Office: UK Meteorological Office 
+PRONI               Public Record Office for Northern Ireland
+SRT                 Self Recording Thermograph of the AWS
+TSR                 Tilting Syphon Rainfall Recorder
+ +                  and later
+?                   unknown
+
+
+
+
+ 
+Document No     B&H No     Date            Code                    Contents
+ 
+ARM/MET/000001  M20        1783-1784       18                      Meteorological notes, Cookstown Co. Tyrone
+ARM/MET/000002  M31        1788            1 12                    Barometer charts, Co. Tyrone, Co. Meath and Co. Louth and Athlone 
+ARM/MET/000003  M26        1788-1789       1 2 12                  Barometrical and thermometrical observations at Athlone 
+ARM/MET/000004  M117.1     1795-1825       38 18                   Meteorological records at Armagh Observatory
+ARM/MET/000005  M64        1840-50         18 38                   Meteorological observations at Armagh Observatory
+ARM/MET/000006  M32.1      1846-1868       18 32                   Met obs Glendooen Co. Donegal (probably by Rev. H. Kingsmill)
+                M32.2      1867-1883       18 32                   Met obs Glendooen Co. Donegal
+                M32.3      1883            18                      Met obs Glendooen Co. Donegal
+ARM/MET/000007  M123       1852-1907       3 38                    Anemometer Record book and data at PRONI
+ARM/MET/000008  M2.1       1858-1861       18                      Book of observations and computations
+                M2.2       1858            1                       Book of heights in Naples, Italy
+                M2.3                                               Corrections to values of solar semi-diameter
+ARM/MET/000009  M67        1865-1875       2 3 18 38               Records, books and notes for  Anemometer and thermometer             
+ARM/MET/000010  M34.1      1877-1879       3                       Letter, errors in the anemometer
+                M34.2      1926            3                       Table converting wind speed
+                M34.3      1876,1878,1921  3                       2 reprints of papers about anemometer plus letter
+                M34.4      1850?           3                       Drawings of cup anemometer
+ARM/MET/000011  M141       1870-1891       2 3                     Anemometer and thermograph reduction books
+ARM/MET/000012  M104       C.1870, 1875    1 2 3                   7 photo recorded thermographs, barograms and thermographs
+ARM/MET/000013  M63        1869-1939       40 3                    Collection of 13 letters, meteorological observations
+ARM/MET/000014  M110       1838-1919       12 14 3                 Correspondence with Met Office regarding equipment at Armagh
+ARM/MET/000015             1911            14 15                   Correspondence with Met Office
+ARM/MET/000016  M92.4      1915            3 14                    Loan of Robinson's original anemometer to the Science Museum
+ARM/MET/000017  M65        1796-1948       3 36 40                 Notes on met obs, highest/lowest monthly pressures
+                M117.2     1833-1997       1 2 3 4 7 18 38         Meteorological observations at Armagh Observatory
+ARM/MET/000018  M156       1838-1944       3 14                    Parts of anemometers, etc.
+ARM/MET/000019  M68        1867            20 14 15                Specs for erection of Met. house. Drawings of the building.
+ARM/MET/000020  D7         1953            15 3                    Plan  of Observatory, old met building, anemometer on the roof
+ARM/MET/000021  M25        1782            38 31 18                Cookstown Co. Tyrone, some observations
+ARM/MET/000022  M28.1      1783                                    Notes on meteorological observations, Cookstown Co. Tyrone
+ARM/MET/000023  M36        1823-1882       3 8                     Papers and newspaper reports on TR Robinson's speeches
+ARM/MET/000024             1889            1 12                    Pressure correction tables
+ARM/MET/000025             1919            1 2 3 4 5 6 14 13       Inspection, corrections and equipment
+ARM/MET/000026             1996            2 14  39                Compilation of corrections for thermometers
+ARM/MET/000027             1917            1 2 3 4 5 6 14 13       Inspection, corrections and equipment
+ARM/MET/000028	           1912            1 2                     Corrections from UKMO for Barometer, 1 Jan 1912
+ARM/MET/000029             1912            1                       Ground plan of Armagh Observatory, met instruments             
+ARM/MET/000030             1884            1 2                     Letter to Dreyer from RH Scott, UKMO
+ARM/MET/000031             1929            1 2 14 13               Instrument list and corrections
+ARM/MET/000032             1918            1 3 4 13                Inspection, barometric corrections   
+ARM/MET/000033             1914            3 4                     Anemograph at Armagh Observatory
+ARM/MET/000034             1919            1 2 3 4 5 6 13 14       Inspection, corrections and equipment
+ARM/MET/000035             1919            1                       Barometric correction tables
+ARM/MET/000036             1926            1 9                     Objects and distances
+ARM/MET/000037             1926            1 2 3 4 5 6 14 15 13    Inspection, corrections and equipment
+ARM/MET/000038             1926            1 2 14                  Repairs after inspection
+ARM/MET/000039             1928            1 2 3 4 5 6 13 12 14    Inspection, corrections and equipment
+ARM/MET/000040             1928            3 17                    Royal School tercentenary
+ARM/MET/000041             1928            5 14                    Proposed changes in sunshine recorder
+ARM/MET/000042             1929            1 14                    Barometric corrections, certificate
+ARM/MET/000043             1929            14 1 2 3 4 5 6 13 14    Inspection, corrections and equipment
+ARM/MET/000044             1929            1 12                    Barometric correction card
+ARM/MET/000045             1933            4 12                    Raingauges
+ARM/MET/000046             1933            4 12                    Raingauges
+ARM/MET/000047             1933            4 12                    Raingauges
+ARM/MET/000048             1934            1 2 3 4 4 5 6 13 14     Inspection, corrections and equipment
+ARM/MET/000049             1934            1 2 3 4 5 9 14 13       Instrument list, inspection, corrections
+ARM/MET/000050             1934            6 9 12 15               Recording methods 
+ARM/MET/000051             1937            30                      Dr. Ellison's Obituary
+ARM/MET/000052             1937            2 12 14                 Stevenson's screen        
+ARM/MET/000053             1937            29                      Letter from Charles J. Jamison re. Mr J. Reseigh (met observer) to RMS
+ARM/MET/000054             1937            29                      Letter from E. Kidner to C.E.P. Brooks (see item No 000053)
+ARM/MET/000055             1937            29                      Letter from E.G. Bilham to C.J. Jamison
+ARM/MET/000056             1938            1 2 4 5 6 9 14 12 13    Inspection, corrections and equipment           
+ARM/MET/000057             1938            4 16 18                 Rainfall
+ARM/MET/000058             1938            4 16 18                 Rainfall
+ARM/MET/000059             1938            4 16 18                 Rainfall
+ARM/MET/000060             1938            3 16                    MO requests records
+ARM/MET/000061             1938            3 4 5 16                Letter, related to ARM/MET/000060
+ARM/MET/000062             1939            4 18                    Letter, related to ARM/MET/000060
+ARM/MET/000063             1938            18 29                   Letter, related to ARM/MET/000060
+ARM/MET/000064             1939            28 12 13                Letter, Recording during the war
+ARM/MET/000065             1939            28 12 13                Letter, Recording during the war
+ARM/MET/000066             1940            28 12 13                Letter, Recording during the war
+ARM/MET/000067             1940            28 12 13                Letter, Recording during the war
+ARM/MET/000068             1941            28 12 13                Letter, Recording during the war
+ARM/MET/000069             1943            9                       Letter
+ARM/MET/000070             1943            1 16                    Letter MO copy of 000680
+ARM/MET/000071             1943            9                       Letter 
+ARM/MET/000072             1943            3 4 5 16 18             Letter, requesting missing records and forms
+ARM/MET/000073             1943            1 38                    Highest and Lowest Monthly Pressure at AO 1796-1825, 1833-1943
+ARM/MET/000074             1944            3 4 5 16                Letter: related to ARM/MET/000072
+ARM/MET/000075             1944            3 4 5 16                Letter: related to ARM/MET/000072
+ARM/MET/000076             1944            3 4 5 16 28 29 12       Letter: related to ARM/MET/000072
+ARM/MET/000077             1944            28 12                   Continuity of Observations during war
+ARM/MET/000078             1944            28 12                   Letter: related to ARM/MET/000077 MO copy of 000691
+ARM/MET/000079             10/7/1944       1 2 4 5 6 9 14 12 13    Inspection, corrections and equipment, map showing location of instruments etc
+ARM/MET/000080             1944            16 28 29                Letter: related to ARM/MET/000077
+ARM/MET/000081             1944            16 28 29                Letter: related to ARM/MET/000077
+ARM/MET/000082             1944            3 4 5 16 28 29 12       Letter: related to ARM/MET/000077
+ARM/MET/000083             1944            3 5 28                  Letter: related to ARM/MET/000077
+ARM/MET/000084             1944            28 12                   Weekly reports, forms
+ARM/MET/000085             1944            2 4 28                  Weekly reports, problems with rainfall, temp. records
+ARM/MET/000086             1944            16 28 3 6               Weather returns, storm and cloud records
+ARM/MET/000087             1945            3 28 16                 Weather returns, MO Copy of 000695
+ARM/MET/000088             1945            3 28                    Wind, MO copy of 000696
+ARM/MET/000089             1945            3 28                    Wind, MO copy of 000697
+ARM/MET/000090             1945            5 14 12                 Sunshine Exposure, MO copy of 000701
+ARM/MET/000091             1946            3 4 5 18 14             Sunshine, anemometer, rainfall  Exposure
+ARM/MET/000092             1946            3 4 5 16 18 14          Sunshine Exposure, rainfall records, monthly returns, MO copy of 000702
+ARM/MET/000093             1946            3 5 12 14               Sunshine, anemometer Exposure
+ARM/MET/000094             1946            3 5 12 14               Sunshine, anemometer Exposure
+ARM/MET/000095             1946            3 5 12 14               Sunshine, anemometer Exposure, MO copy of 000705
+ARM/MET/000096             1946            3 5 12 14               Sunshine, anemometer Exposure, MO copy of 000706
+ARM/MET/000097             1946            2 3 5 14                Sunshine, anemometer Exposure, 1-ft thermometer broken
+ARM/MET/000098             1946            3 4                     Sunshine, anemometer Exposure
+ARM/MET/000099             1946            3 4 5 12                Anemometer Exposure, trees, MO copy of 000710
+ARM/MET/000100             1946            3 4 5 12 15             Anemometer, another suitable site for station, MO copy of 000711
+ARM/MET/000101             1946            4 12                    More about ARM/MET/000100, MO copy of 000712, Dines Tilting-Syphon Guage
+ARM/MET/000102             1946            3 12                    Faulty Anemometer, MO copy of 000713
+ARM/MET/000103             1946            3 12                    Anemometer records
+ARM/MET/000104             1947            19                      Questionnaire about station
+ARM/MET/000105             1947            4 16 14                 Rainfall record problems, MO copy of 000727
+ARM/MET/000106             1947            4 16 14                 Rainfall record problems, MO copy of 000736
+ARM/MET/000107             1947            4 16 14                 Rainfall record problems, MO copy of 000740
+ARM/MET/000108             1947            4 16 14                 Rainfall record problems, MO copy of 000741
+ARM/MET/000109             1947            4 38                    Rainfall corrections, MO copy of 000744
+ARM/MET/000110             1947            4 38                    Rainfall corrections, MO copy of 000747
+ARM/MET/000111             1947            1 2 4 5 6 9 14 12 13    Inspection, corrections and equipment
+ARM/MET/000112             1883            20 27 29                Letter, close Automatic Weather Station
+ARM/MET/000113             1884/85         1 2                     Corrections dry/wet thermometer, pressure
+ARM/MET/000114             1884            1                       Pressure
+ARM/MET/000115             1887            2                       Corrections dry/wet thermometer
+ARM/MET/000116             1947            1 2 3 4 5 14 26         Instrument list and corrections
+ARM/MET/000117             1947            4 5 12 14               Letter, report onsite inspection, MO copy of 000749
+ARM/MET/000118             1947            4 12                    Rainfall returns
+ARM/MET/000119             1949            27                      Request of funding, MO copy of 000758
+ARM/MET/000120             1949            27                      About ARM/MET/000119, MO copy of 000761
+ARM/MET/000121             1949            5 27                    About ARM/MET/000119, sunshine recorder, MO copy of 000762
+ARM/MET/000122             1949            5 27                    About ARM/MET/000119, sunshine recorder, MO copy of 000764
+ARM/MET/000123             1950            5 14                    New site for sunshine recorder, MO copy of 000769
+ARM/MET/000124             1950            3 14                    Anemometer
+ARM/MET/000125             1950            3 5 27                  Anemometer, funding sunshine recorder, MO copy of 000773
+ARM/MET/000126             1951            3 5 27                  About ARM/MET/000125, description of exposure, funding questions
+ARM/MET/000127             1950            3 5 14 27               About ARM/MET/000125
+ARM/MET/000128             1950            5 14 27                 About ARM/MET/000125
+ARM/MET/000129             1950            3 5 14 27               About ARM/MET/000125, MO copy of 000772
+ARM/MET/000130             1950            5 14 27                 About ARM/MET/000125
+ARM/MET/000131             1950            5 14 27                 About ARM/MET/000125
+ARM/MET/000132             1950            5 14 27                 About ARM/MET/000125
+ARM/MET/000133             1950            5 14 27                 About ARM/MET/000125
+ARM/MET/000134             1951            5 12                    Sunshine cards
+ARM/MET/000135             1951            5 14                    Sunshine recorder stand safety, MO copy of 000795
+ARM/MET/000136             1951            5 14                    Sunshine
+ARM/MET/000137             1951            5 14                    Sunshine recorder stand safety
+ARM/MET/000138             1951            5 14                    Sunshine recorder stand safety
+ARM/MET/000139             1952            5 14                    Sunshine recorder stand safety
+ARM/MET/000140             1952            1 2 3 4 5 6 13 14       Inspection, corrections and equipment           
+ARM/MET/000141             1952            1 2 4 5 6 9 14 12 13 21 Inspection, corrections and equipment
+ARM/MET/000142             1952            4 5 13 14               Comments on instruments, MO copy of 000820
+ARM/MET/000143             1951            22 4 10 23 24 32        Paper by Sheelagh Grew on rainfall
+ARM/MET/000144             1952            4 5 14 31               Comments on instruments, observers training, MO copy of 000821
+ARM/MET/000145             1952            4 5 14 31               Comments on instruments, MO copy of 000823
+ARM/MET/000146             1952            4 5 14                  8-inch Raingauge faulty, MO copy of 000826
+ARM/MET/000147             1952            4 5 14                  8-inch Raingauge faulty, MO copy of 000827
+ARM/MET/000148             1952            14                      Instrument list
+ARM/MET/000149             1952            5 14                    New sunshine recorder and surrounding trees, MO copy of 000830
+ARM/MET/000150             1952            2 4 5 16 22 31 36 40    Rainfall, temperature records, MO copy of 000832
+ARM/MET/000151             1952            2 4 16 22 31 36 40      Rainfall record, MO copy of 000833
+ARM/MET/000152             1953            3                       Anemograph
+ARM/MET/000153             1955           5 21                     Perfil around the site (exposure diagram)
+ARM/MET/000154             1955           2 5 14                   Request return faulty or on-loan instruments, MO copy of 000909
+ARM/MET/000155             1956           2 5 12 14                Faulty min. thermometer, MO copy of 000912
+ARM/MET/000156             1957           2 4 5 14                 Faulty instruments, MO copy of 000929
+ARM/MET/000157             1957           2 4 5 9 14 16 19 13 12   Inspection, corrections and equipment; special report on station        
+ARM/MET/000158             1957           2 4 5 14 12 13           Letter following inspection, comments, MO copy of 000933
+ARM/MET/000159             1957           2 4 5 14 12 13           About ARM/MET/000158
+ARM/MET/000160             1958            2 4 5                   Corrections after inspection. See also ARM/MET/000158
+ARM/MET/000161             1958            5 21                    horizon elevation around the site (exposure diagram)
+ARM/MET/000162             1958            5                       Sunshine exposure and certificate of inspection, MO copy of 000944
+ARM/MET/000163             1959            1 2 3 5 14              Annual statement of station: instruments and site, MO copy of 000962
+ARM/MET/000164             1959            4 16 25                 Armagh flooding, rainfall record, MO copy of 000966
+ARM/MET/000165             1959            4 14                    Raingauges and flooding, MO copy of 000970
+ARM/MET/000166             1960            2 14 33                 Notification of change of issues. Instruments
+ARM/MET/000167             1962            1 2 3 14 33             Instrument list
+ARM/MET/000168             1959            2 22                    Paper by Lindsay on behaviour of a grass minimum thermometer
+ARM/MET/000169             1965            12 33                   Notification in issues of forms
+ARM/MET/000170             1967            33                      Notification in issues of forms
+ARM/MET/000171             1971            4 33                    Notification in issues of forms
+ARM/MET/000172             1951            4 38 40                 Rainfall monthly totals (raw), inches, MO (1840-1950)
+ARM/MET/000173             1901            14 1 2 3 4 5 6 13       Inspection, corrections and equipment
+ARM/MET/000174             1902            1 2 3 4 5 6 14 13       Inspection, corrections and equipment
+ARM/MET/000175             1903            1 2 3 4 5 6 14 13       Inspection, corrections and equipment
+ARM/MET/000176             1904            1 2 3 4 5 6 14 13       Inspection, corrections and equipment
+ARM/MET/000177             1905            1 2 3 4 5 6 14 13       Inspection, corrections and equipment
+ARM/MET/000178             1905            3 13 4                  General result of the inspection
+ARM/MET/000179             1906            1 2 3 4 5 6 14 13       Inspection, corrections and equipment
+ARM/MET/000180             1906            3 4 13                  General result on inspection
+ARM/MET/000181             1907            1 2 3 4 5 6 14 13       Inspection, corrections and equipment
+ARM/MET/000182             1907            13                      General result on inspection
+ARM/MET/000183             1908            1 2 3 4 5 6 14 13       Inspection, corrections and equipment
+ARM/MET/000184             5/1952          12 13 21                Photostat copies of site photographs (originals with UKMO/NIPRO)
+ARM/MET/000185             1909            1 2 3 4 5 6 14 13       Inspection, corrections and equipment          
+ARM/MET/000186             25/8/1975       14 13                   Re. observational work, aneroid and replacement thermograph
+ARM/MET/000187             1909            2                       Corrections wet/dry bulb thermometers - Armagh and Birr Castle
+ARM/MET/000188             1909            2                       Note: new wet/dry bulb thermometers sent to Armagh and Birr
+ARM/MET/000189             1910            1 2 3 4 5 6 14 13       Inspection, corrections and equipment
+ARM/MET/000190             1910            1 13                    General result on inspection
+ARM/MET/000191             1911            1 2 3 4 5 6 14 13       Inspection, corrections and equipment
+ARM/MET/000192             1911            1 13                    General result on inspection
+ARM/MET/000193             1912            1 2 3 4 5 6 14 13       Inspection, corrections and equipment
+ARM/MET/000194             1912            3 13                    General result on inspection
+ARM/MET/000195             1913            1 2 3 4 5 6 14 13       Inspection, corrections and equipment
+ARM/MET/000196             1913            2 13                    General result on inspection
+ARM/MET/000197             1914            1 2 3 4 5 6 14 13       Inspection, corrections and equipment
+ARM/MET/000198             1917            1 2 3 4 5 6 13 14       Inspection, corrections and equipment
+ARM/MET/000199             1917            3 14                    Report Cup Anemometer
+ARM/MET/000200             1917            4 14                    Notes on Beckley Raingauge
+ARM/MET/000201             1882            13 20                   Met Council Royal S. Rain and temp for first quarter of year.
+ARM/MET/000202             1919            1 2 3 4 5 6 27          Notes on a visit to Armagh Observatory
+ARM/MET/000203             1919            1 2 3 4 5 6 13          Notes on Station
+ARM/MET/000204             1879?           1                       Barometric correction tables, corrections for thermometers and anemometer             
+ARM/MET/000205             1880?           2                       Distance travelled by sound in miles and yards
+ARM/MET/000206             1893            1 2 3 4 20              Records Jan-Jun 1893, self recording obs for 5 stations   
+ARM/MET/000207             1893            1 2 3 4 20              Records Jul-Dec 1893, self recording obs
+ARM/MET/000208             1894            3 4 20                  Records Jan-Jun 1894, self recording obs
+ARM/MET/000209             1894            3 4 20                  Records Jul-Dec 1894, self recording obs
+ARM/MET/000210             1895            3 4 20                  Records Jan-Jun 1895, self recording obs                
+ARM/MET/000211             1895            3 4 20                  Records Jul-Dec 1895, self recording obs
+ARM/MET/000212             1896            3 4 20                  Records Jan-Jun 1896, self recording obs
+ARM/MET/000213             1896            3 4 20                  Records Jul-Dec 1896, self recording obs
+ARM/MET/000214             1897            3 4 20                  Records Jan-Jun 1897, self recording obs
+ARM/MET/000215             1897            3 4 20                  Records Jul-Dec 1897, self recording obs
+ARM/MET/000216             1898            3 4 20                  Records Jan-Jun 1898, self recording obs
+ARM/MET/000217             1898            3 4 20                  Records Jul-Dec 1898, self recording obs
+ARM/MET/000218             1899            3 4 20                  Records Jan-Jun 1899, self recording obs
+ARM/MET/000219             1899/12         3 4 20                  Records Jul-Dec 1899, self recording obs
+ARM/MET/000220             1898/11         3 4 20                  Anemograms Nov. 1898
+ARM/MET/000221             1898/12         3 4 20                  Anemograms Dec. 1898
+ARM/MET/000222             1889/1/25       2 16                    Mean maximum and minimum for period 1871-1885
+ARM/MET/000223             1899/1          3 4 20                  Anemograms Jan. 1899
+ARM/MET/000224             1899/2          3 4 20                  Rain Feb. 1899
+ARM/MET/000225             1899/3          3 4 20                  Anemograms Mar. 1899
+ARM/MET/000226             1899/4          3 4 20                  Anemograms Apr. 1899
+ARM/MET/000227             1899/5          3 4 20                  Anemograms May. 1899
+ARM/MET/000228             1899/6          3 4 20                  Anemograms Jun. 1899
+ARM/MET/000229             1899/7          3 4 20                  Anemograms Jul. 1899
+ARM/MET/000230             1899/8          3 4 20                  Anemograms Aug. 1899
+ARM/MET/000231             1899/9          3 4 20                  Anemograms Sep. 1899
+ARM/MET/000232             1899/11         3 4 20                  Anemograms Nov. 1899
+ARM/MET/000233             1899/12         3 4 20                  Anemograms Dec. 1899
+ARM/MET/000234             1900/1          3 4 20                  Anemograms Jan. 1900
+ARM/MET/000235             1900/2          3 4 20                  Anemograms Feb. 1900
+ARM/MET/000236             1900            3 4 20                  Anemograms Armagh (Aug), 1900, Note
+ARM/MET/000237             1900            2                       Note Armagh site (Aug), Normal climatological station
+ARM/MET/000238             1901            2                       Note Armagh site (Sep), Normal climatological station
+ARM/MET/000239             1901            3 4 20                  Note Armagh site (Sep), Normal climatological station
+ARM/MET/000240             18/1/1919       1 3 4 7 16 18 20 21     Height of barometer, discrepancies
+ARM/MET/000241  M117.2     1833-1852       1-11 18                 Meteorological Record Book (manuscript)
+ARM/MET/000242  M117.2     1853-1865       1-11 18                 Meteorological Record Book (manuscript)
+ARM/MET/000243  M117.2     1865-1880       1-11 18                 Meteorological Record Book (manuscript)
+ARM/MET/000244  M117.2     1880-1890       1-11 18                 Meteorological Record Book (manuscript)
+ARM/MET/000245  M117.2     1890-1899       1-11 18                 Meteorological Record Book (manuscript)
+ARM/MET/000246  M117.2     1900-1909       1-11 18                 Meteorological Record Book (manuscript)
+ARM/MET/000247  M117.2     1910-1919       1-11 18                 Meteorological Record Book (manuscript)
+ARM/MET/000248  M117.2     1920-1929       1-11 18                 Meteorological Record Book (manuscript)
+ARM/MET/000249  M117.2     1929-1940       1-11 18                 Meteorological Record Book (manuscript)
+ARM/MET/000250  M117.2     1940-1952       1-11 18                 Meteorological Record Book (manuscript)
+ARM/MET/000251  M117.2     1952-1963       1-11 18                 Meteorological Record Book (manuscript)
+ARM/MET/000252  M117.2     1963-1977       1-11 18                 Meteorological Record Book (manuscript)
+ARM/MET/000253  M117.2     1977-1993       1-11 18                 Meteorological Record Book (manuscript)
+ARM/MET/000254  M117.2     1993-2001+      1-11 18                 Meteorological Record Book (manuscript)
+ARM/MET/000255             1898/10         3 4 13                  Inspection, corrections and equipment
+ARM/MET/000256             1899/10         3 4 13                  Inspection, corrections and equipment
+ARM/MET/000257             25/6/1948       35                      Letter from Met Office re. publications in Edinburgh
+ARM/MET/000258             31/5/1948       35                      Disposal of Met publications
+ARM/MET/000259             12/5/1948       35                      Met publications not required (list) 4pp
+ARM/MET/000260             8/1950         2 14  12                 Description of Earth thermometers 4pp
+ARM/MET/000261             13/5/1953      2 14                     Receipt: thermometer grass minimum
+ARM/MET/000262             24/7/1953      2 14                     Thermometer certificate No. 32274/53, calibration
+ARM/MET/000263             17/8/1955      2 14                     Receipt: thermometer grass minimum
+ARM/MET/000264             11/6/1953      14                       Instrument list
+ARM/MET/000265             12/4/1955      14                       Instrument list, 3pp
+ARM/MET/000266             1956           2 14 12                  Minimum and grass minimum thermometers
+ARM/MET/000267             9/3/1956       4 14                     Receipt: measure 8-in rain guage
+ARM/MET/000268             13/8/1956      4 14                     Receipt: measure rain
+ARM/MET/000269             1996           2 14 39                  Copies of thermometer certificates
+ARM/MET/000270             21/12/1956     2 14 29                  Letter (thermometers and observer), instrument list
+ARM/MET/000271             25/2/1957      2 14                     Receipt: thermometer earth
+ARM/MET/000272             11/3/1957      2 14                     Receipt: thermometer min.
+ARM/MET/000273             12/3/1957      2 4 14                   Letter and instrument list
+ARM/MET/000274             1957?          12                       Monthly return form - blank
+ARM/MET/000275             10/1/1958       5 14                    Receipt: Sphere sunshine
+ARM/MET/000276             24/4/1958       12                      Introduction of monthly climatological return
+ARM/MET/000277             26/8/1958       14                      Instrument list
+ARM/MET/000278             9/1958           12                     Introduction of monthly climatological return, notes for guidance of observers
+ARM/MET/000279             1916-1950         16                    Averages of Rainfall for UK (1916-1950)
+ARM/MET/000280             1958            2 36 40                 Maximum and minimum soil temperatures before 1951
+ARM/MET/000281             11/3/1958       12                      Correction for instructions in form 3100A
+ARM/MET/000282             6/6/1959        14                      Instrument list
+ARM/MET/000283             30/7/1959       4                       Receipt: Float for TS Raingauge
+ARM/MET/000284             20/8/1959       4 16                    Letter
+ARM/MET/000285             14/1/1959       4 16 18                 Rainfall figures, some dates 1940-1960
+ARM/MET/000286             8/1/1959        4 16 18 25              Flooding in Armagh (1929-1932)
+ARM/MET/000287             12/1959         12                      Changes in procedures for observers
+ARM/MET/000288             17/2/1960       14                      Instrument list
+ARM/MET/000289             19/4/1960       4 14                    Receipt: Measure rain
+ARM/MET/000290             28/11/1960      16                      Note on rainfall
+ARM/MET/000291             18/8/1960       14                      Instrument list
+ARM/MET/000292             7/1961          7 12                    Instructions of use humidity slide rule
+ARM/MET/000293             1961            4 12                    Register of rainfall in 1961, Armagh
+ARM/MET/000294             1931-1960       2 18                    Mean Monthly Air temperature for NI stations, incl Armagh (1931-1960)
+ARM/MET/000295             29/1/1962       4 14                    Receipt: float and rod, tilting syphon recorder
+ARM/MET/000296             9/3/1962        12                      Monthly Climatological return form 3208
+ARM/MET/000297             1931-1960       2 5 36 40               Temperature and sunshine averages for NI stations
+ARM/MET/000298             23/8/1962       14                      Instrument list
+ARM/MET/000299             1/1963          12                      Monthly climate Report, notes Form 3208
+ARM/MET/000300             28/9/1962       5 38                    Sunshine corrections, July 1962
+ARM/MET/000301             26/3/1963       14                      Instrument list
+ARM/MET/000302             1/5/1963        11 12                   Weekly climatological report. Definition of frost
+ARM/MET/000303             8/1963          5                       Result examination sunshine cards
+ARM/MET/000304             12/3/1962       2 14                    Extract form certificate issued by the NPL, grass min, 38277/61
+ARM/MET/000305             10/9/1963       2 7                     Receipt: humidity slide rule, min. grass thermometer
+ARM/MET/000306             18/9/1963       2                       Receipt: filter for TSR
+ARM/MET/000307             1963/10         12 33                   Bimetallic thermograph
+ARM/MET/000308             4/6/1964        1                       Receipt: mercurial barometer, rain measurer (8-inch, returned)
+ARM/MET/000309             16/6/1964       4                       Receipt: measuring cylinder
+ARM/MET/000310             20/2/1964        2                      Receipt: earth thermometer, 18637
+ARM/MET/000311             13/1/1964        4                      Receipt: raingauge (5-inch), rain measurer, etc
+ARM/MET/000312             12/9/1963       2                       Receipt: min. thermometer, accidently broken
+ARM/MET/000313             9-14/12/1963    31                      Timetable, observers course
+ARM/MET/000314             12/1962         5 14 12                 Adjustment of a sunshine recorder
+ARM/MET/000315             1964/1          13                      Meteorological Station details (eg. 202 ft height)
+ARM/MET/000316             1964/1          14                      Instrument list
+ARM/MET/000317             4/6/1964        14                      Inspection certificate and instrument list
+ARM/MET/000318             17/4/1964        5                      Receipt: frame, sunshine recorder
+ARM/MET/000319             8/1964          11                      Definition of frost, precautions
+ARM/MET/000320             17/11/1964       5                      Measurement of sunshine cards
+ARM/MET/000321             1964            5 22 12 14 40 13        Sunshine in all stations in Britain
+ARM/MET/000322             11/1964         22 40                   Publications Her Majesty's Stationary Office, references relating to GB, NI, UK etc
+ARM/MET/000323             1965?           12                      Station report (blank)
+ARM/MET/000324             4/6/1964        1                       Receipt: mercurial barometer
+ARM/MET/000325             3/1950          2 12 14                 Maximum thermometers
+ARM/MET/000326             25/3/1965       2 5 14 33               Revision of meteorological commitment
+ARM/MET/000327             9/4/1965        2                       Letter, earth thermometers
+ARM/MET/000328             2001            1 2 3 4 5 10 16 18      Re. wind, storms and missing data (1825-1833), by K Hickey
+ARM/MET/000329             9/1998          4 12 14 17 22 36 39 40  Preprints of papers by CJB, ADSC, DTF and Zhou Keqian
+ARM/MET/000330             10/1998         1 - 40                  E-mail J. Butler: preview of the met project
+ARM/MET/000331             8/2001          37                      Report of work by Kieran Hickey
+ARM/MET/000332             9/2001          4 36 39                 Rainfall calibrations, preliminary requirements
+ARM/MET/000333             2002            38 39                   Re. trial of MO software
+ARM/MET/000334             2001-2002       34 38 39                Early draft of this catalogue
+ARM/MET/000335             9/2001          1 - 40                  Summary and priorities, met project
+ARM/MET/000336             12/2002         2 22 40                 Draft paper on paleovolcanic forcing using Armagh data + letter
+ARM/MET/000337             2/2001          1 2 22 38               Temperature and pressure data, corresp. N. Ogle, QUB
+ARM/MET/000338             2/2001          1 2 22                  Temperature and pressure data,corresp. N. Ogle, QUB
+ARM/MET/000339             1/2001          35 37                   E-mail: summary to N. Ogle
+ARM/MET/000340             3/2000          14 16 35                Enquiry about instruments at Valentia observatory
+ARM/MET/000341             11/2000         4 38 39                 E-mail: Typing of data
+ARM/MET/000342             12/1998         4 39                    Typing rainfall data, David Parker, UKMO
+ARM/MET/000343             10/2000         4 27                    Typing data, David Smyth
+ARM/MET/000344             6/1999          4 38                    Typing, rainfall data
+ARM/MET/000345             10/1999         27 38                   Funding met project
+ARM/MET/000346             4/1999          38                      Typing data
+ARM/MET/000347             4/1999          4 38                    Typing, rainfall data and codes
+ARM/MET/000348             11/1998         4 38                    Typing data
+ARM/MET/000349             10/1998         38                      Typing data     
+ARM/MET/000350             10/1998         38                      Typing data
+ARM/MET/000351             10/1998         4 38                    Typing data: rainfall and pressure
+ARM/MET/000352             6/2000          40 38                   Papers, typing data, corresp. with Alistair Dawson, Coventry
+ARM/MET/000353             6/2000          40 1 2                  North Atlantic Oscillation, pressure, temperature
+ARM/MET/000354             6/2000          40 2                    Request of data
+ARM/MET/000355             3/2000          38 40                   Typing data
+ARM/MET/000356             3/1964          14                      Receipt: barograph, thermograph, etc.
+ARM/MET/000357             7/1999          2 4 40 38               Typing rainfall, temperature, North Atl Osc, corresp between CJB and Alistair Dawson
+ARM/MET/000358             7/1999          40 38 22                North Atlantic Oscillation, comp. Armagh and Edinburgh
+ARM/MET/000359             2/1999          38 4 0                  Typing data
+ARM/MET/000360             2/1999          1 3  38 40              Wind and pressure records; wind scales and anemometers
+ARM/MET/000361             2/1999          1 3  38 40              Wind and pressure records; wind scales
+ARM/MET/000362             1/6/1965        14                      Return of unwanted screen, stand and cases
+ARM/MET/000363             12/1998         1 40                    Pressure data - email CJB - Alistair Dawson, Coventry
+ARM/MET/000364             12/1998         1 2 38 39 40            Ditto Typing data, North Atlantic Oscillation, pressure charts
+ARM/MET/000365             20/1/1966       14                      Instrument list
+ARM/MET/000366             12/1998         16 18 38                Letter CJB - Luke Drury, Dunsink, requesting data
+ARM/MET/000367             12/1998         16 18 38 39             Letter CJB - Evert Muers, Dunsink re. typing data
+ARM/MET/000368             4/2000          5 14                    Letter Lawrence Young - Derek Ogle, UKMO re. Sunshine tower
+ARM/MET/000369             12/1999         2 38 40                 Data request, CJB - Robert Wilson, NASA
+ARM/MET/000370             7/2000          4 5 22 27 36 39 40      E-mail: CJB - Donald Cambell UKMO, summary before met project
+ARM/MET/000371             7-14/2/1966     14 4                    Letter EML - Kenneth Woodley, UKMO Tilting Syphon rain-recorder
+ARM/MET/000372             25/5/1966       14                      ditto Receipt: TSR
+ARM/MET/000373             12/9/1966       14 2 12                 Letter EML - S.D. Glassey, UKMO Overlap 1-ft and 4-ft earth temps.
+ARM/MET/000374             1/10/1966       14 2 12                 ditto Armagh Earth Temperature data
+ARM/MET/000375             25/7/1966       14                      List of instruments
+ARM/MET/000376             11/1966         12 13 4                 Monthly reports, station altitudes and rainfall
+ARM/MET/000377             11/1966         12 2                    Identification of Ice days, new procedure
+ARM/MET/000378             12/5/1966       1                       Letter EML - Glassey, UKMO Armagh pressure data
+ARM/MET/000379             1/1967          2                       Circular Glassey UKMO First and last screen frosts
+ARM/MET/000380             1/8/1967        14 2                    Voucher (receipts). Grass min. thermometer 
+ARM/MET/000381             14/10/1965      14 2                    Minor modification of screen
+ARM/MET/000382             29/6/1965       14 2 18 16              Letter EML - Woodley UKMO, Daily values of max/min temp. (1/12/1878 to 28/2/1879)
+ARM/MET/000383             25/6/1965       14 7                    Observers handbook, humidity data
+ARM/MET/000384             3-5/1965        14                      Receipt: Thermometer screen
+ARM/MET/000385             28/2/1967       12 5                    Measurement of sunshine cards
+ARM/MET/000386             4/1967          12 5 14 40 22 13        Sunshine in all stations in Britain
+ARM/MET/000387             14/5/1968       12 1 13                 Letter EML - S J G Partington, UKMO AO mean sea level pressure readings
+ARM/MET/000388             10/8/1964       14 2                    Receipt: min. grass thermometer
+ARM/MET/000389             9/1967          4 14 38                 Letter EML - S D Glassey, UKMO, Proposal to adopt mm measuring rainfall
+ARM/MET/000390             9/1967          4 14 38                 Preparation for mm unit,UKMO
+ARM/MET/000391             9/1967          4 14 38 40              mm from 1968
+ARM/MET/000392             9/1967          4 14 38 40              Rainfall in mm, British Standard time
+ARM/MET/000393             12/1967         4 14 38                 Rainfall charts (mm)
+ARM/MET/000394             19/12/1969      12 1 13                 Armagh sea level
+ARM/MET/000395             12/1967         4 14                    Return of inch-unit rain measures
+ARM/MET/000396             22/7/1967       14                      Instrument list                   
+ARM/MET/000397             3/1968          14 4 12                 Installation instructions, Earth thermometers
+ARM/MET/000398             29/11/1968      14                      Instrument list
+ARM/MET/000399             10/1/1969       16 14 Others            Investigation into weathering of Zinc
+ARM/MET/000400             8/8/1969        14                      Annual check of meteorological equipment
+ARM/MET/000401             8-12/1969       14                      Voucher: rain measure, max thermometer
+ARM/MET/000402             11/12/1969      14                      Instrument list
+ARM/MET/000403             22/12/1969      12 14                   Letter EML R Duley, UKMO, Visits to cooperating observers
+ARM/MET/000404             4/1970          12 5 14 40 22 13        Sunshine in all stations in Britain  
+ARM/MET/000405             1961            4 38                    Monthly rainfall, temperature, sunshine and relative humiity 1946-1960
+ARM/MET/000406             1970            12 16 4                 'Rule for rainfall observers'
+ARM/MET/000407             1970            12 16 4 2               Weather diary and winter observations
+ARM/MET/000408             5/2/1970        16 18                   Letters EML/MC - J. McNeill Cookstown, Requests to extract data from records
+ARM/MET/000409             30/6/1970       2 12 14                 Adoption of metric depths for Earth temps. from Jan. 1971
+ARM/MET/000410             1970?           12 4                    Rainfall chart, explanation
+ARM/MET/000411             12/8/1970       14                      Annual check of meteorological equipment
+ARM/MET/000412             3/9/1970        14 2 12                 Adoption of metric depths for Earth therm. tubes
+ARM/MET/000413             1970            14 2 4                  Voucher (receipts), tube 100 cms (soil therm.), float TSR
+ARM/MET/000414             1978            14                      Voucher: rain measure
+ARM/MET/000415             15/10/1970      14 2 12                 Installation of tubes (earth temps.)
+ARM/MET/000416             1970            14                      Instrument list
+ARM/MET/000417             12/11/1970      14 12 2                 Care of the Dry/Wet thermometer
+ARM/MET/000418             11/1970         12 14                   Ink used to complete met returns
+ARM/MET/000419             11/1970         12 13 16                Revised climatological returns
+ARM/MET/000420             11/11/1970      14 2                    Met Office test laboratory for Earth thermometer No. 25737/69
+ARM/MET/000421             11/1970         14                      Voucher: rain recorder                  
+ARM/MET/000422             22/3/1971       14 12                   Annual check of meteorological equipment
+ARM/MET/000423             22/2/1971       14                      Instrument list
+ARM/MET/000424             1/12/1971       14                      Voucher: thermometers (grass minimum, maximum, soil, etc)
+ARM/MET/000425             19/11/1971      12 14 2                 Change over from Fahrenheit to Centigrade thermometers
+ARM/MET/000426             28/2/1972       14 2                    Voucher: thermometers (various soil)
+ARM/MET/000427             19/5/1972       12 14                   Annual check of meteorological equipment
+ARM/MET/000428             1972            14                      Instrument list
+ARM/MET/000429             02/1/1973       14                      Voucher: clock
+ARM/MET/000430             1973            14                      Instrument list
+ARM/MET/000431             1971            12 5 14                 Measurement of sunshine cards
+ARM/MET/000432             3/8/1973        14                      Voucher: clock, grass min. thermometer, rain measure
+ARM/MET/000433             9/1973          12 31                   Courses for Met Observers
+ARM/MET/000434             8/7/1975        14                      Voucher: rain measuring cylinder, thermograph, sunshine sphere)
+ARM/MET/000435             15/5/1975       12 14 5                 Sunshine cards
+ARM/MET/000436             27/1/1975       4 38                    EML Average values of rainfall
+ARM/MET/000437             1976            14                      Voucher: thermometers
+ARM/MET/000438             4/1/1977        12 31                   Courses
+ARM/MET/000439             1/1978          12 31                   Courses
+ARM/MET/000440             18/7/1983       13 40 18                Letter: MdG - F Singleton, UKMO Armagh station one of 20 with good and long records
+ARM/MET/000441             3/12/1984       12 31                   Courses
+ARM/MET/000442             4/3/1985        12 31                   Courses
+ARM/MET/000443             11/4/1988       14 2                    Note, Max. 62271/69 found broken
+ARM/MET/000444             6/5/1989        13 40 18 15             Letter: MdG - Patrick O Smyth, UKMO Raise standards of station              
+ARM/MET/000445             27/10/1989      12                      Instructions for completing monthly returns on Met. form 3208B
+ARM/MET/000446             1926/7          14 12 13 1 2 3 4 5 6    Inspection, corrections and equipment
+ARM/MET/000447             1986            15 13 14                Map of Observatory and station site
+ARM/MET/000448             1998            14 2                    Re. Earth Thermometer No. 19551    
+ARM/MET/000449             1998            14 2                    Re. Earth Thermometer No. 6793
+ARM/MET/000450             1998            14 2                    Re. Earth Thermometer No. 6794
+ARM/MET/000451             1998            14 2                    Re. Earth Thermometer No. 18563
+ARM/MET/000452             1998            14 2                    Re. Earth Thermometer No. 21383/56, certificate
+ARM/MET/000453             1874-1880       14 2                    Correction tables for thermometers and barometer at Dunsink
+ARM/MET/000454             1998            14 2 36                 Corrections: Newman minimum Thermometer (1875-76)
+ARM/MET/000455             1998            14 2                    Re. Newman Minimum Thermometer (Aug 1843-May 1860)
+ARM/MET/000456             1998            14 2                    Re. Casella Maximum Thermometer (7th Dec 1860- 30th Sept 1882)
+ARM/MET/000457             1998            14 2                    Re. Negretti Maximum Thermometer M.O.50 (1st Oct 1882-19th Oct 1899)
+ARM/MET/000458             1998            14 2                    Re. Maximum Thermometer No.1770 (20th Oct 1899-25th May 1921)
+ARM/MET/000459             1998            14 2                    Re. Maximum Thermometer No.14431 (26th May 1921-12th Aug 1969)
+ARM/MET/000460             1993            2                       Check on corrections made by MO for 1876, 1892, 1893, CJB, 5pp
+ARM/MET/000461             1998            14 2                    Re. Maximum Thermometer No.28402 (13th Aug 1969-1st Jan 1972)
+ARM/MET/000462             1998            14 2                    Re. Maximum Thermometer No.29536 (19th May 1972-present)
+ARM/MET/000463             1998            14 2                    Re. Maximum Thermometer No.62271 (1st Jan 1972-11th Apr 1988)
+ARM/MET/000464             1998            14 2                    Re. Newman Minimum Thermometer (Dec 1843-30th Sept 1882)
+ARM/MET/000465             1921            14 2                    Summary: maximum and minimum thermometers in 19th century
+ARM/MET/000466             1998            14 2                    Re. Casella Minimum Thermometer No.427 (1st Oct 1882-1st Nov 1899)
+ARM/MET/000467             1998            14 2                    Re.  Minimum Thermometer No.78 (2nd Nov 1899-28th Jan 1957)
+ARM/MET/000468             1998            14 2                    Re.  Minimum Thermometer No.31479/52 (29 th Jan 1957- 1st Jan 1972) certificate
+ARM/MET/000469             1998            14 2                    Re.  Minimum Thermometer No.62131 (1st Jan 1972-present)
+ARM/MET/000470             1998            14 2                    Re.  Minimum Thermometer No.32017/52
+ARM/MET/000471             1998            14 2                    Re.  Minimum Thermometer No.32953/56 (spare)
+ARM/MET/000472             1998            14 2                    Re.  Grass Minimum Thermometer No.196 (1936?-1943?)
+ARM/MET/000473             1998            14 2                    Re.  Grass Minimum Thermometer No.61879 (1945?-23rd Feb 1953)
+ARM/MET/000474             1998            14 2                    Re.  Grass Minimum Thermometer No.32274 (1957?-?)
+ARM/MET/000475             1998            14 2                    Re.  Dry Bulb Thermometer No.3256 (? 1890-? 1899)
+ARM/MET/000476             1998            14 2                    Re.  Wet Bulb Thermometer No.3254 (? 1890-? 1899)
+ARM/MET/000477             1998            14 2                    Re.  Dry Bulb Thermometer No.8087 (?1936- 1964?)
+ARM/MET/000478             1998            14 2                    Re.  Earth Thermometers No.6794/6793
+ARM/MET/000479             1998            14 2                    Re.  Ordinary Thermometer No.3259 (?1936- 1943?)
+ARM/MET/000480             1993            2                       CJB: Notes on Max/Min Therm Corrections + Photocopies of earlier corresp 1880-1955
+ARM/MET/000481             1829-1842       1-11 18                 Extract from Ordnance Survey of Ireland Met. Obs. Dublin 1856
+ARM/MET/000482             1818-1850       1-11 18                 Photocopies of Dunsink Meteorological Data - 
+ARM/MET/000483             1996            22 40 2 12 13 14        Paper by C.J Butler and D J Johnston, 1996. Long mean temperature series
+ARM/MET/000484             1994            22 40 2 12 13 14        C.J Butler on maximum and minimum temperature (1844-1992) Sol. Phys. 152, 33-42, 1994
+ARM/MET/000485             18/12/1998      13 14 5                 Inspection of Armagh climate site 1998
+ARM/MET/000486             18/12/1998      40                      Additional present Weather Observations program
+ARM/MET/000487             9/12/2000       13 12                   Inspection of Armagh climate site 2000
+ARM/MET/000488             31/7/1990       13 5                    Inspection of Armagh climate site 1990
+ARM/MET/000489             3/8/1990        5                       Letter. MdG - Patrick Snyth, UKMO Reply to ARM/MET/000488
+ARM/MET/000490             1/6/1978        13 12                   Letter inspection of Armagh climate site 1978
+ARM/MET/000491             19/12/1989      13 12                   Inspection of Armagh climate site 1989
+ARM/MET/000492             9/10/1991       13                      Inspection of Armagh climate site 1991
+ARM/MET/000493             26/11/1992      13                      Inspection of Armagh climate site 1992
+ARM/MET/000494             26/9/1986       13                      Letter inspection of Armagh climate site 1986
+ARM/MET/000495             10/9/2002       5 6 22 14               Email. CJB - AMGS Sunshine and cloud series and paper.
+ARM/MET/000496             1989            2 4 5 36 38             Plots Max/Min temp 1989, and others
+ARM/MET/000497             1988            2 4 5 36 38             Plots Max/Min temp 1988, and others
+ARM/MET/000498             2001            4 12 22 13 36 38 39 40  Armagh Climate Ser. Garcia-Suarez et al. Vol I - Daily, Monthly, Seasonal Annual Rain 1838-2001
+ARM/MET/000499             2002            2                       Notes by CJB re. history of thermometers etc. 4pp
+ARM/MET/000500             1984-1989       40 4                    Weather summary, NI Feb,Apr 1985, Rainfall Charts NI
+ARM/MET/000501             1958-1993       4                       Rainfall charts from recorder
+ARM/MET/000502             1840-1958       4                       Rainfall totals
+ARM/MET/000503             1992            4                       Rainfall totals
+ARM/MET/000504             1840-1958       40 1 2 4 5 36           Totals, statistical values
+ARM/MET/000505             1958            40 4                    Rainfall: extreme values and other statistical values, possibly by Sheelagh Grew
+ARM/MET/000506             1921-1950       11 36                   Days air frost and ground frost
+ARM/MET/000507             1888-1952       2 36                    Means temperature, grass temperature
+ARM/MET/000508             1964            1 38 36                 Comparison of old and new barometer
+ARM/MET/000509             2/1965          22 40 2 5 4             PG Rackliff, Met Office, Summer and winter indices at Armagh
+ARM/MET/000510             1940            2 7                     Hydrometrical tables, HMSO
+ARM/MET/000511             1959            7                       Computation of relative humidity when ice-covered (tables)
+ARM/MET/000512             5/12/2001       16 12 14 2              Letter from AMGS, Request info on thermometers
+ARM/MET/000513             18/11/1993      13                      P.J. Eastwood, Summary of station history and site details, MO
+ARM/MET/000514             27/7/1966       14 2                    Classey's report. Earth Thermometers, overlap and preliminary study
+ARM/MET/000515             2/12/1999       14 5 21                 Sunshine recorder and diagram
+ARM/MET/000516             1993            2                       Readings times and therm. changes 1795-1909, D. Johnston, CJB
+ARM/MET/000517             1993            2                       Comparison Kew Therm (1859-1882), Max/Min with SRT
+ARM/MET/000518             1889/12/28      1 2 12 39               Barometer corrections
+ARM/MET/000519             1912-1918       1 2 12 39               Barometer corrections
+ARM/MET/000520             1/1/1960        1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000521             5/9/1963        1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000522             30/6/1966       1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000523             31/12/1969      1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000524             5/12/1974       1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000525             22/5/1978       1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000526             24/9/1986       1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000527             27/11/1986      38 18                   Letter Don McCleod, MO, data stored on microfiches from 1865
+ARM/MET/000528             1989            12 13 15                Reference Climatological stations inspections
+ARM/MET/000529             19/12/1989      1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000530             31/7/1990       1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000531             26/9/1991       1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000532             18/11/1992      1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000533             11/10/1993      1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000534             18/10/1994      1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000535             9/11/1995       1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000536             4/12/1996       1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000537             15/7/1997       1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000538             28/10/1998      1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000539             27/10/1999      1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000540             29/11/2000      1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000541             28/11/2001      1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000542             1992            14                      Copy of stations inventory, MO
+ARM/MET/000543             1/10/1999       40 22                   Letter from P.O. Smyth, UKMO, re. Climate press releases
+ARM/MET/000544             1958            1 2 3 4 5 6 13          Inspection, corrections
+ARM/MET/000545             1953-54        4 5 1 2 36               Totals, max, min values  for the years
+ARM/MET/000546             1960            12 40 6                 Beaufort Letters and weather reading
+ARM/MET/000547             1960            12 14                   Instructions Bimetallic Thermograph MK3
+ARM/MET/000548             1960            12 14                   Avoidable defects in met instruments
+ARM/MET/000549             4/1961          4 36                    Monthly/annual totals of rainfall (inches) (1840-1960) 
+ARM/MET/000550             1960            12                      The measurement of sunshine cards
+ARM/MET/000551             1984-1989       40                      Meteorological notes. Weather in N. Ireland (monthly)
+ARM/MET/000552             1960            12                      Observers instructions UKMO
+ARM/MET/000553             9/1967          36 40 38                Analysis of Rainfall, monthly, N. Ireland, until 1961
+ARM/MET/000554             6/1967          36 40 38                Analysis of Rainfall, monthly/annual, N. Ireland (1931-1960)
+ARM/MET/000555             1960            12                      Observers instructions, Tipping Bucket Rainguage
+ARM/MET/000556             1970            12 5                    Sunshine report, Scotland, NI, Wales
+ARM/MET/000557             1995            12 38                   DISCS Computer Program for observers, MO (old program)
+ARM/MET/000558             29/11/2001      13 12                   2001 Inspection of climate site, letter MO
+ARM/MET/000559             5/12/1996       13 12                   1996 Inspection of climate site, letter MO
+ARM/MET/000560             11/10/1993      13 12                   1993 Inspection of climate site, letter MO
+ARM/MET/000561             16/11/1995      13 12                   1995 Inspection of climate site, letter MO
+ARM/MET/000562             18/12/1996      12 5 14                 Sunshine tower refurbishment
+ARM/MET/000563             1984            22                      Register of weather stations, U. Stirling & Royal Met Society
+ARM/MET/000564             7/1978          12                      Instructions for returns, Met. form 3208B
+ARM/MET/000565             2002            14                      Commercial sources of meteorological instruments and equipment
+ARM/MET/000566             1950-2000       12                      Miscellaneous notes re. computation RH, observation schedule
+ARM/MET/000567             1996            22 40                   Weather observers newsletter, MO
+ARM/MET/000568             1983            22 40                   The Climate of N. Ireland, MO
+ARM/MET/000569             1993/3          22 40                   Monthly Weather Report
+ARM/MET/000570             1987            38                      Mark Taggart, Programs to transfer data onto computer
+ARM/MET/000571             2002            14 21                   Historical Instruments of Armagh Observatory, by J. McFarland
+ARM/MET/000572             1995            22 20 14                Valentia Observatory, 1868-1937, by J. O'Sullivan
+ARM/MET/000573             2001            1 12                    Barometric correction tables
+ARM/MET/000574             31/1/2002       3 20 2 12 14            E-Mail: CJB-AMGS various questions
+ARM/MET/000575             15/3/2002       4 2 12 14 36 38         email: AMGS-CJB Various questions
+ARM/MET/000576             3/2002          2 12 14                 Soil temperatures (temp. versus depth) Garcia-Suarez
+ARM/MET/000577             20/3/2002       38 12                   Re. mistake found on record book
+ARM/MET/000578             14/3/2002       12                      Notes and summary from pocket register
+ARM/MET/000579             20/12/2001      18 2 4 3 1              Email: CJB-AMGS Re reference to publication in 1853
+ARM/MET/000580             30/1/2002       20 18 3 2 1 14          E-Mail: AMGS-CJB various questions
+ARM/MET/000581             15/3/2002       40 4                    E-Mail: AMGS-CJB about Rainfall totals in segments
+ARM/MET/000582             26/2/2002       40 2 14                 Re.  soil temps. soil types
+ARM/MET/000583             8/3/2002        18 14 22                AMGS Re. Pocket register books, old documents already catalogued
+ARM/MET/000584             1/2/2002        14 18                   E-Mail: CJB-Jack-OSullivan Details of old AWS, Valentia observatory
+ARM/MET/000585             4/2/2002        40 2 14 4               Letter AMGS-Campbell, MO Belf. soil temps. brown earth soils and rainfall
+ARM/MET/000586             4/2/2002        18 3 22                 E-Mail AMGS-Kieran Hickey about wind records
+ARM/MET/000587             4/2/2002        14 18                   E-Mail: Jack-O'Sullivan -CJB old AWS, Valentia observatory
+ARM/MET/000588             2/2/2002        2 36-38                 To: AMGS-Lennox, Dept Ag. NI (soil temperature)
+ARM/MET/000589             1813                                    Index transactions of the Royal Irish Academy (1786-1813) (copy)
+ARM/MET/000590             2001            14 13 15                Armagh Observatory records and index. Met books at the library
+ARM/MET/000591  M120       1910-1919       1-10 22 36-40           M120 documents (copy) miscellaneous letters MO-Armagh
+ARM/MET/000592             27/10/1999      13 12                   Inspection of Armagh climate site 1999
+ARM/MET/000593             8/4/2002        18 2 1-16               Letter from AMGS to D. Campbell and reply
+ARM/MET/000594             5/4/2002        2 14                    Soil temperatures, instrument changes 1915-1953
+ARM/MET/000595             1874            1-14 22 36 38           Meteorological Congress at Vienna, 1873 separate folder
+ARM/MET/000596             1879            1-14 22 36 38           Proc 2nd International Meteorological Congress at Rome, ditto 1879
+ARM/MET/000597             1853/12/12      40 36 1 2 3 4 38        Trans. Royal Irish Academy, H. Lloyd, Meteorology in Ireland. ditto
+ARM/MET/000598             1888            22                      List of Publications Met. Office, 1888
+ARM/MET/000599             5/2002          1-15 27 35              Notes taken from pocket register by Ana Garcia-Suarez
+ARM/MET/000600             6/2002          1-15 34 36              Corrections to met. data from PRONI by Ana Garcia-Suarez
+ARM/MET/000601             1868            1-15 22 36 38 20        Report of the Met Comm of the Royal Society, 1867 (copy from CJB)
+ARM/MET/000602             2002            18 22                   Re. Butler and Hoskin documents catalogued at the Observatory
+ARM/MET/000603             1867            1-14 20 22 36 38        Self-recording Inst. - Met Comm of the Royal Society
+ARM/MET/000604             1889            1-14 36 38 22 31        Code of regulations for first-class stations 
+ARM/MET/000605             1868            36 38 1-14 20           Self-recording Met. instruments (accuracy)
+ARM/MET/000606             1873            1-14 36 38 22           A treatise on Meteorology by E. Loomis, N. York
+ARM/MET/000607             1994            1 12 14 40              D.E Parker, 1994 exposure of thermometers.etc IJC 14, 1-31
+ARM/MET/000608             1994            1 12 14 40              Paper: Hughes, W.S, 1994. Comment on  ARM/MET/000607
+ARM/MET/000609             1993            2 14 12 24 36-40        J. Butler's notes on max and min corrections
+ARM/MET/000610             1823            1-14 15 22              M65 Documents (copy) Description of instruments and exposure
+ARM/MET/000611             1853            1-14 15 22              Minutes book (copy) ditto
+ARM/MET/000612             1959            36-40 3 4 2             Paper: Dixon, F.E, 1959. An Irish weather diary of 1711-1725.
+ARM/MET/000613             1958            21                      Observers map of Armstrong School (copy from D7)
+ARM/MET/000614             1853            14                      Inventory of Observatory Instruments etc (copy from M43)
+ARM/MET/000615             1937            14                      Inventory of instruments (copy from M91)
+ARM/MET/000616             19/2/2002       1 14 2 18               Re.Mercury barometer (see ARM/MET/000618), soil temperatures, NIPRO
+ARM/MET/000617             12/3/2002       22 15                   List of publications using Armagh Met. observatories.
+ARM/MET/000618             20/5/2002       1 14                    Corresp. CJB - Denis Harkin, QUB Mercury barometer (see ARM/MET/000616)
+ARM/MET/000619             8/8/2002        1 4 22 16 15            Request: calibration of seasonal rainfall/pressure (Met. Office)
+ARM/MET/000620             6/8/2002        4 22 16 15              Corresp. Ian Rippey - CJB Comments on rainfall paper.
+ARM/MET/000621             25/4/2002       2 12 14 16              Phone call (AMGS?) - Liz Warrick (MO) Calculation of thermometer corrections
+ARM/MET/000622             2/10/2002       1 36-39 22 16 15        Barometric pressure calibration (Dr. R Allen, Hadley Centre)
+ARM/MET/000623             16/9/2002       14 1 2 3 4 5 6 13       Inspection, corrections and equipment
+ARM/MET/000624             19/2/2002       1 14                    Mercurial Barometer corrections, notes by Liz Warrick
+ARM/MET/000625             28/8/2002       1 4 22 16 15            Answer to ARM/MET/000619
+ARM/MET/000626             7/10/2002       1 36-39 22 16 15        Barometric pressure calibration (Dr. R Allen, Hadley Centre)
+ARM/MET/000627             1867            13 20 15                Report to Board of Governors of Observatory, AWS plans     
+ARM/MET/000628             1853            13 14                   Instruments list from Minutes Book
+ARM/MET/000629             28/5/2002       18 27 35                Request of data to fill the 1825-33 gap
+ARM/MET/000630             1882            2 4 5                   Report of the Met. Council to the Royal Society,
+ARM/MET/000631             1833-1905       1 2 12                  Notes regarding Max and Min Thermometers
+ARM/MET/000632             2005            2 14 29 31 38 39        Detailed contents of spring back folders 1-15, CJB temperature calibrations
+ARM/MET/000633             20/5/2002       1 16 18                 Barometric Pressure available on web.
+ARM/MET/000634             28/8/2002       2 3 16 20               Re. Armagh Automatic Weather Station readings for Feb 18, 2002
+ARM/MET/000635             09/9/2003       2 18 38                 Re. corrected soil temperatures at 30 and 100 cms.
+ARM/MET/000636             09/9/2003       5 6 18 32               Re. sunshine and cloud-cover data files from AMGS
+ARM/MET/000637             2002            2                       Draft program of work for Chloe Morrell re correction of Series I
+ARM/MET/000638             08/10/2002      1 2 4-6 16 18           Request for Met. Data recorded at the Armagh Obs. 
+ARM/MET/000639             27/1/2003       16 27                   Re. Soldiers and Sailors Grant and the progress of work.
+ARM/MET/000640             17/2/2003       16 22 27                Draft report for Toiseach's Office re: grant.
+ARM/MET/000641             30/04/2003      2 18 39                 Corresp. CJB to David Lister (UEA) Re: Monthly temperature series supplied to the Climatic Research Unit.
+ARM/MET/000642             13/5/2003       2 18 39                 Corresp. CJB - Jack O'Sullivan (Met Eireann) Re. large DTR noted in 1883 Max/Min data at Armagh Observatory.
+ARM/MET/000643             15/5/2003       2 13 18 20 39           Corresp. CJB - David Lister, Phil Jones (UEA) Re. DTR discrepancies noted in 1883 at Armagh Observatory
+ARM/MET/000644             03/6/2003       2 18 38                 Corresp. AMGS- CJB Re. Mean Monthly, Seasonal and Annual Max, Min Temps.
+ARM/MET/000645             04/6/2003       1 18 39                 Corresp. Rob Allen (UKMO) - AMGS Re. Correction of Pressure at Armagh and comparison with Edinburgh.
+ARM/MET/000646             10/9/2003       18 32                   Corresp. Alison Donnelly (TCD) - CJB Re. poss of establishing a Phenology Garden at the Armagh Observatory.
+ARM/MET/000647             10/9/2003       2 13 16 18 20 39        Corresp. Jack O'Sullivan (ME) - AMGS Request. Irish Soil Temperatures from Valentia.
+ARM/MET/000648             15/9/2003       2 13 16 18 20 39        Corresp. Joack O'Sullivan (ME) - AMGS Re. request for Irish Soil Temps from Valentia.
+ARM/MET/000649             28/10/2003      1 16 18                 Corresp. CJB - Mariano Barriendos Re. Armagh Pressure data digitizing.
+ARM/MET/000650             06/11/2003      2 16 18                 Corresp. CJB - David Fitzgerald (ME) Re. ground temperatures at Armagh Observatory.
+ARM/MET/000651             14/1/2004       27 29                   Re. need to recruit someone to finish up work on the Met Project.
+ARM/MET/000652             07/06/1916      14                      Receipt: Three scales used in Beckley Curves          
+ARM/MET/000653             26/02/1921     2 16 18 39               corresp FJ Whipple (MO) and Ellison -Discrepancy in temperature caused by Stevenson's Screen in 1884.
+ARM/MET/000654             10/01/1934     14                       Instrument List and report
+ARM/MET/000655             08/01/1935     14                       Instrument List and report      
+ARM/MET/000656             28/01/1936     14                       Instrument List and report
+ARM/MET/000657             1940?           14                      Instrument List and report
+ARM/MET/000658             1940?           14                      Instrument List and report
+ARM/MET/000659             1938?           14                      Instrument List and report
+ARM/MET/000660             21/01/1938     2 14                     Receipt: Symon's Earth Thermometer 18563
+ARM/MET/000661             03/03/1938     4 18                     Letter: Frequency of rain of specified amounts.
+ARM/MET/000662             05/03/1938     14                       Receipt: Earth Thermometer No.6793 received.
+ARM/MET/000663             28/03/1938     13                       Inspection date.
+ARM/MET/000664             30/05/1938     1 2 4 5 13 14            Inspection, corrections and equipment
+ARM/MET/000665             18/06/1938     13                       Inspection certificate of May 30th, 1938, plus letter
+ARM/MET/000666             2005            22                      Catalogue of meteorological books in Library 
+ARM/MET/000667             11/01/1940      16 28                   Letter: Re. met obs and the relationship with RAFNI.
+ARM/MET/000668             29/04/1940      13 14 16                Letter: Re. Replacement instruments.
+ARM/MET/000669             28/06/1940      13 14 16 18             Letter: Re. previous letter (29/04/1940), replacement inst.
+ARM/MET/000670             07/01/1941      16 28                   Letter: Request met. reports for use during the war.
+ARM/MET/000671             21/02/1941      16 28                   Letter: Contact times between Observatory and Antrim 200.
+ARM/MET/000672             26/07/1941      3 12 14 16 18           Letter: Re. forms needed and replacement wind velocity scale.
+ARM/MET/000673             11/10/1941      4 12 16                 Letter: Re. the duration of rainfall, 1941 until Sept.
+ARM/MET/000674             16/10/1941      1 3 12 16 18            Letter: New barometer correction card, broken wind scale.
+ARM/MET/000675             28/10/1941      2 16 38                 Letter: Reply and readings of Min and Dry Temp.
+ARM/MET/000676             22/05/1942      4 12 16 18              Letter: Request for correction of rainfall charts.
+ARM/MET/000677             26/05/1942      4 12 16 18              Letter: Re. correction of rainfall charts and measuring methods.
+ARM/MET/000678             1942?           14                      Instrument List and report 
+ARM/MET/000679             1943?           14                      Instrument List
+ARM/MET/000680             25/05/1943     2 16                     Letter: Highest and lowest pressure recorded in May.
+ARM/MET/000681             10/06/1943     16 28                    Letter: Recruitment of personnel for the Air Ministry.
+ARM/MET/000682             10/06/1943     2 16 18                  Letter: Pressure reading verification and further readings.
+ARM/MET/000683             17/07/1943     5 7 16                   Letter: Annual sunshine, rel humidity of N. Ireland and Belfast.
+ARM/MET/000684             09/09/1943     28 29                    Letter: Change in contact for voluntary met reports during war.
+ARM/MET/000685             21/09/1943     16 18 28 32              Letter: Returned Met Summaries "misplaced" by the American Army
+ARM/MET/000686             10/11/1943     2 12 16 18               Letter: September weather, examination of present thermometers.
+ARM/MET/000687             04/02/1944      3 4 5 12 16 18          Request Sun card, Anemograms, Rain charts, Wind and Rainfall 
+ARM/MET/000688             10/02/1944      2 4 5 16 18             Continuation weekly reports despite a broken rain-gauge.
+ARM/MET/000689             21/02/1944      16 18                   Information requested in letter of 04/02/1944.
+ARM/MET/000690             01/03/1944      16 18                   Info requester in letter of 21/02/1944 and weekly returns.
+ARM/MET/000691             05/04/1944      16 18                   Assistant to deal with meteorological returns.
+ARM/MET/000692             15/06/1944      3 13                    New observer appointed, anemometer location. 
+ARM/MET/000693             17/8/1944       4 16 20                 Letter: A second request for rainfall records.
+ARM/MET/000694             25/04/1945      1-5 14 16               Verification of instruments and condition.
+ARM/MET/000695             24/05/1945      3 12 13 16 18           Verification of wind readings.
+ARM/MET/000696             06/06/1945      3 13 16 18              Location of the anemometer.
+ARM/MET/000697             13/11/1945      3 13                    Location for the anemometer.
+ARM/MET/000698             17/11/1945      14 16                   Return of certain instruments no longer in use.
+ARM/MET/000699             01/12/1945      14 16                   Return of Min. Thermometer No. 61879.
+ARM/MET/000700             13/02/1946      14 16                   Letter: Enclosed with instrument list.
+ARM/MET/000701             16/04/1946      5 13 16 18              Possibility of moving the sunshine recorder.
+ARM/MET/000702             03/05/1946      3 5 13 16 18            Moving the anemometer and sunshine recorder.
+ARM/MET/000703             30/05/1946      2 16                    Letter  enclosed with ARM/MET/000704
+ARM/MET/000704             30/05/1946      2                       Receipt for min. thermometer no. 61879
+ARM/MET/000705             14/06/1946      3 13 16                 Lindsay re: moving the anemometer, sunshine recorder, stopwatch.
+ARM/MET/000706             02/06/1946      3 5 13 16               Re. ARM/MET/000705, change of instrument location.
+ARM/MET/000707             06/06/1946      14                      Letter: Further response to ARM/MET/000705, informing of location.
+ARM/MET/000708             02/07/1946      16                      Receipt: For a stop watch no. 14668.
+ARM/MET/000709             18/07/1946      2 16 18                 Missing data from FORM 3110 and requesting its return.
+ARM/MET/000710             26/07/1946      3 13 16                 Discussion of moving entire meteorological site.
+ARM/MET/000711             08/08/1946     3 4 5 13                 Re: moving the anemometer and sunshine recorder.
+ARM/MET/000712             28/08/1946     4                        Dines Tilting Syphon raingauge.
+ARM/MET/000713             17/09/1946     3 12                     Letter: Request to cease filling in Form 3431.
+ARM/MET/000714             21/09/1946     2                        Certificate of Examination of Earth Thermometer no. 19551.
+ARM/MET/000715             27/09/1946     3 12                     Letter: Response to ARM/MET/000713.
+ARM/MET/000716             09/10/1946     16                       Request for Meteorological Observations from Sept 1946.
+ARM/MET/000717             22/10/1946     4 12 16 20               3440 forms and an automatic raingauge needle.
+ARM/MET/000718             1946 ?         4 14                     Receipt for raingauge.
+ARM/MET/000719             01/11/1946     16                       Request for monthly returns on time.
+ARM/MET/000720             01/12/1946     2 11 16                  Request for location of min temp recording stations. 
+ARM/MET/000721             07/12/1946     4                        Letter: Sent with returned raingauge pen.
+ARM/MET/000722             08/01/1947     16                       Request for blue issue voucher no. 6502.
+ARM/MET/000723             24/01/1947     2 16                     Request for date when new 4-ft thermometer was installed.
+ARM/MET/000724             04/02/1947     4 14                     Receipt: For Beckley Raingauge Pens.
+ARM/MET/000725             13/02/1947     14                       Letter: Enclosed with Instrument List.
+ARM/MET/000726             01-03/1947     4 38                     Armagh Rainfall from Jan-March 1947.
+ARM/MET/000727             16/04/1947     4 12 16 18               Requesting a test of rain-gauges. Enclosed leaflet.
+ARM/MET/000728             22/04/1947     16                       Int. Met.Org. requesting data for new publication.
+ARM/MET/000729             26/04/1947     4                        Letter: Request for new measuring glass for raingauge.
+ARM/MET/000730             29/04/1947     4                        Receipt: For new measuring glass for raingauge.
+ARM/MET/000731             30/04/1947     16                       Letter: Response to ARM/MET/000728.
+ARM/MET/000732             13/05/1947     14                       Instrument List and report
+ARM/MET/000733             13/05/1947     4                        Request for measuring glass for rain-gauge.
+ARM/MET/000734             15/05/1947     4                        Receipt: Measuring glass for rain-gauge.
+ARM/MET/000735             30/05/1947     4 16 18                  Request for info. listed in ARM/MET/000727.
+ARM/MET/000736             07/06/1947     4 16 18                  Response to ARM/MET/000727.
+ARM/MET/000737             14/08/1946     2                        Receipt: Earth thermometer no. 19551
+ARM/MET/000738             16/08/1946     4                        Receipt: Raingauge and no. 4424 Forms.
+ARM/MET/000739             25/06/1947     12                       Request for "meteorological observation" forms.
+ARM/MET/000740             01/07/1947     4 18                     Response to ARM/MET/000736.
+ARM/MET/000741             03/07/1947     5 18                     Notification of lost sunshine card.
+ARM/MET/000742             03/09/1947     4 16 18                  Further request for rainfall data.
+ARM/MET/000743             05/09/1947     4 14                     Receipt for raingauges.
+ARM/MET/000744             23/09/1947     4 16 18 38 39            Rainfall data and corrections for Jan-March 1947.
+ARM/MET 000745             01/10/1947     4 16                     Requesting the return of incorrect measure for raingauge.
+ARM/MET/000746             02/10/1947     4 18                     Letter: Encl with borrowed letters ARM/MET/000736,740,742,744.
+ARM/MET/000747             09/10/1947     4 12 16 18               Raingauge measurements and instructions.
+ARM/MET/000748             10/10/1947     4 12 16                  Request raingauge forms.
+ARM/MET/000749             31/10/1947     2 4 5 13                 Letter: Enclosed with inspection report Oct 1, 1947.
+ARM/MET/000750             31/10/1947     2 4 5 13                 Inspection report of Oct. 1, 1947.
+ARM/MET/000751             16/12/1947     12 16                    Request for Met. Observation forms.
+ARM/MET/000752             03/08/1948     5 12 16                  Letter: Request for sunshine cards.
+ARM/MET/000753             29/09/1948     16 22 32 35 40           Publication Lists with prices: Request for exchange publications.
+ARM/MET/000754             07/12/1948     14                       Instrument List (3 pages).
+ARM/MET/000755             12/1948        3 6 9 11 12              Guidelines for Observers.
+ARM/MET/000756             08/12/1948     22                       Letter: Response to ARM/MET/000753.
+ARM/MET/000757             05/02/1949     14                       Instrument List (2 pages).
+ARM/MET/000758             23/08/1949     27 29                    Request for increase in Met. Office allowance.
+ARM/MET/000759             25/08/1949     29                       Notification of the receipt of ARM/MET/000758.
+ARM/MET/000760             09/1949        4 12 21                  Instructions for the Dines Tilting Siphon Rain Recorder.
+ARM/MET/000761             30/09/1949     27 29                    Letter: Response to ARM/MET/000758.
+ARM/MET/000762             08/10/1949     5 27                     Funding for moving the sunshine recorder.  
+ARM/MET/000763             10/10/1949     4                        Delay in rain measure delivery.
+ARM/MET/000764             25/10/1949     5 13 16 27               Requesting plans for sunshine recorder, exposure diagram.
+ARM/MET/000765             07/10/1949     4                        Receipt: 8 inch measurer for raingauge.
+ARM/MET/000766             28/11/1949     5 13 16                  Proposed site for sunshine recorder.
+ARM/MET/000767             03/2/1950       5 13 16                 Proposed site for sunshine recorder.
+ARM/MET/000768             07/03/1950     5 13 16                  Sunshine recorder location.
+ARM/MET/000769             07/03/1950     5 15 27                  Exposure Diagram for new site of sunshine recorder.
+ARM/MET/000770             08/03/1950     3 16 18                  Request for anemograms.
+ARM/MET/000771             09/03/1950                              Notification of the receipt of ARM/MET/000769.
+ARM/MET/000772             11/03/1950     3 13 16 27               Request for funding to repair Anemometer house.
+ARM/MET/000773             25/03/1950     3 4 13 16 27             Proposed move of sunshine recorder and repair of anemometer house.
+ARM/MET/000774             1950           14                       Instrument List.
+ARM/MET/000775             05/04/1950     3 4 13                   Proposed site sunshine recorder and repairs anemometer house.
+ARM/MET/000776             13/04/1950     13                       Proposing date for inspection.
+ARM/MET/000777             02/05/1950     4                        Receipt, Discontinuation of 8 inch measure for the rain-gauge
+ARM/MET/000778             10/05/1950     12                       Notification of retry in sending no. 223 forms.
+ARM/MET/000779             31/07/1950     12 16 40                 Requesting Pocket Register for Climatological Observations. 
+ARM/MET/000780             24/08/1950     5 12 13 16               Requesting info on new sunshine recorder location.
+ARM/MET/000781             08/09/1950     31                       Training for Climatological observers in 1950.
+ARM/MET/000782             30/09/1950     9 12                     Visibility Objects for Observers.
+ARM/MET/000783             08-09/1950     5 12 16                  Examination of Sunshine Cards.
+ARM/MET/000784             13/10/1950     5 13 16                  Position of sunshine recorder and exposure diagram.
+ARM/MET/000785             17/10/1950     5 16                     Letter: in response to ARM/MET/000785.
+ARM/MET/000786             19/10/1950                              Receipt of ARM/MET/000785.
+ARM/MET/000787             01/11/1950     5 12                     Sunshine recorder location and response to form request.
+ARM/MET/000788             16/11/1950     12                       Further request for forms.
+ARM/MET/000789             15/11/1950     5 11 12 40               National Grid Reference, Obs Snow Lying, Clim Returns.
+ARM/MET/000790             04/12/1950     12                       Letter: Response to ARM/MET/000788.
+ARM/MET/000791             08/12/1950     12                       Receipt: For Met forms.
+ARM/MET/000792             25/01/1951     5 16 18                  Sunshine recorder readings and adjustment information
+ARM/MET/000793             1951?          14                       Instrument List.
+ARM/MET/000794             16/04/1951     5 16                     Further request to ARM/MET/000792.
+ARM/MET/000795             28/04/1951     5 13                     Lindsay's concerns over the new sunshine recorder structure.
+ARM/MET/000796             17/04/1951     5 13                     Response to ARM/MET/000795.
+ARM/MET/000797             15/05/1951     5 13                     Inspection of new sunshine recorder structure.
+ARM/MET/000798             22/05/1951     5 13                     Inspection to sunshine recorder structure.
+ARM/MET/000799             08/08/1951     4 12                     Requesting forms 3100 and a Beckley Raingauge pen.
+ARM/MET/000800             16/08/1951     4 12                     Acknowledge receipt of ARM/MET/000799.
+ARM/MET/000801             03/09/1951     2 4 5 7 16               Monthly averages of Temp, Sunshine, Rainfall and Humidity.
+ARM/MET/000802             05/09/1951     4                        Receipt: For Beckley Raingauge Pen.
+ARM/MET/000803             10/09/1951     2 4 5 7 16               Letter: Response to ARM/MET/000801.
+ARM/MET/000804             10/1951        2 5 7 11 12              Tables, rel humidity from dry-bulb and ice-covered wet-bulb
+ARM/MET/000805             19/02/1952     4 16 18                  Day of greatest rainfall in each year of observation.
+ARM/MET/000806             27/02/1952     4 38                     Response to ARM/MET/000805, includes rainfall data.
+ARM/MET/000807             05/03/1952     4                        Response to ARM/MET/000806.
+ARM/MET/000808             07/03/1952     11 16 32                 From D&E Solicitors re frost conditions for 12th Dec. 1950.
+ARM/MET/000809             11/03/1952     2 11 32 38               Re: ARM/MET/000808, temperature data for 12th Dec. 1950.
+ARM/MET/000810             13/03/1952     2 11 16                  Further information on frost conditions for Dec 12th, 1950.
+ARM/MET/000811             14/03/1952     2 11                     Response to ARM/MET/000810.
+ARM/MET/000812             16/04/1952     2 11 16 32               From D&E Solicitors requesting frost and weather conds
+ARM/MET/000813             05/05/1952     2 11 32                  Letter: Re: ARM/MET/000812, frost data for 3rd, 4th Dec., 1950.
+ARM/MET/000814             10/03/1952     11 16 32                 From Solrs re frost information for the 20th Dec., 1949.
+ARM/MET/000815             11/03/1952     2 11 32                  Re: ARM/MET/000814, contains frost data and temps for 20th Dec., 1949.
+ARM/MET/000816             12/03/1952     2 11 32                  Acknowledging the receipt of ARM/MET/000815.
+ARM/MET/000817             09/04/1952     5 13 16                  Safety of the new sunshine recorder structure.
+ARM/MET/000818             05/05/1952     13                       Inspection date for the sunshine recorder structure.
+ARM/MET/000819             10/05/1952     13                       Letter: Re: ARM/MET/000818. 
+ARM/MET/000820             18/06/1952     4 5 13 31                Inspection of sunshine recorder structure. Rain-gauge suitability.
+ARM/MET/000821             10/07/1952     4 5 13 31                Response to ARM/MET/000820.
+ARM/MET/000822             10/07/1952     14                       Instrument List (2 pages).
+ARM/MET/000823             23/07/1951     4 5 13 16 31             Raingauge suitability, trees around sunshine recorder
+ARM/MET/000824             31/07/1952     4 13                     Notification of suitable date to inspect Tilting Syphon Raingauge.
+ARM/MET/000825             08/1952        3 4 6 9 12 31 40         Notification of upcoming Observers Training Course. 
+ARM/MET/000826             29/08/1952     4 13 16                  Inspection of Tilting Syphon Raingauge.
+ARM/MET/000827             01/09/1952     4 5 13                   Response to ARM/MET/000826, further mention of tree removal.
+ARM/MET/000828             01/09/1952     4 14                     Receipt: Float and pens for T.S. Raingauge.
+ARM/MET/000829             03/09/1952     2                        Certificate Thermometer no. 142 of the Met. Office.
+ARM/MET/000830             05/09/1952     5 13                     Letter and Certificate of Inspection of new Sunshine Recorder position.
+ARM/MET/000831             15/10/1952     2 12 22                  Mean max and mean min temperatures of 1871-1910, pending publication.
+ARM/MET/000832             15/10/1952     4 16 18 22 39            Validation of rainfall data supplied by the Observatory. 
+ARM/MET/000833             17/10/1952     2 4 18 39                Letter: Re: ARM/MET/000831-832.
+ARM/MET/000834             23/10/1952     2 4 12 16 18 39          Rainfall values to be calibrated.
+ARM/MET/000835             04/11/1952     2                        Certificate Thermometer no. 243 of the Met. Office.
+ARM/MET/000836             17/11/1952     4 12 38 39               Letter and Form 3362 containing rainfall data for 1840-1929.
+ARM/MET/000837             19/11/1952     35                       Request for Meteorological Magazine for years 1950-53.
+ARM/MET/000838             19/11/1952     4 14                     Letter: Enclosed with returned raingauge parts.
+ARM/MET/000839             21/11/1952     4 12 38 39               Acknowledgment of receipt of ARM/MET/000836.
+ARM/MET/000840             09/12/1952     2 4 16 39                Response to ARM/MET/000836, similar information for temperature.
+ARM/MET/000841             23/2/1953      2 14                     Request new Grass Min. Thermometer.
+ARM/MET/000842             25/2/1953      2 14                     Receipt: Grass Min. Thermometer No. 32015.
+ARM/MET/000843             03/1953        5 12                     Form 898: Result of Examination of Sunshine Cards.
+ARM/MET/000844             31/3/1953      2 16 18                  Request for decadal mean max and mean min temperatures.
+ARM/MET/000845             18/4/1953      2                        Letter: Response to ARM/MET/000844.
+ARM/MET/000846             12/5/1953      16 32                    Letter: Requesting input from Aldergrove regarding the aurorae.
+ARM/MET/000847             29/5/1953      32                       Regarding aurorae observations.
+ARM/MET/000848             29/5/1953      32                       Response to ARM/MET/000847.
+ARM/MET/000849             10/6/1953      32 40                    Observation of aurorae.
+ARM/MET/000850             15/6/1953      32 40                    Response to ARM/MET/000849.
+ARM/MET/000851             18/6/1953      2 4 38                   Rainfall and temperature data for 1945-1952.
+ARM/MET/000852             17/11/1953     3 14                     Letter and voucher for Robinson anemograph no longer of use.
+ARM/MET/000853             12/2/1954      2 3 11 16 32 40          Request snow and frost conditions for the 25th and 25th of Jan., 1952.
+ARM/MET/000854             17/2/1954      2 3 8 11 32 40           Response to ARM/MET/000853.
+ARM/MET/000855             12/3/1954      4 14 16                  Status of T.S. Rain Recorder and clock.
+ARM/MET/000856             07/5/1954      4 14                     Re: T.S. Rainfall Recorder problems and request for inspection.
+ARM/MET/000857             23/6/1954      4 16                     Request rainfall Aug-Sept. 1953 and Apr-May 1954.
+ARM/MET/000858             24/6/1954      4 16                     Response to ARM/MET/000857
+ARM/MET/000859             25/6/1954      4 16                     Response to ARM/MET/000858.
+ARM/MET/000860             29/6/1954      4 16                     Requested rainfall data.
+ARM/MET/000861             02/7/1954      4 16                     Request for rainfall data in ARM/MET/000857.
+ARM/MET/000862             02/7/1954      4 38                     Rainfall data for Aug, Sept 1953 and Apr, May 1954.
+ARM/MET/000863             31/5/1954      2 16                     Request for temperature data requested in ARM/MET/000844.
+ARM/MET/000864             16/7/1954      1-11 16 32 40            From solicitors, requesting weather reports for 26th Dec. 1952
+ARM/MET/000865             21/7/1954      1-11 32 40               Response to ARM/MET/000864, restrictions on such data.
+ARM/MET/000866             23/7/1954      1-11 16 32 40            Request for weather reports by J.S. Bright & Thompson.
+ARM/MET/000867             30/7/1954      2 8 9 2 40               Weather report for 26th Dec. 1952.
+ARM/MET/000868             08/1954        4 16 32 40               Request for weather reports for each day in July, 1954.
+ARM/MET/000869             05/8/1954      3 4 16 32                Response to ARM/MET/000868.
+ARM/MET/000870             06/8/1954      4 16                     Response to ARM/MET/000869
+ARM/MET/000871             05/8/1954      2-11 16                  Requesting weather data for Lurgan area, no dates specified.
+ARM/MET/000872             10/8/1954      16                       Response to ARM/MET/000871.
+ARM/MET/000873             10/8/1954      4 16                     Re: ARM/MET/868, requesting clarification of rainfall data.
+ARM/MET/000874             12/8/1954      4                        Specifics of Rainfall data required for July 1954.
+ARM/MET/000875             17/8/1954      2-5 16 40                Weather observation request for 1st of July to 15th August of 1954.
+ARM/MET/000876             23/8/1954      16                       Response to ARM/MET/000875.
+ARM/MET/000877             31/8/1954      3-5 32 38                Weather data for July 1954.
+ARM/MET/000878             02/10/1954     4 18 25                  Rainfall for Sept 17-21, 1953 and the potential for flooding.
+ARM/MET/000879             18/10/1954     4 14                     Request replacement 8-inch measuring glass.
+ARM/MET/000880             26/10/1954     4 14                     Receipt: Rain Measure 8"
+ARM/MET/000881             03/11/1954     2 16 18                  Re. mean max and mean min temperature for 1871-1910.
+ARM/MET/000882             05/11/1954     4 14                     Request replacement for faulty 8" rain measurer.
+ARM/MET/000883             18/11/1954     4 14                     Response to ARM/MET/000882.
+ARM/MET/000884             30/11/1954     2 16 18                  Request comparison of mean max and mean min temps for 1971-1910.
+ARM/MET/000885             04/12/1954     2 16 18 38               Response to ARM/MET/000884, included temp. data for 1871-1910.
+ARM/MET/000886             04/1/1955      22 40                    Publishing Armagh observations in "Belfast Newsletter".
+ARM/MET/000887             09/1/1955      16 40                    Request monthly and annual means for "Belfast Newsletter".
+ARM/MET/000888             13/1/1955      2 18 38 39               Corrected decadal mean max and mean min temperatures for 1871-1910.
+ARM/MET/000889             14/1/1955      18 40                    Response to ARM/MET/000886-887.
+ARM/MET/000890             28/1/1955      2 18 38 39               Re. correction of decadal mean max and mean min temps for 1871-1910.
+ARM/MET/000891             25/2/1955      4 14                     Re: New pen for automatic raingauge.  
+ARM/MET/000892             03/3/1955      5 12 16                  Request for sunshine cards and forms 3440, 3441
+ARM/MET/000893             13/3/1955      5 12 16                  Response to ARM/MET/000892.
+ARM/MET/000894             15/3/1955      4 12 16                  Request for rainfall charts for May, June and Aug-Dec of 1954.
+ARM/MET/000895             03/3/1955      4 14 16                  Re: New float for raingauge and stop-watch.
+ARM/MET/000896             05/5/1955      4 16 18                  Request data on heavy or unprecedented rainfall in Armagh.
+ARM/MET/000897             23/5/1955      4 14                     Re: Rainfall for May, June, Aug-Dec 1954 and rainguage repairs.
+ARM/MET/000898             14/6/1955      4 14                     Response to ARM/MET/000897.
+ARM/MET/000899             18/6/1955      4 14                     Response to ARM/MET/000898.
+ARM/MET/000900             20/6/1955      4 38                     Heavy Rainfall recorded at Armagh Observatory.
+ARM/MET/000901             08/8/1955      5 14                     Enclosed with sunshine obstruction diagram, clinometer and watch.
+ARM/MET/000902             09/8/1955      4 14                     Requesting new Grass Min Thermometer No. 32017.
+ARM/MET/000903             18/8/1955      4 5 14                   Response to ARM/MET/000901,902.
+ARM/MET/000904             08/10/1955     2 14                     Regarding faulty screen min thermometer.
+ARM/MET/000905             03/10/1955     2 4 5 7 16               Requesting weather conditions for July, Aug, Sept of 1955.
+ARM/MET/000906             11/10/1955     2 4 5 7 38               Response to ARM/MET/000905, data for July, Aug, Sept of 1955.
+ARM/MET/000907             13/12/1955     16                       Letter: with account and sketch of an abnormal met event.
+ARM/MET/000908             12/11/1955     14                       Further request to ARM/MET/904.
+ARM/MET/000909             19/12/1955     14                       Request the return of certain equipment on loan.
+ARM/MET/000910             22/2/1956      2 13                     Certificate of Examination for Thermometer No. 32953.
+ARM/MET/000911             05/4/1956      16 40                    Request "state of the weather" on 23rd Feb. 1956.
+ARM/MET/000912             06/4/1956      14                       Acknowledgement receipt of borrowed equipment.
+ARM/MET/000913             13/4/1956      2 3 5 38                 Response to ARM/MET/000911.
+ARM/MET/000914             25/6/1956      5 16                     Request light conditions of the evening of 7th March, 1952.
+ARM/MET/000915             09/7/1956      4 16 40                  Request rainfall data for 30 days after meteoric stream
+ARM/MET/000916             20/7/1956      4 22 40                  Further to ARM/MET/000915.
+ARM/MET/000917             27/7/1956      4 22 40                  Response to ARM/MET/000915 by E.J. Opik re. meteors, zodiacal and meteoric dust and rainfall
+ARM/MET/000918             27/7/1956      4 5 6 9 32               Response to ARM/MET/000914, by E.J. Opik incl weather evening of 7th March, 1952.
+ARM/MET/000919             03/8/1956      4 14                     Request a replacement 8" Rain measure.
+ARM/MET/000920             27/9/1956      2 14                     Regarding the replacement of Grass Min. Thermometer.
+ARM/MET/000921             10/10/1956     2 14                     Regarding replacement Grass Min. Thermometer.
+ARM/MET/000922             31/10/1956     2 14                     Notification of instruments damaged upon shipment.
+ARM/MET/000923             14/11/1956     2 14                     Response to ARM/MET/000922
+ARM/MET/000924             06/12/1956     2 4 5 7 38 40            Re. weather info. for Sept 22nd, 26th, 1953.
+ARM/MET/000925             07/12/1956     2 4 5 7 38 40            Reply to AMR/MET/000924.
+ARM/MET/000926             04/1/1957      2 13                     Certificate for Thermometer No. 456 of the Met Office.
+ARM/MET/000927             07/1/1957      2 14                     Re. thermometer replacement.
+ARM/MET/000928             20/2/1957      10 16                    Inquiry re. thunder and lightening on 30th July 1956.
+ARM/MET/000929             22/3/1957      2 4 14                   Instrument status.
+ARM/MET/000930             25/7/1957      2 14                     Letter plus vouchers, re: instrument condition.
+ARM/MET/000931             08/10/1957     2 16 18                  Inquiry on status of thermometers and temperature data.
+ARM/MET/000932             16/10/1957     2 13                     Response to ARM/MET/000931.
+ARM/MET/000933             25/10/1957     2 4 5 13                 Inspections made to the observatory by Mr. RA Buchanan.
+ARM/MET/000934             12/1957        4 12                     Grid References of Rainfall Stations.
+ARM/MET/000935             03/01/1958     2 4 5 13                 Response to ARM/MET/000933.
+ARM/MET/000936             09/01/1958     5 13 16                  Inquiry about exposure of sunshine recorder.
+ARM/MET/000937             11/01/1958     5 12 16                  Instrument replacement.
+ARM/MET/000938             16/01/1958     5 14                     Letter: Response to ARM/MET/000937.
+ARM/MET/000939             05/03/1958     4 5 38 39                Sunshine correction factors for June 1957.
+ARM/MET/000940             05/03/1958     2 12 16                  Delivery time of Max Temps to J. Lyons & Co.
+ARM/MET/000941             18/03/1958     5 18 39                  Response to ARM/MET/000939.
+ARM/MET/000942             24/03/1958     2 16                     Further to AMR/MET/000940.
+ARM/MET/000943             02/04/1958     5 12 13                  Response to ARM/MET/000936, includes exposure diagram.
+ARM/MET/000944             16/04/1958     2 4 5 13                 Letter and Inspection Certificate.                     
+ARM/MET/000945             01/10/1958     4                        Re. rainfall data.
+ARM/MET/000946             30/10/1958     4 18 22                  Re. rainfall data supplied in "The Meteorological Magazine".
+ARM/MET/000947             11/1958        4 18 22                  Response to ARM/MET/000946.
+ARM/MET/000948             19/11/1958     4 12 18                  Notification of recovered records.
+ARM/MET/000949             03/12/1958     4 16 25                  Request for rainfall data by Joshua E Peel & Son, Solicitor.
+ARM/MET/000950             04/12/1958     11 16 40                 Request for snow and weather report for Christmas day 1957.
+ARM/MET/000951             09/12/1958     4 38                     Response to ARM/MET/000949, includes average rainfall data.
+ARM/MET/000952             09/12/1958     4 6 11 40                Response to ARM/MET/000950.
+ARM/MET/000953             22/12/1958     4 38                     Rainfall of 1.50 inches of more in 24-hour periods from 1860.
+ARM/MET/000954             09/1/1959       4 16                    Request for rainfall data for Dec. 17th, 1958 plus questionnaire.
+ARM/MET/000955             14/1/1959       4                       Response to ARM/MET/000954 requesting payment.
+ARM/MET/000956             15/1/1959       4 16                    Response to ARM/MET/000955, enclosed with payment.
+ARM/MET/000957             04/12/1958     2 4 11 16 22             Request for met data for "Land Utilisation in Northern Ireland.
+ARM/MET/000958             08/1/1959       4 11 38                 Response to ARM/MET/000957, includes data rainfall, snow, frost.
+ARM/MET/000959             19/1/1959       4 11 38                 Response to ARM/MET/000958.
+ARM/MET/000960             26/1/1959       2 16                    Request aid in interpreting grass min. thermometer data.
+ARM/MET/000961             31/1/1959       2 13 14                 Inquiry thermometer condition and requesting a test.
+ARM/MET/000962             03/2/1959       1-5 13 14               Annual Statement of Meteorological Station Instruments and Site.
+ARM/MET/000963             08/5/1959       16 40                   Request for weather report for 2nd January 1959.
+ARM/MET/000964             11/5/1959       16 40                   Response to ARM/MET/000963.
+ARM/MET/000965             20/5/1959       2 4 7 16                Request for temp, rain, humidity and altitude data.
+ARM/MET/000966             22/5/1959       2 4 7 38                Response to ARM/MET/000965, temp, rain and humidity data.
+ARM/MET/000967             14/8/1959       4 16 25                 Request for rainfall data for Oct-Dec of 1958.
+ARM/MET/000968             21/8/1959       4 12                    Response to ARM/MET/000967, included with rainfall recorder charts.
+ARM/MET/000969             22/8/1959       4 12                    Response to ARM/MET/000968.
+ARM/MET/000970             01/10/1959      4 14                    Request parts for raingauge.
+ARM/MET/000971             09/10/1959      4 14                    Response to ARM/MET/000970.
+ARM/MET/000972             02/11/1959      22                      Letter with list of Meteorological Publications, mostly for Pacific and Indian Oceans
+ARM/MET/000973             19/11/1959      22                      Letter: list of Meteorological Publications.
+ARM/MET/000974             01/1/1960       1-5 13 14               Annual Statement of Meteorological Station Instruments and Site.
+ARM/MET/000975             14/5/1960       16 27                   Request re-issue of annual cheque for Met Observations.
+ARM/MET/000976             23/3/1960       4 27                    Response to ARM/MET/000975.
+ARM/MET/000977             16/5/1960       4 5 38                  Letter plus decadal mean monthly rainfall between 1920 and 1960.
+ARM/MET/000978             03/6/1960       4 5                     Response to ARM/MET/000977,
+ARM/MET/000979             10/6/1960       29 31                   Notification opening of a Belfast branch of the Met. Office.
+ARM/MET/000980             08/8/1960       2 13 14                 Query Form: Suitability of Grass Min. Thermometer.
+ARM/MET/000981             19/9/1960       4 12 16                 Request clarification of rainfall recorder results.
+ARM/MET/000982             21/9/1960       4 16                    Response to ARM/MET/000981.
+ARM/MET/000983             22/9/1960       4 16 39                 Re. rainfall record tabulation.
+ARM/MET/000984             26/9/1960       2 12                    Re. availability of 3110(B) forms.
+ARM/MET/000985             04/10/1960      2 11 12                 Re. completion of 3110(B) forms.
+ARM/MET/000986             30/11/1960      4 12 20 39              Hourly Tabulations of Rainfall.
+ARM/MET/000987             11/1960         2 11 12                 Changes in 1961 for Observations.
+ARM/MET/000988             08/12/1960      2 13                    Re: Armagh Earth Thermometers.
+ARM/MET/000989             1960            2                       Depth of Thermometers.
+ARM/MET/000990             29/12/1960      2 13                    Response to ARM/MET/000988.
+ARM/MET/000991             1960            4 12 38                 Form 1090: Register of Rainfall in 1960.
+ARM/MET/000992             15/2/1961       2 16 18                 Request old rainfall data.
+ARM/MET/000993             23/3/1961       2 4 12 13               Re. Grass Min. Thermometer readings.
+ARM/MET/000994             06/4/1961       2 12                    Re. Grass Min. Thermometer readings.
+ARM/MET/000995             21/8/1961       4 14                    Request rainfall data for 1958-60, 1936-37.
+ARM/MET/000996             22/8/1961       4 38                    Letter: Enclosed with monthly rainfall data for 1958-60, 1936-37
+ARM/MET/000997             12/1/1961       16 40                   Request local weather conditions for 1845-46.
+ARM/MET/000998             22/1/1962       4 22                    Response to ARM/MET/000997.
+ARM/MET/000999             31/1/1962       16 40                   Request the loan of record books.
+ARM/MET/001000             07/2/1962       4 16 22                 Request for monthly rainfall data from 1836-1850.
+ARM/MET/001001             08/2/1962       2 12                    Re. Armagh Observatory Times of readings
+ARM/MET/001002             10/3/1962       4 38                    Response to ARM/MET/001000, enclosed with rainfall 1840-1850
+ARM/MET/001003             15/3/1962       4                       Response to ARM/MET/001002.
+ARM/MET/001004             28/3/1962       13 22                   Notification of Observatory name change.
+ARM/MET/001005             04/1/1963       12                      Possible Synoptic Reporting from Armagh Observatory.
+ARM/MET/001006             30/1/1963       12                      Letter: Response to ARM/MET/001005.
+ARM/MET/001007             25/4/1963       31                      Re: Observers Training Course.
+ARM/MET/001008             10/9/1963       1-5 7 12-14             Suggested upgrades and repairs to instruments.
+ARM/MET/001009             08/10/1963      2 5 7                   Response to ARM/MET/001008.
+ARM/MET/001010             24/10/1963      2 4 5 14 16             Further to ARM/MET/001008.
+ARM/MET/001011             12/12/1963      2 5 11 16 38            Differences in conditions at Armagh and Loughhall.
+ARM/MET/001012             12/2/1964       2 4 5 21                Re: 1963 Inspection matters at Armagh. Corrections for dry and wet bulbs.
+ARM/MET/001013             26/5/1964       1 12 13                 Notification of visiting inspector and new barometer.
+ARM/MET/001014             14/7/1964       1 2 5 13 14             Re: ARM/MET/001013.
+ARM/MET/001015             25/7/1964       2 5 13                  Thermometer and sun sphere replacement.
+ARM/MET/001016             04/8/1964       5 14                    Re: New sunshine recorder sphere.
+ARM/MET/001017             04/8/1964       5 14                    Receipt: New Sunshine sphere.  
+ARM/MET/001018             13/8/1964       1 18 39                 Re: Correction of Barometer readings.
+ARM/MET/001019             18/8/1964       5 14                    Receipt: Old Sunshine sphere.  
+ARM/MET/001020             12/2/1964       27                      Request increase in annual funding.
+ARM/MET/001021             23/2/1965       16 40                   Request for weather reports ten days prior to 23rd June, 1959
+ARM/MET/001022             23/2/1965       1 14                    Receipt: Mercurial Barometer No. 1511.
+ARM/MET/001023             25/2/1965       16 40                   Response to ARM/MET/001021.
+ARM/MET/001024             01/3/1965       16 40                   Request for weather report for 31st Dec., 1964.
+ARM/MET/001025             08/3/1965       27                      Response to the request for increased funding.
+ARM/MET/001026             08/3/1965       27                      Request for increase in funding.
+ARM/MET/001027             10/3/1965       14 27                   Increase in funding and acquisition of thermograph and barograph.
+ARM/MET/001028             10/3/1965       27                      Response to ARM/MET/001025.
+ARM/MET/001029             11/9/1965       38 40                   Response to ARM/MET/001024, weather data for 31st Dec, 1964.
+ARM/MET/001030             14/9/1972       27                      Request for increase in annual funding.
+ARM/MET/001031             09/11/1972      27                      Response to ARM/MET/001030.
+ARM/MET/001032             27/11/1972      27                      A further request for an increase in annual funding.
+ARM/MET/001033             08/1/1973       27 29                   Departure of observer and the need for more funding.
+ARM/MET/001034             12/1/1973       27 29                   Re. increase in funding and filling the post of observer.
+ARM/MET/001035             12/1/1973       27 29                   Response to ARM/MET/001033.
+ARM/MET/001036             15/1/1973       27                      Re: Increasing annual funding.
+ARM/MET/001037             16/1/1973       27                      Re: Increasing annual funding.
+ARM/MET/001038             17/1/1973       27                      Re: Increasing annual funding.
+ARM/MET/001039             22/1/1973       27                      Response to ARM/MET/001038.
+ARM/MET/001040             24/1/1973       27                      Response to ARM/MET/001039.
+ARM/MET/001041             19/2/1973       27                      Re: Increasing annual funding.
+ARM/MET/001042             27/2/1973       27                      Response to ARM/MET/001041.
+ARM/MET/001043             22/6/1973       27                      Re: Agreed upon increase in annual funding.
+ARM/MET/001044             03/1/1975       13 14                   Inspection of Armagh Observatory (in 1974).
+ARM/MET/001045             13/8/1975       1 13                    Re. 1974 Inspection.
+ARM/MET/001046             08/7/2003       1 16 38 40              Re. Pressure data available on the web.
+ARM/MET/001047             13/03/2002      2 4 5 11 22 24 32 40    List of Publications.
+ARM/MET/001048             26/6/1916       4 16 18 39              Letter, from F.A. Bellamy (Oxford) to Dreyer re. correction of met data (copy)
+ARM/MET/001049             27/04/2001      29                      Observers List.
+ARM/MET/001050             21/08/1979     14                       Instrument List.
+ARM/MET/001051             22/09/1981     14                       Instrument List.
+ARM/MET/001052             21/10/1981     4                        Receipt: Rain Measure No. 16283.
+ARM/MET/001053             1981           4                        Receipt: Rain Measure No. 74984.
+ARM/MET/001054             1850?          4 38 39                  Conversion Tables for Weights and Measures.
+ARM/MET/001055             1920?          1 38 39                  Conversion Table for Millibars to Inches.
+ARM/MET/001056             16/10/1941      1 38 39                 Barometric Correction and Reduction to Mean Sea Level.
+ARM/MET/001057             1851            1-6 12 32 40            Observer's Record Book.
+ARM/MET/001058             1843-1957       2 4 5 12 40             Meteorological Records-Monthly.
+ARM/MET/001059             1841-1847       1 2 12 38 40            Observer's Rec Book of Pressure and Temp. Includes corrections.
+ARM/MET/001060             9/1997         2 12-15 18 20 22 34-40   Spring back file No.1: Max/Min by Alan Coughlin, superseded- see Appendix I for details of contents
+ARM/MET/001061             8/1997-5/1998   2 7 38                  Spring back file No 2, CJB, wet and dry temps, corrections -see Appendix I for details
+ARM/MET/001062             8/1997-5/1998  2 7 38                   Spring back file No.3: WET/DRY RAW B Daily wet dry readings
+ARM/MET/001063             8/2001         2 12-16 18 38            Spring back file No.4 , CJB,   Daily temps at Dunsink 1804-1850. See Appendix I for details
+ARM/MET/001064             8/2001, 2/2003 2 12-16 20 31 38-39      Spring back file No.5: Twice-daily air temps 1796-1824, 1834-1882, hourly, Soil temperatures
+ARM/MET/001065             9/2002-1/2003 2 12-16 18 20 31 38-39    Spring Back File No 6, CJB Re. work by Chloe Morrell on air temps, see appendix 1
+ARM/MET/001066             2-6/2003        2 12-14 18 20 36-40     Spring Back File No 7, CJB Recalibration of twice daily air temps, see appendix 1
+ARM/MET/001067             8/1997,5/2003   2 29 31 38              Spring Back File No 8, CJB,  Max/Min Temps Raw and NEWRAW, see appendix 1
+ARM/MET/001068             5-8/2003        2 36-40                 Spring back file No.9: CJB Max/Min temps Corrected 2003, see appendix 1
+ARM/MET/001069             5-6/2003        2 7 12-14 36-40         Spring back file No.10: CJB Wet/Dry centigrade corrected. see appendix 1
+ARM/MET/001070             6/2003          2 29 31 38              Spring Back file No.11: CJB Dry Bulb Equivalent Mean Air Temp.  see appendix 1
+ARM/MET/001071             6-8/2003         2 40                   Spring Back File No 12, CJB comparison Uppsala, Stockholm, Cent Eng. see Appendix 1
+ARM/MET/001072             6-8/2003         2 40                   Spring Back File No.13: ADSC & CJB MAX/MIN, SPOT/DRY, NWS/SS, Dunsink, see appendix 1
+ARM/MET/001073             8/2003, 4/2005  2 40                    Spring back file No.14: Combined Data 1844-2002, MAX/MIN and WET/DRY. see appendix 1
+ARM/MET/001074             2003, 10/2004   2 24 40                 Spring back file No 15: Cyclic Analysis, 30min temps. final temp data. see appendix 1
+ARM/MET/001075             2005            2 39                    Spring back folder No 16. Soil Temperatures, daily, monthly, seasonal, annual, corresp and related papers
+ARM/MET/001076             2001            2                       Temperatures from Dunsink Obs. May 1818- August 1850, compiled by BRM from photocopies of Dunsink data, irregular
+ARM/MET/001077             2005            2 32                    Drafts, corresp, reports - temperatures at Arm. Butler et al. 2005, Int J. Climatol
+ARM/MET/001078             1830/11/8       22                      Historical climate of Ireland by Joseph M. Sweeny, 
+ARM/MET/001079             2003-2005       32                      Folder (blue) of papers re. phenological garden in Armagh
+ARM/MET/001080             2004-2005       32                      Folder (blue) of papers concerning phenology in Irela  nd
+ARM/MET/001081             2006/2          1 2 3 4 5 7 14 20       Specifications for new automatic weather station, missing, Nov. 2019
+ARM/MET/001082		   2000		   12 24		   Observers comments on unusual phenomena, compiled by Jill Speers, 2000
+ARM/MET/001083		   2006		   12 24		   Nocilucent Clouds, papers and correspondence, poss obs by TRR
+ARM/MET/001084	   	   2004		   1			   Barometric pressure series, corresp etc with Rob Allen, UKMO
+ARM/MET/001085	           2000		   1 2 3 4 5 6 7 8 	   Pre-circa 2000, records for various met parameters, pre-calibrated data  	
+ARM/MET/001086		   2005		   1			   Correspondence with Rob Allen, Tara Ansell UKMO, re pressure data for Armagh, tables raw data
+ARM/MET/001087		   2002		   4			   Daily rainfall for Armagh, list of contributors, data typed by David Lennox
+ARM/MET/001088		   2002		   4			   Calibrated daily, monthly rainfall for Armagh				
+ARM/MET/001089		   1785-1790	   1 2			   Photocopies of pages in observation record book kept at Dunsink, correction tables for instruments
+ARM/MET/001090		   1945-1995	   2 4	5		   Data for Armagh compiled by Met Office, Belfast. Max/min temps, rain, sunshine
+ARM/MET/001091		   1851-1987	   1 2 3 4 5		   Met Data for Armagh typed in Planetarium  
+ARM/MET/001092		   1999-2004	   			   Applications to Heritage Lottery Fund and Irish Soldiers and Sailors Fund for support
+ARM/MET/001093		   1874-1883	   2			   Hourly dry-bulb temperatures from the Automatic Weather Station
+ARM/MET/001094		   1796-1882	   2			   Morning spot temperatures, 1796-1824, 1834-1882. Evening 1834-1882
+ARM/MET/001095		   1838-2001	   4			   Daily, monthly, annual calibrated rainfall for Armagh, Volume 1 Armagh Met. Pubs
+ARM/MET/001096		   1844-2004	   2			   Daily, monthly, annual max/min temperatures, Armagh, Volume 2, Armagh Met. Pubs
+ARM/MET/001097		   1796-2006	   1 2 3 4 5 6 7 8	   List of Metadata, Vol 3, Armagh Met. Pubs
+ARM/MET/001098		   1904-2002	   2			   Daily, monthly, seasonal. annual soil temperatures. Vol. 4, Aemagh Met. Pubs
+ARM/MET/001099		   1796-2002	   3 10 23		   Storminess Record for Armagh, 1796-2002, K.R.Hickey, Vol. 5, Armagh Met. Pubs
+ARM/MET/001100		   1796-1964	   2			   Air temperatures, spot temps (Ser I) 1796-1882, Series III 1844-1964, Dunsink patch 1825-1833, Vol 10, Armagh Met. Pubs
+ARM/MET/001101		   1880-2004	   5			   Daily, monthly, seasonal and annual hours of bright sunshine, Vol 10, Armagh Met. Pubs
+ARM/MET/001102		   1874-1883	   2			   Daily max, min temp from Automatic Weather Station, mean daily temp from hourly and mean of max, min
+ARM/MET/001103		   1796-1824	   2			   Daily max, min temp from mean diurnal temperature curve fitted to spot temperature at the time of observation
+ARM/MET/001104		   1834-1882	   2			   Ditto
+ARM/MET/001105		   1880-2001	   5			   Observed sunshine hours at Armagh, twice-daily cloud cover, data, notes, correspondence, site drawings and photos
+ARM/MET/001106		   2006-2010	   7			   Correspondence re relative humidity at Armagh, 1838-2008. Paper published in IJC
+ARM/MET/001107		   2006-2010	   7			   Ditto
+ARM/MET/001108		   2006-2010	   7			   Relative humidity- comparison with Dublin, Valentia, Aldergrove. Corresp. with Gerald Stanhill, wavelet analysis
+ARM/MET/001109		      2010	   7			   Relative humidity - equations for frozen wet bulb etc. Correspondence with Int. J. Climatol.
+ARM/MET/001110		      2010	   7			   Correspondence with publishers re paper on RH at Armagh in IJC. Paper submitted to Tyndall Symposium, Dublin
+ARM/MET/001111		      2008	   7			   Some attempts to calculate specific humidity, need to be checked thoroughly
+ARM/MET/001112		      2006	   3			   Wind data, direction and strength, statistics. Data needs to be checked with record book for typing errors
+ARM/MET/001113		    1840-1850	  2 4			   Met at Armagh in period 1840-1850 for study of famine
+ARM/MET/001114		      2009	2 4 5 7			   Relationship between climate and tree-ring widths near Armagh, corresp. publication, Ana Garcia-Suarez, Mike Baillie,CJB
+ARM/MET/001115		      2009	2 4 5 7			   Publication of tree-ring - climate paper, corresp. etc.
+ARM/MET/001116		      2009	2 4 5 7			   Mean Tree-ring widths, corresp. etc
+ARM/MET/001117		      2009	2 4 5 7			   Treering widths, individual trees, phenology, Phoenix Park data, National Library lists
+ARM/MET/001118		    2003-2010				   Corresp. C. J. Butler, Ana Garcia-Suarez,
+ARM/MET/001119		      1999				   Tree Survey for the Mall Armagh
+ARM/MET/001120		      2007	2 4 5 7			   Trends and cycles in long Irish Met Series, Two CDs: Calibrated Met Data, Instat
+ARM/MET/001121		    2000-2003	  4 6			   Correspondence C.J. Butler and E. Palle-Bago, re. clouds, cosmic rays, climate			   
+ARM/MET/001122		    2001-2010	   6			   Correspondence C.J. Butler and E. Palle Bago re clouds at different levels, etc
+ARM/MET/001123		    1999-2001	   6			   Corresp. CJB, E. Palle Bago, Keran O'Brien, Barbara Bromage, re. clouds and cosmic rays etc.
+ARM/MET/001124		    1998-2001	   6			   Enric Palle Bago and corresp. with AMGS and CJB
+ARM/MET/001125		    1998-2001	   6			   Corresp. EPB, CJB, Alan Rodgers, Nigel Weiss, Barbara Bromage, Keran O'Brien clouds/cosmic rays
+ARM/MET/001125 		    1998-2000	   6			   Paper submitted to Nature on Clouds and Cosmic Rays, corresp with Svensmark,Sue Bowler		
+ARM/MET/001126		    2001-2004	   6			   Drafts and corresp. with JGR re. submission of paper, Clouds/Cosmic Rays. Submission eventually rejected - interesting historically
+ARM/MET/001127		    1818-1850	   2			   Internal and External Temperatures at Dunsink Observatory, with time of observation
+ARM/MET/001128		    1818-1850	   2   			   Difference between Armagh and Dunsink temperatures, Chloe Morrell (CML)
+ARM/MET/001129		    1818-1850	   2			   Spot, Max, Min and Mean temperatures at Dunsink from fitting Armagh diurnal mean temp curves to Dunsink spot temp. Chloe Morrell.
+ARM/MET/001130		    1796-1882	   2			   Mean temperatures from spot temps fitted with mean diurnal temp curves, Armagh and Dunsink. Chloe Morrell's computer programs
+ARM/MET/001131		       2002    	   2			   Instroduction to Chloe Morrell's project, computer programs used, data and plots
+ARM/MET/001132		       2002	   2			   Chloe Morrell, tables and plots, AWS hourly temps 1874-1883, diurnal temp curves, Dunsink temps: 1818-1850
+ARM/MET/001133		       2002	   2			   Chloe Morrell, Fortran programs	
+ARM/MET/001134		    2001-2004	   3			   Corresp Kiaran Hickey, CJB, Storm dscriptions in Armagh Records, CV
+ARM/MET/001135		    2001-2004	   3			   Kiaran Kickey, Storm Record, corresp. CJB, KRH
+ARM/MET/001136		    1993-2002	   15			   Applications for Grants, CJB, NERC, European Commission, SERC, Peace and Reconciliation NI
+ARM/MET/001137		    1983-2002	1 2 3 4 5		   The Climate of Dublin, Met Eireann, 1983. Met Records NUI Galway, Cosmic Rays and Clouds, EPB, CJB
+ARM/MET/001138		    2000-2002	   4			   List of contributors to Met Project, Herit Lottery Fund Grant, corresp. AMGS, CJB etc. precipitation 1836-2001
+ARM/MET/001139		    1987-2005	2 4 5 17		   Miscellaneous papers on Armagh Obs. met series
+ARM/MET/001140		    1796-2005	2 3 4 5			   Top copies of text and tables for Armagh Obs. Climate Series
+ARM/MET/001141		    2000-2005	2 3 4 5			   Correspondence: C.J. Butler with Gerry Murphy, David Parker, David Smyth, Alistair Dawson, BADC, Dunsink, Tom Addiscot,Robert Wilson, Donal Campbell, Stuart Larsen
+ARM/MET/001142		    2000-2007	2 3 4 5			   Corresp: CJB with David Lister, Phil Jones, Neil Ogle, Rob Allen, Kevin Marsh, Lisa Alexander, Ian McGregor, Iain Robertson, Valentia Obs., Derek Ogle, Barry Hall,
+ARM/MET/001143		    2003-2008	2 3 4 5			   Corresp: CJB with Liz Warick, David Easterling, Sarah Ball, Marriano Barriendos,Barry McAuley, misc., Ian Rippey, David Fitzgerald, Aidan Murphy, AMGS, Noreen Brennon, Peter Lynch, Anders Moberg
+ARM/MET/001144		    1994-2016	2 3 4 5			   Corresp. CJB with James Finnegan, Barry Hall, Joan Kenworthy, Kieran Hickey, Robert Wilson, Donal Mullan, Gerald STanhill,UKMO, Victor Venema, Ronan Connolly, Pedroso Mateus
+ARM/MET/001145		    1999-2010	2 3 4 5			   Corresp. CJB miscellaneous, Gerald Stanhill, Brian Tinsley, Anders Moberg, Keith Shine, EPB, KRH, Elizabeth Warrick, Barbara Bromage
+ARM/MET/001146		    2000-2011	  15			   Corresp. CJB with miscellaneous Tevor Weekes, Ian Elliott, David Garcia, Ian Glass, Bernard McLaverty, Gerhard Grabner, John Eksteen, Hugh Deasy, Dirk Denoyelle, John McConnell etc
+ARM/MET/001147		    1810-1983	2 3 4 5			   Copies of miscellaneous papers on the climate of Ireland, data in Linenhall Library
+ARM/MET/001148		      1966	 1 2 3			   Copy of History of the Thermometer by W.E. Knowles MIddleton (1966), Met. of Ireland by H. Lloyd (1831)
+ARM/MET/001149		    1969-1978	  22			   C.J. Butler, published papers, volume 1
+ARM/MET/001150		    1985-1998	  22			   C.J. Butler, published papers, volume 2
+ARM/MET/001151		    1998-2005	  22			   C.J. Butler, published papers, volume 3
+ARM/MET/001152		    2005-2015	  22			   C.J. Butler, published papers, volume 4
+ARM/MET/001153		    2016-2020	  22			   C.J. Butler, published papers, volume 5
+ARM/MET/001154		    1794-1825	1 2 3			   Photocopy of Met. Record Books M117
+ARM/MET/001155		    1833-1852	1 2 3			   Photocopy of Met. Record Book, 000241
+ARM/MET/001156		    1853-1865	1 2 3 4 		   Photocopy of Mat. Record Book, 000242
+ARM/MET/001157		    1865-1880	1 2 3 4			   Photocopy of Met. Record Book, 000243
+ARM/MET/001158		    1880-1890	1 2 3 4 5 		   Photocopy of Met. Record Book, 000244
+ARM/MET/001159		    1890-1899	1 2 3 4 5		   Photocopy of Met. Record Book, 000245
+ARM/MET/001160		    1900-1909	1 2 3 4 5		   Photocopy of Met. Record Book, 000246
+ARM/MET/001161		    1910-1919	1 2 3 4 5		   Photocopy of Met. Record Book, 000247
+ARM/MET/001162		    1920-1929	1 2 3 4 5		   Photocopy of Met. Record Book, 000248
+ARM/MET/001163		    1929-1940	1 2 3 4 5		   Photocopy of Met. Record Book, 000249
+ARM/MET/001164		    1940-1952	1 2 3 4 5		   Photocopy of Met. Record Book, 000250
+ARM/MET/001165		    1952-1963	1 2 3 4 5		   Photocopy of Met. Record Book, 000251
+ARM/MET/001166		    1963-1977	1 2 3 4 5		   Photocopy of Met. Record Book, 000252
+ARM/MET/001167		    1977-1993	1 2 3 4 5		   Photocopy of Met. Record Book, 000253
+ARM/MET/001168		    1993-2001	1 2 3 4 5		   Photocopy of Met. Record Book, 000254
+ARM/MET/001169		    1951-1988   1 2 3 4 5		   Armagh Met Data digitized and compiled - possibly by Planetarium staff
+ARM/MET/001170		    1820-1850	  1 2 4			   Met Data from Dunsink - irregular times
+ARM/MET/001171		    1901-2001	    1			   Pressure Data, verificstion notes
+ARM/MET/001172		    1796-1900	    1			   Pressure Data, verification notes
+ARM/MET/001173		    1838-2001	   2 7			   Wet and Dry bulb temps. Compilation notes
+ARM/MET/001174		    1865-1944	1 2 3 4 5		   Met Data for Armagh from Univ. East Anglia, origin unknown
+ARM/MET/001175		    1945-1995   1 2 3 4 5		   Met Data for Armagh from Univ. East Anglia, origin unknown
+ARM/MET/001176		    1891-2000	    5			   Sunshine data, verification notes
+ARM/MET/001177		    1904-2001	    2			   Soil Temperatures, verification notes
+ARM/MET/001178		    1844-2001	    6			   Cloud cover, verification notes
+ARM/MET/001179		    circa 1998 	    6			   Satellite images of cloud cover, no dates
+ARM/MET/001180		    1796-1995	    2			   Twice daily, spot temps (1796-1824), Max/Min temp. 1844-1995, Central England 1659-1996
+ARM/MET/001181		    1876-1883	    3			   Hourly wind speed and direction from Automatic Weather station
+ARM/MET/001182		    1874-1883	    2			   Hourly dry bulb temps from AWS. verification notes.
+ARM/MET/001183		    1826-2001	    1			   Pressure data from Dunsink, 1826-1833. sunshine Armagh, 1880-2001. Press. Arm, 1796-1826, 1833-2001. Mark Emerson
+ARM/MET/001184		    1874-1875	1 2 3 4 		   Hourly readings of the Self Recording Instruments at the Seven Observatories
+ARM/MET/001185		    1876-1877	1 2 3 4			   Hourly readings of the Self Recording Instruments at the Seven Observatories
+ARM/MET/001186		    1878-1879	1 2 3 4			   Hourly readings of the Self Recording Instruments at the Seven Observatories
+ARM/MET/001187		    1880	1 2 3 4			   Hourly readings of the Self Recording Instruments at the Seven Observatories
+ARM/MET/001188		    1881-1882	1 2 3 4			   Hourly readings of the Self Recording Instruments at the Seven Observatories
+ARM/MET/001189		    1883	1 2 3 4			   Hourly readings of the Self Recording Instruments at the Seven Observatories
+ARM/MET/001190		    1884-1885	1 2 3 4			   Hourly readings of the Self Recording Instruments at the Four Observatories
+ARM/MET/001191		    1886-1888	1 2 3 4			   Hourly readings of the Self Recording Instruments at the Four Observatories
+ARM/MET/001192		    1858-1864	1 2 3 4			   Meteorological Papers of the Board of Trade: 2, 3, 4, 5, 7, 8, 13, 14
+ARM/MET/001193		    1875-1888	1 2 3 4			   Meteorological Observations at Stations of the Second Order
+ARM/MET/001194		    1876-1878	1 2 3 4			   Meteorological Observations at Stations of the Second Order
+ARM/MET/001195		    1880-1898	1 2 3 4			   Meteorological Observations at Stations of the Second Order
+ARM/MET/001196		    1894-1898	1 2 3 4			   Meteorological Observations at Stations of the Second Order
+ARM/MET/001197		    1900-1907	1 2 3 4			   Meteorological Observations at Stations of the Second Order
+ARM/MET/001198		    1912-1919	1 2 3 4			   Daily Readings at Met. Stations of First and Second Order
+ARM/MET/001199		      1891	1 2 3 4			   Hourly Means of the Readings from the self recoding instruments at the Five observatories
+ARM/MET/001200		    1916-1924	1 2 3 4			   Monthly Weather Report, UKMO
+ARM/MET/001201		      1869	1 2 3 4			   Quarterly Report, UKMO
+ARM/MET/001202		    1870-1873	1 2 3 4			   Quarterly Report, UKMO
+ARM/MET/001203		    1874-1876	1 2 3 4			   Quarterly Report, UKMO
+ARM/MET/001204		    1877-1879	1 2 3 4			   Quarterly Report, UKMO
+ARM/MET/001205		       1880	1 2 3 4			   Quarterly Report, UKMO
+ARM/MET/001206		    1919-1924	1 2 3 4			   Weekly Weather Report, UKMO
+ARM/MET/001207		    1955,1961	   5			   Sunshine Reports, UKMO
+ARM/MET/001208		    1910-1920	1 2 4			   Reseau Mondial, Monthly, Annual Summaries of Pressure, Temperature and Precipitation (Worldwide)
+ARM/MET/001209		    1921-1931	1 2 4			   Reasea Mondial, Monthly, Annual Summaries of Pressure, Temperature and Precipitation
+ARM/MET/001210		    1922-1926	1 2 3 4			   Observatories Year Book. for the five observatories, Met and Magnetic Data
+ARM/MET/001211		    1927-1930	1 2 3 4			   Observatories Year Book, for the five observatories, Met and Magnetic Data
+ARM/MET/001212		    1931-1935	1 2 3 4			   Observatories Year Book, for the five observatories, Met and Magnetic Data
+ARM/MET/001213		    1936-1937	1 2 3 4			   Observatories Year Book, for the five observatories, Met and Magnetic Datac
+ARM/MET/001214		    1959-1962	  22			   Geophysical Bulletin, DIAS, Nos: 17-22.
+ARM/MET/001215		    1911-1921	1 2 3 4			   Geophysical Journal, UKMO. Daily Met and Geophysical Data
+
+seau 
+	
+
+Items listed in Metadata list but not corresponding with filed metadata - reference number to be changed
+ARM/MET/000029             1998            2 4 12-15 22 21 36-40   Alan Coughlin's Thesis, M.Phil. Univ. Ulster, Long Times Series Met...
+ARM/MET/000030             29/8/2002       12 14 38 1-9            Re. problems found when using software DISCS (II) for monthly reports 
+
+
+Appendix I details of contents of items ARM/MET/001060-001075
+
+ARM/MET/001060
+File No.1    Title: Max/Min Corrected  - Alan Coughlin 1997
+Dates:       Sept 1997
+
+Contents:    This file contains the max/min data and the calibration data used
+by Alan Coughlin in his thesis work on the Max/Min temperature series. There
+are a number of differences between this data and the final (Aug 2003)
+calibrated data series: (1) the 20th century data was verified by AMGS and
+compared with the Met Office summaries in the Public Record Office, Belfast. A
+number of inconsistencies had been spotted by the MO and were taken into
+account in this verification process. (2) According to the record books the
+data entered after 1884? had been already corrected for thermometer error; it
+appears Alan had assumed otherwise (and so it was corrected twice). (3) The
+data for 1883 were from the AWS, not mercury in glass thermometers, and
+therefore did not require correction for thermometer error. (4) The correction
+for the Maximum thermometer in use between Dec 1860 and May 1863 used by ADSC
+was probably in error. It seems that the error in this thermometer only
+developed in May 1863 or thereabouts. (5) ADSC did not corect for the
+difference between the max/min data from a NWS and a Stevenson Screen as
+evidenced by the Valencia data.
+
+List of files in /home/cjb/met/maxmin/cordat copied from adsc.
+
+Time dependent corrections applied by adsc to the max and min thermometers.
+
+Correction tables for temperature dependent errors determined from a comparison
+with AWS.
+
+Daily and mean monthly and seasonal max/min data derived by adsc.
+
+-------------------------------------------------------------------------------
+
+ARM/MET/001061
+
+File No.2   Title: WET/DRY RAW A
+Dates:      August 1997- May 1998
+
+Contents:
+
+List of contributors with names and addresses of some.
+
+List of thermometer corrections compiled by amgs
+
+List of files containing the raw data 1838-1965
+
+Tables for computing relative humidity from wet and dry.
+
+Daily raw wet and dry readings for parts of 19th C
+
+-------------------------------------------------------------------------------
+
+ARM/MET/001062
+
+File No.3   Title: WET/DRY RAW B 
+Dates:      August 1997- May 1998
+
+Contents:
+
+Daily wet dry readings from 1883 on. Not complete in 20th cent.
+
+-------------------------------------------------------------------------------
+
+ARM/MET/001063
+
+File No.4  Title:  DAILY TEMPS DUNSINK 1804-1850
+Dates:     August 2001.
+
+Contents:  Data files typed in by Brenda Morrow for temperature data from
+Dunsink Obs. 1818-1850. The format is unusal wityh the time of observation given
+in the second column, the internal temp in the third and the external temp in
+the fourth. Note times are local astronomical (zero at midday). The data is very
+patchy with extended periods having no data.
+
+-------------------------------------------------------------------------------
+
+ARM/MET/001064
+
+File No.5   Title: SPOT TEMPS 1796-1824, 1834-1882, Grass 1951-87, 
+                   GROUND TEMPS 1904-1967
+Dates:      August 2001, February 2003
+
+Contents:
+
+Hourly Dry Temperatures from the SRT (Self Recording Thermograph) of the AWS
+(Automatic Weather Station) 1874-1882. Files in /cjb/alpha/met/hourly/dry/cor
+Note these files use tabs
+
+Grass temperatures for 1951-1987 extracted from the Planetarium file.
+directory  /project11/cjb/temperature
+
+List of contributors to compilation of Spot data
+
+List of files of spot data
+
+Verified Spot temperature data 1796-1824 and 1834-1882 AM and PM
+in /home/cjb/met/spottemp/cor
+
+Daily Ground Temperatures 1904-1967 typed in by Brenda Morrow. In
+/cjb/met/soiltemp/raw/
+
+Draft paper on soil temperatures for Int. J. Climatol.
+
+------------------------------------------------------------------------------
+
+ARM/MET/001065
+
+File No.6   Title: CHLOE'S PROJECT and WORK
+Dates:      late 2002 - Jan 2003
+
+Contents:
+
+Flow chart of her three main projects (1) to form mean daily temperature curves
+for Armagh Obs. from the hourly data, (2) to determine equivalent mean of mean
+of max and min for spot temp data, (3) To do the same for the Dunsink data and
+determine a patch for the interval 1825-1833 for Armagh.
+
+List of items for checking 
+
+Chloe's report with suggested corrections.
+
+List of files from Chloe's project in /project7/cjb/cml copied to CD (31/10/03)
+
+Chloe's figures Mean temps at Armagh, seasonal means, monthly means including
+Dunsink patch,  curves of intercept and gradient of regression lines of
+corrections required to spot means to gib=ve equiv of mean of max and min.
+
+Tables of Spot Seasonal Means and Monthly Means 1796-1824, 1834-1882 Data on CD
+and in project7/cjb/cml/Project/Spot/Info (agree closely with data from
+cjbmet20a).
+		   
+Mean monthly temps for Dunsink for months with data on more than 15 days
+1818-1850.                      
+
+Correspondence with Chloe Morrell re. project.
+
+METOFF Fortran Program by Chloe Morrell for read data from the Met Office's
+DISCS II software and output the data in the same format as the Observatory
+Record Book etc.
+
+Correspondence concerning placement.
+
+-------------------------------------------------------------------------------
+ARM/MET/001066
+
+File No.7  Title: Spot Temp. Calib. 2003 with AWS Mean Curves, Observing times.
+Dates:     Feb-June 2003
+
+Contents:   
+
+A recalibration of the Spot Temperature data conversion to the equivalent of
+maximum and minimum after problems found with CML's work.
+
+Description of problem and background.
+
+Comparison of CJB mean temp curves from AWS with Chloe's plots - showed same
+shape but systematic shift. Various tests to find out what Chloe did.
+
+Fortran programmes used by CJB to rectify the situation
+cjbmet2004-3f, cjbmet12, cjbmet12a, cjbmet13, cjbmet14, cjbmet14b, cjbmet18,
+cjbmet19a, cjbmet20a
+
+Mean hourly temperatures 1874-1883 from AWS data deg C
+Smoothed mean daily temperature curves 1874-1883 over 7, 9, 15 day intervals for
+each day of the year.
+Max and min, mean of max and min, DTR, 24 hour mean, and corrections to be
+applied to means of spot temperatures made 12 hours apart.
+
+Chloe's plots and Fortran Programs
+
+Observation times for spot temperature readings and other met readings up to
+2004
+
+Equivalent of mean of max/min from spot temp data for each day from 1 Jan 1796
+to 31 Dec 1824 and from 1 Jan 1834 to 31 Dec 1882 listed by day number.
+sp-eq-m1796-1824.dat    sp-eq-m1834-1882.dat
+
+Test of same data with different read time
+
+Mean monthly, seasonal and annual of equivalent of mean of max and min from spot
+data and counts of number of days included in the means for each month.
+
+------------------------------------------------------------------------------
+
+ARM/MET/001067
+
+File No.8   Title:  Max/Min RAW and NEWRAW
+Dates:      August 1997, May 2003
+
+Contents:
+
+List of contributors to project
+
+Introduction  Contains the original raw data files complied by Dave Cardwell and
+Alan Coughlin. These files have now been superseded by the new raw series in
+/alpha/met/maxmin/newraw/      tmax1844-1899.dat  tmin1844-1899.dat etc
+Changes have been made to both the 19th and 20th century data as described.
+
+-------------------------------------------------------------------------------
+
+ARM/MET/001068
+
+File No.9   Title: Max/Min Corrected 2003 - CJB corrected for therm. error
+Dates:      May-Aug 2003
+
+Contents:
+
+Background - this file contains daily max/min data in which the 19th cent data
+was corrected for thermometer error only with a zero point correction (i.e. no
+temperature-dependent correction). This calibration was made using only the
+comparison with a standard thermometer, not involving the AWS. this was because
+of the large discrepancy found between the max and min values and DTR from
+thermometers in a Stevenson Screen and the AWS data from Valencia. The 19th
+cent daily data listed here has been superseded  by the data in the file
+"Combined Data" which used the temperature dependent correction from the AWS and
+a correction for the AWS/Stevenson Screen difference based on the Valencia
+data.
+
+List of zero point corrections for the Max and Min thermometers prior to 1899.
+
+Fortran programs and plots
+
+Mean monthly max/min mean and DTR (June 2003) - probably also superseded.
+
+-------------------------------------------------------------------------------
+
+ARM/MET/001069
+
+File No.10  Title:  Wet/Dry centigrade corrected
+Dates:      May/June 2003
+
+Contents:   
+
+Monthly mean AM dry temperatures corrected for thermometer error Jan 1838-Dec
+2002, similar for PM Jan 1844-Feb 1965 from amgs.(not corrected for time of
+recording).
+
+Monthly means of am and pm dry bulb (not corrected for time of recording).
+
+Mean monthly and annual humidity AM Jan 1838-Dec 2002. Similar for PM Jan
+1844-Feb 1965.
+
+Plots of monthly mean temps from Dry Bulb (?)
+
+Tables of Daily Dry/Wet AM Temperatures 1 Jan 1838 - 31 Dec 2002
+
+Tables of Daily Dry/Wet PM temperatures  1 Jan 1844 - 28 Feb 1965
+
+Draft of "Met Data recorded at Armagh Obs. Vol 7 - Daily, Mean Monthly, Annual Wet and Dry
+Temps and Relative Humidity 1844-2003 (yellow pages draft).
+------------------------------------------------------------------------------
+
+ARM/MET/001070
+
+File No.11  Title: Dry Bulb Equivalent Mean
+Dates:     June 2003
+
+Contents:
+
+Determination of equivalent mean of max and min from twice daily dry bulb
+temperatures. Background and guide
+
+Daily equivalent of max and min listed by day number
+
+List of day numbers for non-leap years and leap years.
+
+Mean monthly, seasonal and annual temperatures (equiv. of mean of max/min)
+1844-1964 from dry bulb data
+
+Counts of no of days included in monthly means.
+
+-------------------------------------------------------------------------------
+
+ARM/MET/001071
+
+File No.12 Title: Comparison of Armagh, C. Eng, Uppsala and Stckholm
+Dates:     June-August 2003
+
+Contents:
+
+Mean monthly temperatures for Stockholm, Uppsala, Cent. Eng. Mean seasonal and
+annual temperatures for same and Armagh. 
+
+Binned data in SCL intervals. Be10 and SCL data
+
+Plots
+
+--------------------------------------------------------------------------------
+
+ARM/MET/001072
+
+File No.13  Title:  COMPARISION ADSC CJB MAX/MIN, and SPOT/DRY and NWS/SS Corr.
+Dates:      June-August 2003
+
+Contents:
+
+1. Comparison of CJB MAX/MIN temp series with (1) ADSC series, (2) the
+equivalent mean of max/min from the twice daily spot temps, (3) the equivalent of
+the mean of max/min from the twice daily dry bulb temps. Introduction.
+
+2.ADSC - CJB seasonal and annual plots and tables
+
+3. Comp CJB with Spot
+
+4. Comp with spot and dry bulb
+
+5. Comp of Max/ Min from North Wall Screen (NWS) and Stevenson Screen for
+Valentia (Cahirceveen)
+
+6. CJB MAX/MIN files corrected for NWS/SS difference Daily data 1844-1884, Mean
+monthly for 1844-2002.
+
+7. Error in max therm calib. 1860-1864. Correction made.
+
+8. ADSC data corected for NWS/SS difference with Valentia data. Monthly mean max
+and min temps 1844-1884, seasonal and annual.
+
+9. Daily Max 1844-1899 corrected for therm error by ADSC and NWS/SS diff by CJB. 
+
+10.Ditto Min
+
+11. Dunsink Patch
+
+------------------------------------------------------------------------------
+
+ARM/MET/001073
+
+File No.14  Title  Combined Data 1844-2002, MAX/MIN and WET/DRY
+Dates:      Aug 2003, April 2005
+
+Contents: 
+
+Daily Max/Min data corrected for thermometer error, NWS/Stevenson
+Screen difference, details of corrections applied and computer programs used.
+tccmax1844-2004, tccmin1844-2004. These are the final (Apr 2005) corrected daily max/min
+temperature files.
+
+Monthly means corrected for shift of observing times from evening to morning
+TMAXC-MON.DAT  TCMIN-MON.DAT
+
+Seasonal/Annual data corrected for above time shift
+m-seas-an-arm.dat
+
+Mean seasonal and annual temperatures for the three series: spot, dry (converted
+to equivalent of mean of max and min), max/min and Dunsink patch + mean monthly
+
+Plots of above
+
+Investigation of discrepancies noted by David Lister, CRU, East Anglia April
+2005. Notes on corrections made and why the Armagh Max/Min data differs from the
+BADC. Corrections made to some days where errors of sign etc have ocurred.
+Above files recomputed with addition of years 2003/4.
+
+
+-------------------------------------------------------------------------------
+
+ARM/MET/001074
+
+File No 15. Title: Cyclic Analysis, Tiny Tagg temperatures
+Dates:  2003 - October 2004
+
+Contents:
+
+Power spectra and wavelet analysis of Armagh temperature series
+files in /arpc15/home/cjb/alpha/met/temp/final/plots/wavelet
+
+Exposure tests with Tinytag temperature sensors to establish the difference
+between the north window of the 1827 tower and the Stevenson Screen. Differences
+of mean monthly maximum and minimum and mean temperature for the two sites and
+the difference between the equivalent of the mean of maximum and minimum from
+twice daily spot temperatures and the mean from max/min thermmometers.
+
+Locations of the final daily, monthly, seasonal and annual mean temperature
+series for Series I, II and III. Also the mean of the 3 series etc including the
+Dunsink Patch.
+
+--------------------------------------------------------------------------------

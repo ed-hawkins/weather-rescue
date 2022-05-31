@@ -1,0 +1,1152 @@
+  1965
+   1  9  SSW    5  S      2  ENE   24  SE     5  E      9  ENE    5  WSW    5  W      9  NW     9  NNE    5  W     30  S      5
+   2  9  SSW    5  SSE    5  S      5  S      2  SSE   13  S      5  N      5  ENE    5  NE     5  SSW    5  NW     5  SW    18
+   3  9  SSW    5  E      5  S     24  S      9  SSW    5  SSW    5  N      5  N      5  S      2  SE     9  NW     5  NW     9
+   4  9  SW     5  NNE    5  NE     9  S      9         0  S      9  N      5  ENE    2  N      5  S      9  S      9  S     13
+   5  9  SSW    9         0  W      5  NE     5  W      9  S      9  NNW    9  SW    24  NNW    9         0  SW     5  SW    13
+   6  9  SSW   13  S      5  SSW    9  S      9  S      9  NE     5  SW     9  SSW   13  N      2         0  E      9  W      9
+   7  9  S     13  N      5  SW     9  SW     9  S     13  NE     5  N      5  N      9  SW     5  ESE    5  E     19  W      5
+   8  9  SW     9  SW     5  SSW    9  W      5  W     19  NNE    5  NNW    5  W      5  SSW    5  ENE    9  S     13  WSW    9
+   9  9  SW    24  NNW    2  S      5  SSW   13  W      9  NNE    5  NNW    5  W      9  SW     9  E      5  E      9  W     19
+  10  9  S     24  NW     5  S     13  WSW    9  SW     2  S      9  SSE    9  SSE   18  NW     2  NE     5  SSW    5  NW     5
+  11  9  SW    18  SW     5  NE     5  WSW    9  SW     9  SSE   13  S      9  ESE   13  N      5  E      5  E      9  W      5
+  12  9  S     18  SW    18  E     18  W      9  S      5  SSW    9  E      9  SSE    9  W      5  ENE    5  E      5  SSW    5
+  13  9  SSE   19  WNW   18  E      5  W      9  S      9  SW     9  ENE    5  SE    18  S      5  S      5  E      5  SW    13
+  14  9  SW    13  NW     5  S      9  SW     9  SW     5  S      9  ENE    5  ESE   13  S      9  S     13  N      5  S     13
+  15  9  W      9  W      9  S     13  W      9  SW     5  S      5  E      9  SSW    5  SSW    9  W      5  E      5  S      9
+  16  9  SW    13  SW     9  SW    24  WNW    5  ESE    9  SW    13  E      9  SW     5  SSW    9  S      5  E     24  SW     9
+  17  9  SW    19  W      5         0  W     19  ENE    5  SW     9  SSW    2  S      5  SSW    9  SSW   13  NE    24  SW    19
+  18  9  SW     9  SSE    5  SW     5  W      9  N     13  WSW   13  SSE    9  SSW   18  NW     9         0  NE     9  SW     9
+  19  9  SSW    5  NNE    5  N      5  N     13  NE     9  WSW   13  E      5  S      9  SSW   13  E      2  NE     9  SW     9
+  20  9  NE    24  NE     9  E      9  NNE    9  SW     9  WSW   19  ENE    5  S      9  SSW   13  E      9  E      9  SW     9
+  21  9  S     13  NE     9  E     13  S      9  S     13  SW     9         0  SSW    9  SSW   24         0  N      5  SW     5
+  22  9  SSW    9  N      5  ENE    9  SSW    9  S     13  NNW    5  WSW    2  NNW   13  WSW    2  S      9  WSW    5  SSW    5
+  23  9  SSW   13  NNW    5  NE     9  W      5  SW    19  SW    19  NE     5  NW     2  S     13  NE     5  S     30  SW     9
+  24  9  S      5  NNE    5  S     13  SW     9  ESE    9  S     13  W      2  S      9  NE     2  E      5  SSW    9  NE     5
+  25  9  ENE    2  S      5  SSW   13  S      9  SSW    9  SW     9  N      5  S     18  S      2  E      5  NE     5  N      5
+  26  9  NE     5  S      5  S      5  W     19  SSW    2  W      9  N      2  SSW    5  SSW    5  S      9  S      5  S      5
+  27  9  NE     5  SW     5  SW    13  N      9  NNE    5  NNW    2  WSW    5  S      2  S      9  S     13  WNW    5  S      5
+  28  9  NE     2  W      5  SSW    5  ENE    9  E      5  SW     9  SSW    9  SSW   18         0  SW    19  SSW   13  S      5
+  29  9  NE     5         0  S      9  E      9  NE     5  W      5  WNW   13  W     18  N      9  SW     9  N     30  S     24
+  30  9         0         0  E     13  ESE   13  N      9  N      5  NNW    9  SSW   13  NE     5  W     13  NW    13  SSW   18
+  31  9  NE     5         0  E     24         0  NNE    9         0  SW     9  NW     9         0  S     13         0  SSE   18
+  1966
+   1  9  S     24  ESE    5  S      9  NE     5  S      5  S      5  SSW    5  NNW    5  SSE    5  NW     2  N     13  S     24
+   2  9  SW    13  SW    18  SW    13  N      5  ENE    5  N      2  SW     5  E      5  W      5  SSW    2  NNE    5  NNW   24
+   3  9  SW     5  S     18  SSW   13  N      5  SW     9  S      9  SSW    5  NNE    5  SSW   13  NE    18  S      5  W      5
+   4  9  SE    13  S     18  WNW    9  E      9  S     24  SW    13  S      5  W      5  SW    13  NNE   24  S      9  WSW    5
+   5  9  S     24  SW    13  S      5  E     19  S      5  S      9  WSW    5  SW     9  SSW    9  E     18  NE    24  SW     9
+   6  9  S     24  SW    13  SW    13  E      5  N      9  SSE    9  NNW    5  SW     5  WSW   30  S      5  N     13  SW     9
+   7  9  S     24  S      5  S     13  E      9  WNW    5  SSW    5  W      2  ENE    5  SSW    5         0  NNE    5  S      9
+   8  9  S     24  ENE    5  SW     5  SEbE   9  SSW    5  SSE   13  WSW    9  S      9  SSW    2         0  SW     9  W     19
+   9  9  SE    18  ENE   18  SW     9  ENE   13  NW     9  N      9  W      9  E      9  SSW    9  ESE    2  SW     9  W     13
+  10  9  ENE   18  ENE    5  WSW    9  S      9  S      9  N      5  S     18  WSW   30  S      9  S      5  SW     9  W      5
+  11  9  E     19  ENE    9  W      9  E      9  SSE    9  NE     5  N      5  SSW    5  S      9  SSW   13  SW    13  S      9
+  12  9  ENE    9  E     18  WNW    5  ENE    9  SSE    2  E     13  NW    13      -777  SW    13  SE    24  SW    19  S      2
+  13  9  E      5  NE     5  W      5  E     13  S     18  E      2  W     24  ENE    5  WSW    5  SE     5  SSW   13  NE     2
+  14  9  ENE    5  E      9  W      5  E     23  SW    18  SSW    2  NW     5  S      5  SW    13  SE     2  SSW   13  SSW    5
+  15  9  SSW    5  E     18  W      5  E     13  SW     9  SSE   18  S      9  E      5  N     13  NE     5  S     24  S     13
+  16  9         0  E     24  SW     5  E      9  S      9  S     18  N      5  S      5  SW     5  SSW    5  WNW   24  SSW    9
+  17  9  NE     5  ENE   13  SW    18  NE     5  W      5  SE    18  N      5  SW     9  SSW    5  S     13  WNW    5  SW    24
+  18  9  E      5  E      5  S      5  ENE   13  SSW   13  S      9  NE     5  SW     5         0  E     13  S      5  W     13
+  19  9  E      9  ESE   13  SW     5  NE     5  SSW    9  S      5  NE     5  SSW   13  SSW    5  NE     5  W      2  SW     9
+  20  9  NE     9  ENE    9  S      9  W      5  SW     9  SSE    5  N      5  NE     5  S      5  S      5  E      5  NW     9
+  21  9         0  E      9  NW     5  SW     5  WSW   19  S      5  NNE    2  NE     5         0  SW     5  NNE    2  W      9
+  22  9  NE     5         0  SW    13  SSW    9  SW    23  SSE    5  N      2  NE     5  E      5  S      5  S      5  W      9
+  23  9         0  WSW   19  W     13  SW    13  W     19  S      5  SW     9  E      5  E      5  S      5  S      2  W     13
+  24  9  NE     5  S     13  NW    18  W      5  S      9  NW     5  W      5  N      2  S      2  S      2  S      5  SW     5
+  25  9  ENE   19  SSW   19  SW     5  SSW   13  WSW   13  S      5  NW     5  SE     5         0  S      5  SW     9  S      9
+  26  9  E     19  S     19  SW    13  S      9  NW     9  SW     5  W      5  E     13         0  SW     5  W      5  S     13
+  27  9  SW     9  SW    19  W     30  S     24  NE     9  SW    13  N      5  E     18  E      2  NE     9  W     18  S     13
+  28  9  SSW   13  W     13  W      5  S     18  S      9  WNW    5  SW     9  E     18         0  WSW    5  WSW    9  S     18
+  29  9  S     13      -999  SW     5  S     18  E      9  S      5  N      5  E     13  SSW    5  SW     5  SW    13  S      5
+  30  9  SW    18      -999  SW    13  S     13  E      5  NW     5  W      5  N      5  SW     5  SW     2  NW    13  S      9
+  31  9  S      2      -999  SW     5      -999         0      -999  WSW    5  WSW    5      -999  SW     9      -999  SW     9
+  1967
+   1  9  W      9  WSW    5  WSW   18  S     13  W      9  S      9  SW     9  WSW   13  WSW   13  SW    24  WSW   13         0
+   2  9  NW     5  S      9  W     30  W     13  NNW    5  SW     9  W      9  WSW   13  WSW   18  WSW   18  NNW   19  S      5
+   3  9  NW     2  WSW   19  WSW   18  SW    19  SSE   19  SW    13  WSW   13  W     13  SSW   24  SSW   18  SW     5  SW     5
+   4  9  NW     5  SW     9  SW    24  SSW    5  SSE   13  W      9  WSW    5  W      9  W     13  SSW    9  SW     5  WSW   13
+   5  9  N      2  SW     5  SW    19  WNW    9  SEbE  23  SW     5  S      9  W      5  WSW    9  S      5  W      5  WSW   24
+   6  9  SW     9  SW     9  SW    24  NW    19  SSE    9  SW    13  SSW    9  S      9  W     13  SSW   24  W      5  SW     5
+   7  9  NW     5  NNE    2  S     19  N     13  S     13  W      9  WSW    9  S      9  NWbW   5  SSW   18  W      5  WSW    5
+   8  9         0  S      5  SW    13  NNE    5  S      2  WSW    5  W     13  SSE    9  W      5  SW    13  W      5  WSW    2
+   9  9  S      5  SSW    5  ENE    9  NE    18  SSW    9  W      9  SW    13  ENE    9  S      9  SSW   24  WSW    5  NNE    2
+  10  9  W      5  S      5  SSW   24  N      9  SSW    5  WSW    5  SW    13  NE     5  S      5  SW     5  SSW    9  NE     5
+  11  9  NW     5  S     13  SW    24  NE     5  NNE    9  SW     5  SW     5  SW     5         0  SSW   18  SSW   19  SW     5
+  12  9  W      5  E      5  SW     9  NE     5  N      5  W      5  SSE    5  W     13         0  SSW   13  WSW    5  WNW    5
+  13  9  W      5  E      5  WSW   13  N      5  NE     9  SEbE   5  SSE    9  WSW   13  SSE    2  SW    24  S     13  WSW    5
+  14  9  SSW    5  E     13  WSW   24  N      5  NE     5  SSE    5  SSE    2  WNW   13         0  SW    24  SW    19  W      9
+  15  9  S      9  E     24  WSW   19  W      5  NE     5  S      5  NE     5  W     13  S      5  WSW   18  W      5  SW    18
+  16  9  S     19  S     18  WSW    9  SW     5  N      5  W      5  SE    13  SW    13  SSE    2  E      5  SSW    5  WSW    5
+  17  9  S     13  S      5  WSW   13  WSW    5  NW     5         5  S     19  SSW   13  SE     9  NE     5  SSW    9  SW     5
+  18  9  S      9  S      9  WNW    9  N      5  NW     5  W      5  SSW   13  ESE    5  S      9  SE     5  SW     9         0
+  19  9  SW    13  S     18  W     13  SW    13  W      5  WSW    9  SSW   13  ESE    2  WSW    9  SSW   24         0  E      5
+  20  9  S      9  SW    24  SW    13  W      9  W     24  WSW   13  SW     9  SE     5  W      5  SSW   24  SSE    5  SE     9
+  21  9  WNW    5  SW    18  SSW   13  NW     9  ESE   24  SW     9  WSW    5  SSE    5         0  SW     9  SSE    5  SW     5
+  22  9  S      9  S      9  N      2  SSW    9  SSE   24  WSW    5  W      5  SE     5  SSE    5  SW     5  E      5  SSW   18
+  23  9  E      9  W     18  WSW    9  E      2  WNW   19  SSW    5  WSW    9  SSE    5  E      5  SSW   18  SSW    5  SW    24
+  24  9  NE     5  S     18  SSW   13  S      9  S     13  S      9  W     24  S      2  SSE   13  SW    13  S      9  NNW    2
+  25  9  S     13  S     18  S     19  N      9  SW     5  SSE    9  WSW   13  SSW    9  SSE   24  WSW   24         0  NW    24
+  26  9  SW     9  SW    18  SSW   24  SSW    9  SSW   13  SW     2  SW    24  SSW    9  E      9  W     24  WSW    9  W      5
+  27  9  S     19  S     37  SW    24  NNE    9  S     19  SW     5  SW    13  SSW    5  ESE    9  SSW   18  WSW    9  SW     9
+  28  9  S     19  W     24  W     24  W      5         0  SW    19  SW    18  S      5  SE    13  SW     9  WSW   13  WSW    5
+  29  9  S     30      -999  WSW   24  N      2  SSW   13  W     19  SE     9  SW    18  S     13  WSW    5  WSW   13  N      9
+  30  9  S     13      -999  W      9  W     13  E      9  SW     9  SW    13  WSW   18  WNW   19         5  W      9  W      9
+  31  9  SSW   13      -999  W      9      -999  N      5      -999  SW    13  W      5      -999  WNW    5      -999  NW     5
+  1968
+   1  9  W      5  SW    24         0  SW    24  E      9  S     19  SSW    9  SSW    5  S      9  SSW   13  NNE    9  ESE    9
+   2  9  NW     5  SW     9         0  SW    13         0  S      5  SSE    9  ESE    5  SSW    5  SSW   13  NNE   13  S     13
+   3  9  WNW    9  SW     5  W      5  NW     9  E      5         0  W     19  ENE    9  SW     9  SSW   13  N      2  SSE   13
+   4  9  SSW    9  SSW   30  WSW    9  W      9  E      5  SW    13  SSW   13         0  SW     9  SSE   13  N      2  SSW    5
+   5  9  SW     9  SW     5  W     13  WSW    9         0  WSW   13  SSW    5  ENE    5  SSE   13  SSE    9  SSE   13  S      5
+   6  9  SW     9         0  NNE   19  WSW    9  N      9  WSW   19  SSW    2  NE     9  SSW    9  SW     5  SE    13  SSE    5
+   7  9  W      5  S      2         0  N      9  N      9  SSW    5  S      5  NE     9  SSE    9  SW     2  ENE   13  E      5
+   8  9  SEbE  13         0         0  WSW   18  NNE   13  SW     9  ENE    2  NNE    9  SW    13  S      9  E      5  ESE   13
+   9  9  E      9  SSE    5  N      5  WSW    5  NNE    9  SW     9  W      2  NNE    9  SSE   19  SSE    9  SE     9  SE     9
+  10  9  NE     9  SE     5  N      5  S      5  SW    13  SSW    5  E      5  NNE    5  SSE   13  S     19  ESE   24  ENE    9
+  11  9  SSW    5  ESE   13  N      5  SE     5  W     13  SE     9  ENE    2         0  SSW    9  S     30  SSE    9  S      9
+  12  9  SSW   13  SSE    5  N      5  SSE   19  SW    19  SE     9  W      5  ENE    5  SSE    5  SSW   30  SSE   24  SSE   13
+  13  9  SSW    9  SSE    5  WSW   19  E      5  SW    13  SSE    5  S      9  WSW   13  SSE    2  SW    24  SE     9  SSE   19
+  14  9  SSW    9  E      5  SW    13  ENE    9  SSE    9  SE     9  ENE   13  SSW   13  ENE    9  SW    13  SE    19         0
+  15  9  SW    24  E      5  WSW   13  ENE    9         9  ENE    9  NNW   13  SSW    5  NE    13  S     13  E     24  SW     9
+  16  9  SW     9  S      2  SW    19  E      9  NW     5  E      5  NNE   13  SSW   13  ENE    9  SW    13  SE    13  SSW    5
+  17  9  W     13  SW     9  W     19  SE    24  NE     5  SSW    9  NNE   13  SSW    9  NE     2  SSW    9         0  NNE    9
+  18  9  SW    13  WSW    5  SW    19  S     13  N      9  SW     9  NNE    2  WSW   13  ESE    0  SEbE  13  SSE    2  NNE    9
+  19  9  SSW    9  SW     2  SW    19  S      9  E      5  SSW    9  SSW    9  SSE   13  SSE   13  SSE   24  SE     5  NNE    2
+  20  9  SW     9  SW     5  W     13  S     13  NNE    5  SW    13  SW     5  SW    19  NNE   13  SSW   24  SSE    5  SSW    2
+  21  9         0  E      5  SSE    5  S      5         5  WSW   13  WSW    5  S     19  SSW    9  SSE    2  S     19  SW     5
+  22  9         0  E      5  WSW    9  SSE   19  SEbE   9  SSW    2  SSW    9  S     24  SW    13  S      9  E     20  SSE   30
+  23  9  SSW    9  E      5         0  SSE   13  SEbE   9  ENE   13  WNW    9  SSW    5  SW    13  SSE    9  E     20  SSW    9
+  24  9  W      5  S      5  SSW    9  SW     5  ESE   13  SW     5  NW     2  ENE    9  WSW    9  SSE    2  SW    19  SSE    9
+  25  9  W      9  E      2  SSW   24  S     19  SEbE   9  SW    19  NNW    5  ENE    9  SSW    9  SSE    5  S     24  NE     5
+  26  9  W      9  E      2  SW    24  SSE   19  E      2  SW    19  NNE    5  ENE    9  SSW    9  SSE    9  SW     5  NE     5
+  27  9  SW    13  E      5  SW    19  S     13  SEbE   5  NW     5  ESE    2  ENE    9  S     13  SSE   13  SSW    5  N      5
+  28  9  NbW    9  S     19  S     13  SE    13  S      5  E      5  NE     9  ENE    5  SW    24  SSE   13  NNE    9  N      5
+  29  9  SSW   13  SE    13         0  S      5  S      5  ESE    9  E      5         0  WSW    9  SSW   13  NE     5  N      5
+  30  9  SW    19      -999  SW     9  S      9  S      9  S     24  S      5  WSW   13  WSW   13  S     19  NNE    2  N      5
+  31  9  S     24      -999  SW    13      -999  S     13      -999  SSW    5  SSW   13      -999         0      -999  SW     5
+  1969
+   1  9  SSW    5  S     19  ENE    5  NNE    9  ESE    9  W      9  SSW   13  ENE    9  N      2  SSW    9  SW    13  W      5
+   2  9  SW     9         0         0  NNW    9  E     13  SSW    9  NW     9  SSW    5  E      2  SSW   19  SW    24  SSW    5
+   3  9  SSW    9         0  NE     5         0  E      9  SW     5  SSW    9         0  N      2  SSW   13  SSW   13  WNW    9
+   4  9  SSW    9  SSW    9  NE     5  SSW    5         0  NW     9  SSW   13  SSE   13         0  S     13  SW     9  N      5
+   5  9  WSW    9  SSW    9  NE     5  ENE    5  SSW    5  SE     5  SW    19  S     13  N      5  SSW    9  S      5  S      5
+   6  9  W      9  SW     9  ESE    5  ENE   13  E      5  S      5  SW    13  S      9      -777  S      9  SSW    9  WNW    5
+   7  9  NNE    9  N     13  SE     5  E     13  S      5  SSW    5  NW     5  SSE   13         0  S     19  S      9  WSW    9
+   8  9  E      2  WNW    9  SSW    9         0  SSW    5  SSE    5  SW     5  SSE   13  SSW   13  SSE   13  SW    19  NW     5
+   9  9  SE     9         0  NE     9  SSW   13  SW     9  E      5  SW     2  SSW    9  S     19  S     19         0  W      5
+  10  9  SE    19  SSW    9  ESE   13  SW    13  SSE   13  SE     5  SW     9  SSW    5  SSW    9         0  SSW   13  SSW    9
+  11  9  SSW    5  NNW   13  NE     9  SE     9  SSW    5  E      5  W      9  S     13  ESE    9  S      5  SW     2  WSW    9
+  12  9  E      9  W      9  E     24  NW     9  S      5  SSE    5  SSW   13         0  SSW   13  SE     9  SSW    5  SSW    5
+  13  9  E      2  NNE    5  NE    13  W     13  SSW   13  SW     9  SW     9  NNE    5  S      9  SE    13  SW     9  SSW   19
+  14  9  SSW    2         0  NE     5  SSW   13  SSW    9  SE     9  SSW    5  E      9  E      9  SSW   13         0  SSW   13
+  15  9  SSW    2  N      5  ESE    5  NW     5  SSW    9  SSE   13  NE     5         0  ENE    5  S     24  W      5  WSW    5
+  16  9  NW     5  E      5  ESE   24  WNW    9  S      5  S      9  SW     9  SSW    2  ESE   13  S     13  SW     5  SSW    5
+  17  9  SE    19  SSW    5  NE    13  NNW    9  W      5  SSE   13  SW    19  SSW   13  E      9  S     19  NNE    5  SSE    9
+  18  9  ENE    9  SSW    5  ENE   13  SE     9  NE    19  SSW   13  S     13  SSW   13  E      5  SSE    2  SSW   13  E      5
+  19  9  SW     9  ENE   19  E     13  SE    13  N      5  SSW   19  SW    19  SSW   13  E      2         0  SW    19  S     19
+  20  9  ESE    9  NE    19  ESE    5  E     13         0  SW     2  SW    19  SSW   19  S     13  SE     2  SSW   13  SSW    9
+  21  9  SSW    9  NE    13  SE    13  E     30         0  SSE   19  SW    19  WNW    9  S     19  S      2         0  SW    19
+  22  9  SSW    5  NE    13  E      9  NNE    9  S      5  S      9  SSW   19         0  SSW   19  SSE    9         0  W      5
+  23  9  S      9  NE    19  ESE    5  N      5  E      9  SSE    9  SW     9  N     13  S     19  S     19  ENE   13  SSW    5
+  24  9  S     13  ESE   19  S      5  SSW    5  SE     9  S      9  W      5  SSW   13  S     19  SW    19         0  W      5
+  25  9  SSW   13  ESE    9  NNW    5  SW    13  S      9  SSW    5  SSW   19  WSW    9  SSW   19  SSW   19  NNE    5  SW     5
+  26  9  SSW   13  ENE    9  S      5         0  SSW    9  S     19         0  WSW    9  SSW   19         0  NNE    5  SW     5
+  27  9  S     13  ENE    9         0  WSW    9  SSE   13  SW     9  SW    19  NW     9  WSW    9  S      9  SSW    5  SW     5
+  28  9         0  ENE    9  SSW    9  SSW    9  ESE    5  SW     9  SSW    5  NNW    5  SSW   37  S     13  N      5  SSE    5
+  29  9  WSW    9      -999  SW     9  NNW    9  E      5  SSW   19  WNW    5  NW     2  SSW    9  SW     9  NNW    5  E     13
+  30  9  WSW   19      -999  W     13  NNE    5  NNE    5  SSW   13  SE    13  NW     5  SSW   19  SSW   13  W      5  NE     5
+  31  9  WSW   13      -999  SW    19      -999  N      5      -999  SE    13  N      2      -999  SSW   13      -999  ENE    5
+  1970
+   1  9  S      9  SW    24  WNW   13  N      9  SSW   13  S      9  W     13  SSE    9  SW    13  SW    13  SW    13  SW     9
+   2  9  W      2  SW    13  N      9  W      9  SSW   13  SSW    9  NNW   19  SSE    9  SSE   19  NW    24  SSW   19  SSW   13
+   3  9  N      5  SW    13  N      5  W      9  SSW   13  SSE    9  NW    13  SSE    9  W      9  W      9  SSW   37  SSE   13
+   4  9  N      5  SSE    5  N      9  NW     9  SSE   13  SSE    9  SSW    9  SE     5  W     13  WSW   19  SSW    9  SSW   19
+   5  9  SW     5         0  N      5  WNW    9  SSE   13  ESE    9  SW     9  ESE    9  SSW   19  SSW   13  W      9  SW    13
+   6  9  SW     5  NNE    5  NW     9  N     13  SSE    9  ENE    9  SSW   13  E      9  SEbE   9  SSW   13  SW     9  SW    24
+   7  9  SW     2  SSW    5  NW     9  N      5         0  E      9  S      9  E      9  SSE    9  SSW    5  NE     5  N      9
+   8  9  ESE    9  WSW   19  WNW    9  NNE    9  NNE    9  E      9  S     13  S      9  SW     9  W      2  SW    24  N      9
+   9  9  E      9  SSW   13  N      5  N      9  NNE    9  E      2  W     19  SW    13  SSW   30  SSW    9  WNW    9  SW     9
+  10  9  SSW    9  WSW    9  N      9         0  ENE    5  SSW    2  SSW   13  SW     5  SSW    9  S      9  SSW    9  SW     5
+  11  9  SSE    9  SW     9  WSW    9  SEbE   5  ENE    5  NNE    2  SSW   19  SSW    9  SSW    9         0  SW     9  E      9
+  12  9  SSW    9  NE     9  N      9  ENE   19  ENE    5  SE     5  WSW   13  SSW    9  SSW    9  S     13  SSW    9  S     13
+  13  9  S      5  NNE    5  NE     9  N     19  E      5  ENE    5  SW    13  SW     9  S     13  S      9  SSW    9  N      5
+  14  9  SE     9  ENE    5  NE     9  S      9  NW     5  E      2  W     13  SSW    9  SW     9  SSE    5  SSW    9  S      9
+  15  9  SE     9  S      5  N      9  SW    13  E      5         0  NW     9  S     13  SW     9  SSE    5  W      5  S      5
+  16  9  SE     9  WNW    5  SSW    9  SW     9  SSE    2  E      2  SSW    9  N     24  SW     9  SSE    5  W      9  S     13
+  17  9  SE    13  NNW    9  NW    19  SW    13  SSW    5  NE    13  SSW    9  N      9  SSW   24  SSW    9  SSW    9  SSW   13
+  18  9  SSE   19  SSW    9  NW    19  SW    13  SSW    5  ESE    5  SSW   13  N      9  WSW    9  SW    19  SSW    9  SSW   19
+  19  9  S     24  S      9  WSW    9  SW    13  SW     2         0  W      5  N      9  WSW    5  W      9  NNW    5  S     19
+  20  9  S      9  W      5  W      9  SSW   13  SW    13  S     13  NW     5  N      2  WSW   19  N     19  SE     9  WSW    9
+  21  9  S     19  SSW   13  SSW    9  SSW   19  NW    13  SSE   19  W      2  N      9  SEbE   9  N      2  WSW    9  SW     9
+  22  9  SSW    9  SW    19  SW     9  SSW   13  NNW    5  S      9  SSW    9         0  SEbE   9  N      2  SW     5  SSW    9
+  23  9  NE     9  SSW   13  SSE    5  WNW    9  SSW    2  SSW   15  S      2  NNE    5  SSE    9  SSW   13  E      9  W      9
+  24  9  E     13  W     13  E      5  SSW    9  S      5  SSW   13  SSW   13  N      2  SSW    9  SSW   13  SSE   13  NE     5
+  25  9  SW     5         0  SSW    5  NNE   13  SW     9  SSW   13  W      9  E      9  S     13  N     13  SSW    9  NE     5
+  26  9  SSW    9  WNW    9  SW     9  NNE   19  SSW   13  SSE   19  WNW    5  E      9  SSE   19  SW     9  SSE    9  ENE    9
+  27  9  SSW    5         0  N      9  NNW    9  SSW   13  S     13  SSE    2         0  SW     5  SSE    9  E      5  ENE    5
+  28  9  SE     9  NE     5  SW     9  SSW    5  SSW    2  SSW   19  S      9  S      9  SEbE  19  W      2  S      9  NE     5
+  29  9  SE     5      -999  WSW   13  NNW    5  SSE    9  NNW   19  SSW   13  S      9  SW    19  S     13  S      5  NE     9
+  30  9  NNE    5      -999  SW     9  SSW    5  SSW   13  SE    13  SSW   19  SSW   19  W     13  SSW    9  S      2  NE     9
+  31  9  SE    13      -999  N      9      -999  SSW   19      -999  SSW    9  SW    19      -999  SSE   13      -999  NE     5
+  1971
+   1  9  SE     5  NE     5  S      9  SE     9  S      9  SE    13  SW    13  SE    13  SSW   19  SSE   19  SSW   13  S      9
+   2  9  S      9  SSW   13  W      5  NE     9  S      5  E      5  SSE    9  S      9  SSW   19  S      9  SSW   24  S      9
+   3  9         0  WNW    9  W      5  NE     9  S     13  E     13  S     13  ESE    9  SSW    9      -777  S     13  S      9
+   4  9  S      9      -777  S      9  NE     9  S     13  NE     9  SW     5  SSE    9  SSW    9  ESE    9  SSW   19  SW     9
+   5  9  SE    13  W      9  SSW    9  E      5  SE     5  NE     9  SSW    9  SW    13  SW     5  SE    19  WNW    9  S     23
+   6  9  S     13  S      9      -777  E      5  ESE    9  N      9      -777  SW     9  SSE    2  SSE   19  N      9  S      9
+   7  9  S     30  SSW    9  SSE    5  E      5  SSE   13  NNE    9  S      9  NNW    5  SE     9  SSW   13  SW    24  SSW    9
+   8  9  S     19  S      9  SSE    5      -777  S     13  E      5  SW     9  SSW    9  SE     9  SW    13  WNW    9  SSW    9
+   9  9  SSE    9  S      9      -777  E      5  S     19  E     13  WNW    9  SSW   13  SE     9  SSW    9      -777  SSW    9
+  10  9  S     24  SSE   13  SSW    9  NE     9  S     19  NNE   13  W      9  SW     9  ESE   19  SW    24  N      9  SW     9
+  11  9  SE    19  SSW    5  SW     9  SSW    9  SSW   13  NNE    9  WSW   13  SW     9  SSE   19  SSW   13  N      5  SW    15
+  12  9  S      9  SSW   19  SW     9  E      9  SSW    5  SE     9  N     13  SSW    9  ESE    2  SSW    2  NW     9  SW    13
+  13  9  S      5  SW    13  S      9  SE     9  E      9  SSW    9  N      9  NE     5  SSE    9  NNW    9  W      5  SSW    9
+  14  9  E      9  SW    24  SW     5  ESE    9  E      5  E      9  N      2  NE    19  SSW    5  E      2  W      5  SEbE  19
+  15  9  E      2  SW     9  W      5  SE     5  SW    13      -777  SW    13  N      9  S      5  SSE   19  SSW    9  S     13
+  16  9  SE     2  N      9  W      9  W      9  W      5  W      5  N     13  N      9  S      2  SSW    9  W      9  SSW   19
+  17  9  SSE   19  SSW   13  SSW    9  SW    13  WSW    9  SW     9  N      9  NNW    2  S     13  SW    19  WNW    9  SSW   19
+  18  9  SSE   19  SW     9  ENE   13  WSW   24  W      9  SE     9      -777  E      9  SSW    9  SSW   19      -777  S     24
+  19  9  SSW   13  SSW    2  N     19  SW    13  SSW    5      -777      -777  SE     2  S      5  SSW   13  N      5  SW    19
+  20  9  SSW    9  SSW   19  N     19  WNW    9  SSW    2  ENE   13  SSW    9  E      9  SSW    9  SSW   13  S      9  SSW   24
+  21  9  SE     5  W      5  N      5  S     13  SSW    2  S     13  S      9  E      9  SSW    9  S     13  N     24  SW    19
+  22  9  SSW    9  SW     9  NE     5  SE     5  S      9  W     13      -777      -777      -777  SW    24  N      9  SSW   19
+  23  9  SW    19  SSW    9  SSW    9  ENE    5  S      3  W      5  SE     5  E      2  S      9  S     24  NNW    9  S     13
+  24  9  WSW   30  SSW    9  SSW   13  N      5  E      9  SSW   13  SE     9      -777      -777  WSW   13  N      9  SSW   24
+  25  9  SSW   19  SSW    9  W      5  E      9  ESE    9  S      9  SSW   13      -777  SSW    9      -777  SW     9  SSW   19
+  26  9  SW     9  S      5  WNW    9  E      9  SSW    9  S     19      -777  S     19  SSW   13  SE     5  SW     5  SSE   13
+  27  9  S      9  S      9  W      9  ENE    9  SW    13  SW    19      -777  SSW   13  SE     9  E      9         0  ENE   19
+  28  9  SSW    9  S      5  SSW   19  N      5  SW     9  SW     9  S      9  SSW    2  SE     9  E      9  SSW   13  NE     2
+  29  9  W      9      -999  S      5  NE     5  SSE   13      -777  SSE    9      -777  SSW    9  SSW    9  S     19  NE     9
+  30  9  W      5      -999  E      5  S      9  SSW    9  S      9  SE     9  SSW   13  S      9  SSW    9  SSW   13  NE     9
+  31  9  NNE    9      -999  E      5      -999  SSW    5      -999  S      9  SSW   13      -999  SW     9      -999  NE     9
+  1972
+   1  9  NE     9  SE    13  SSW    9  SW    19  SE    13  W      9  SSW   13  N      9  ESE    5  SEbS  19  SW    19  SSW   19
+   2  9      -777  E     19  S     19  SW    13      -777  S     19  SSW    5  N      9  S      5  E     19  SSW   13  SSW    9
+   3  9      -777  S     19  E     30  SW    19  NW     9  SW    19  S     18      -777  E      5  E      9  SSW    9  SW     9
+   4  9      -777  SE     9  SSW   19  SSW   19  N      9  SW    13  SE     9  SSW   13  ENE    9  E      2      -777  SSW   19
+   5  9  E      9  E      9  SW     9  W     19  N      9  SSW    9  SSW    9  SSW    8  ENE    5  E      9      -777  SW    24
+   6  9  SE     9         0  E     19  SW    13      -777  SSE    9  S      9  SSE    9  SSE    5  ESE    9  SSW   19  SSW   13
+   7  9  ESE    9  S      5  ENE    9  S      9  SW     9  S      9  SSW    9  S     13  SSW    9      -777  W      9  SSW   13
+   8  9  SE     9  SSE    9  NNE    5  WNW    9  SE    19  SW     9  SSW    9  SSE    9  W      9  SSW   13  SSW    9  SSW    9
+   9  9      -777  SSW    9  SSE    9  NNW    9  SSE   19  E      9  SW    13  SSW    9  NW     5  S     13  SSW   24  S     19
+  10  9  SE    19  SSW   13  E      9  SW    13  SSW    9  N     13  W     19  SSW    9  WSW   13  SSW    5  W     19  SSW   13
+  11  9  SSE    9  S      9  ENE    9  N      9  S     19  N      9  SSW    9  SSW    9  SSW    9  W      5  SSW    9  ESE   19
+  12  9  SSE   19  SSW   13  ENE   13  N      5  SSW    9  N      9  S     19  SSE   19  W      2      -777  SE    13  SSW   13
+  13  9  SSE    9  SW     9  E      9  W      5  NE     9  N      9  SSW    5  SSE    9  SW     9      -777  SSW    9  SSW   19
+  14  9  S      9  SW     9  SE    13  SSW    9  N      9  NNE    9  S      5  S      2  N      5  NW     9  SW     9  SSW   24
+  15  9  ESE   13  SE    19  S      9  W      9  N      9      -777  S      7      -777      -777         0  SW     9  SSE   13
+  16  9  SE    19  N      9      -777  WSW    9  N      9  W      9  ESE    5  SSW   13  SSW    9         0  SW     9  SSE   13
+  17  9  SE    13  NNE    9      -777  SSW    5  SSW    9  S     24  SE     5  W     19  N      5         0  N      9  SSE   19
+  18  9  S      9  NE     9  SE     9  W      5  SSE    9  SSW    9  SE     5  W      9  N      2         0  W      9  SSE    9
+  19  9  SW    13  E      2         0  N      5  SE     9  WSW   13  E      5  SW     9      -777         0  SE     9  SSE   19
+  20  9  SW    13  ESE    9  SSE    9  SE     9  ESE    9  S     19  E      2  SW     9  SE     9  E      9  S      9  S      5
+  21  9  SW     9  SE     9  W      9  S      9  SSE   13  SSW   19  ENE    5  SSW    9  SSW    9  N      9  SSW   13  S      5
+  22  9  SW    13  SE     2  W      9  N      5  SSW    9  W     19  E      5  SSW    9  SSW    9  WSW   19  W      9  S      5
+  23  9  S     24  E      9  W     50  ESE    5  SSE   19  SSW    9  SSE    9  SSW    2  S      2  SW    13  W      9  SSW   18
+  24  9  SW     9  E     13  SSE   13  ENE    5  SSE   19      -777  S      2  SSW    9  E      5  SW     9  W      9         0
+  25  9  SSW    9  E      9  SSE    9  E      5  SW    19  SW    13      -777  SSW    9  S      5  SW    19  S     13  SE    19
+  26  9  SSW    9  SSE   19  SW    24  SE     9  SW    19  SSW    9      -777  W      5  SSE    2  ESE   19  SE     5  S     13
+  27  9  NW    13  SSE   13  W     19  N      9  NW    13  SSW    5      -777  SSE    2  SE     9  S      9  S     19  SE    13
+  28  9  N      9  SSW    9  NW    19  SSW    9  SSW   24  SSW   13  SSE    2  SE     9  SE     9  SSW    9  SSW   19  E      5
+  29  9  NE     9  SSE    9  SW    13  SW    13  SW    24  S      9      -777  SSE    5  SE    13  SE    19  SSW   19  N      5
+  30  9  E      5      -999  SW    13  SW    13  W     13  SSE    9  SSE   19      -777  S     19  S     13  SSW   13  SSW    9
+  31  9  E      8      -999  W      7      -999  NW     9      -999         0  SE     5      -999  SSW    9      -999  SSW   19
+  1973
+   1  9  SSW    9  SW     5  WSW    9  SW    19  W      9  SW     5  SSE   24  SSW    5  SSW   19  SW     9      -777  SEbE   9
+   2  9  SSW   13  W      5  SW    19  NW     9  S      5  SSW   19  SSW    5  S      5  SW    13      -777  SSE    5  ESE    9
+   3  9      -777  SSW    9  W      5  SW     9  NE    19  SSW    5  S      9  S      5      -777  W      5  SE     5  NE    23
+   4  9  N      2  SSW    9  SW    13  SW    24  SE     9  WSW    5  S      5  SSW    9  SSW   13  WbN    5      -777  W     13
+   5  9         0  W      9  SW     9  SW     9  SSW   13  SW     5  S     13  SSW   13      -777  WNW    5  W      9  SW     5
+   6  9         0  WSW   19  W      9  NW    19  SW     9  SSW    5  SSW    5  SW     9  WSW    9  SE     5  WSW    5  WSW    5
+   7  9  S      5  SW     9  W      9  NNW    5  NW     9  SW     5  NW     5  SW    19  SW     9      -777  SW    24  S      5
+   8  9  SSE    5  SW     9  S      9  N      5  SW    13  SW     9  NW     5  SW     9  S      5  SW     9  SW    24  N      2
+   9  9  SEbE   2  WSW    5      -777  N      5  SW    19  SW     9  S     13  S     24  S      2  SW     9      -777  SSW    5
+  10  9  SSE    9  W     19  SSE    5  SW     5  W      9  SW     9  SSW    5  SW     5  SSE   13      -777  WNW    5  S     24
+  11  9  SSE    9  WSW   13  SSE    5  N      5  SW     9  NW    19  SW     5  NE     5  E      5  ENE    2  WSW    5  SW     9
+  12  9  SSE   19  W     13  SSE    5  NW     9  SSW   19  SSW   24  SW     5  SSE    5      -777  SE     2  SW    19  SSW   19
+  13  9  SSE   13  WNW    9      -777  N      5  W      5  NW    19  SW     9      -777  SE     9  NE     9  WNW    5  NW     9
+  14  9  E      9  SW     9  E      2  NNW    5  NW     5  SE    13  SSW    5  SSE    5  SE     9  ENE    5  SW     9  NW    13
+  15  9  SW    30         0  ENE    5  NNW    5  NW     5  SSE    9  SE     5      -777  ESE   19  NE     9  WNW    5  SSW   13
+  16  9  SW     9  S      5  S      5  NNW    5  SSE    5  SSE    9  N     19  SE     5  S      9  NNE    5  WNW    9  WSW    9
+  17  9  SW     5  SE     2  W      5  NW     5  E     19  W      9  N      9  SW     5  SSW    9  N      5      -777  WSW    9
+  18  9  SSE    5  SSW    9  NNW    5  NNW    5  SE     5  SSW   19  N      5  WSW    5  SSE    5  WSW    9  SSW   19  SW     9
+  19  9  SSE   30  SW     9  NNE    5  N      9  E      5  SSW   13  SW    24  SSE    5  SE     5  SW    13  WNW    9  SE    19
+  20  9  S      9  WSW    9      -777  NNW    5  NE    13  NW     9  SSW    9  E      5  SE     5  S     24      -777  SE     9
+  21  9  SW    13  W      9  S      5  N      5  NE     5  N      5  NW     9  ESE    9  NE     5  WSW    5  SW     5      -777
+  22  9  SW     9  W     13  SSW    9  NE    13  SE     9  SSW    5      -777  SE    13  SW     5      -777  SSW    5  SSW    5
+  23  9  SW     9  W     13  S     13  NE    19  NE     5  SW     5  SW     5  SE     5  N      5  E     25  WSW    5      -777
+  24  9  SSW   13  W      5  SSE   19  NE     9  SW     9  WSW    5      -777      -777  NNW    5  S     13  W     13      -777
+  25  9  SSW   19  W      9  WSW   19  ENE    5  SE     9  SSW    5      -777      -777  S      5  SW     9  W      9  SW     9
+  26  9  SW    24         0  W      5  NE     5  SE     5  W      5  SW     5  SSW    5      -777  S      9  W      9  SW     9
+  27  9  SW     9  S      9  SSE   13  NE     5  S      5  SSE    5  W      5  S      9  SSE   19  SSE    5  SW     9  SSW   13
+  28  9  WSW    9  SW     9  W      5  NE     9  SSE    5  WSW    9      -777  SSW    5  SW    13  SW     5  S      9  SSW    5
+  29  9  SW     9      -999  SSW    9  N      5  SE     9  SW    19  NW     5  SW     9  SW     5  NW     5  S      9  SSW   24
+  30  9  SW     9      -999  WNW    9  S      9  SW     5  SSE   24  NW     5  SW     5  N      9      -777  SE     2  SW     9
+  31  9  SW     9      -999  SW     4      -999  NW     9      -999  SSW    9  WSW   13      -999  SE    13      -999  SW     5
+  1974
+   1  9  SSW   19  SE    24  SW     5  SE    13  W      9  SSE    9  NW    19  SW     5  SSE    9  NNW    5  SW     9  SSW    9
+   2  9  SE    24  SSW    5  SW     5  E      9  N      5  SW    19      -777  SW     9  S      5  WNW    9  S     13  WSW    9
+   3  9  S     37  SW    19  WSW    5  SSE    5  E     13  SW    19  N      9  SW     5  SW    13  NNW    5      -777  S     19
+   4  9  SE    24  SSW    9  N      5  E      5  NE    13  SSW    9      -777  SSW    5  S      5  N      5  NW     5  SW    24
+   5  9  S     19  SW     9  ENE    5  E      5  NE     9  SSW   19  SW    13  SSE   10  SSW    9  NNW    5  S     19  WSW    9
+   6  9  SSE    9  SW     5  SE    24  ESE    5  N      5  W      9  WSW    9  SE    19  SSW    9  SW     9  WSW    5  SW    19
+   7  9  SSW    5      -777  S     19  ENE    5  SSW    9  SW    13  SSW    9  SE    13  SE     9  WSW    5      -777  WSW   19
+   8  9  SE    30  SSW   19  SSE    9  ENE    5  SbE   19  SW     2  SSE   13  SSW    9  SW    13  N      5  WSW    9  SW    24
+   9  9  SSW   13  SW    13  E      5  ENE    5  SbE   19  WSW    9  SW    13  SSW    9  SW     9  N      5  SW    24  SW    19
+  10  9  SE    37  S     24  NE     5  SEbE   5  SE    24  WbS   13  SSW   19  SW     9  SSW   13      -777  SW    13  WSW    9
+  11  9  SW    24      -777  NNE    5  NNE   13  SSE    9  WNW   13  SW    19  SSW   13  SE     9  N      5  WSW   24  N      5
+  12  9  SW    30  SW     9  ENE    5  NE    13  SE    24      -777  SW    13  SW    19  SE    19  N      5  SW    19  NW    19
+  13  9  SSW   19  NE     9  ENE    5  ENE    9  SSE   19  SE    13  SW     5  SSW    5  SSW    9      -777  SE    24  WSW    5
+  14  9  SSW   24  SE    13  NE     5  ENE    5  SW     9  SSE    5  W      5  ESE    9      -777  SW     5  SW    37  WSW    9
+  15  9  SW    18  SE    13      -777  ENE    5  SE    24  N      5  SbW   19  SW    19      -777  SW     2  SW    19  SW     5
+  16  9  SE     5  NNW    9  W     19  SbW    5  SE    19  N      5  SSW    9  SW    13  SSW    9  SW     5  SSW    9  WSW   13
+  17  9  WSW   19  NNW    5  S     24  SSE    5  SbE   13  SSW    5  N      9  SW     9      -777  SW     5  SSW    5  WSW   37
+  18  9  SW    24  ESE    5  SW    19  SE     5  SSE    5  SSW    9  NNW    5  SW     5  SSW    5  WSW    5  SW     5  WSW    9
+  19  9  SW    19  SE     5  SSE    9  SbW    5      -777  SSW    9  SW    13  NNW    5  SW    13  SSW    9  WSW    5  SW    19
+  20  9  SSW   19  SW    13  SSE    5  SSW    0  SW     9  SSE   13  S      5  SbE   13  SW    13  WSW    9  NW     9  SW    13
+  21  9  SSW    5  SW     9  SSE   13  SSW    5  SSW    9  ESE    5  SW    13  SW     9  SSW   19  WNW    5  NNE    5  SW    24
+  22  9  SSE   13  SW    19  S     19  SW     5  SSW   19  NNE    9  SW    24  SW     5  WSW    9      -777  NNE    5  SW    19
+  23  9  SSW   24      -777  ENE   13  N      5  N      9  NE     9  SSW    9  SSW   19  SE     5      -777      -777  S     30
+  24  9  SW     9  WSW    5  E     13  NbE    5  N     13  ENE    9  WSW    5  S      9  N      5  SW     9  SSE   13  SSW    9
+  25  9  SSW   24  SSW    5  NE     9  SSW    5  N      9  NE     9  S      9  SW    24  SW     5  WSW    5  WSW   19  SSE   24
+  26  9  SSE   13      -777      -777  SE     9      -777  NE    13  SSW    9  SW     5  WSW    5  SW     9  SW     5  WNW    9
+  27  9  SSW    9  S      5  NE     9  SE    13  NNE    5  ENE   13  SSW   13  SSW    9  SSW    5  WNW    9  SW    19  WSW   19
+  28  9  SSW   24  SW     6  ENE    5  ENE   13  WSW    9  ENE    5  SSW    9  SSE   19      -777  NW     9  NW     5  SW    37
+  29  9  SSW   19      -999  ENE    5  ENE    5  NW     5  SSE    5  SSW    9  SSE    5  WSW    5  N     13  WSW    5  WNW   19
+  30  9  SSE   13      -999  S      5  SE     9  SE     9  SW     5  SW     5  SE     9  W      5  NNE    9  WSW    9  SSW   13
+  31  9  SSW    9      -999  SE     5      -999  SE     5      -999      -777  EbS    5      -999  W      5      -999  WSW   19
+  1975
+   1  9  S      5  SW     5  SE     5  NNW    5  SW     9  N      5  S      5  NW     5  NbW    5  SW     9  SW     5  SW    19
+   2  9  SSW   19  S      5  S      5  NNW    5  SW     5  NW    24      -777      -777  SSW   13  SE     5  S     13  N     13
+   3  9  WSW    9  SE     5  EbS    5  NNE    9  SW     2  NW     9  S      5  S      5  SW     5  SSW   13  SW    19      -777
+   4  9  SSW    9      -777      -777  N      9  SW     2  NW     5  S      5  SSE    5  SW    13  SW    24  SSW   24  WSW    9
+   5  9  SW     9  SE     5  S      5  SE     9  N      5  SW    13  E      9  SE    13  SSW    5  SW    24  SW     5  WSW    5
+   6  9  SW    24  E      5  SSW   13  NE     2  E      9  SE    13  SSE    5  SE    13  S      9  SSW    5  SW     5  WSW    5
+   7  9  SW     9  ENE    5  SW     9  NW    19  ENE    5  SSW    9  SE     5  SSE   13  SbE    5      -777  WSW    5  WSW    5
+   8  9  WSW    9  SE    13  SSW    5  NW    13  NNE    9  SE     9  E     13  SE     5  S     13      -777  WSW    5      -777
+   9  9  SSW   13  E      5  WSW    5  NW     5  NNE    9  SE     9  ESE    5      -777  SSW   24  SSE    5  E      9  W      5
+  10  9  SSW    9  SE     5  WNW    5  SW    19  NNW    9  SE     5      -777  N      5  SW    13  S      5  ENE    5  SW     5
+  11  9  SSW    9  SE     5  NE    13  WNW    9  NbW    5  SE     5  SE     5  N      5  S      9      -777      -777  WSW    5
+  12  9  SW    13      -777  NE     5  W      9  SSE   13  SSW    5  SE     9  SSE    5  S      9      -777  SE     5      -777
+  13  9  SSW   24      -777  NE     9  SW    13  S      5  SW     9  SW    13  SE     9  W      5  SE     5      -777  N      5
+  14  9  SSW   13  SW     5      -777  SSW    5  NE     9  WSW   19  SE    19  SW     5  N     13  SbE   13  SSW    5  WSW    5
+  15  9  SbE   30      -777  NNE    9  WNW    5      -777  SW    13  SW    19  SSW    9  N      5  S      5  S      5  W      5
+  16  9  SW     5  S     24  NNE    5  WSW    5  NE     5  W      5  SW     5  SW    13  SSW    9  NE     5  NW     5  WSW    5
+  17  9  SW     9  SW     9  NE     5  SW     9  NE     5  NW     5      -777  SW     5  S      5  NE     5  N      5      -777
+  18  9  SW     5  SW     5  ENE    5  S     13  ESE    5  SSW   19  S      5  SE    13  NW     5      -777  NW     9  SW     5
+  19  9  S      9  SSE    9  ENE    5  SSW    9  SSE    5  SSW   24  SSE   13  SbE   13  SSE   13  SE    13  SW    13  SW     5
+  20  9  SSW   13  SbW    5  NE     5  SbW   13  SW     5  SW     9  SW    13  S     24  SW    13  SE    24      -777  SW     5
+  21  9  W     13  SbE    5  SSE   19  S      9  NE     5  SE     5  SW    19  SW    19  SW     5  SE    13      -777  SW     9
+  22  9  SW    24  S     19  SW     9  SW     5  N     13  SE     5  SW    24  WSW   19  SW    24  SE    24  SSE    9  SW    13
+  23  9  SW    19      -777  WSW    5      -777  NbE   13  SbW    5  SSW   24  SW    13  SW    13  SE    19  SW     9  SW    24
+  24  9  SSW    9  SSE    9  NW     5  NNW    5      -777  NW     9  SW    13  WSW    9  SSE   24  SbE    9  SSW    5  SW     9
+  25  9  NW     5  SE     5  SW    13      -777  NE    13  NNE    5  SW     9  SW     9  SW    13  S     19  WSW    5  NW    24
+  26  9  SSE   24  ESE    9  NNW    9  W      5  E      9  W      5  SW    13  SSW   13  WSW    5  SE    13  SW     9  WSW    5
+  27  9      -777  SE     5  NbE    9  W      9  ENE    9  NE     9  SW     5  SbW    9  NE    13  S      9  W     24  SW     9
+  28  9  SW    24  ESE    5  NW     5  SSE   13  NE     5  SE     9  SbE    9      -777  SE    19  SE     5  SW     9  SW     9
+  29  9  WSW    5      -999  NbW    5  SW    24      -777  SE     5  S      9  NNE    9  SE    30      -777  SW     9  WNW    5
+  30  9  SSW   24      -999  N      9  SW    24  SE     5  S      5  SW     5  N      9  SE     9  S     19  SW     9  SW    37
+  31  9  SW     9      -999  NbE    5      -999  ENE    5      -999  SW     9      -777      -999  SE    30      -999  SW    13
+  1976
+   1  9  SW     9  ENE    5  SW     9  SSW    9  SSE   13  SW     5  SE     9  SW     9  WSW    5  NE     5  SW    13  SW     9
+   2  9  SE    19  E      5      -777  NNW    9  SW    13  W      5  SE     5  SW     5  NNE   13      -777  SW    13  SW     5
+   3  9  NW     9      -777      -777  SW    19  SW     9      -777      -777  W      5  NW     5  SSW    9  SSW    9  SW     5
+   4  9  SE    24  NE     9  SSE    9  SW    13  ENE    5  S      9  SE     5  SW     9  NW     5  S      5  SSW    9  SW     5
+   5  9  SW     9  E     13  SE    24  SW    13  SSE    9  SW     5  SE     5  SW     5      -777  SE    19  SW    13  SW     5
+   6  9  SSW   19  E      5  SE    19  NW    13  SE     5  SW     9  S      5  SW     5  NW     9  SW    30  SE    13  SSE    9
+   7  9  SW    24  SE     9  ESE   19  N      9  SE     5      -777  SSE    5  SW     5  WSW    5      -777  SSW    5  S     13
+   8  9  WNW    5  SW     9      -777  NW     5  SW     5  SE    19      -777  NW     5  SW     9  SW     5  S      9  SW     5
+   9  9      -777  SSW   19  S      9  WSW    5  S      9  SE    19  SW     5  NW     5  NW    24  S      5  SE     5  WSW    5
+  10  9  SW    30  SW    13  S     24  SW    19  SW     9  SSW   19  SE    19      -777  SE    13  S     13  WSW    5  SW     5
+  11  9  WSW   30  SW    13  SE    24  SW     5  SSW    9  SE    19  SE    13  S      5  NNW   19      -777  SW     5  SW     5
+  12  9  SW    24  SW    24  ENE    9  NW     5  SW    13  SW    24  SE     9  SW     5  NNE   19  SW    13  SW     5      -777
+  13  9  SW    13  N      5  N      5  SSW   24  WSW    5  SSW   13  SE     9  NW     5  WSW    9  SW     5  SW     5  SSE    5
+  14  9  WNW    9  SE     9  SE    13  NW    19  S     13  SW     9  SW    13  NW     5  N     13  NE     9  SE    13  SE     5
+  15  9  SW     9  SW     5  ESE   13  NNE    9  SSE    9  SW     9  SE     9  SSE    5  NNW    5  NNW    9  S     13  SE     9
+  16  9  SW     5  N      2  SE     9  WSW    5  SSE   24      -777  SW     5  SE     5  N      5  SW     5  W      5  SE     5
+  17  9  SW     5  S      5  S      5  SW     5  SE    24      -777  SW     9      -777  ESE    5  SE    19  SE    13  SE     9
+  18  9  SW    19      -777      -777  W      5  SSE    9  SW     9  SE    13  SE     5  SE     5      -777  SSW    5  E      9
+  19  9  SW    30  SE     9  SE    13  W      5  S      5  SW     9  SW     5  ESE    5  SE    13  SE     5      -777  E      9
+  20  9  WSW   24  SE     5  SE    24  ESE    9      -777  SW     9  SW     5  SE     5  SE    13  S      5      -777  E      5
+  21  9  SW    13  S      5  SSW    9  ESE    9  S     13  SSE    9  WSW    5  SE     5  SE     5  SW     5      -777  ESE    5
+  22  9  SW    30  SE    19  SSW    5  ENE    9  SW    13  SSE   13      -777  SE    13      -777  SSW    9  SSE    5  ESE    5
+  23  9  WSW    9  SW    19  SE     5  E      5  SSE   13  SW     9  SW     5  E      9  SE     5  SE     5  S      5  SE     5
+  24  9  NW     5  SSW    9  SW    13  NNE    5  SE    19  SSE   19  SW     5  SE     9  ESE   13  SSE    9  SSW    5  NE     5
+  25  9  N      5  SW    24  SW    19  NE     5  SW    13  S      5  SW     5  SE     5  ESE   24      -777  SW    13  ENE    5
+  26  9  WNW    5  SW     9  SW    13  NE     5  WSW    5  SW     5  WbS    5  SSE    5  S     19  SE     5  SSW   24  NE     5
+  27  9  WNW    5  SSE    9  SW    19  ENE    5  SW     5  SW    13  W      5  ENE    5      -777  ESE    9  SW     9  SW     9
+  28  9  SSE   24  SE    13  WSW   24  SE     5  SE     9  SW     5  NW     9  NE     9  ESE    5      -777  SW    24  N      5
+  29  9  SE    37  SW    19  SEbE   8  S      5  SE     5  SSE    5  NNW    5      -777  ESE    5  ENE    5  SW    13  SSW   19
+  30  9  SE    37      -999  SW     9  SW     5  SE    19  E      5  SW     9  N      5  ESE    5      -777  SW     5  SSW    9
+  31  9  NE     9      -999  SW    24      -999  SW     5      -999  N     13  N      5      -999  NE     5      -999  SW     5
+  1977
+   1  9  SW     5  SW     5  S      5  SW    30      -777      -777  SW     9  NE     5  S     19  SW    19  SSW    9      -777
+   2  9      -777  SW     5  SSW    9  WSW    9      -777      -777  SSE   24      -777  SSW   24  W      5  S      5  SE    13
+   3  9  WSW    9  SW    19  SW    13  N     24  NNE    9      -777  S      9  SSW    5  SSW   19  SW    19  SW    24  SE    19
+   4  9  SSW   24      -777  SW    19  NW     5  SW    13  W      9  SSE    9  S     19  SSW   24  SW     9  SW     9  SE    19
+   5  9  SW     9  SSW   13  SW    13  W      5  W      5  NW    13      -777  WSW    9  SW    19  SSW   19  SW    13  SE    24
+   6  9  SW     9      -777  SSW    5  N     13  SW     5  SW     9  E      2      -777  SW    24      -777  SSW   19  E     19
+   7  9  SW     5  SW    19  SE    24  N      9  WSW   19  NNE    9      -777      -777  SW     9      -777  SW     9  E     24
+   8  9  W      5  SW     5  S     30  NW     5      -777  N      9  NNW    5      -777  SSW   13  SSE   19  SW    24  NE     5
+   9  9  SW    13  SE     5  SE    24      -777      -777      -777  N      5      -777  SW     9  S      5  SW     2  SE     5
+  10  9  NNE   13  SE     5  SE    37  NNE    5  SW     9  NE    13      -777  SE     5  SW     5  SW     9  S     24  SSE   19
+  11  9  N      5      -777  SW    19  SW     5  S     19  N      9  ENE    5  SE     9  SW    13  SE    24  SW    24      -777
+  12  9  NW     2  ESE   13  SW     9  WSW   13  SW     9  NNE    5  E      9      -777  SW     5  SSW   24  SW    13      -777
+  13  9  NW    13  SE     5  SE     5  SW    13  NNE    5  SE     5  SE     5  SE    13      -777  SSE    9  W      5      -777
+  14  9  NNW   24  SE    13  SW    19  NW     9      -777  NNE   13      -777  SE     9  SSW    5  SSE   13  SW    30  SSW    9
+  15  9  NNW    5  SE    13  SE    19      -777      -777  NNE   13  SE     9      -777      -777  SE    19  ENE    9      -777
+  16  9  NW     5  SW     9  S     19  SSW    9  N      9  NE     9  SW     9  E      9  SE    13  SE    19  SW     5      -777
+  17  9      -777  SE    19  SSW   19  N      5      -777  ENE    9  SE    13  ENE   13  E      2      -777      -777      -777
+  18  9  SE    24  SW     9  SSW    9  SSE    5      -777      -777  SW    19  NE     9      -777  SE     9      -777      -777
+  19  9  SSE    9  SW     9  SW     5  SE     5      -777      -777  SW    24  NNE    5      -777  SE    13  SW    24      -777
+  20  9  SE    19  E     13  N      5  SSW    5      -777      -777  SW     9  NNE    9  ESE    5  SE    13      -777  SSE    5
+  21  9  S     30  NE     5  NE     9  SW    13      -777      -777      -777      -777      -777  SE    13      -777  SE    13
+  22  9  SW     9  NE     5  NE     9  SW    24      -777      -777  SW     5  N      2      -777  SSE   24  W     19  S     13
+  23  9  S      9  NE     9  NE     9  SW     9      -777      -777  SW    19      -777  SE     5  SSW    9  SW    24      -777
+  24  9  SE    24  NE    13  ESE    2  W      5  NE     9  SSW    9  WSW   19  SE    30  SE    19  SW    19  NW     9  SW    19
+  25  9  SE     5  NE     5  SE     9  SW    24  NE     9  S      5  NW     5      -777  S     13  S      9      -777  SW     5
+  26  9  SW     5      -777  SE     5  SW    13  NE    13  SE     5  N      5  S      5  SSE   19  SSW   13      -777  SW    13
+  27  9  ESE   19  SE     5  NE    13  SW    19  SE     9      -777  S      9  N      9      -777  SW     9      -777  W      9
+  28  9  NE     5  SE    19  NNE    5  SW    13      -777      -777  NNW    9  SW     9  NW    24  SW    24      -777  NNW    9
+  29  9  NE     5      -999  NW     5  WNW   13      -777      -777      -777  SW    24  SW    24  SSE   19      -777      -777
+  30  9  SSW   24      -999  S     19  WSW   13  E      9  SW    19      -777  SW     5  SW    24  SSE   37      -777  NW    24
+  31  9  SW     5      -999  SW    24      -999  SE     9      -999  NE     5  SW     9      -999  SSW    9      -999  WNW    9
+  1978
+   1  9  SW    19  SW     9  ENE    9      -777  ENE   19      -777  S     13  N      9      -777      -777  SSE   13  SE    19
+   2  9  SW     5  NW    13  SE     9      -777  ENE   19  SSW   13  SSW   18      -777  N      9      -777  SSW   13  SSE    9
+   3  9  WNW   37  SE     9      -777  ENE    9  E      2  SSE    5      -777  NW     9  SW    13  SSW    9  SW    24  SE    24
+   4  9      -777  S      9      -777      -777      -777  SSE   13  NNE   24  SW     5  SW     5  SW     9  S     24      -777
+   5  9  SW    13  SSW    9  WNW    5  NE    13  NNW    5  S     19  NNE    5      -777      -777  SW    19  SSW   24  SE     9
+   6  9  SW    13  SW     5  SSW    9      -777      -777  SW    13  NE    19  SE     9  SE    13  S      9  SSE    9  SE    30
+   7  9  SW     2      -777  S     13  ENE    5      -777  SW     9  WSW    5      -777  SSW    9  SE    13  SSE   19  SE    37
+   8  9  S      9      -777  W      5      -777  ENE    5  SW    13  SW     5  NE     5  S     19  SSE   24  WSW    9  SSE   13
+   9  9  SW     9  E      5  S     13  S      9      -777  WSW    9      -777      -777  SW    13  SbW   13  S     13  SW    24
+  10  9  SW    13      -777      -777  NW     9      -777  WSW   19      -777      -777  SW    13  W      5  SW    13  SE    24
+  11  9  NW     5  ESE    5  SSE    9  N      5      -777      -777      -777  S     19  SW    24  SSE    9  SSW    9  ESE   30
+  12  9      -777      -777  W     13  NNW    5  WSW   13  N      5      -777      -777      -777      -777  S     24  SE     9
+  13  9      -777      -777  S     13  W     19  NW     9      -777      -777  SSE   13  SSW    9      -777  SW    24  SW    19
+  14  9      -777      -777  SE    13  NNW    9      -777  SSE    5  NE     5  S      9  SSW   13  SW     5  SW    37  SE     5
+  15  9      -777      -777  SW     9      -777      -777  SE     9      -777  SSW    9  SW    19      -777  S     37  SE     5
+  16  9      -777  NE     9  SW     5  S      2      -777  N     19      -777  SW     9  S     19  SW     9  SW    19  NE     9
+  17  9      -777      -777      -777  SE    19      -777  NE    11      -777  SW     5  SW     9  W     13  SW    19      -777
+  18  9      -777  ESE    9      -777  ESE   13      -777      -777      -777  S     24  SSW    9  N      9  SW    13      -777
+  19  9      -777  ENE   24  SSW   30  SE     9  SE     5  SW     5  NNE    9  SE    13  SW     5  W     13  SW     9  SE    13
+  20  9  W     13  E     24  SW    19  SE     5  S      5  SSW   13  WSW    5  SSW    5      -777      -777  SSW   19      -777
+  21  9  SSE   19      -777  SW     9  N      9  SE     5      -777      -777  SSW   13      -777      -777  SW    13  NNE    5
+  22  9  W      9  SE    19  SW    13  SE     9      -777  SW     5  S     24      -777  SW    13      -777  SW    24  E      5
+  23  9  SE    13  SE    19  SW    19  SSE   19  SSW    5  N      9  S     19      -777  SW    13  SW    13      -777  E      9
+  24  9  NW     5  S     24  WSW    5  E     13  NNE    9  SW    19  SW    13      -777      -777  WSW   19  WSW    9  E     13
+  25  9      -777  SE    19  S     11  NE     9  SW     9  SW     5  SSE   19      -777  SW    19  SW     9  SW     5  NE     5
+  26  9  SW    19      -777  SW    24      -777      -777  WSW    9  SSW    5      -777  SW    13      -777  WSW    5  WSW    2
+  27  9      -777  SE    13  SW    19  NE     2      -777  SW     5  S     24  W      5  SW     5  SW     5  WSW    5  ESE   19
+  28  9      -777  S     13  SE    19  NE     2  SSE    9  SW    19  S     13  W      5  SW    19  SW     5      -777  NE    24
+  29  9  NNW   37      -999  SW    24  E      6  SE     9  SSW    5  S      9  W      5  W     30  SSE   13  SSE   13  NE    24
+  30  9      -777      -999  SW    19  NE    13      -777  NW     9      -777      -777  NNW   19  SE    13      -777  NE     5
+  31  9  SW     5      -999  ESE   24      -999  SE    18      -999      -777      -777      -999      -777      -999  ENE    9
+  1979
+   1  9  NE     5  ENE    9  SW    13  SW    13  NW     5  S      9  SW     9  SW    13  SE    13      -777  SSW   13  SW    19
+   2  9  SW     9  NE     5  SW    13  SW    13  NW     9  SE    13  SW    13  SSW    5  S     19  SSE   13  S      9  SW     5
+   3  9  SE    19  SW    13  WSW    9  W      5  NNW    5  ESE    9  SW     5  SW    13  SW     9  SSE    5  SW    24  SW    37
+   4  9  S      5  SW     5  SW    19  N      5  NW     5  SE     5  SE     5  NW     5  S      9  SbE   19  SW    19  S     37
+   5  9  S      5  S      5  SW    24  NNE    5  NW     9  SW     5  S      9  SSE   24  SSE   13      -777  SW     9  WSW    9
+   6  9  SW     5  SE     5  S     30  NNE    5  WSW    5  SE     5  SW    19  S     24  SE    13  SE    19  W      5      -777
+   7  9  SW     9  ENE    9  SW    19  NE     9  SW     5  S      5  SW     9  S      9  SW     5  SE    24  WSW    5  SE     5
+   8  9  SW    13  ENE    5  SSW   24  ENE   19  WNW    5  ENE    5  SW    13  SSW    9  SE     9  SE    19  SSW    5  SW    13
+   9  9  SW    19  ESE   13  SW    19  E     13  W      5  NE     5  SW     9  N      9  N      5  SE    19      -777  SW    19
+  10  9  W      9  E     19  SSE    5  NE     5  SE    13  SE     5  SW     5  N      9  SSW   13  SSE   13  SW     9  SW     9
+  11  9  SEbS   5  ENE    9  W     24  NE     9  W      9      -777  SSE    5  SSW    5  SW    13  SSE   24  SSE   13  NW     5
+  12  9  WNW    5  ENE    9  WSW   24  ESE   13  SW     9      -777  SSW    9  SSW   13  SSW   19  SSE   24  N      5  SE    24
+  13  9      -777  NE    24  WSW    5  SW    19  SW    13      -777  SW     9  SSW   13  WSW    5  E      5  SE     9  SSW   13
+  14  9  SE    13  NE    30  N      5  SW     9  WSW   13  SW    19  SW     9  NE     9  SW     9      -777      -777  SSW    5
+  15  9  S     13  NE    13  N      5  N      5  SW     5  NW    13  W      5  SSW   13  SSW    5      -777  ENE    5  NNW    9
+  16  9  W      5  NE     5  NE    19  N      5  SSE   13  WSW    5  SW    13  SSE   19  SW    30      -777  NE     5  S      9
+  17  9  W      2  ESE    5  NE    13  N      5  SSE    9  SW     9  S     19  SSE    9  SW    24  SbW   13  SbE   30  WSW   44
+  18  9  NE    19  SE    24  NE     9  SW     5  N     13  SSE    5  S      9  NE     9  S      9  S      9  W     19  SW     9
+  19  9  NE    24      -777  NE     5  SSW   13  SW     5  SW     5  SSW   13  S      9  SSW    5  SW     9  SW     5  NW     5
+  20  9  E      5  SE    19  SSW    9  W      9  SSE   13  S     13  SW    13  S     19  WSW   24  SW     9  SW     5  NbW    5
+  21  9  SE     5  SE    13  NW     5  W      9  SSW    2  S     19  WSW   13  SSW   13  SW     5  SW     5  S     13  NbW    5
+  22  9  NE     5  S      9  WSW    5  SW     9  S     19  SSW   13  W      9  SW    19  WSW    5  SE    13  SW    19  SE     5
+  23  9      -777  WSW    5  NW     5  SW    13  SE     5  SSW    9  W      5  SW     9      -777  SE     9  SW    13  S      9
+  24  9  NE     9  NW     5  SE    19  N     13  SW     9  SW     5  SSW    5  NbW    2  S      9  SSE   19  SW     9  SW     5
+  25  9  WSW    9  S     19  SSE   13  NW     5  S      5  SW     9  SSW    9      -777  SbW   19  SSW    9  SW    37  SbE    9
+  26  9  NW     5  SW    24  NNW    9  N     13      -777  SW     9  SSW    5  E      2  SW     5  SSW    5  W      5  SW    13
+  27  9  NW     5  SW    37  W      9  SW     5  SSE    9  S     13  S      9  NE     2  SSW    9      -777  SbE    5  NNW   13
+  28  9  SSE    9  SW    13  NNW    9  NW    13  SSE   13  SSW    9  SSE   13  SW     9      -777      -777  S     19  S      9
+  29  9  S      5      -999  N     30  W      9  S     19  SW    13  SW     5  SW     9  SE     5  S      9  SSW   13  SW     9
+  30  9  N      5      -999  N      5  NW     9  S      9  ESE    9  SSE   13  SE     2  SE    13  SbW   24  SW    24  W      5
+  31  9  SW    19      -999  WSW    9      -999  SE     5      -999  S      7      -777      -999  S     13      -999  NW     5
+  1980
+   1  9      -777  NE     9      -777  WSW    5  NE     9  WSW   13  N     13  S      9  S     13  WSW    9  SSE   37  SW    19
+   2  9      -777  S      5  NW     5  W     19  NE    13  SSW    9      -777  SSE    5  SSE   13  S      9  SE     2  W      5
+   3  9  S     13  SW     5      -777  WSW    5  E     19  SSW   13  SbE    9  E      5  SSW    5  S     19      -777  N      5
+   4  9  SSW   19  SE    19  SSE   13  SW     5  E     19  S      9  SW    24  SSW   13  S     19  SW     9  SE     5  NbW    5
+   5  9  SW    19  SSE    5  SSE   24  S      5      -777  SSW    9  SW     9  SSW    9  S      9  S     19  E      9  W     13
+   6  9  W      9      -777  SSW    5  NW     5  E      9  SW    13  SSW    5  SSW    5  SbW   24  SbE   19  NE    13  NNW    5
+   7  9  W      5  ESE    5      -777  NNW    9  ESE    5  NW     9      -777  NW     9  SSW   13  SW    19  ENE    9  NbW    5
+   8  9      -777  S     19  NW     5  NbW    5  SE     9  ENE    9  SSE    5  NbW    9  SW     9  WSW   19  ENE    9  W      5
+   9  9  SE    19      -777  SW     9  N      5  SSE   13  W      9  N      9  SE     5  SW    13  SW     5  NE     5  SSW   13
+  10  9  SE     5  SW     9      -777  NNW    5  SE    19  SE     9  N     13  SSE    5  WSW   13  SW     5  NE     5  SW    37
+  11  9  SbW    9  WSW    5  SSW    9  NNW    5  SE    13  E      9  W     13  SSE   13  SSW    9  NW     5  SW     5  SW    13
+  12  9      -777  SbW   13      -777  SSE   13  SE    13  E     13  SW    13  SW    24  SW    24  N      5      -777  SSW   24
+  13  9  S      9      -777  W      5  SE    24  SSE    9  NE     9  WSW    5  SSE   13  SW    13  SE    13  SSW    5  WSW   13
+  14  9  WSW    5  SbE   19      -777  W      5  SSE    9  SE     5  SSE    9  SbW    5  SW     5  SSE    5  SSW   30  SSE   37
+  15  9  N      5  WSW    5  NW     5      -777  SE     9  SW    13  NE     9  SE     5  SSE   13  NE     5  SSW   13  SSW    9
+  16  9  N      5  SW     9  SSE   13  W      5  SSE    9  SSW   13  NbE    9  S      9  SbW    9  N      9  SW    19  SbW    9
+  17  9      -777  SbE    9  SW     9  N     13  SE     9  SW     9  SSE   19  S     24  SSW   19  N      9  SSW   13  SW    19
+  18  9  SE    13  SSE   13  NE    19  W      9  SE     5  NEbE   9  SW     9  SW    13  SE    24  NW     5  SW     9  W     24
+  19  9  SE    19  SSW    5  ENE   19  N     19  S      5  SW    24  SSW    5  SW     9  SE    13  SW     5  SSW   13  SSE   24
+  20  9  SSE   13      -777  NE     5  NNE    5  W     13  W     24  N     24  W      9  SSE    5  SE     9  SW    13  WSW    5
+  21  9  E     19  SE    13  NbW    9  N      5  NNE    9  SW    19  S      9  NbE    9  NE     9  SE    13  S     13  W      9
+  22  9  WSW    9  SW    13  W      9  NNW    9  N      5  SSW    9  SSE   24  N     13  SE    24  S      9  SW    24  SSW    9
+  23  9  WSW    5  W      5  SE     9  NNW    5  N      5  SW     5  SSW    9  N      5      -777  NW    13  SW    19  W     13
+  24  9  SW     5      -777  SE    19  NbW    5  N      9  S      5  S      9  N      5  SW    13  WSW    9  SW    19  WNW    9
+  25  9  WSW    5      -777  SSE   13  W      5  SW     9  S      5  SSE   13  N      5  SSE    9  WSW    5  W     13  SW     9
+  26  9      -777      -777  S     13  S      9  SW     5  S      5      -777  SbE    5  S     19  S      9  W      9  SW     5
+  27  9  SW     9      -777  N      9  S      5      -777  SW    13  N      5  SE     2  S      9  SW    13  W      9  S      5
+  28  9      -777  SSW    5  E     13  N      9  N     13      -777  SE    13  SSW    9  SW     5  SW    13  NbW    5  SW     9
+  29  9  SE     5      -777  N      9  N      5  N     13  ENE    9  ESE   13      -777  SSE   19  WSW    9      -777  WSW   19
+  30  9  SSW    9      -999  SW     9  NE     9  NW    13  SW     9  SE     9  SW     9  SW     9  SSE   19  N      5  SW    24
+  31  9  ENE    9      -999        19      -999  SSW    9      -999  SSE   19  W      5      -999  SE    19      -999  WSW   37
+  1981
+   1  9  W     13  S      9  E     24      -777  N      9  SE    19  S     19  N      9  SE     9  NNW   18  SSE   19  NE     5
+   2  9  WSW   24  WSW   19  NE    13      -777  N      9  SE     9  SbW   13  SSE   19  SE     9  N      9  W      9      -777
+   3  9  W     37  WSW   19  NE     5  S      5  SSW    9  S     13  S      9  NWbW   9  SSE    5  N     13  S     24  W     19
+   4  9  WNW    9  W     19  E      9  S      5  NNW    9  SSE   19  SW    19  SSW   13  SSE   13  N      9  SSW   13  NW     5
+   5  9  WNW    5  W      9  S      5  NbW    5  SSE   13  SW    13  SSW   19  S     13  SSW    9  N      5      -777  W      9
+   6  9  NNW    9  SW    13  SbW   13  SE     5  SSW   19  SSE    5  SSW   19  SSW    9  S      5  SSE    9  SSE    9  SW     5
+   7  9  NW     5  SW    20  SW    13      -777  SSE    9  SbW   13  SSE   13  N      5  SSE    0  WSW   19  SSE   13      -777
+   8  9  SW    13  W      9  W      9  S      5  SSE    5  SSW   13  SSE   13  WSW   13  S      5  E      0  SSE    9  W      5
+   9  9  W      5      -777  SW     5  SbE    5  S      5  W      9  S      5  NWbN   9  SSE   19  SbE   13  SSW   13  SW     9
+  10  9  N      9  W      9  SbE   24  SE     9  NE     9  SW    13  SSE    9  SW     9  SSE   24  SW    24  SW    19  SW     5
+  11  9  N      5  W      9  SbW    5  SE    19  E      9  ENE    9  SW     5  SW    13  SE    13  WSW    9  SW     9      -777
+  12  9  NW     9  SbW   13  SbW    9  NbW   13  NE     5  ESE    9  WSW    5  SSW    9  SSE    2  WSW    9      -777  SW     5
+  13  9  WSW   13  SE     5  ESE    5  NE    13  SSE   13  S     19  SW     9  S      5  SW     5  SW     5  SW     9  SSE   37
+  14  9  WSW   19  SSE    5  ESE    5  ESE   19  SSW    9  SW    13  SW     9  SSW    2  SE    19  W      5  WSW    9  S     24
+  15  9  WNW   13  S      9  N      5  E      5  SE    19  SSW   13  SW    13  S      5  SW     5      -777  SSE   24  WSW    5
+  16  9  SE    24      -777  NNW    5  ESE    5  S      5  W     19  SW     9  SW     5  SSW    2  W      9  SW     9  SE    19
+  17  9  WNW   37  SSE   19  N      5  SE     5  E     13  W      9  SW     9  SW     9  S      9  SW     5  SSW    9      -777
+  18  9  SSE   19  SSE   19  W     19  E      5  SE    13  N      5  N      9  SSW    5  SW    13  SW     9  SW     5  SE     5
+  19  9  WSW    9      -777  WSW    5  ENE    5  SSE    9  NNW   13  SSW    5  WSW    9  S     24  SW    13  SW     9  SE    19
+  20  9  W      9  SE     5  SW     9  ESE    5  SE     9  N      9  SW     9  N      2  WSW   19  SSW   13  WSW   44  SSE    5
+  21  9  SW    13  SSE   13  SSW   13  ENE    5  SE    19  N      9  SSW    9  SW    13  SW     2  NW    13  S     13  S      5
+  22  9  SW     5  ESE    9  N     13  NNE    9  S     13  SW     5  SW    13  W     13  SW     2      -777  SW    24  ESE    9
+  23  9  SSW    9  W      5  SE    19  ESE    9  SSE   19  SW     5  N     13         0  S     19  N      9  NNW   13  ESE    9
+  24  9  WSW    5  SSE   19  S      9  N     13  S     19  NNW    5  NbE    9  S      2  SSW   13  SW     9  SW     9  E      5
+  25  9  SW     9  SSE   24  SSW   24  NbW   19  SSE    5  N      5  SW     9  SSW    5  S      9  SW     9  SSW   13      -777
+  26  9  SW     5  SE    24  SW    19  N      9  ESE    5  N      5  SbE    5  SSW    2      -777  SW     9  SW    19  SE    37
+  27  9  SW     5  ESE   24  SE    24  N     13  SSE    9  N      9  SSW    2  SSW    5  SW    19  SbW   13  WSW    9  SE    19
+  28  9  SSE    5  SE     9  SSE   24  W      5  SE     9  NE     2  SSW    5  SSE    2  SW     9  SE    19  NW     9  E     13
+  29  9  SSW   19         0  S      5  WSW    5  SE     9  NE     9  SSW    5         0  SSW    9  SbW   18  W      5  ENE   13
+  30  9  SSW    9         0  W      5  W     19  SE     5  WSW    9  W      5  SE     5  SSW    9  SbW    9  SW     9  ENE    5
+  31  9  SW     9         0  W      5         0  SE    13         0  W      9  SE     9         0  SSW   19         0  NNE    5
+  1982
+   1  9      -777  S     19  SW    19  E      5  NW    24  S      9  S     19  E      5  SW     9  SSE   13      -777  SSE    9
+   2  9  SE     9  SE    13  SW    19  S      9  SSW   37  S      9  SW     9  E      5  SSW    9  SE     9  SW     5  SE     5
+   3  9  S      9  SE    37  SW    24  SE     9  SW    24      -777  WSW    9      -777  SW     9  SE     9      -777  SSE   13
+   4  9  SW     9  SSE   37      -777  SE     9  NW    13  SE     9  S     19      -777  SW     5  SE     5  SE    19  S     24
+   5  9      -777  SSE    9  SSE    9  E      5  S      9  SSE    5  SW    13      -777  ESE    5  S      9  SW    13  SW     9
+   6  9  ENE    5  S     30  W      5      -777  NbW    9  S      5      -777  NNE    2      -777  N      9  S      5      -777
+   7  9  E      5  SSW   13  W      5  S      9  NW     5  S      5  SSW    9  NE     5  SW     9  N      9  SE    19  ESE   24
+   8  9  E     19  S     30  SW    19  N     13  S      5  SE     5  SW     5  SW    13  SW     9      -777  SE    19  WSW   13
+   9  9  NE    13  S      9  SW    13  W     19  S      9      -777  SSE   13  SW     9  SbE    9      -777  W      9  SSW    9
+  10  9  ESE    5  SSE   13  WSW   34  W      5  SSE   13  SE    13  SSW    5  WSW   13  SSW    9  N      5  SW    24  SbW    9
+  11  9  E      5  S      9  SW    13  N      5  E      5  SbW    5      -777  S      9  SSW    9      -777  SE     9  SSW    9
+  12  9  E      5  S     44  WSW   34  N      5  ESE   19      -777  N     13  SW    19  SSW   20  SE    19  WSW   24  SSW    5
+  13  9  S     13  SSW   37  WSW    9  W      5  SE    13  NE     9  ESE    5  SW     9  SSW    9      -777  WSW    9  E      5
+  14  9  S      9      -777  SW     9  SbW    5  ESE    5  NbE    5  NE     9  W      5  S      9  N      9  WNW    9  SSW   19
+  15  9  SE    13  SSE    5  SSW   19  SW     9      -777  SE     9  N      9  SE     5  SSE   13  NNW    5  WNW    9  SSW   24
+  16  9  SSE   24  SE     5  SSW   13  SW     5  S     13  SSE    5  N      2  SW    13  SSE    9  SE    37  W     24  SW    13
+  17  9  S      5  ENE    9  W     13  NNE    5  S      9  SSE    5  SW     5  WSW   13  SW     5  SE    37  SW    24  SW     9
+  18  9  SE    19      -777  NW     9  S      5      -777  ESE   24  SW     5  WSW   13  S      9  W      9  W     24  WNW    5
+  19  9  SE    13  SE    13  SSE    9  SSE    9  S      5      -777  S      5  WSW   19      -777  SSW    9  SW    24  SW     9
+  20  9  SE    19  SE    19  NNW    5  WSW    5  SSE    5      -777  S      5  WSW   19  SE    19  SW    19  SW     9  SW    37
+  21  9  S     19  SE    37  S      9  WSW    5  SSE   13  E      9  NE     5  SW    13  SW    13  SSW    9  SW    24  NNW    9
+  22  9  SW    13  SSE    5  WSW    9  WSW   13  SW    13  NE     5      -777  SW    13  W     13  SSW    9  SSE   37  WNW    9
+  23  9  WSW    5  SSE    5  S     13  WNW    5  SW     5  ENE   19  NE     5  SW     5  SW     9  SSW    5  E      5  WNW    5
+  24  9  S      5  SSE   24  S      5  W      5  SSW   13  E      5  E      5  SW    19  S     30  SbW    5  SSE   13  SW     9
+  25  9  SW     9  SSW    9  SSW   13  N      2  S     19  SE     9  S      9  SW    19  SE     9  WSW    5  SSW    9  SW    13
+  26  9  SW    24  SW    13  S      5  N      5  SW    13      -777  ENE    5  SW    19  SE     9  SSW   37      -777  SW     5
+  27  9  N      5      -777  S      2  N      9  SW     9  SSW    9  NE     5  SW     5      -777  S     19  SW     5  SW     9
+  28  9  W     13  SSW   19  S      2  NbW   13  WSW   13  S      5  NE     5      -777  SSE   30  SSE   24  WSW    5  SW     9
+  29  9  W     37         0  NNW   19  NW    13  S     13  SW    13  SE     5  S     19  S     13  SE    24  S     13  S      9
+  30  9  SW    19         0  N      5  NW    13  SSW    9  S     13  SE     2  W     19  SSE   24  N      5  SSE   24  S      9
+  31  9  SW     5         0  NNE    9         0  SE    13         0  SE     9  WSW    5         0  SW    13         0  S      9
+  1983
+   1  9  WSW    9  W     37  S      9  N      5  SE     5  ENE    9  SSW    9  WSW    9  SSW    2  SE    19  SW     9  SE    13
+   2  9  SW     9  W      9  SSW    5  NNW    5  NE     9      -777  SW     9  NbE    5  SSE   19  SSE   13  S      5  S      9
+   3  9  SW     9  SW     5  W      5  W      5  NbW    5  SE     9  SW     9  SW    13  SSE   24  SbE    5  SbE    5  SSW    5
+   4  9  SW    13  S      9  WSW   13  SW     9  SE     9  S      9  SW     9      -777  SSE   24  SSE   19      -777  S      5
+   5  9  SbE   13  WSW   19  WSW   19  SW     5  SE    19  S      5  S      9  SW     5  SW    19  SW    19  SSW    9  SSW    5
+   6  9  SW    13  N     24  WSW   19  SW     5  SE     9  SEbE  13  SE     5  SW     5  SW    19  SSW    9  S      5      -777
+   7  9  SW    19  N      9  WSW    9  S      5  SE     9  E      9  SSE    5  SW     5  S      9  SSW    5  SSE    9  SbE   13
+   8  9  SW    13  N      9  WSW   13      -777  N      5  SE     5  SE     5  SW     5  SE    13  SW    19  SE     9  SW    19
+   9  9  SW     9  N      5  WSW    9  WSW    5  SW    13  SW     9  SE     5  S      5  S      9  SW     9      -777  N     13
+  10  9  SW    24  N     13  SW     9  NW     9  S     24  SbW   13  E      5      -777  N     19  SW    19  ESE   13  N      5
+  11  9  SSW   24  NNW    9  S      5  NbE   13  SSE    9  SW     9  SE     5      -777  N      9  WSW   19  SE    13  SE     9
+  12  9  SW     5  N      5  SSE   13  NbW   13  SE    13  SW    19      -777  S      5  N      5  SSW   24      -777  SW     5
+  13  9  W      9      -777  SSE    9  SW    13  SSW   13  S     19      -777  NbW    5  ESE    5  S     30  E      5  SbE   30
+  14  9  NW    13  N      5  SW     9  SW     9  SW    13  W      9      -777  W      9  WSW    9  S     13  NE     5  S      9
+  15  9  WNW   13  N      9  WSW    5  SW     9  SE    19  WSW    9  S      9  SbW   13      -777  SSW   19      -777  S      5
+  16  9  W     19  E      9  SW     9  SSW   19  ESE    9  S      9  SSW    9      -777  SSW    5  SW    30  N      5  E      5
+  17  9  SW    24  E      2  SW     9  SW    19  SE    13  S      5      -777  SSW    9  WSW    5  SW    19  N      5  E      5
+  18  9  W      9  E      2  SW     5  W      6  E      9  S     13  NW     9  S     13  S     24  SW    37      -777  SE     9
+  19  9  NW     9  E      2  NW     5  NNE    9  N      2  SE     5  N      9  SSE   13  SW    24  SW     9  N      5  NE     9
+  20  9  SW     9  E      5  WSW    9  N      5  NNE    5  NE     5  W      9  ENE    9  SW     9  SW     5  SW     5  NE     5
+  21  9  SW    13  ESE   13  SW    24  NE     9  N      2  E      5  NW     5      -777  S      5  SW     5  NW     5  NE     5
+  22  9  SSE    9  SE     9  W     30  NE    13  NNE    2  NE     5  SE     9      -777  S      5  SbE    5      -777  E      5
+  23  9  SE    13  ESE    5  SW     5  SE    19  NNW    2  N      5  E      5  S      5  SE     5  S      9      -777  SW     9
+  24  9  SW    19  SE     9  N      9  S      5  ESE    5      -777      -777  S      5  SSW    5  SSW    5  SE    13  SSE   13
+  25  9  SW    24  SE     9  W      9  NE     9  S      5  N      9  SE     5  S      5      -777  SW    19  SSW   13  SW     9
+  26  9  SW    19  SSE    2  N      9  E      9  SEbE   9  SW     9      -777      -777  SSW    9  SSW   13  SW     9  SW     5
+  27  9  SW    19  SbW    8  WSW    5  ENE    5  N      5  SW     9  S      9  SE     5  SbW    5  SW     9  S      5  SW    24
+  28  9  SW    13  SEbE   5  N      5  E      5  N      2  WSW   13  N      9  NbE    5  EbN    2      -777  SW    13  SW    19
+  29  9  SW     9         0  SW     9      -777  NE     8  SW    13  NNW    9  NbE    9  SE     2  N      5  NW     5  SW     8
+  30  9  SW    24         0  WSW   13      -777  E      5  W      5  WSW    9  S      9  ESE    9  SW    19  SE     9  WNW    5
+  31  9  SE    13         0  SW    13         0  SSE    9      -777         0  SSE    9         0  WSW    9         0  WSW   24
+  1984
+   1  9  SW     9  SE    24  W      5  NE     9  E      9      -777  NNE    5  S      5  SbW    9  SSE    5  SbE   19      -777
+   2  9  SbW   19  W     13  NW    24  SE     5      -777  SSW    9  N      9  NE     5  SbW    5  S      9  S      5  SSW    5
+   3  9  SW     5  SW     9  NbW    5  SE    19  NE     5  E      5  NNE    5  NNE    9      -777      -777  S      5  SE     5
+   4  9      -777  SW    19  WSW    5  SE     9  E      5  SE    13  NNE    5  NE     5  N     13  S      5      -777  SE     9
+   5  9  WSW    9  SW    19  W      5  SE     5  SE     5  NE     9  S      5  N      5  N      5  S      5  N      5      -777
+   6  9  SSW    5  SW    24  W      5      -777  NE     5  NE     5  S      5      -777      -777  NbW    5      -777  SW     5
+   7  9  W     13  NW     9  W      5  NE     5  E      9  ENE    5  S      5  NbW    5  ESE    5  SW     5  E      5  S     24
+   8  9  N      9  NW     9  NW     5  NE     5  NE     5  N      5  SE     9  N      5  SSW    5  SW    13  SE     9  S      5
+   9  9  S      9  NW     5  NW     5  NE     5  SW     9  N      5  SE     9  SW     5  W      5  SSW    9  SSE    9  WSW    9
+  10  9  SW    19  SW     5      -777  SW     9  E      9  W      5  SE    13  NW     5  WNW    9  SW    13  S      5  SW    13
+  11  9  SE     9  SSW    5      -777  SW     9  SE    13  NW     9  SSE    9      -777  SW     9  SW     5  SE    19  SW     5
+  12  9  WSW   19  SSE    9  NNE    5  SW    13  SE     9  SSE   13  S      5  S      5  SW     9  SE     9  SW     9  SW     5
+  13  9  W     19  S      9  NE     5  SW    13  SE     5  SSW    9  SSW    5      -777  S      9  SSW   19  SE    13  SE    19
+  14  9  SW    19      -777  NE     5  SW    13  SSW   13  SW     5  SSW    9      -777  S      9  SSW    5      -777      -777
+  15  9  SW    13  S      5  NE     5  WSW    5  SW     9  SW     5  NbE    5  S      5  S      5  SbE    9  S      5  E      5
+  16  9  SE    13  SSW   13  NE     5  W      9  N      9      -777  NbE    9  S      5      -777  SE     9  S      5  E      5
+  17  9  SW    19  S     13  NE     5  SE     9  N      5  SbW    5  NbE    5  S      5  SSE    9  SW     5      -777  WSW    9
+  18  9  WSW    9  SE    13  SE     5  SSW    9  NNE    9  SSW    5  NNW    5  S     13  NW     5  SW    30  ESE    5  SSW    5
+  19  9  SW     5  SE    19  E      5      -777  SW    13  SW     5  NNW    5  SE     5  SW    13  S     13  ESE    5  SW     9
+  20  9  SW     5  SE     9  SE     5  SE    13  SW     5  SSW    5  NNW    5  SE     5  SW     9  SW    13  SE     5  SW     9
+  21  9  SE    13  E      5  SSE   19  SSW    9  NW     5  SW     9  N      5  ESE    9  SW    13  S      9      -777  SW     9
+  22  9  SW    13  NbW    5  SSE    9  NE     5  NNE    5  W      9  N      5  NE     5  SSW    5      -777  SSW   24  S      9
+  23  9  SSE    9  NbW    5  SE    30  SE     5  ENE    5  SW     9  N      5  SE     5  NW     5  WSW    5  SW    19  S     19
+  24  9  N      5  SbW    5  SE     5  SE     5  ENE    5  NW     5  NbE    5  ENE    5  NNE    9  S      5  SW    19  W      5
+  25  9  WSW    9      -777  E      5  E      5  N      5  SW    13  E      5  ESE    5      -777  W     19  SW     9  SW     9
+  26  9  NE    13  S      5  NE     5  E      5  NbW    9  WSW    5  N      5  S      9      -777  WSW    5  SW     9  SSE    9
+  27  9  N      5      -777  NE     5  ESE    5  N      5  SW     9  WSW    9      -777  SE     5  WSW    9  SSW   37      -777
+  28  9  SE     5  NE     5      -777  SE     2  N      5  N      9  SW    13  SSW   19      -777  SE    13  SW    13  S      9
+  29  9  SSE    9  SbW    5  NE     5  SE     9  N      5  SW     9  S      9  SW    13  S      5  S     19  SE    24  SSE    9
+  30  9  SSE   13         0  NE     5  SE    13  SW     5  N      5  SbW    5  WSW   13  SSW    9  SSE   19  SE    37  S      5
+  31  9  SW    13         0  NEbE  13         0  SE    19         0  SbW    5  SW     9         0  SSE   19      -777         0
+  1985
+   1  9  S      5  SW    13  E      9  SSW   19  WSW    5  SE     5  SW     5      -777  W      9  S      9  NE     9  SSE   19
+   2  9  S      2  SW     9      -777  SW     5  NW     9  E      5  SSW    9  SW    19  SE     9  S     13      -777  S     13
+   3  9  S      5  SSW    5  NE     9  S     19      -777  ESE    9  SSE    9  SW    13      -777  S     13  NE     9  SW    44
+   4  9      -777  SbE    5  NW    19  SE    13      -777      -777  SE    13  S      9  SSE    5  SSW   24  S     19      -777
+   5  9      -777  E      5  SW    13  S      9  N      5      -777      -777  N      9  SE     9  S     13  SW     9  SSE    9
+   6  9  S      5  E      5  SSE   24  S      9  N      9  NE     9  S      9  NNW    9      -777  S      9  SSW   13  SSW    9
+   7  9  WSW    5  SE     9  SW     5  E      5      -777  N      5  SW    13  S      9  S      9  S     13  S      9  SW     5
+   8  9      -777  ESE   19  S     19      -777      -777  NW     5  SW    13  SSE   13      -777  SSW   13  S      9  SSW    5
+   9  9  WSW    5  ESE   19  SSW   13      -777  SW     5  SW     5  SSW    9  S     24  S      9  SW    13  S     13  SW     5
+  10  9      -777  ESE   24  N      5      -777  N      9  W      5  SSW    9  S     13  S      5  SW    13  N      9  S     13
+  11  9      -777  ESE   19  N      5  W      9  N      5  SSW   19  S      9      -777  SSE   13  SW     9  N      5  SSW    9
+  12  9      -777  SE    13  SSW    9  S      9  ENE    5  W      9  S      9  SW    19  S      9      -777  N      5  S     24
+  13  9  S      5  NE     9      -777  SW    24  ENE    9  NE     5      -777  S      9  SSW   13  S      9  S      9  SSE    9
+  14  9  SE     5  ENE    9  NW     9  NW    13  ENE    5      -777  W      5  SE    19  SW    24      -777      -777  SW     9
+  15  9      -777  ENE    9  SW    13  SSW    9      -777      -777  S      9  S      9  SW    13      -777  SW     9  SSW    9
+  16  9  E      5  SE     5  NNW    9  SW    19  SE     9      -777  SSW    9  SSW    9  S     13  S      5  SSW    9  SSW    9
+  17  9      -777  SSE    9      -777      -777  S      5  S      9  SSW   13      -777  SW     9  S      5  SSW    5  SSW    9
+  18  9  ENE    5  S      9  SE    13  S      9  SSW    5      -777  SW    19  SSE    9  S     13  S      5  SSE    9  SW     9
+  19  9  E      5  S     24  SSE    9  W      9  N      9  S      5  SSW   19  S      5  S      5      -777  SE     5  S      9
+  20  9  E      5      -777  SE    24  NW     9      -777  S      5  SW    13  SE    13  S     13  S      5      -777  SSW   24
+  21  9  E      9  SSE    5  E      9  N      9  ENE    9  SE    19  SSW    9  SSW    9  S     19  SSE    5      -777  SW     9
+  22  9  W     19  SE    13  N      9      -777      -777      -777  SSW   13  SSW   13  S      9      -777      -777  S      9
+  23  9  W      5  SW    19  N      5  NE     9      -777  SSW    9  SSW   13  S     13  SSW    9  SE     5  NE     5  S     19
+  24  9  S      5  S      9  W      5      -777  S      5  SSW   13  S      5  SSW    9      -777  SSE    5  NE     5  S      5
+  25  9  SbW    5      -777  SSW    9  N      9      -777  S      5      -777  SW     9  SSE    9  E      9  NE     5  E      5
+  26  9  NW     5  S      9      -777  SW     5  SE    13  SSW    9      -777      -777  SSW    2      -777  NE     5  NE    13
+  27  9  SE    19      -777  N      9  NW    13  SE     5  W      5  SW    19  S     13      -777      -777  NE     9  NE     5
+  28  9  SSW    9  SE    13  WNW   13      -777  SW     9  SW     9  NNW    9  SW     5      -777  S      5  NE     9  NE     5
+  29  9  SbW    9         0  SE     9      -777  S      5      -777      -777  SE     5  S      9      -777  S      5      -777
+  30  9  SSW   13         0  SSE    9  WSW    5      -777      -777      -777  S     13  SSW   24  S      5  ESE    5  SSE   19
+  31  9  WSW   19         0  SW    24         0  SE     9         0  N      5  S     37         0  S      9         0  S      5
+  1986
+   1  9      -777  NE     9  NE     9  W      9  S     24  SSW    5  S      9  S      5  SW     5  S     63  N      9  SW    30
+   2  9  NE     9  NE     9  NE     5  W      5  SE     5  SSW    5  S     13  SSW   19  SW     9  SSW    9  S     13  S     24
+   3  9  NE     5  NE     9  S      5  NW     5  N      5  S      9  S      9  S      5  NE    13      -777  SSW   13  S     24
+   4  9  SE    19  NE     9  SW    19  N      5  ESE   24  NW     9  SSW    9  S      9  SSW    9      -777  WSW    9  S      9
+   5  9  SW     9      -777  SW    19  N      5  SE    13  NNE    9  SSW    9  S      5  SW     9  S     13  WSW   13  SW     9
+   6  9      -777  NE     5  SW    13  NE     9  SSE   19  NNE    9  S      9  SE    24      -777  SSW    9  SSW    5  S      9
+   7  9  ESE   13  E      5  SSW    9  NE     9      -777  SSW    9  SW     9  N      9  S      5  SSW    9  S     19  SSW    9
+   8  9  E      5  NE     5  S     24  NE     9      -777  SSW   13  NNW    9      -777  S      5  SW     9  S     13  S      5
+   9  9  S     13      -777  S      5  NE     9  S     13  SSW   30  S      9      -777  N      5  SW     9  S     37  SSW    9
+  10  9  SW    24  SE    24  W      9  NE     9  S     24  ENE    9      -777      -777  SW     5  SW     9  SSW   37  SSE   19
+  11  9  SW    24  SE    19  S      9  NE     5  SW    13  NE     5      -777  SW     5  NW     5  WSW    9  S      5  SSW   13
+  12  9  WSW    9  SE    19  S     13  N      5  SSW   30  SSW   13      -777      -777  N      5  SSW   24  SSE   19  SSE   19
+  13  9  SSW   24  E     13  SE    19      -777  SE    19  SW     9  S      9  S     13      -777  SSW    9  S     13  S      5
+  14  9  W     37  E     13  S     19  S      5  SW    13  SW     5  S      9  S      9  N      5  SSW    9  S      9  S      5
+  15  9  NW     5  SE     9  SSE   24  ENE   19  ESE    9  SE     9  S      5  SSW   13  N      5  SSW    9  S      9  SW     9
+  16  9  SW     9  E     13  S     13  N     19  S      5  ESE    9  S     19  SW     9      -777  SW     9  SSW   13  SSW    9
+  17  9  S      5  NE    13  S     13  N     13  SE    24  NNE    9  W      9  SW     9  N      5  S     13  S      9  SSW    9
+  18  9  SW     9  NE     5      -777  NW     9  SSE   24  W      5  WSW    5  NW     5  N      5  S      5  SSW   13  S      9
+  19  9  NW     9      -777  SSW    9  SSW    9  S      9  SE     9  S      5      -777  SSW    9  SW    19  S      5  SSW    9
+  20  9  SSW   24  ENE    5  W     52  SSW   19  ESE    5  NE     9  S      5      -777  SSW    5  SW     9  S      9  SW     9
+  21  9  SW     9  SE     5  SW    13  SE    13  SSW   19  NNE    9  SSW    9  N      5  SSW    9  WSW    9      -777  WNW    5
+  22  9  SW     9  WSW    5  SW    30  SE     5  SW    19  SE     5  SW     9  ENE    9  S      9  WSW    9  S     37  NW     5
+  23  9  SW    13  NE     9  SW    19  W      5  SW    19      -777  WSW    9      -777  S      5  WSW    9  W     19  WNW    5
+  24  9  NW    15      -777  NE     9  NW     5  SSW   19      -777  S      9      -777  W      5  SSE   13  SW    19  S      9
+  25  9  NW     5  ESE    5  W     13      -777  SSW   19  S     13  SSW    5  E      9  W      5  W     24  SSW   13      -777
+  26  9  S      9  E      9  S      9  SSW   13  S     13  SE     9  SSW   13  N     19  S      9  SW     9  SW    19  SW     9
+  27  9      -777  E      9  SSW   24  SbW    5  SW    37  NE     5  S     13  NE     9  S      9  SW    13  SSW   24  SW     9
+  28  9  S     19  ENE    9  S     24  SSW    5  SW     5      -777  S      9  NWbN   9  SSW   13  S      9  S     19  SW     9
+  29  9  SSW    5      -999  SSW   13  S     13  W      9  ENE    9  N      9  N      9  S      9  SW    13  SSW    5  SW     9
+  30  9  NE     9      -999  S      9  SSW   19  SSW   13  ENE    5  SSE   13  N      9  S      9  SW    24  S      5  SEbS   9
+  31  9  NE     9      -999      -777      -999  SSW    6      -999  SSW    9  WSW    5      -999  SW     9      -999  SW     9
+  1987
+   1  9  SE     9  SE    19  S     13  N      9  NNE    5      -777  SW    19  WSW   19  SE     9  SE     9  NE     5      -777
+   2  9  N      9  S     13  NNW    5  NNE    9  W     13  SE     5  SW    13  SW     9  SSE    5  E      9  S      5  NE     5
+   3  9  N      5      -777  SE     9  NE    13  N     13      -777  SW     9  SW    13  S     19  NE     5  S      5  NE     9
+   4  9  SW    13  S     13  S      9  NE    13  N      5      -777  SW    13  N      5  SW    19      -777  S      5  NE     5
+   5  9  SW    13  SSW    9  SSE   19  NE     9  N      5  SE     9  SSW    9  NW     5  SSW   13  S      9      -777  NE     9
+   6  9  N      9  WSW    9  SbE   13  NE     9  N      5  S      9  NE     9  NW     9  SSW    9  SW    13      -777  NE     9
+   7  9  N      5  SW     5  SE    19  SE     5  W      5  SW    19  SW     9  SW     9  W     13  S     19      -777  NE     5
+   8  9  E      5  SSW    9  SE     5  E      5  SSW    5  N      9  SSW    9  SW     5  SW     9  W     13  S      9      -777
+   9  9  SE    13  SW     5  E     13  S      9  SSW    9  N      9  SSE    9      -777  SW    19  SW     9      -777      -777
+  10  9  E      5  SW     9  E      5  S      9  NNW    5  N      5  SW    13      -777  SW    19  S      9  SW    13      -777
+  11  9  E      5      -777  ESE    5  W      5  W     19  ESE    5  S     13  SSE    5  S      9  W      9  S     24      -777
+  12  9  NE     5  SSW    5  E      5  N      5  NNW   19  NE     9  ENE    9  SSE   13      -777  SW     9  SW    30      -777
+  13  9  NE     5  NW     5  S      5  SW     9  N      5  N      5  S     13  SW    13  SW    19  S     13  SW     5      -777
+  14  9  NNE    9  N      5      -777  SSW    5  SSW    5      -777  S      9  SW    13  SW    24  S      9  SSW    9  E      9
+  15  9  NE     5      -777  W      5  SW     9  N      5  N      5  S      9  S     13  SW     9      -777  SSW    9  E      9
+  16  9      -777      -777  SW     9      -777  SW     5  N      9  S      9  SSW   19  S      5  SW    13  S     19  SE    13
+  17  9  SE    13  N      5  W     13  SE     5  S      9      -777  SSE    5  SW     9  SW     9  S      9  S     13  SE    19
+  18  9  S     19  NW     5      -777  S      9  N      9  SW     5  NE     9      -777  WSW    9  S     19  S     19  SW    13
+  19  9  SE    19      -777  N      5  S     19  N      9  SE     5  SW     9  SSW    9  SE     9      -777  SW    13  SW    19
+  20  9  S      9  N      5  WSW    9  SSW    9  N      9  SE     5      -777  SSE   13  SSW    5      -777  W      9  SW    13
+  21  9  S      5      -777  SSW    9  S      9  N      9  SE     5      -777      -777  S      9  N      9  SSW    9  SW    19
+  22  9      -777      -777  S      9  SE     9  N      5  S      5  NE     9  NNE    5  SW    24  SSW    5  NW     9  S      9
+  23  9      -777      -777  S      5  S      9  NE     9  S      5  NE     5      -777  SW    19      -777  N      9  S     13
+  24  9      -777  ESE    5  E      9  SE     5      -777  S      9  NE     9      -777  W      9  SSW    5  N      9  SSE   19
+  25  9      -777  ESE    5  W      9  E      5  SE     9      -777      -777  SSW    5  SW     5  S     19      -777  SSW    9
+  26  9  S      5  SE    24  SSW   13  SE     5  SE     9  S      5  S      9  S     13  NW     9  SW     5  N      9  SSW   13
+  27  9      -777  S     13  S     13  S      5  NE     5  S      9      -777  NW     9  SW     5      -777      -777  SE    13
+  28  9  SE     5  SW     5  N      9      -777  NW     9      -777  SW    13  SW    13  SW     5  SSE    2      -777  S     24
+  29  9  SE     5      -999  NNW    9  SSW   13  S      9  S      9      -777  SW     9  S      5  SE     9      -777  S     30
+  30  9      -777      -999  SW     9  SSW    9  S     19  SW    24  SW     9      -777  SE     9      -777      -777  SSE    9
+  31  9  SE     5      -999  S     19      -999  S      9      -999  SW    19  S      9      -999      -777      -999  SW    19
+  1988
+   1  9  SSW    9  S     37  N      9  S      9  SE     9  SW     9  S      9  SSW    5  E      9  S     19  NE     5  NE     9
+   2  9  SSW    9  SSW   19  SSW    9  N      5  E      5  SW    13  S      9      -777  S     13  S     13  SW     5  E      5
+   3  9  SW    19  S     19  N      9      -777  NE     5  SW     9  NE     5  SW     9  SSW   19  S      9  SE    13  S     19
+   4  9      -777  S      9      -777  N      5  NE     5  NNE    9  NE     5  SW     9  S     19  SE    24  S     13  SW    13
+   5  9      -777  SW     9  SW     9  N      5  SSW    9  NNE    5  NE     9  S     13  SW    13      -777      -777  SW     9
+   6  9  N      9      -777  W      9  N      9  S      5  S     13  S      9  S      9  SE     5  SW    24  S      5  NW     5
+   7  9      -777  SSW   13  NW     9  N      9  SE     9  NNE    9  SSW    9  S      9  SSW   13  NW    24  S      9  S      9
+   8  9  SSE    9  SW    13  SW     5  N      9  NNE    9  NNE   13  SSW    9  SSE   24  S      5  SSW   13  SE     5  SW    13
+   9  9  SW    24  SW    44  S      5  ENE    9  N      9  NE     9  S      9  S      9  SSW    5  SW     9  W      5  SW    13
+  10  9  SW    13  W     19  SW     9  SSW   13  N      5  NE     9  SW    13  S     19  SW     9  SSW    5  SSW    9  W      5
+  11  9  SSW   13  WSW    9  W      9  SSW    9  S      9  ENE    9  SW    13  SW    13  SSW   13  NE     5  SSW    9  SW     9
+  12  9  S     37  S      9  WSW   13  ENE    9  E      5  ESE    9  S      9  W     13  W     13  N      9  SSW    9  SW     9
+  13  9  S     24  S     13  SW     5  SE     9  S     13  NE     5  S      5  SW     9  N     13      -777  SSW    5  WSW    5
+  14  9  S     19  S      5  SW     5  S     13  S      9  NE     5  N     13  S     13  N      2      -777  SW     9  WSW    9
+  15  9  S      9      -777  SSW    9  SW    13  NE     9  NE     5  NE     5  SW     9      -777  E      5  SW     5  S     13
+  16  9  SSW    5  SSW    9  WNW    9  S      9  ENE    5  NE     5  SSW   13  SW     5  NNE    5      -777  S      9  W      5
+  17  9      -777  SW     9  E      5  SW     9  N      9  N      5  SSW    5  SSW   13  N      2  SE    13  S     13  SW     9
+  18  9      -777  W      9  SE    13  SE     9  N      9  SW     5  S      9  SSW    5      -777  ENE    9  N      5  SW    19
+  19  9  S     37  SW     5  S     13  SSE   19  NNE    5  S      5  S      9  SSW   13  SW     9  SE     9      -777  NW    13
+  20  9  SW    19  SW     9  SSW    9  S     13  NNE    5  SSW    5  S      9  SSW   13  SSW    5  S      5  N      5  SW     9
+  21  9  SW    13  S      5  S      9  SW     9  SSE    9  S      9  S      5  N     13  S      9  SE    24      -777  SW    13
+  22  9  SSW    5  S      5  SSE   13  ESE    9  SSE   13  SSW    9  SE     5  N      9  S      5  S      5  S      5  S      9
+  23  9  ESE    5  N     13  SW    13  ESE    9  SE    19  S      5  S      5  S      2  NW    19  E      9  S      5  SW    19
+  24  9  SW     5  N      5  S     24  SE     9  SE    19  SE     9  S     13  SW     9  SW     9  S      9      -777  S      5
+  25  9      -777  NW     5  SSW   13      -777  SSE   13  NE     5  SW    44  WSW   19  S     13  SSE   13      -777  S     19
+  26  9  SSE    5  N      5  SW    13      -777  S      5  NE     9  SSW   19  SW     2  SW     9  S     13      -777  SSW    5
+  27  9  NE     5  N      9  WNW   13  NE     5  S      9  NE     5  S     19  SSW   19  SSW   13  SW    13  S      5  S      9
+  28  9  ESE    9  NW     9  SW    19  E     13  SE    19  NNE    2      -777  S     13  SW    13  NW     5  SW     9  SSW   19
+  29  9  SE     9  N      9  WSW   13  E     13  ESE    5      -777  SSW   13  SSW   19  SW     9  N      5  SSW    5  SSW   19
+  30  9  WSW   13      -999  N     13  E      9  S      9  SSE   13  SSW   13  SSW   19  WSW    5      -777  SSW    5  SW     9
+  31  9  SSW   13      -999  N      5      -999  S      9      -999  SSW    5  S     13      -999  NE     5      -999  S     19
+  1989
+   1  9  S      5  S      9  NW     9      -777  SW    19  N      9      -777  N      5  S      9      -777  SSW    9      -777
+   2  9  S      9  S      9  SE    19  SE     9  S     19  WSW    9      -777      -777      -777      -777  SSW   37      -777
+   3  9  S     13  S     13  S      5  ESE    9  S      5  NW     5  S      5  SW     5  SSE    9      -777  W     13      -777
+   4  9  SW    13  SW    19  S     19      -777  SE     5      -777      -777      -777      -777  SE    19  SW    13      -777
+   5  9  S      9  S     13  S     24  ENE    9      -777  NE     5      -777  S      9  S      9      -777      -777      -777
+   6  9  W      5  S     24  SE     9      -777      -777  N      9      -777  SSW   13  S      9  SW     9  SSW    5      -777
+   7  9  S      9  WSW    5  S      9      -777  SE     5      -777      -777  SSW    9  W      9  NW    19  S      9      -777
+   8  9  S      9      -777  SSE   24  SW     9  SSW    9      -777  N      5  S     13      -777      -777      -777      -777
+   9  9  W      5  S     24  S     19  S     13  W      5  S     13  NNE    5      -777      -777  N      2  S      9      -777
+  10  9  WSW    9  S      5  S      9  SW     9  W      2      -777  SSW    5  SSW    9  NE     9      -777  S      5      -777
+  11  9  SW    30  S     24  S     13      -777  SSW    5  SE    19      -777  SSW   19  NE     5      -777  S      9  ESE    5
+  12  9  SW    24  SW     9  S     19  SW     5  NNW   13  SW     9      -777  SSW   13  NE     5  SSW    9  S      5      -777
+  13  9  SSW   30  S     24  NW    19      -777  WSW    9      -777  W      9  S     13  SSW    9  SSW    5      -777  NE    19
+  14  9  SW    13  S     13  S     13      -777  SW    19  SW     9  NW     9  S     19  S      5  SSW    9      -777  NE    13
+  15  9  SW    13  NNW    9  SW     9  SSW    5  SSW   24  S      9  NE     5  S     24  S      9  S     19      -777  NE     5
+  16  9  S     24  W      9      -777  NE     9  SW    19  S      9      -777  SSW   19  SSW   13  S     19  SSE    9  NE    13
+  17  9  S      9  S     13      -777  NNE    5  SW    13  S      5      -777  SW    19  SW     9  S     19  ESE    5  SE     9
+  18  9  SSW    9  S     13  S     19      -777  SW    13      -777      -777  SSW    9  SbW    9  S      5      -777  S      9
+  19  9  S     13  SSW   19  S     19      -777  SW     5      -777      -777  S     24  SSW   13  S     19      -777      -777
+  20  9  SSW   19  S     13  SW    13  NE     2  SE    13      -777      -777  S     19  S     19  S     19  NE    13      -777
+  21  9  SW     5  S      9  S      9      -777  SE     5  N      9      -777  S     13      -777  SSW    9  NE     5  S     13
+  22  9  S      5  S     19  SW    19      -777  NE     5      -777      -777  SSW    9  N      5  SW     9      -777  SW    13
+  23  9  S     13  S     19  S     13  N      9      -777  SW     5  S      2  SSW   19  S      9  S      5  NE     5  SW    13
+  24  9  S     24      -777  WSW   24      -777  NE     9  SW     5      -777  SSW   19  S     13  SSW   24  S      5  S     37
+  25  9  SE    19  SSW    5  SW     9  N      9  N      9  S     19  SE    19      -777  SW    19  S      9      -777  SSW   24
+  26  9  S      5  WSW    9  S     24  S     13      -777  SSW    9  SSW    9  S      2  S      9  SSW    9  SSE    5  SSW    9
+  27  9  S     30  W     13  S     13  N      2      -777  NW     5  SSW   13  N     13      -777  NE    13      -777      -777
+  28  9  SSW    5  WSW   13  SW     5  SW     9      -777  SW    13  SSW   19  N      5      -777  SE     5      -777  S      5
+  29  9  S     19      -999  S     19  SW     9  NNE    5      -777  SSW    5      -777  SW     5  SSW    9      -777  SE     5
+  30  9  SSW   13      -999  SW    19  S      9  NNE    9  S     19  N      2  SSW    9      -777  SSW    5      -777  SE    13
+  31  9  S      9      -999  S     13      -999  N      9      -999  N      9  S      5      -999  SSW    9      -999  SE     9
+  1990
+   1  9  S      9  SbE   24  NW    19      -777  SE     9  S      9  SSE   13  S     19  S      5  S      9      -777  ESE    5
+   2  9  S     13  SSW   30  SW     9  W      9      -777  SSW    9  S      5  S      9  SW    13  S     30  N      5  S      9
+   3  9      -777  S      9  SSW   19  NNW    5      -777  W     19  SW     9      -777  SW     9  SW    13      -777  SW     9
+   4  9  S      9  S     44  SW     5      -777      -777  ESE    9  S     13  SSW    9      -777  SSW   19      -777  W      5
+   5  9  S      5  S     44  SW    30  SW    19      -777  S     13  N     19  SSW    5  S     13  SW    19      -777      -777
+   6  9  SW     9  N      5  SW    13  S      9  S      5  S     13  SSW    9  WNW    5  SSW   19  NW    19      -777  S     13
+   7  9  S     19  S      9  SW    19      -777  S      9  SW    13  SW     9      -777  NW     5  N      5  NE     5      -777
+   8  9  S      9  SW    13  SbW    9      -777      -777  NW    13  S     19  SbW    9      -777  SSW   13  NE     5  N      9
+   9  9  S      9  SW    19  SW    13  SSW    9  NW     5  NNE   13  W     19  SW     9      -777  SW    19  ESE    5  NE    13
+  10  9  SW     9  S     19  SSW   19  SW    13      -777  N      5  W      9  SSW   13  NW     5  SW     9  S      9      -777
+  11  9  S     24  S     19  SW    19  SSW    9  WSW    5      -777  SW    13  SSW   13      -777      -777  SW     5  SSW   13
+  12  9  SSW   13  W      9  SSW    9  SSW   13      -777      -777      -777  SW     9  WSW    5  S     24  S      5      -777
+  13  9  S      9  S      9  S     19  SW     9      -777      -777      -777  SW     5      -777  S     24  S      5  N      5
+  14  9  SW    13  SW     9  S     19  SSW   13  S      5  SbW    9  SSE    9  SW     9  W      5  S     24  SSW   13  SW     5
+  15  9  SW    19  WSW    9  S     24  SW    13  SE     9  S      9      -777  SSW    9  N      5  SSE    5  S     19      -777
+  16  9  SW    24      -777  S     24  SW     9  S      9  SE     5      -777  SW    13  S      5  S      9  SSW   24      -777
+  17  9  SW    19  SSW   13  S     24  SW    19  SW     5  S      5      -777  SW    19  SSW    9      -777  SW     5      -777
+  18  9  SW    13  SSW   24  S     24  SSW    9  ESE    5  S      9      -777  S      5  SW    19  S      5      -777      -777
+  19  9  SW    19  S     24  SSW   19  NW    19  ESE    9  S      9  S      9      -777  NW    24  S      5  SW    13  WSW    5
+  20  9  S     13  SW    24  SSW   24  NE     9  E      9  SbE    9      -777  S      9  SSW   13  ESE    5  SW     5  SW    13
+  21  9  S     19  SW    24  SW    19      -777  E      9      -777  NNW    9  SW     9  NW    13  ESE   13  WNW    2  S      9
+  22  9  S     19  S     37  SW    13  NNE    5  NNE    5  SE     9  N      5  SW     9      -777  SE     5      -777  SSW   24
+  23  9  S      9  S     13  SW    24      -777  SW    13  S      9  E      5  S      5      -777  ENE    5  SE    19  S     24
+  24  9  SW    13  S      5  SW    19      -777  NNE   13  SbE   19  SE     5      -777      -777  S      9  NE     9  S     19
+  25  9  SSW   13  SSW   19  NW     9  SSW    7  NNE    5  SW     9  S      9  S      5      -777  S     13  N      9  W      9
+  26  9  SSW   13  W     24  SW     9  NW     5  SSE    9      -777      -777  S      9      -777      -777  N      5  SW    37
+  27  9  S     19  SW    37  S     24      -777      -777      -777  ESE    5  S     13  SW     5  SW     9  N      5  WSW   19
+  28  9  SW     9      -777      -777  SSW    9  S      9  S      9  S      9  S      9  S     19  SE    19      -777  S     44
+  29  9  S     19      -999  SW     9  SW     9  S      9  S      9  S     19  S     13  S      5  SSW   19  N      5  S     19
+  30  9  S     19      -999      -777      -777      -777      -777  SSW   19  SSW   19      -777  SSW   19  N      5  S     19
+  31  9  S     19      -999      -777      -999  S      9      -999  S      9  SW     9      -999  W     19      -999  S      5
+  1991
+   1  9  S     37      -777  WSW    9  SW    30  N      5  N      5  WSW   13      -777  ESE    5  SW    19  SSE   19      -777
+   2  9  SSW   13      -777  SE    19  WSW   19  NNE    5  N      5      -777  SSW    9  E      5  S      9  SSW   19  SE     5
+   3  9  S     13  SE     9  SSW   13  SW    19  NNE    2  NNW    9  NE    13  SSW    9      -777  SW    19  SSW    9      -777
+   4  9  SW    19      -777  ESE   13  S     19  N      9  NNW    9  NE     9  SW     9  S      5  SSW   24  NW     9      -777
+   5  9  S     52      -777  S     13  NW    19      -777  NNW    9  ENE    9  SW     5      -777      -777      -777  E      9
+   6  9  SSW   13      -777  NE     5  SE    24  N      5  NNW    9  NE    13  S      9  NE     5  S     19  S     19      -777
+   7  9  S     37      -777  NE     5  SSW   30  NNE    9  NNW    9      -777  N      9  ESE    5  S     13  SW     9      -777
+   8  9  S      9      -777  NE     5  WNW   13      -777  NW    13  S      9  SW     9      -777  S      9  SW    13      -777
+   9  9  S     13      -777      -777  S     19  SW     5  W     13  WSW   19  SW    13  S      5  NE     5      -777      -777
+  10  9  S     19      -777  S      5  SSW   19      -777  E     13  S     13  SW    13  S      5  ENE    5  S     24  S      2
+  11  9  SW    19  N      5  S      5  S     24      -777  SE    19  S      9  SW    13  NE     5      -777  SSW   13      -777
+  12  9      -777      -777  SE     9  N      9  SW     9  SW    24  SW    24  WSW   13  S      9      -777  S     37  S      5
+  13  9      -777      -777      -777  NNE    9  SW    13  SW    24  SW    13  S     13  SW    13      -777  SW     9  S      5
+  14  9  S      9  SSW   13  S      9      -777  N      9  SW    19  SW    13  S      9  S     19      -777      -777  S      5
+  15  9  ESE   13      -777  SE    24  NE     5  N      9      -777  W     13  SSW   13  SW     9      -777      -777      -777
+  16  9  SSE   19      -777  S      9  N      5  N      9      -777  WSW    9  S     13  S     19  S     13      -777      -777
+  17  9  SSW   13  NW     5  S      5  NNE    9  N      5  WNW    5  W      5  W     13  SSW    9  NE    24      -777  SW    13
+  18  9  SSE   44  E      9  SSE   19  NW     9  SSW    9  NW     5  SW    13  S      5  S     13  NW    13      -777  SW     5
+  19  9  S      9  S     13  SSW   37  NNE    9  SSW    5      -777  SW     9  SW    13  S     13  N     13  N      9  SW     9
+  20  9  S     19  S      9  S      9  N      5  SW     9      -777      -777  SW    13  S     13  S      5      -777  NW    19
+  21  9  SW     5  S      5  W      5  W      5  SSW    9  SSW    9      -777  S     19  S     19      -777  S     13  SW    19
+  22  9  WSW    5  S     13  N      5  NNE    5  W      9  S     13  SE    13  SSE   13  SW    19      -777  S      9  SW    19
+  23  9  S      5  S      9      -777  SW    13      -777  SW     9  S      9  NE    13  S      9      -777  S     24  NNE    5
+  24  9      -777  SSW    9  N      5  S     13      -777  SSW    9      -777  SW     5  SW    24      -777  SSE   19      -777
+  25  9  S      9      -777  N      5  S      2  SW     5  WSW   19      -777      -777  SSW    9      -777  SSE   19  S      9
+  26  9  S      5  SE    13  ENE    5  SE    13      -777  W      9  SW     9      -777  S      5      -777  S      5  W      5
+  27  9  S      5  SE    13  ENE    2  S     13      -777      -777  S     13  S      5      -777      -777  S      9      -777
+  28  9  SSE   13  SSW    5  NE     5  SE     9  N      5  NE     9  S      9      -777  NE    19      -777  SSW    9  SSW    5
+  29  9  S      9      -999      -777  SE    24      -777  SW    13      -777  S      5  N      6  SE    24  S     19      -777
+  30  9      -777      -999  S      2  ENE   13  ENE    5  SW    19  ENE   13  S      5  SSW    5  SW     9  S      9      -777
+  31  9      -777      -999      -777      -999      -777      -999      -777  SE     9      -999  SE     9      -999  SW    19
+  1992
+   1  9  SW    19  S      9  SW     9  NE    13  NW    13      -777  NNE    5  SW    13  SSW   19  S     13  SW    19  SW    13
+   2  9  S     24  SSW    9  S      9  NE     9  NW     9  SSE    9  SE     5  S      9  SSW    9  SSW    9  SW    24      -777
+   3  9      -777  SW     9  SW     5      -777  SSW   13      -777  SE     9  WSW   13  SW    13  W      5  SW    13  SSW   13
+   4  9  S      5  W     19  SW    13      -777  S      9      -777  NE     5  SW    13  W      5  N      9  SSW    5  SW     9
+   5  9      -777      -777  SE     5  S      9  SW     9      -777      -777  SSW   19  SSW    5  N      2  SSW   13  SW     9
+   6  9  SSW   13  S     13  SW    19  S      9  W     19      -777      -777  SSW    5  S     24  NNE    2  SW    19  SSE   19
+   7  9  S     19  S     13      -777  NE     9  SW    19  ESE    9  N      5  ENE    5  SSW   24      -777  SW     2  SSW    2
+   8  9      -777  S     19  SW     5      -777  SW    19  ESE    5      -777  NE     5  SW    19      -777  SSW    9  SW     9
+   9  9      -777      -777  S     13  S      9      -777  ESE    5  SW     5  NNE    5  SSW   24  NE     9  SSW    2  SW     2
+  10  9      -777  S      9  WSW   13  S      5  SW     5  SE     5  S      5  S      5  S     24  NNE    5  SW    13  SW    13
+  11  9      -777      -777  SSW    9  S      9  SW     9  ESE    9  S      9  S     19  SW    19  NE     2  SW     9  SW     2
+  12  9      -777  SSE   24  W     13  SW    19  SW    13  SE     5  NW    13  SW    19  SW    19  N      2  SW    13  WSW    2
+  13  9      -777  S      9  WNW   19  W     19  S     19  WNW    9  SW     5  SSW    9  SSW    5  S      9      -777  SW    13
+  14  9      -777  SE    13  SSW    2  S      5  SSW    9  SW    19  SW     5      -777  SSW    9  SW    13  SE    24  SSW   24
+  15  9      -777  WSW   13  NW     2  N      9  SW    24  SE    13  SSW   13  S     13  SW    24  NNW    5  ENE    9  SSW   19
+  16  9      -777      -777  SSW    5      -777      -777  NE     9  SSW   13  SSW    9  SE     2      -777  NW     9  SW     5
+  17  9      -777  S      9  S      5  W     13  SE     9  N      9  SW    19  SSW   13  SSE    2  S     13  NW     5  SSE   24
+  18  9  S      5      -777  SW    13  SW     9  SE     5  NNE    9  S     13  S     13  E      2  SW     9  SSW   19      -777
+  19  9      -777      -777  S     13      -777      -777  NNW   19  SW    19  SSW    5  S      2  SSW    5  SSW   13  SSW    5
+  20  9      -777  S      9  SW     5  SSE   19      -777  NNE    9  SSW   19  S      9  SW     5  N      2  SW    13  SSW    2
+  21  9  S      9  S      9  SW    13      -777  S      5  NNE    9  S     13  SW     5  SW     5  SSW    5  SW     2  SSW    5
+  22  9  S     13  S     37  N      5  SE     9      -777  N      5  SSW    9  SE    19  N      9  SW     2  SSE    9  S      2
+  23  9  SE     9  SSE    5  NNW   19  S     19  E      9  NNW    9  SSE   19  SW    19  S      9  SW    13  SSW   37  S      0
+  24  9  S     19  S     13  NNW    9  S     19  E     13  SSW   19  SW    19  S     19  WSW    9  SSW   13  SSE   19  S      5
+  25  9  N      9  SSE   13  SSW    2  S     19  SE    13  SW    19  SSW   19  SW    19  SW     5  NNE   13  SW    24  S      9
+  26  9      -777  SSW   13  NNW   13  S     19  SE     5  SSE   18  S     13  SW    19      -777  SSW   13  SW    19  SSE    2
+  27  9      -777  SW     9      -777  SW    19  NE     9  S      5  NW    13  SSW   13         0  SW    13  S     24  SE     2
+  28  9      -777  S      9      -777  W      9  NE    13  NW     5  S      9  W      9      -777  SW    13  SSW   19  ENE    2
+  29  9      -777  S     24      -777  SW     9      -777  SSE    5      -777  SSW    9  SSE   24  SW     2  S     19  ENE    2
+  30  9  SSE    5      -999      -777  SW    13  NE     9      -777  S      5  NW     9      -777  W      2  S     13  SSE    2
+  31  9      -777      -999  NNE   13      -999  NE     5      -999  S      9  SSW   19      -999  S      9      -999  S      5
+  1993
+   1  9  S     24  SSW    5  N      5  S      5  NNW    5  S      5  SW     2  S     13  SSW    2  E      9  NE     0  SW     9
+   2  9  S     24  S     13  NE     9  S      2  SW     2  W      5  SSW   13  SSW   19  N      5  NE     2  SE     0  SW     9
+   3  9  S     24  SW     9  N      5  ESE    9  SW     2  S      5  SW    13  SSW   19  N      5  NE     5  E     13  S     19
+   4  9  S      5  S      5  NNE    2  SW     5  SSW    2  S      9  SW     9  SW     5  N      5  S      9  S      9  NW     5
+   5  9  SW    19  SSW   13  NW     2  S     24  NE     5  SW     2  N      9  N      9  S      5  NNE    9  S      2  SW     9
+   6  9  SSW    5  SSW    9  NW     0  W      5  SE     5  SSW    5  NNE    9  SSW    5  SE     5  N      9  S      2  S     24
+   7  9  SSW   24  SW     5  SSE    9  SE     2  SSE    5  S     13  SW     5  SW     9  NNE   24  N      9  S      0  SW     9
+   8  9  SW     5  SW     5  S     13  SSE    5  NE     5  S      9  SW    19  SW    13  NNE   19  S      2  N      2  SSW    9
+   9  9  S      9  SE     5  NE     9  S      2  NNE    5  S      5  SSW   13  SW     9  NNE    2  NE     9  SSW   13  W      9
+  10  9  SSW   30  SE     5  SE     5  SSW    2  NE     5  SSE    2  WSW    9  W      5  NNW    9  NE     2  WSW    2  SW    13
+  11  9  SW    19  S      9  S      9  NW     5  NE     5  SSE    5  W      5  SSE    9  SW     5  S      2  SW     2  W      9
+  12  9  SSW   19  S     13  SE     9  NW     2  NE     9  SSE    5  W      9  SWbS   5  WSW    5  NNE   19  S     13  SE    24
+  13  9  SSW    5  SSE    9  SE     9  NW     2  NE     5  SSE    2  SE     9  S      9  NNE   13  N      9  SW     2  N     30
+  14  9  SSW   13  S      9  SSW    9  SE     2  N      9  NE     5  S      5  S      9  NNE   19  N      5  NNW    2  S     24
+  15  9  SW    20  SW     5  S     13  S      9  NW     5  SW    13  SE     9  S      5  NNE   13  NNE    2  SSW   19  SSW   19
+  16  9  SW    37  SW     5  SW    19  SSE    9  S     13  SW     5  SSW    9  S      2  NNE    2  SW     5  S     13  W      5
+  17  9  SW    19  NW     5  SW    24  WNW    5  W      2  SW     9  SSW    5  S      5  NNE    5  SW     5  SSE   24  S      5
+  18  9  SSW    5  S     13  SW    13  SW     5  SSW   24  SSW    5  SE     5  S      9  S      9  NNW    0  S     24  S     13
+  19  9  S     13  NW     5  SW     5  SSW   13  S      2  SSW    9  N      9  S      2  S     24  SW     5  SSE   19  SW    24
+  20  9  SW    13  SSE    5  SSW    9  SSW    9  S      5  WNW    5  N      5  SW     5  S     13  SW     2  SSE    2  S      2
+  21  9  SW    19  NE     5  W      5  SW     9  S      2  SW     5  SW     5  SW     5  S     19  SW     2  ENE    5  SW     5
+  22  9  SW    13  NNE    5  SW    13  S      5  SE    13  SSW    5  S      5  N      9  S      2  WSW    5  S      2  SW     9
+  23  9  S     13  N      5  SW     5  S      9  NE     5  NNW    5  SW     9  N     13  S      2  S      5  S      5  SW     9
+  24  9  SW    13  SSE    5  SW     5  S      5  W     13  N      2  SW     9  N     13  SSW    2  S      2  SE     5  NW     2
+  25  9  NW     5  SSE    9  S      2  NNE    5  NNE    5  S      9  NW     9  NW     9  S      5  S      2  S     13  SW     2
+  26  9  SSW    5  SSE    2  SSE    5  N      5  NNE   24  W      9  S     19  N      2  SSE    5  S      2  SW     2  S      2
+  27  9  SW     5  SE     5  S      5  N      2  NNE    9  W      0  SW    13  N      2  S      2  S      0  SE     9  W      2
+  28  9  S      5  N      5  S      5  N      2  SSE    9  SSE    2  SSW   19  S      9  SSE    9  NW     9  SE     9  SW     9
+  29  9  SW     2      -999  SSW   24  N      2  S      5      -777  SSW    9  SW     9  SSE   13  E      2  SE    30  S     24
+  30  9  S     13      -999  S     37  N      2  SSE    5  N      2  SW    19  SW     5  SSE   19  E      5  S      9  SW     5
+  31  9  SSW    5      -999  SSE   19      -999  SSW   13      -999  WNW   13  N      5      -999  NE     5      -999  SW     9
+  1994
+   1  9  S      9  S      9  SSW    9  W     13  SSE    9  S      5  SSE    9  S      2  S      2  S      9  SW    19  SSE    2
+   2  9  S      6  S      9  SSW    2  SW     9  SSE    9  SW    19  E      5  S      2  NE     2  SW     2  SSE   24  SSE   30
+   3  9  S      5  E     30  SW     9  S     24  SE    13  SSW    9  S      9  SSE    2  S      5  N      5  SE    13  SSW   13
+   4  9  S      2  SE    30  S     24  SW     9  SW    24  SSW    5  S      9  S      5  S     13  SSW    2  S     19  SSW    2
+   5  9  SE     2  S      9  SW     5  W     13  S     13  S      9  S      9  SW     2  SSW    5  SSW   13  S      2  SE    30
+   6  9  SW     2  S     13  SW     9  SW    13  SW     9  SW    19  SSE    5  NNW    9  SW    13  S     13  S      7  S      9
+   7  9  N      2  S      9  SSW   13  NW    13  SW     9  SW    13  S      2  ENE   13  SSW    5  SSW    5  S      9  SSW   19
+   8  9  SSE   13  S     19  SW    13  SSW    9  SW     9  ENE    9  S      2  ENE    2  SSE    2  S      5  SSE   13  SSW   13
+   9  9  SSE   19  SW     9  SSW   13  W      9  SW     2  NW    13  S      9  SE     9  SSW   13  SSE    9  S      5  S      9
+  10  9  SSE   13  S      2  S     13  N      5  SE    19  NW     9  S      9  NNE   12  SSW   13  S   -777         0  SSW   24
+  11  9  S     24  SE     5  S      9  S     13  SE     5  WSW    5  S      9  N      9  SSW    9  SSE    2      -777  SSW   24
+  12  9  SW    24  SSE   19  S     13  NW     9  E      9  NW     2  SSW    2  N      2  SW     5  NE     2      -777  SW    13
+  13  9  SW    24  SW    13  NW    30  N      5  NE     9  WSW    5  S      2  N      5  SW     2  NNE    2  S      9  W      5
+  14  9  SW     9  E     13  SW    24  N      9  NE     9  WNW    9  S      2  SW     5  NE     9      -777  S     13  W      0
+  15  9  SW     2  E      9  SW     9  N      9  NE     5  NW    19  S      2  SSW   13  NNE    5  NNE    2  SSW   13  SSW    9
+  16  9  S      5  SSE    5  SW    19  NE     5  NNE    9  NW    13  S      2  SSW   13  N      5  NE     9  SSW   13  SSW    9
+  17  9  N      5  SE    13  SW     5  NE     2  NNE    5  SW    13  S      2  SW    13  NNW    5  SE     5  S     13  S     30
+  18  9  S     24  SE     9  S      9  SW     2  NNE    5  SW    19  SSE    5  SSW   19  S      9  S     19  SSE    9  S      9
+  19  9  SW    19  SSE    9  NW     5  SW     5  NE     5  W      5  SE     2  SW    19  S      2  ESE   13  SSW    9  SSW    9
+  20  9  WSW    5  E      5  SW     9  NNW    5  NE     9  SSW   13  S      2  SSW    9  SW     2  SSE    9  SSW    9  SW     5
+  21  9  SW    24  ESE    9  S      5  N      5  NE     5  W      2  SSW    5  SW     5  NNW    2  E      9  SSW   13      -777
+  22  9  SW    19  E      2  SW    24  NNW    2  NE     5  SSW   19  SSW    5  SSW   19  NNE    5      -777  S     13  S      9
+  23  9  W      9  E      9  SW    24  SE    19  NE     2  SE     5  SSE    9  S      9  SSW    2  SSW    9  SW    24  S      5
+  24  9  S      2  NE     2  SW     9  S     19  ENE    5  SSE    2  SSE    9  SSW    2  N      9  SSW   19  SW     2  S      5
+  25  9  SW    13  E      9  NW     5  SW    13  E      5  W      5  SSE   19  SW     9  NE     2  SSW   19  SW     5  S     13
+  26  9  SW    13  S      5  NW     5  SW    24  E      5  S     19  S      9  SW    19  SW     9  SSW   19  S      9  S     19
+  27  9  WSW   24  NW     5  SSE   19  SSW   19  SSE    5  SW     9  SSW    9  SSW   19  W      9  SSW    9  W      5      -777
+  28  9  SW     5  N      2  S     13  SW    19  SSE    5  S     13  S     13  SW    19  SW    13  SW    19  SSW    9  SSW    9
+  29  9  SW     9      -999  SSW   13  S      9  N      2  SW    19  SSW   13  SW    13  SW     9  S      9  SSE    2  S     13
+  30  9  W      5      -999  SSW   19  SW     5  SSW    5  S      2  SSW   19  SW     5  SW     9  SW     9  SSE   19  SW     9
+  31  9  S      5      -999  SSW   30      -999  SW     9      -999  S      5  S      5      -999  SW    13      -999  N      5
+  1995
+   1  9  W      9  SW    13  WSW    2  SW     9  SSE   13  SW     3  SW     9  ENE    5  SW     3  SSW   19  N      2  SE     5
+   2  9  W      5  SSE    9  SSE   13  SSW   13  S     13  SW     5      -777  N      5  NNW    2  SSW   24  N      2  S      9
+   3  9  SSE   13  SSW   13      -777  SSW   13  S      9  SSW    9  N     13  NE     5  N      2  SSW    2  SSE    2  W      5
+   4  9  SSE   19      -777  S      9  SSE    5  SSW    5  WNW    5  WNW    2  NNE    5      -777  S     19  SSE    2  WNW    2
+   5  9  SSW    9  S      9  SSW   13  SSW   19  SW     5  SW     5  N      9  NNE    5  N      2  SW    19  S      8  SE     2
+   6  9  SW     9  SSW   13  W      2  SW     9  NE     5  SW     5  SW     5  NNE    5  N      5  S     19  S      9  E      5
+   7  9  S      9  SW     2  SSW   13  NW     5  WSW    5  NWbW   9  SSW    2  N      2  NW     9      -777  SSW    5  E      2
+   8  9  SW     9  E      5  WNW    5  S      2  NNW    5  N     13  SSW    2  S      2  N      5  S     19  S      5      -777
+   9  9  SW    24  E      5  SSE    9  S      5  N      5  NNW   19  SSE    5  S      2  S      5  ENE   13  SW     2  SSW    2
+  10  9  SW    13  NE     5  SSE   30  SSW    5  WSW    2  N      2  SE    19  S      5  W      2  S     13  SSW    2  S      2
+  11  9  N      2  SSE   13  W      2  SSW    9  ENE    9  N      9  SE     5  SSE   19  SSW    5  SSE   19  NE     5  S      2
+  12  9  WSW    5  S     19  S      2  WSW    2  N      9  N      5  S      5  SW    13  S      2  SW     2  E      5      -777
+  13  9  SSW    5  SSE    9  S      5      -777  N      3  N      5  SSE    9  SW     5  SSW   13  SSW    9      -777      -777
+  14  9  SW    19  S      9  SSW    2  S      2  SW     5  N      5  SSE    5  SW     9  E      5  S      9  S      2  E      2
+  15  9  S     19  SW     9  WSW   13  SSE    5  NNW    5  NWbW   5  S      2  SW     5  SSE    2  SW     9  E      2  NE     5
+  16  9  WSW    2  SSW   19  S     13  SW     5  NE     5  SW     5      -777  S      5  SW     5  S     19  NNW    5      -777
+  17  9  SE    24  SSW    5  SSW   19  SSW    9  N      5  SW     9  S      5  SSE    5  SSE    5  SSW   24      -777  NE     9
+  18  9  SSW   19  S      9  S     19  NW     5  SSW    5  SW     2  SSW   13  NE     5  N      5  SSW   13  S      2  NE     2
+  19  9  SSE   19  S      9  SW     5  NNW    9  E      2  SW    19  SSW   13  SSE    5      -777  SW    19  S      2  NE     5
+  20  9  S      9  SSW    9      -777  NW     5  WNW    9  SW     2  SSW   13  S      2  SW     5      -777  NNE   19  NE     5
+  21  9  S      9  SW     9  S      9  W      5  S      9  WSW    2  SSW    5  SSW    5  SSW    5      -777  SSW   13  E      2
+  22  9  S      9  SW    19  SSW   13  N      9  S     13      -777  SSW    5  SSW    2  WSW    2      -777  SW     9  E      2
+  23  9  SW     5  SSW    9  SSW   19  E      9  SE    13  NE     2  SSW   19  SSW    9  SW    19  S     24  S     19  NE     5
+  24  9  S      9  SSW    5  SSW   15  N      9  SE     5  NE     2  SSW    9  SSW   13  W      9  S      2  S     13  SW     2
+  25  9  SW     2      -777  W      5  NNE    9  S     19  NE     5  SSE    9  NW    19  SW    19  SSW    9  SW     9  NNW    5
+  26  9      -777  WSW    2  WNW    9  NNE    9  SSE   13  ENE    5  SSE    5  SSW    9  SW     5      -777      -777  SSW    5
+  27  9  SE    13  SSW    9  S      5  E      9  SSE   13  E      9  S      9  SSW    9  SW    13  SW     9  W      2      -777
+  28  9  SSW   13  SW    24  SW     2  SE     9  SSW   19  ENE    2  S      5  SSW    5  SW     5  S      2  S      5      -777
+  29  9  S      2      -999  SE     2  SSE    9  SW     9      -777  S      5  NW     5  SW     5  S      9  ESE    5  SSW    2
+  30  9      -777      -999  SW     9  S      9  SSW    2  NW    50  SSW    5  NNE    2  SSE    5  S      2  SE    19  E     19
+  31  9  SSW    9      -999  SW     5      -999  SW     5      -999  SSW    5      -777      -999  S      5      -999  E      5
+  1996
+   1  9  SSE    9  E      2  N      5  SE     2  NNE    9  SW     9  SW    13  SSW    9  S      9  SW     9  SSW   13  SW     9
+   2  9  S      9  E      2  N      2  SW     5  NNE    5  SSW    9  SW     9      -777  SSW    2  SW     5  SSW   19  NW    19
+   3  9  SSE   19      -777  N      2  WSW    2  NNE    5  S     19  SW    13  S      5      -777  S     24  SW    24  NE     9
+   4  9  SE    13  S      9  N      5  SSE   13  N      5  SW    13  NW    13  SSE    9      -777  SSW   13  S     13  SSW    5
+   5  9  SE    19      -777  NNW    2  SSE    5  SW     5  S     19  NW     5  S      9      -777  SW     5  SW     5      -777
+   6  9  SE    19  SW     5      -777  E      5  NW     5  S      9  W      5  NW     2  SE     2  SSW    9  W      9      -777
+   7  9  SSW   13  SSE    2  SSE    5  SSE    2  NW     2  S      9  NNW    2  SW     5  SE     2  SSW    9      -777  S      9
+   8  9  SE    24  SSW    9  ESE    2  SSW    5  N      5  SSW    5  W      2  S      9  SE     2  SW     5  S      9  S      9
+   9  9  S     13  SSE   24  ESE    5  SE     9  NE     5  S     13  WNW    5  SSE    9      -777      -777  SW     5  S      9
+  10  9  SSW    5  SSW    9  S      9  SSW    5  NE     5  SSW   13  SSW    9  SSE    9      -777  SSE    5  SW     2  SSE    5
+  11  9  SE    19  W      9  S      9  NW     5  NE     5  SSE   13  S      9  NE     2  N      2  S     13  S      2  E      5
+  12  9  SW     5  NWbW  30  SSW    2  SSE   13      -777  WSW   13      -777  N      2  N      5  SSE    9  N      2      -777
+  13  9  S      9  S      2  SE     9  E     10  SSE    9  W      5  S      5  N      2  N      2  S     24  SW     5      -777
+  14  9  SSE   13  NNE    2  SE     9  SSE   19  S      5      -777  WNW    2  N      5      -777  SSE    9      -777  S      9
+  15  9  SSW    5  SSW    9  SE     5  S      9  N      2      -777  N      2  SSW    2  S      5  SSW   13  SW     5  SW     5
+  16  9  SSW    2  NW     5  E      9  S     19      -777  S      2  SE     5  SSW    9  SSE    5  SW     9  SW     9  S      9
+  17  9  SSE    5  NW     9  E      9  SW    13  E      5  SSW    2  S      2  S      9  SSE   13  SW     5  N      5  SSE    5
+  18  9  S      9  WNW   19  ENE    5  SW    24  N      2  NNW    5  S      2  S     13  SSE   24  SSW    9  SW     5  S      9
+  19  9  W      2  N      2  ENE    5  S     19  N      9  N      5  SSW    2  SSE    9  ENE    5  SSW    9  NE    13  ENE    9
+  20  9  ESE    9  NNW    5  ENE    5  S      5  SSW   19  NE     5  S      2  S      2  ENE    5  SSW    9  N      5  ENE    9
+  21  9  E      9  S      9  NE     5  SE     9  SSW   13      -777  SSW    2  WSW    9  ENE    5  SW     9      -777  ENE    5
+  22  9  ENE    2  SSW    2  E      5  S     24  S     19  NNW    2  SSW    5  SE    13  SE     2  SSE   13  SSW    5  ENE    5
+  23  9  NNE    2  SSW    9  NE     5  S     13  SSW   19  NNW    2      -777  SSW    2  SSE    9  SSE    9  WNW    5  ENE    5
+  24  9  NE     9  S      5  NE     5  SW     5  SW     9  N      2  N      5  S      2  SSE   13  S     13  SSE    9  E      5
+  25  9  E      9  SSW    5  NE     9  SW     9  SSW    5  SSW    9  SSW    5  SSW    2  SSW    9  S     13  SSW    5  E      5
+  26  9  NE     5  SSW    3  NE     5  SW    19  SE     9  SW     2  SW     5  WNW    2  S     24  SSW   13  ENE    2  S      9
+  27  9  NE     5  SSW    2  NE     2  SSW    9  N      2  SSW    5  SW     5  NNE    2  SSW   13  SW    30  SSE    5  SW     5
+  28  9  SE     5      -777  WNW    2  SSE    5  SSW   13  SW     9  SSE    5  N      2  S      9  S     19  S      5      -777
+  29  9  ENE    2  S      2  NNW    2  NW     2  SW     5  NW    19  NNE    5  N      2  WSW    5  NNW    5  SW     9      -777
+  30  9  NE     2      -999  N      5  SW     2  SE     9  SW     9  SSW   13  N      2  SW    13  S      9  NW     9      -777
+  31  9  E      2      -999      -777      -999  SSW   30      -999  SW     9  WSW    2      -999  S      9      -999  ENE    9
+  1997
+   1  9      -777  S      9  S     24  SW    13  S      9  SSE    9  N      9  SW     9  SSW    9  SW     9  WSW    5      -777
+   2  9  S      5  SW     5  SW    13  SSW    5  SSW    5  NE     9  N      5  SW     2  S     19  SW     2      -777  SSE    5
+   3  9      -777  S     19  SW     9  NW    13      -777  E      9  N      5      -777  S     13  SSW    2      -777  N      5
+   4  9      -777  W      5  SW     5  SSW    9  S     13  SSE    2  W      5  NE     9  SSW   19  SW     9  SSE    9  SSW    5
+   5  9      -777  SSW    9  S     13  NW     9  N     13  SSE    2  W      2  NE     9  SSW   13  SW    13  E      5  SSW   19
+   6  9      -777  S     24  SSE   13  WSW    2  NNW    9  SSE   13  SSW    9  NE    13  SW    13  S      9      -777  SSW   13
+   7  9  E      5  SSW    5  S     19  SW     5  WNW    5  SSE   13  SSW    9  NE     5  W     19      -777  SW     5  S     13
+   8  9  ENE    2  SSW    9  WSW    2  S      9  WNW    5  S     24      -777  SSW    5  SW    13  S      5      -777  S     13
+   9  9      -777  SSW    9  S      2      -777  WNW    2  S     13  ENE    2  S      5  SW     9  SW     9  SW     5  SSW   13
+  10  9  S      9  SSW   24  S      5      -777  SE    13  S      2  SE     9      -777  SW     5  SW    13  S      5  WSW   30
+  11  9  SSE    9  S      5      -777  N      5  N      2  NE     9  S      9  S      9  S      9      -777  SSW    5      -777
+  12  9  S      9  S      9  SSW    5  SW     2  SSW   19      -777      -777  SSE    5  SSW   13      -777  SSW    9  SW     5
+  13  9  SSW   24  W     19  S      9  NNE    2  SW    13      -777  S      5  S      2  SSW   19  SW     9  SSW    9  S      5
+  14  9  S     13  S      5  WSW    5  N      2  SSW    9  SSE    9  S      9  S      5  SSW   13  SW     9  S     13  S      9
+  15  9  SSE    5  S      5  SSW    5  NNE    5  SSE    9  NW     5  S     13  S      5  W      9  SW     9  SSE   19  SE     9
+  16  9  SSE    5  SSE   19  SW     9      -777  E      2      -777  S      5  SSE    9  S     19  SSE    9  S     13  E      9
+  17  9  SE     9  S     24  SSW    9  NE     5  E      2      -777  NW     9      -777      -777      -777  S     24  E     24
+  18  9  SSE    9  SSW   13  SW     9      -777  SW     2  S     13  NW     5  S      2  S      5  S      5  SSE   19  SSE   24
+  19  9  SSE    2  S     20  NW     9  ENE    5  SSE    2  SSW    2  SSW    2  SSE    9  NE    13      -777  SbW   19  SSE    2
+  20  9      -777  SW    24  WNW    5  E      5      -777  S      5      -777  S     13  E      9  E     13  SSE   19  S      9
+  21  9      -777  SW     9      -777      -777      -777  NNE    5      -777  SW     9      -777  E     13  S      5      -777
+  22  9      -777  SW    13  S     13  N      2  SE     5  N      5  S      5  SSW    5      -777      -777  ESE    5  SE     9
+  23  9      -777  SW     5  NW     5  SW    19  NE     2  SW     5  S      2      -777      -777      -777  SSE    9  SSE   13
+  24  9  S      9  SSW   19  W      9  WSW   13  SSE    5  W      5      -777      -777      -777      -777  SSE    9      -777
+  25  9  S      9  SSW    5  SSW   13  E     13      -777  ENE   19  S      9  S      2      -777      -777  SSE   13  S     13
+  26  9      -777  SSW    5  SSW   13  ESE   13  SW     5  NNE   19      -777  S      8      -777      -777  SSE    9  SW     9
+  27  9      -777  S     24  SSW    9  SSW    9  NNE    2  NE     5  SSW    9  SSE   24      -777      -777      -777  SW     9
+  28  9  SW     5  S     19  SW    13  SSW   19      -777  NE     5  SSW    9  SSE   19  S      9      -777      -777      -777
+  29  9      -777      -999  SW     2  NW    13      -777  NE     2  S     19  SW    19  SW     5  SSE    9      -777  SSE    2
+  30  9      -777      -999  S      5  SSW    9      -777  N      5  SW    19  SSW    9  SSE    5  SSW   13      -777  S     19
+  31  9      -777      -999  SW     9      -999      -777      -999  SW    19  ENE    9      -999      -777      -999  S      9
+  1998
+   1  9  SSE   24  S      5  S      9  SE     9  N      2  E      5      -777  N      9  SSW    5  NNE    2  SW     5  SSW    2
+   2  9  SSW   13  SW     9      -777  ENE    5  SE     5  E     13      -777  SSW   13  SSW    2  NE     5  S      2      -777
+   3  9  SSW   24  SSW    5  SW     5  SSE    9  SE     5  N      9  NNE    2  SSW   19      -777  E      9  N      5  SSW    2
+   4  9  E      9  SSW    5  SW    13  S      2  NW     5  SSE    9  SW     5  SSW    9  SE     5  ESE    9  NNE    2      -777
+   5  9      -777  SSW   13  SSW   13      -777  SSW    9  SSE    9  WSW   13  SSW   13  SW     2  NNE    5  SSW   19  W      2
+   6  9  SSE   13  SSW   25  E      5  S      2  SW    13      -777      -777  SSW   19  SW    19      -777  SW     2  SW     5
+   7  9  SSW    9  SW    13  SSW    9  NE     5  SSW   19  S      5  N      5  SSW    2  SE    19  NE     2  S     19  S     13
+   8  9  SSE    9  WSW   24  NW     5  W      2  S      9  SSE    5  SSW   13  WSW   19  SSW   19  NNE    2  SSW   19  SSW    9
+   9  9  S     19  SW    13  SW     5  N     19  S     13      -777  SW     9  SW     9  SW     5  SSW   19  SW    30  SSW   13
+  10  9  S     13  SSW   13  SSW   19      -777      -777  SW     9  S      9  S      5  SW     9  SSW    2  SSW   19  SSW    2
+  11  9  SSE   13  SW    24  WNW   19  N      9  SSE    9  NNW    5  SW    13  SSW    9  SW     5  W     19  SSW   19  SSE    9
+  12  9  S     13  SW    24  SSW    9  N      2      -777  SSW    2  SW    19  WNW   19  WSW    9  WSW    5  W     24  SW    19
+  13  9      -777  SSW    9  SW     9      -777      -777  SE     9  W     24  SSW   13  W      2  SSW   19  SSW    5  SSW    9
+  14  9  SSW    9  SSW    9  SSE    5  N     13      -777  N      9  WSW    9  S      9  NW    13  SW     9  SW     2  S     19
+  15  9  S     13  SSE   13  SSW    5      -777      -777  N      9  SW    13  W     19  SSW    2  SSW    9  SW     2  SSW    9
+  16  9  SW     2  NW     9  SSW   13  S      5      -777  S      2  WSW    5  WSW   19  NNW    9  SSW   19      -777  SSW   13
+  17  9  SSW    9  SW     9  SSW    9  NNW    5      -777  SW     5  SW     9  SW    19  WSW    2  NNW   24  SSE   13  SSW   24
+  18  9  E      9  SSE    9  SW     9      -777      -777      -777  SW    19  WSW    9  SW    13  SW    13  SSW    2  SSW   13
+  19  9  N      9  S     13      -777  SE     9      -777  SSW    9  SW    13  SSW   19  SSW    2  SW    13  SSE   13  WNW    5
+  20  9      -777  SSE   24      -777  W      5      -777  S      9  S     19  SW    24  SSW    9  SSE   13  S     13  WNW    3
+  21  9  S     13  S      9      -777  SSE   13  N      5  SW    13  SSW   19  WNW    5      -777  SW    19  SSW   19  S     13
+  22  9  SSE    9  SW     9      -777  SSE    9  S      2  SW    13  SSW    9  WSW    5  S      2  SSW   24  SW     5  S     19
+  23  9      -777  SW     9  SSW    5  SSE   13  W      2  SW    13  WNW   13  SSW    5  NE     2  WSW    2  SSW    2  SW    19
+  24  9      -777  SW     5      -777  SSW   13      -777  SSW   13  WSW   13  SW     9  ESE    5  SSW   24  SSW    9  SSW   19
+  25  9      -777  S      9  S      9  S     13  SW     9  SW     9  WSW   13  S      2  NE     2  WSW   13  SSW    9  SW    19
+  26  9      -777  SW     9  SW    19      -777  NNW    9  SW     9  WSW   13  NNW    2  E      5  SW    13  W     13  SSE   13
+  27  9      -777  SW    30  S      9  SE     5  SE    13  SW     5  SW    13  WSW    2  E      5  SW    24  SW    13      -777
+  28  9      -777  SW     9  S      9  SSE    9  NNE   13  W     13  SSW    5  N      2  NNE    2  SW    24  SW     5      -777
+  29  9      -777      -999      -777  S      2  NNE    9  SW    13  SW    13  NW     5  SSW    5  SW    19  SW     5  SE    19
+  30  9      -777      -999  S     19      -777  E      5  NW     9  SW     5  SSE    5  N      5  W      2  SW     2  SW    13
+  31  9  E      2      -999      -777      -999  E      9      -999  NW     9  E     19      -999  SW     2      -999  ESE   19
+  1999
+   1  9  S     13  SSW    2      -777  SSE    9  E      2  SSW    5  SSW    2  S     13  SW     9  SSW   13  SW     9  WSW   19
+   2  9  S     24  SW     9  SSW   13  ESE    9  E      2  S      2  SSE    2  SSE    2  SW    13  ENE    9  SSW   19  SW    19
+   3  9  SSW    9  SSW   19      -777  ESE    2  E      2  NNE    2  W      5      -777  SW     9  SSW    9  SSW   13  W     24
+   4  9  SW    20  W     24  NNW   19  S      5  SSE    2  SSW   19  WSW    9      -777  SSW    2  SSW    5  SSW   24  SW     9
+   5  9      -777  NW    19  NNW    2  SSE   13  E     13      -777  SSE    2  NE     2  SSW    2  SW     2  SW     2  SSW    2
+   6  9  SW     2  NW     2  NW     9  SW    19  E      5  SSW    9  SSW    2  SE     9  SSW    9  SW     0  SW     2  SW    24
+   7  9  S      2  NW     2  NNW    2  W     13  ESE    9  N     13  SSW    5  E      9  SW    13  SSW    9  NW    13  SW    13
+   8  9      -777      -777  N      2  SW    13  SSW   13  SW     5  SSW    5  ENE    9  SSE   24  SW    13  SW     2  SW    24
+   9  9      -777  N      2  N      2  S     13  S     24  WSW    2  SSE   13  ENE    9  SSW   19  SE    13  E      2  SW     9
+  10  9      -777  W      2      -777  W     13  S     13  N      2  SE     2  NE     2      -888  SW    19  SW     2  SW     5
+  11  9      -777  SW     2  S      9  SW     9  SSW   19  N      2  N      2      -777      -777  SW     2      -777  SW     9
+  12  9  SW     2  SSW    5  SSW    9  WNW    9  SSW    2  N      2  N      2      -777      -777  SW     5  NE     2  SW     9
+  13  9  S     19      -777  SW    19  NNW   19  S      2  WSW    9  SW     9  S      1  SSW   13  SW     9  NE     5  SW     5
+  14  9  SSW   19  SW     2  SW    13  NW     5  SE     2  SSW    9  SSW    9  S      2  SSW    5  SE     2  NNW    2  WSW    2
+  15  9  SSW   24  SW     5  SSW   19  NNW    9  SSW    2  SSW    5  SSW   13  WSW    5  SSE   13  NE     5  WNW    5  WSW    2
+  16  9  SSW   24  SW     2  SSW   13  N      2  S      2  SW    19  SW     9  SSW    2  SSW    9  ENE    2  WSW    2  SW     9
+  17  9  SSW   24  WSW    5  SW    19  SW     2  NE     2  WSW    9  SSW   13  SE     2  SW     5  ENE    2  WSW    2  WSW    5
+  18  9  S     19  WSW    9  WNW    9  WSW    5  NE     9  SSW   13      -777  SSE    1  ESE   24  ENE   13  NE     2  SSE    2
+  19  9  SSW   13  NW     5  WNW    2  SE     5  NNE    2  SSW   24  SSW   19         2  ENE    5  E      9  NE     2  SSE    2
+  20  9  SSW    9  SW     9  SW    13  E     13  NNE    2  NW    19  SW    19         2  NNW    5  ENE   13  SSW    2  ESE    5
+  21  9  SSW    2  W     19  W     24  SSE   19  W     24  NW     9  SW    13         2  SSW   13  ENE   24  SW     2  SSE    2
+  22  9  SW    13  NW     2  SW     5  SSW   19  W     24  S     13  N      5         2  ENE    5  E      9  SW     5  SSE   24
+  23  9  S     30  WSW    2  WSW   13  SSW   13  WSW   19  SSW    2  SSW    9  NE     5  E      5  NE     5  SW    13  S     13
+  24  9  SW     9  ENE    2  SW    19  SSW    2  SW    19  S      2  W      5  ENE   13  SW    13  NNE    2  SW     5  SW    19
+  25  9  SSW   13  SSW   13  SSW    5  SE     5  SW    13  SSW    5  E      2  E      2  S      2  SW     2  SSW   13  SW    19
+  26  9  SW     9  SSW   13  WSW   19  ENE    2  SW    19  SW    19  ENE    2  SSW   19      -777  SW     5  SW    13  SW     9
+  27  9  SW     9  SSW    9      -777  NNE    2  SW     2  SW     9  ENE    2  SSW    5  ENE    2  SW    13  SSW   13  SW     2
+  28  9  NW     2  SSW   24  SSW   24  N      2      -777  SW    13  E      5  S      2  S      2  SW     2  SW    24  SW     2
+  29  9  SW     2      -999  SSW   19  N      2         9  SSW    9  S      5  SSW    5  SSW    5  SSW   13  SW     5  E      2
+  30  9  WSW    2      -999  SW    13  NNE    2  E      9  SW    13  SSE    2  SW     9  WSW    9  SW    19  SW    30  SW     2
+  31  9  SSW    2      -999  SSE    2      -999  E      5      -999  S      2  SW     5      -999  NNE   19      -999  SW     9
+  2000
+   1  9  SW    13  SW    24  W      9  ENE    2  NE     0  NNE    9  E      5  SSW   19      -777  W      5  SSW   19      -777
+   2  9  E      2  SW     9  SW    24  NE     2  NNE    2  NNE    5  WSW    2  SSW    5      -777  WSW   24  SW     2  N     24
+   3  9  WSW    5  SW     5      -777  ENE   13  NNE    2  NNE    5  NE     5  ENE    9  WSW    2  SW    24  SSW    5  N      5
+   4  9  SW    13  SW    19  SSW    5  NNE    2  NNE    2  N      2  SE     5  WNW    2  SSE   13  SSW   24  SW     2  WSW    9
+   5  9  SE    24  SSW    9  SSW    9  NNE    2  NNE    2  ENE    2  WNW    2  SW    24  SW     9  SW     5  SW     2  SSW   24
+   6  9  WSW   13  SSW   13  SW    19  SW     5  NNE    2  WSW   19  ENE    2  SW    24  SW     9  SW     5  WSW   19  SSE    9
+   7  9  SW    24  SW    24  SW    19  SW    13  ENE    2  SW     5  SW     5  WNW   19  SW    24  SW    13  NNW   13  SSE    9
+   8  9  SW    24  SW    24  NE    13  SW    19  ENE    9  SW    24  NE     5  SW    13  SSW   13  SW     5  NNW    9  SW     9
+   9  9  SW     5  SW    19  SW    19  NNE    9  ENE    2  SSW    2  E      9  WSW   13  N     13  NE     2  SSW   13  SSW    9
+  10  9  WSW   24  SW    13  WSW   19  W      5  ENE    2  SSW   24  E     13  SW     2  N      2  WSW   24  SSW   19  SSW    5
+  11  9  SSW    5  SW     9  E      2  NNE    9  NNE    2  SSW   19  N      5  SW     9      -777  WSW    5  N      9  SE     5
+  12  9  SSW    2  SSW   19  ENE    9  NNE    9  ESE   24  SW    19  SW     5  SSW    5      -777  WSW    9  N      5  SW     5
+  13  9  SEbE   2  SSW    5  WSW    9  NNE   19  ENE    2  WSW   19  SW    13  W      2  N      2  WSW   13  SW     2  SSW    5
+  14  9      -777  SW    13  WSW   19  NE     5  ENE    5      -777  SE     2  WSW    2  N      9  WNW    9  N      5  WSW    5
+  15  9  WSW    2  SSW   19  SW     9  NNE    5  SW    13  WSW    2  NW     2  SW    19  E      2  ESE   19  ESE   19  WSW    5
+  16  9  E      2  SW    19  WSW    5  E      5  SW     2  ENE    9  WNW    2  SW    19  S      9      -777  SW    19  NW     9
+  17  9      -777  WSW    9  S      2  NE     5  SSW   13  SW     9  NNW    2  SSE   13  S      9  SSW   13  WSW   13  SW     2
+  18  9      -777  SW    24  ENE    5  NE     2  W      5  ENE    2  SE     2  SW     2  WSW    5  SSW   19  S      9      -777
+  19  9  SW     2  SW     2  SSW    5  ESE   19  SW    13  NE     2  SW     9  N      2  SSW    9  SW    19  S      9  ENE   19
+  20  9  SW     9  N      5  WSW    5  SSE   13  SW     9  SW     2  WSW    9  N      2  SW    13  SW    24  WSW    2  WSW    5
+  21  9  WSW    5  SW     9  SW     9  SW    13  SW     9  SW    19  E      5  NNW    2  ENE   19  SW     9      -777  E      5
+  22  9  NE    13  S     24  ENE    2  SW     2  WSW    9  SW     5  NE     5  NE     9  SW    19  S      9  SW     2  E      5
+  23  9  NE     5  SW    13  E      9  SW     2  SW    19  SW    13  NNE    2  NW     2  E     19  SW    19  WSW    2  S      2
+  24  9  SW     2  WSW   19  SW    13  E      5  SSW   13  N      2  WSW    2      -777  N      5  SW    13  WSW    2  NE    13
+  25  9  SW     2  SW    13  SW    19  SW     9  W      5  N      2      -777      -777  SSW    5  SSW    9  ENE    2  S      2
+  26  9  SW     2  WNW   24  SW     9  NNE    5  SW     9  SSW    5      -777  SSW    9  S      5  SSW   19  WSW   13  E      2
+  27  9  SSW    9  SSW    2  ENE    2  SW     9  SW     5  NNW    2  SW     9  NNW    2  SSE    9  SSW    5  SW     5  NE     5
+  28  9  SW    24  SW    24  ENE    5  SSW    5  SSW    2  NE     2  WSW    2  WSW    2  SSE    9  ESE   13  SSE    5  SW     5
+  29  9  W     30  W      5  NNE    2  WNW    3  SW     5      -777  N      2  WSW    2  SSE    2  N     19  SSE   24  WSW    2
+  30  9  WSW   24      -999  WNW    2  NE     3  NW     5  NE     2  E      2  ENE    2  N      2  SW    13  ESE   13  NNW    5
+  31  9  SW     2      -999  SW     2      -999  SW     9      -999  S      5      -888      -999  SSW    9      -999  NNE   13

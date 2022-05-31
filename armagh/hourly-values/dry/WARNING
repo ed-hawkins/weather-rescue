@@ -1,0 +1,2 @@
+Warning - the files Drytemp_1874.dat etc contain tabs not spaces and cannot be
+read with FORTRAN. The files 1874.dat etc contain the same data with spaces.
