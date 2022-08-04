@@ -102,7 +102,7 @@ Private weather diary for Glendoick, Perthshire.		1831 - 1864
 Private weather diary for Inverness - hourly readings,.		1838 - 1839
 
 SHIPS
-226 ship logbooks that include 1839 in National Archives - no idea on locations:
-https://discovery.nationalarchives.gov.uk/results/r?_dss=range&_sd=1839&_ed=1839&_ser=ADM%2053&id=C1762&_ps=60
+174 ship logbooks that include January 1839 in National Archives - no idea on locations:
+https://discovery.nationalarchives.gov.uk/results/r?_srt=5&_cr=ADM+53&_dss=range&_sd=01%2F01%2F1839&_ed=10%2F01%2F1839&_ro=any&_st=adv
 Home ports for the ships are available in the Navy List for 1839:
 https://babel.hathitrust.org/cgi/pt?id=mdp.39015025976732&view=1up&seq=702&skin=2021
