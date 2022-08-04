@@ -104,5 +104,5 @@ Private weather diary for Inverness - hourly readings,.		1838 - 1839
 SHIPS
 226 ship logbooks that include 1839 in National Archives - no idea on locations:
 https://discovery.nationalarchives.gov.uk/results/r?_dss=range&_sd=1839&_ed=1839&_ser=ADM%2053&id=C1762&_ps=60
-
-
+Home ports for the ships are available in the Navy List for 1839:
+https://babel.hathitrust.org/cgi/pt?id=mdp.39015025976732&view=1up&seq=702&skin=2021
