@@ -100,9 +100,16 @@ Private weather diary for Dollar Institution.		1836 - 1856
 Private Weather Diary for Edinburgh.		1795 - 1850 (possibly missing 1838)
 Private weather diary for Glendoick, Perthshire.		1831 - 1864
 Private weather diary for Inverness - hourly readings,.		1838 - 1839
+IN BRITISH LIBRARY
+Add MS 16882-16887 	Welbeck, Nottinghamshire: Meteorological observations.: 1802-1852.
+https://searcharchives.bl.uk/primo_library/libweb/action/display.do;jsessionid=9DE7CA7901EF66EADE9DC7B0AB2ABB84?tabs=detailsTab&ct=display&fn=search&doc=IAMS032-002094672&indx=2&recIds=IAMS032-002094672&recIdxs=1&elementId=1&renderMode=poppedOut&displayMode=full&frbrVersion=&frbg=&&dscnt=0&scp.scps=scope%3A%28BL%29&mode=Basic&vid=IAMS_VU2&srt=rank&tab=local&vl(freeText0)=16882&dum=true&dstmp=1660039643708
+
+POST OFFICE MUSEUM (unclear on whether any meteorological observations)
+POST 32/16	Dunvegan - Lochmaddy mail packet service
 
 SHIPS
 174 ship logbooks that include January 1839 in National Archives - no idea on locations:
 https://discovery.nationalarchives.gov.uk/results/r?_srt=5&_cr=ADM+53&_dss=range&_sd=01%2F01%2F1839&_ed=10%2F01%2F1839&_ro=any&_st=adv
 Home ports for the ships are available in the Navy List for 1839:
 https://babel.hathitrust.org/cgi/pt?id=mdp.39015025976732&view=1up&seq=702&skin=2021
+56 ships have home port in UK
