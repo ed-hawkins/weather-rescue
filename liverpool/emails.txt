@@ -1,0 +1,157 @@
+
+6 June 2019
+
+Hi Phil,
+
+Am looking for the sub-daily pressure readings (raw and adjusted) from your
+2006 IJC paper on the Liverpool pressure series. Do you still have copies please?
+
+Many thanks,
+Ed.
+
+Prof Ed Hawkins
+Professor of Climate Science, Dept. of Meteorology, Univ. of Reading
+and
+Principal Research Scientist, National Centre for Atmospheric Science
+
+EMAIL:    e.hawkins@reading.ac.uk
+WEB:      www.met.reading.ac.uk/~ed/
+
+10 June 2019
+
+Ed - sorry for the delay. I had visitors last week.
+
+Also, I had to get my head around things again since 2006. I usually
+keep decent notes but it is always a challenge to go back a few years.
+
+A first thing to mention is that most of the 'Liverpool' record
+in the paper came from Bidston and they were monthly means only.
+I think what happened is that the sub-daily values (3 hourly?) went to the Met Office,
+Bidston being only a secondary 'climatological' met station I think. They
+will have computed the monthlies which Bidston staff kept a record of through
+the years. These will have been the values that appeared in the Monthly Notices
+of the Met Office.
+
+I spoke to Colin Bell this morning. Colin was in charge of the met data before we moved
+across to L'pool. He remembers that the 3 hourly data from maybe 1980 were also
+kept at Bidston in books which went to Wirral Archives when we moved over to L'pool. I guess
+that doesn't help you much. But we never kept sub-daily data from before then.
+
+I must admit that I never made the attempt to enquire at the Met Office if they had
+archived the sub-dailies as the monthlies were enough for me at the time. So if you want
+any them now you will have to enquire there. Colin also had
+sub-daily values from Bidston for the recent era when there was an automatic
+station but not for many years and I recall that there were problems with that data.
+There was/is also a climatological station at Ness Gardens not far away but I don't
+know how far back the records from there go (after WW2?).
+
+So the only data I have that might be called sub-daily are the Prince's Dock values and
+the earlier Hutchinson measurements which was what most of the paper was about. However,
+I am not sure whether they are of use for you in a 'sub-daily' sense as the Prince's air
+pressures were collected at high tides (about twice a day) only and the Hutchinson values
+were at noon every day as explained in the paper.
+
+Anyway, here are some files and get back to me when you have had a look in case others
+are relevant.
+
+Phil
+
+
+Prince's Dock data
+==================
+
+The numbers in 'princes.barometer' come from photographs of sheets held
+in the Royal Society library. I took photos of all the Prince's sheets which
+were quite black, and images of 1827 and 1828 for Salthouse Dock as a test.
+The Salthouse sheets were very faint. Prince's period covered July 1827 to
+August 1835. November 1830 and November 1832 are missing. Some notes:
+
+1. the sheets show barometer at the time of high tides (Morning/Evening) so the sampling
+will be different to other data sets (two per day, or sometimes only one)
+
+2. some of the Prince's sheets even hard to read. some suspect barometer
+values marked by ?? after a guess at the value
+
+3. very few gaps for 'off sick'
+
+4. some short periods make you suspect rounding off of the second
+decimal place as for parts of the William Hutchinson data e.g. see December 1830
+or February 1831
+
+==> 'princes.barometer' given to Rob Allan (May 2006).
+
+This file shows the barometer values sequentially for each month without
+including the times for an individual value. You realise I was interested only
+in making monthly mean values of the barometer values and so I wasn't too
+interested in the actual date and time. However, I do still have the photos
+e.g. see 'IMG_0819.jpg' attached as an example. If these would be of interest,
+and save you a trip to London, then I can zip them up.
+
+Hutchinson data
+===============
+
+Barometer values were typed in by a summer student called
+Peter Burgess during June 2004 using the microfilm copies of Hutchinson's
+records held at Local Studies in Liverpool Central Library.
+
+They were concatonated into 'wh.barometer' before checking.
+
+Peter and I checked Peter's typing using the originals (i.e. originals in
+microfilm form) up to july 1780, then from the Lang copies because of 
+the page overlap obscuring the numbers on the originals. The Lang copies
+are copies of the original Hutchinson records made in the 19th century
+by a local printer called Lang. They are held at the Athenaeum Library
+in Liverpool.
+
+Peter had typed in the numbers in the same way consistently (i.e. from
+originals then  from Lang, maybe more from the originals nearer the end
+of the records than we did in our checking). When we couldn't understand
+a value in one or the other, then we checked the alternative copy. The
+whole thing was double or triple checked. Hutchinson's handwriting was
+easy to read once you got used to it, and Lang's was very clear. 
+
+Notes:
+
+1. wh measured air pressure to 1/10 inch, then in 1/100 inch from 
+what appears to have been 16 June 1768 when 'he left town to go
+for london' which somehow stimulated the extra decimal place.
+
+We had to go back and check all again as we had read e.g. 
+30 5 as 30.5 the first time around when it should have been read as 30.05.
+Those  written 30.50 for example will of course appear in our file as 30.5.
+
+2. note later data (e.g. june 1791) shows signs of rounding off to 
+1/10 inch anyway, maybe he was running down! This needs some 
+statistics compiling.
+
+3. X = missing values as WH away ('from home') or whatever
+
+4. feb 1771 original is missing in microfilm so we used lang
+   apr 1776 original is repeated in the microfilm
+
+5. 26 July 1787 - barometer 'out of order', restarts 4 August.
+
+   10-11-12/1789 - no remarks about the barometer (as we would have
+   expected from our later studies)
+
+In Jan 2007, a year or so after the 2006 paper was written, we
+decided to edit a few of the entries when further checks were
+made for a CD of all Hutchinson's met data which I can send if you
+would like one. The CD includes his temperature and rainfall records
+as discussed in the paper.
+
+The values in 'wh.barometer' were used to make monthly means of air
+pressure in 'monthlies_baro.jan07' which were 'adjusted' into the file
+'monthlies_baro_adjusted.jan07' by dividing into sections and comparing
+to Edinburgh as explained in the paper. (The 'jan07' in the file names
+refers to the slightly edited files following the paper). And to get to
+the annual means shown in Figure 7 they were 'readjusted' as again
+described in the paper by applying a simple offset. If the procedures are
+not clear let me know. I did not make adjustments to individual values.
+
+The Prince's monthly values were also 'readjusted' to be consistent with the
+others following a similar procedure. (There was no 'adjusted' step
+in this case).
+
+These files were sent to Rob Allan and Gill Compo for the ACRE collection.
+
