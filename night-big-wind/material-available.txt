@@ -46,19 +46,19 @@ Birmingham (1836-1846): http://calmview.birmingham.gov.uk/CalmView/Record.aspx?s
 Edinburgh - Waterston records (1797-1850) at NLS within the RSE archives: https://digital.nls.uk/catalogues/guide-to-manuscript-collections/inventories/acc12933.pdf. Volume 2 is in a different collection:
 https://manuscripts.nls.uk/repositories/2/resources/1434
 
-Northern Ireland - James Boyle - PRONI T2383/A/27/8J
+Carrickfergus, Northern Ireland - James Boyle - PRONI T2383/A/27/8J - probably at Royal Irish Academy?
 
 OTHERS IN MET OFFICE ARCHIVES IN EXETER
-MET/2/1/2/3/3	Private Weather Diary for Aylesbury, Buckinghamshire DCnn: 45AB1839 - 1840	Dell, T.	1838 - 1840. (MAY ONLY START IN JAN 1839, 3x daily)
-MET/2/1/2/3/39	Private Weather Diaries for Benefield (Northants) 1815 - 1858 DCnn: 43BE	Millar, J. E.	1815 - 1858. (SHOULD BE 2x daily)
+MET/2/1/2/3/3	Private Weather Diary for Aylesbury, Buckinghamshire DCnn: 45AB1839 - 1840	Dell, T.	1838 - 1840. (probably only starts in Jan 1839, 3x daily - imaged)
+MET/2/1/2/3/39	Private Weather Diaries for Benefield (Northants) 1815 - 1858 DCnn: 43BE	Millar, J. E.	1815 - 1858. (2x daily - imaged)
 MET/2/1/2/3/42	Private Weather Diary for Highfield House Observatory, Beeston, Nottinghamshire DCnn: 42BO 1810 - 1893 - very incomplete	Lowe, E. J.	1810 - 1893.  (UNLIKELY TO BE USEFUL)
-MET/2/1/2/3/70	Private Weather Diary for Castle Cary, Somerset 1805 and 1828 - 1864 DCnn: 86CC.	Hobhouse, H.	1828 - 1854	Archive Collection. (SHOULD BE 1x daily)
-MET/2/1/2/3/79	Private Weather Diary for Trumpington, Cambridge 1820 and 1825 - 1839 and other items forming the Glen Bzdel Collection	Bzdel, G.	1825 - 1839. (COULD BE 3x daily)
-MET/2/1/2/3/90	Private Weather Diary for Chiswick, Royal Horticultural Society Gardens, Greater London 1827 -1844 DCnn: 51CH	Thompson. R.	1827 - 1844 (SHOULD BE 3x daily)
-MET/2/1/2/3/94	Private Weather Diary for Chiswick, Royal Horticultural Society Gardens, Greater London 1826 - 1869 DCnn: 51CH	Glaisher	1826 - 1869  (DAILY?)
-MET/2/1/2/3/123	Private Weather Diary for Epping, Essex 1820 - 1860 51.41.42 N approx 25 East DCnn: 36EP	Squire, J.	1820 - 1860.  (UNKNOWN FREQUENCY)
+MET/2/1/2/3/70	Private Weather Diary for Castle Cary, Somerset 1805 and 1828 - 1864 DCnn: 86CC.	Hobhouse, H.	1828 - 1854	Archive Collection. (Hadspen House, 1x daily - imaged)
+MET/2/1/2/3/79	Private Weather Diary for Trumpington, Cambridge 1820 and 1825 - 1839 and other items forming the Glen Bzdel Collection	Bzdel, G.	1825 - 1839. (3x daily - imaged)
+MET/2/1/2/3/90	Private Weather Diary for Chiswick, Royal Horticultural Society Gardens, Greater London 1827 -1844 DCnn: 51CH	Thompson. R.	1827 - 1844 (should be 3x daily?)
+MET/2/1/2/3/94	Private Weather Diary for Chiswick, Royal Horticultural Society Gardens, Greater London 1826 - 1869 DCnn: 51CH	Glaisher	1826 - 1869  (should be 1x daily?)
+MET/2/1/2/3/123	Private Weather Diary for Epping, Essex 1820 - 1860 51.41.42 N approx 25 East DCnn: 36EP	Squire, J.	1820 - 1860.  (1x daily - imaged)
 MET/2/1/2/3/149	Private Weather Diary for Goodamoor and other sites, Devon DCnn: 88GM	Unknown	1825 - 1863.   (UNLIKELY TO BE USEFUL)
-MET/2/1/2/3/150	Private Weather Diary for Guilsborough, Northamptonshire DCnn: 43GB	Silkes, T. Watson, F. D.	1815 - 1863.  (SHOULD BE 2x daily)
+MET/2/1/2/3/150	Private Weather Diary for Guilsborough, Northamptonshire DCnn: 43GB	Silkes, T. Watson, F. D.	1815 - 1863.  (2x daily - imaged)
 MET/2/1/2/3/159	Private Weather Diary for Greenwich, Greater London DCnn: 50GB 1811 - 1851	Belville, J. H.	1811 - 1851. (1x daily)
 MET/2/1/2/3/167	Private Weather Diary for Hackney, London DCnn: 50HA	Underhill, S.G. Underhill, S. G.	1832 - 1856. (2x daily)
 MET/2/1/2/3/175	Private Weather Diary for Harleston, Norfolk DCnn: 30HA	Pallant, T.	1786 - 1842.  (3x daily)
