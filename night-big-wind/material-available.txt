@@ -70,7 +70,6 @@ MET/2/1/2/3/390	Private Weather Diary for Sunbury, Vicarage, Surrey (old county 
 MET/2/1/2/3/398	Private Weather Diary for Sidmouth, Devon (DCnn: 88SM) 1836 - 1878	Heineken, N.S.	1836 - 1878.  (DAILY)
 MET/2/1/2/3/415	Private Weather Diary for Swansea , West Glamorgan (DCnn: 84SN) 1818 - 1843	Edwards, Dr Gutch, J. Jenkins, J.	1818 - 1843 (SAME SOURCE AS NEWSPAPER)
 MET/2/1/2/3/439	Private Weather Diary for Walkeringham, Nottinghamshire (DCnn: 42WH)	Miller, J. K.	1826 - 1855. (SHOULD BE 3x DAILY)
-MET/2/1/2/3/439 Private Weather Diary for Welbeck Abbey Gardens, Nottinghamshire (DCnn: 42WB) missing 1828 - 1837, 1839 - 1841 and 1872. (DAILY FOR 1838 - BRITISH LIBRARY SHOULD HAVE COMPLETE SET)
 MET/2/1/2/3/479	Private Weather Diary for Ballimore, Tayside (old county Perthshire), Scotland		1833 - 1857.  (1x DAILY - imaged)
 
 IN NATIONAL RECORDS OF SCOTLAND (EDINBURGH)
@@ -84,7 +83,7 @@ Private weather diary for Glendoick, Perthshire.		1831 - 1864
 Private weather diary for Inverness - hourly readings,.		1838 - 1839
 
 IN BRITISH LIBRARY
-Add MS 16882-16887 	Welbeck, Nottinghamshire: Meteorological observations.: 1802-1852.
+Add MS 16882-16887 	Welbeck, Nottinghamshire: Meteorological observations.: 1802-1852.  (imaged 1838-1839)
 https://searcharchives.bl.uk/primo_library/libweb/action/display.do;jsessionid=9DE7CA7901EF66EADE9DC7B0AB2ABB84?tabs=detailsTab&ct=display&fn=search&doc=IAMS032-002094672&indx=2&recIds=IAMS032-002094672&recIdxs=1&elementId=1&renderMode=poppedOut&displayMode=full&frbrVersion=&frbg=&&dscnt=0&scp.scps=scope%3A%28BL%29&mode=Basic&vid=IAMS_VU2&srt=rank&tab=local&vl(freeText0)=16882&dum=true&dstmp=1660039643708
 
 POST OFFICE MUSEUM (unclear on whether any meteorological observations)
