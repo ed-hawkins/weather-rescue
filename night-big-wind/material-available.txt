@@ -1,6 +1,7 @@
 MATERIAL ALREADY DIGITALLY AVAILABLE
 IN ISPDv4: Armagh, Rochefort, Stockholm, Uppsala, Marseille (and others in Switzerland, Italy, Germany)
 RICHARD CORNES: London, Paris, De Bilt
+METEO-FRANCE: Paris (4x day), Rochefort (extra morning observations), Marseille (corrections)
 OTHER NEW: Reykjavik, Ukraine (x6 station), at least 11 stations in Switzerland, Modbury, KNMI two sites (https://www.knmi.nl/nederland-nu/klimatologie/daggegevens/antieke-waarnemingen)
 
 NEW MATERIAL SCANNED
@@ -9,7 +10,6 @@ Annals Natural Philosophy periodical: London (Royal Society), Boston, Dumfries
 
 MATERIAL IN NEWSPAPERS (British Newspaper Archive)
 Cambridge Observatory - Cambridge Chronicle and Journal (2x daily)
-Kendal - Westmorland Gazette (only monthly max/min)
 Fife - Fife Herald (only two observations)
 Falmouth - Falmouth Express and Colonial Journal (3x daily)
 Cheltenham - Cheltenham Chronicle (2x daily)
