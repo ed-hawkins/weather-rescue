@@ -30,6 +30,9 @@ Ackworth School (1824-1851): https://www.catalogue.wyjs.org.uk/calmview/Record.a
 Whitehaven - John Fletcher Miller (1832-1854): https://archiveweb.cumbria.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=DH%2f1%2f1
 (observer was away in 1838-39 so no observations)
 
+Kendal - https://archiveweb.cumbria.gov.uk/Calmview/Record.aspx?src=CalmView.Catalog&id=WDX+1198
+(possibly including graphs and numerical data)
+
 York - Charles Piazzi Smyth (1831-1860): https://archives.exploreyork.org.uk/index.php/meteorological-records-of-charles-piazzi-smyth
 (Likely only monthly summaries for 1838-1839)
 
