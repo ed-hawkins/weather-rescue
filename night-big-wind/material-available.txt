@@ -1,5 +1,5 @@
 MATERIAL ALREADY DIGITALLY AVAILABLE
-IN ISPDv4: Armagh, Rochefort, Stockholm, Uppsala, Marseille (and others in Switzerland, Italy, Germany)
+IN ISPDv4: Armagh, Rochefort, Stockholm, Uppsala, Amsterdam (hourly), Marseille, Hohenpeissenberg, Turin, Basel, Genova, Geneva, St. Petersberg, Great St Bernhard
 RICHARD CORNES: London, Paris, De Bilt
 METEO-FRANCE: Paris (4x day), Rochefort (extra morning observations), Marseille (corrections)
 OTHER NEW: Oslo, Reykjavik, Ukraine (x6 station), at least 11 stations in Switzerland, Modbury, Haarlem & Zwanenberg & Utrecht (Fremory) from KNMI (https://www.knmi.nl/nederland-nu/klimatologie/daggegevens/antieke-waarnemingen)
@@ -62,18 +62,18 @@ MET/2/1/2/3/94	Private Weather Diary for Chiswick, Royal Horticultural Society G
 MET/2/1/2/3/123	Private Weather Diary for Epping, Essex 1820 - 1860 51.41.42 N approx 25 East DCnn: 36EP	Squire, J.	1820 - 1860.  (1x daily - imaged)
 MET/2/1/2/3/149	Private Weather Diary for Goodamoor and other sites, Devon DCnn: 88GM	Unknown	1825 - 1863.   (UNLIKELY TO BE USEFUL)
 MET/2/1/2/3/150	Private Weather Diary for Guilsborough, Northamptonshire DCnn: 43GB	Silkes, T. Watson, F. D.	1815 - 1863.  (2x daily - imaged)
-MET/2/1/2/3/159	Private Weather Diary for Greenwich, Greater London DCnn: 50GB 1811 - 1851	Belville, J. H.	1811 - 1851. (1x daily)
-MET/2/1/2/3/167	Private Weather Diary for Hackney, London DCnn: 50HA	Underhill, S.G. Underhill, S. G.	1832 - 1856. (2x daily)
-MET/2/1/2/3/175	Private Weather Diary for Harleston, Norfolk DCnn: 30HA	Pallant, T.	1786 - 1842.  (3x daily)
+MET/2/1/2/3/159	Private Weather Diary for Greenwich, Greater London DCnn: 50GB 1811 - 1851	Belville, J. H.	1811 - 1851. (3x daily - imaged, with lots of notes about storm)
+MET/2/1/2/3/167	Private Weather Diary for Hackney, London DCnn: 50HA	Underhill, S.G. Underhill, S. G.	1832 - 1856. (1x daily - imaged)
+MET/2/1/2/3/175	Private Weather Diary for Harleston, Norfolk DCnn: 30HA	Pallant, T.	1786 - 1842.  (3x daily - imaged)
 MET/2/1/2/3/187	Private Weather Diary for Highworth, Wiltshire DCnn: 58HW 1813 - 1821 and Stonesfield, Oxfordshire DCnn: 45SN 1836 - 1842	Rowden, E. Robinson, F.	1813 - 1842.  (UNLIKELY TO BE USEFUL)
 MET/2/1/2/3/214	Private Weather Diary for Kendal, Cumbria (old county Westmorland DCnn: 71KE) 1831 - 1870	Fisher, J.	1831 - 1870.  (2x DAILY - imaged)
-MET/2/1/2/3/339	Private Weather Diary for Reading, Philosophical Institute, Berkshire (DCnn: 55RB) missing 1842 - 1846, 1850 - 1852	Bromley, C.	1831 - 1854. (DAILY)
-MET/2/1/2/3/384	Private Weather Diary for Somerstown or Camden Greater London (DCnn: 50ST) missing September 1786 - 1799	Unknown	1783 - 1842. (DAILY)
-MET/2/1/2/3/390	Private Weather Diary for Sunbury, Vicarage, Surrey (old county Middlesex) (DCnn: 51SV)	Cowe, J.	1795 - 1839. (DAILY)
-MET/2/1/2/3/398	Private Weather Diary for Sidmouth, Devon (DCnn: 88SM) 1836 - 1878	Heineken, N.S.	1836 - 1878.  (DAILY)
-MET/2/1/2/3/415	Private Weather Diary for Swansea , West Glamorgan (DCnn: 84SN) 1818 - 1843	Edwards, Dr Gutch, J. Jenkins, J.	1818 - 1843 (SAME SOURCE AS NEWSPAPER)
-MET/2/1/2/3/439	Private Weather Diary for Walkeringham, Nottinghamshire (DCnn: 42WH)	Miller, J. K.	1826 - 1855. (SHOULD BE 3x DAILY)
-MET/2/1/2/3/479	Private Weather Diary for Ballimore, Tayside (old county Perthshire), Scotland		1833 - 1857.  (1x DAILY - imaged)
+MET/2/1/2/3/339	Private Weather Diary for Reading, Philosophical Institute, Berkshire (DCnn: 55RB) missing 1842 - 1846, 1850 - 1852	Bromley, C.	1831 - 1854. (3x daily, ENDS DEC 1838 - imaged)
+MET/2/1/2/3/384	Private Weather Diary for Somerstown or Camden Greater London (DCnn: 50ST) missing September 1786 - 1799	Unknown	1783 - 1842. (2x daily - imaged)
+MET/2/1/2/3/390	Private Weather Diary for Sunbury, Vicarage, Surrey (old county Middlesex) (DCnn: 51SV)	Cowe, J.	1795 - 1839. (1x daily - imaged)
+MET/2/1/2/3/398	Private Weather Diary for Sidmouth, Devon (DCnn: 88SM) 1836 - 1878	Heineken, N.S.	1836 - 1878.  (2x daily, BUT NOT FOR STORM - imaged)
+MET/2/1/2/3/415	Private Weather Diary for Swansea , West Glamorgan (DCnn: 84SN) 1818 - 1843	Edwards, Dr Gutch, J. Jenkins, J.	1818 - 1843 (ONLY MONTHLY SUMMARIES - imaged)
+MET/2/1/2/3/439	Private Weather Diary for Walkeringham, Nottinghamshire (DCnn: 42WH)	Miller, J. K.	1826 - 1855. (3x daily - imaged)
+MET/2/1/2/3/479	Private Weather Diary for Ballimore, Tayside (old county Perthshire), Scotland		1833 - 1857.  (1x daily - imaged)
 
 IN NATIONAL RECORDS OF SCOTLAND (EDINBURGH)
 Private weather diary for Aberdeen.		1829 - 1841
