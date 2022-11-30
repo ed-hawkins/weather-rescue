@@ -67,7 +67,7 @@ MET/2/1/2/3/167	Private Weather Diary for Hackney, London DCnn: 50HA	Underhill, 
 MET/2/1/2/3/175	Private Weather Diary for Harleston, Norfolk DCnn: 30HA	Pallant, T.	1786 - 1842.  (3x daily - imaged)
 MET/2/1/2/3/187	Private Weather Diary for Highworth, Wiltshire DCnn: 58HW 1813 - 1821 and Stonesfield, Oxfordshire DCnn: 45SN 1836 - 1842	Rowden, E. Robinson, F.	1813 - 1842.  (UNLIKELY TO BE USEFUL)
 MET/2/1/2/3/214	Private Weather Diary for Kendal, Cumbria (old county Westmorland DCnn: 71KE) 1831 - 1870	Fisher, J.	1831 - 1870.  (2x DAILY - imaged)
-MET/2/1/2/3/339	Private Weather Diary for Reading, Philosophical Institute, Berkshire (DCnn: 55RB) missing 1842 - 1846, 1850 - 1852	Bromley, C.	1831 - 1854. (3x daily, ENDS DEC 1838 - imaged)
+MET/2/1/2/3/339	Private Weather Diary for Reading, Philosophical Institute, Berkshire (DCnn: 55RB) missing 1842 - 1846, 1850 - 1852	Bromley, C.	1831 - 1854. (3x daily - imaged)
 MET/2/1/2/3/384	Private Weather Diary for Somerstown or Camden Greater London (DCnn: 50ST) missing September 1786 - 1799	Unknown	1783 - 1842. (2x daily - imaged)
 MET/2/1/2/3/390	Private Weather Diary for Sunbury, Vicarage, Surrey (old county Middlesex) (DCnn: 51SV)	Cowe, J.	1795 - 1839. (1x daily - imaged)
 MET/2/1/2/3/398	Private Weather Diary for Sidmouth, Devon (DCnn: 88SM) 1836 - 1878	Heineken, N.S.	1836 - 1878.  (2x daily, BUT NOT FOR STORM - imaged)
