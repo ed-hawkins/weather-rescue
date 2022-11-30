@@ -1,0 +1,37 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from BACPED1 (1935-1936), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926117 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 39.100000 * LONGITUDE: -5.290000
+	DATE/TIME START: 1935-04-01T00:00:00 * DATE/TIME END: 1936-06-01T00:00:00
+Event(s):	BACPED1 * LATITUDE: 39.100000 * LONGITUDE: -5.290000 * LOCATION: Casas de Don Pedro, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of snowy days [days/month] (Snowy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Precipitation [mm/month] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge
+	Precipitation, daily, maximum [mm/day] (Precip day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge * COMMENT: within this month
+	Date (Date) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max daily precipitation
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean, in rainy days (W = west, E = east, N = north, S = south)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: max, in rainy days (W = west, E = east, N = north, S = south)
+	Number of dew days [days/month] (Dew days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of frost days [days/month] (Frost days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of foggy days [days/month] (Foggy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of stormy days [days/month] (Stormy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+Size:	103 data points
+*/
+Date/Time	Rainy days [days/month] (Observation)	Snowy days [days/month] (Observation)	Precip [mm/month] (Hellmann Rain Gauge)	Precip day max [mm/day] (within this month, Hellmann R...)	Date (of max daily precipitation)	Wind dir descr (mean, in rainy days (W = west...)	Wind dir descr (max, in rainy days (W = west,...)	Dew days [days/month] (Observation)	Frost days [days/month] (Observation)	Foggy days [days/month] (Observation)	Stormy days [days/month] (Observation)
+1935-04	3	0	18.20	7.0	1935-04-28	S		6	6		
+1935-05	14	0	128.50	19.0	1935-05-08	S		1			6
+1935-06	2	0	7.80	4.7	1935-06-28	W	S				1
+1935-07	0	0	0.00	0.0							
+1935-08	0	0	0.00	0.0							
+1935-09	1	0	1.00	1.0	1935-09-30	S					
+1935-10	3	0	11.00	4.6	1935-10-08	S					
+1935-11	12	0	109.50	22.4	1935-11-20	S		2	1		
+1935-12	11	0	143.20	34.3	1935-12-24			5	7	1	
+1936-01	21	0	146.30	31.5	1936-01-19	S-W	S	3			
+1936-02	17	0	137.00	39.4	1936-02-22	S-W	S				
+1936-03	19	0	142.70	22.0	1936-03-25	S-W	S				
+1936-04	10	0	69.90	15.5	1936-04-20	E-W	S				
+1936-05	12	0	48.40	13.7	1936-05-18	E-W	W				
+1936-06	5	0	70.80	56.5	1936-06-10	W	W				

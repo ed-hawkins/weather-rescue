@@ -1,0 +1,45 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from BAZAFR1 (1827), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926257 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 38.433333 * LONGITUDE: -6.429167
+	DATE/TIME START: 1826-06-26T00:00:00 * DATE/TIME END: 1827-08-27T00:00:00
+Event(s):	BAZAFR1 * LATITUDE: 38.433333 * LONGITUDE: -6.429167 * LOCATION: Zafra, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: T1, time of observation not provided
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: T2, time of observation not provided
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: T3, time of observation not provided
+Size:	35 data points
+*/
+Date/Time	TTT [°C] (T1, time of observation not p...)	TTT [°C] (T2, time of observation not p...)	TTT [°C] (T3, time of observation not p...)
+1826-06-26	29.371	16.875	
+1826-07-03	32.500		
+1826-07-10	25.000		
+1826-07-17	33.750		
+1826-07-23	31.250		
+1826-07-24	31.250		
+1826-07-31	35.000		
+1826-08-07	36.250		
+1826-08-14		31.250	43.75
+1826-08-21	35.000		
+1826-08-28	28.750		
+1826-09-04	12.500		
+1826-09-09	36.250		
+1826-09-10	36.250		
+1826-10-01		21.250	
+1826-10-02		21.250	
+1826-12-11	6.250		
+1827-01-08	3.750		
+1827-01-29	3.750		
+1827-02-12	6.250		
+1827-04-09	31.250		
+1827-06-25	31.250		
+1827-07-02	31.250	28.750	
+1827-07-09	35.000		
+1827-07-16	37.500	28.750	
+1827-07-23	35.000		
+1827-07-30	37.500		
+1827-08-06	36.250		
+1827-08-13	33.750		
+1827-08-20	26.875		
+1827-08-27	33.125		

@@ -1,0 +1,24 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from BAPALC1 (1936), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926151 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 39.000000 * LONGITUDE: -5.240000
+	DATE/TIME START: 1936-01-01T00:00:00 * DATE/TIME END: 1936-04-01T00:00:00
+Event(s):	BAPALC1 * LATITUDE: 39.000000 * LONGITUDE: -5.240000 * LOCATION: Puebla de Alcocer, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of snowy days [days/month] (Snowy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Precipitation [mm/month] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge
+	Precipitation, daily, maximum [mm/day] (Precip day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge * COMMENT: within this month
+	Date (Date) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max daily precipitation
+	Number of frost days [days/month] (Frost days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of foggy days [days/month] (Foggy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of stormy days [days/month] (Stormy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of hail days [days/month] (Hail days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+Size:	36 data points
+*/
+Date/Time	Rainy days [days/month]	Snowy days [days/month]	Precip [mm/month]	Precip day max [mm/day]	Date	Frost days [days/month]	Foggy days [days/month]	Stormy days [days/month]	Hail days [days/month]
+1936-01	1	0	9.70	7.7	1936-01-29	0	0	0	0
+1936-02	12	0	105.30	20.0	1936-02-22	0	0	0	0
+1936-03	9	0	125.50	19.5	1936-03-19	0	0	0	0
+1936-04	8	0	75.30	25.4	1936-04-20	0	0	1	0

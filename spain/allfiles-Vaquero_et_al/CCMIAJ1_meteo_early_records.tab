@@ -1,0 +1,180 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from CCMIAJ1 (1918-1935), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926238 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 39.170000 * LONGITUDE: -5.850000 * ALTITUDE: 298 m
+	DATE/TIME START: 1918-01-01T00:00:00 * DATE/TIME END: 1935-07-01T00:00:00
+Event(s):	CCMIAJ1 * LATITUDE: 39.170000 * LONGITUDE: -5.850000 * ALTITUDE: 298 m * LOCATION: Miajadas, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of snowy days [days/month] (Snowy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Precipitation [mm/month] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge
+	Precipitation, daily, maximum [mm/day] (Precip day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge * COMMENT: within this month
+	Date (Date) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max daily precipitation
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean, in rainy days (W = west, E = east, N = north, S = south) (From the North to East (0º-90º): 1er Cte = first quadrant, from the East to South (90º-180º): 2º Cte = second quadrant, from the South to West (180º-270º): 3er Cte = third quadrant, from the West to North (270º-360º): 4º Cte = fourth quadrant) ("Various" means several directions)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: max, in rainy days (W = west, E = east, N = north, S = south) (From the North to East (0º-90º): 1er Cte = first quadrant, from the East to South (90º-180º): 2º Cte = second quadrant, from the South to West (180º-270º): 3er Cte = third quadrant, from the West to North (270º-360º): 4º Cte = fourth quadrant) ("Various" means several directions)
+	Number of frost days [days/month] (Frost days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of foggy days [days/month] (Foggy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of stormy days [days/month] (Stormy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of hail days [days/month] (Hail days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+Size:	1110 data points
+*/
+Date/Time	Rainy days [days/month] (Observation)	Snowy days [days/month] (Observation)	Precip [mm/month] (Hellmann Rain Gauge)	Precip day max [mm/day] (within this month, Hellmann R...)	Date (of max daily precipitation, m...)	Wind dir descr (mean, in rainy days (W = west...)	Wind dir descr (max, in rainy days (W = west,...)	Frost days [days/month] (Observation)	Foggy days [days/month] (Observation)	Stormy days [days/month] (Observation)	Hail days [days/month] (Observation)
+1918-01	12	0	145.00	22.0	1918-01-04	SW					
+1918-02	2	0	7.00	5.0	1918-02-17	SW					
+1918-03	7	0	57.50	26.0	1918-03-05	SW					
+1918-04	8	0	76.00	24.0	1918-04-19	SW					
+1918-05	5	0	31.50	13.0	1918-05-12	SW					
+1918-06	0	0	0.00	0.0							
+1918-07	0	0	0.00	0.0							
+1918-08	1	0	17.50	17.5	1918-08-30	SW					
+1918-09	2	0	20.00	16.0	1918-09-23	SW					
+1918-10	3	0	18.70	6.7	1918-10-31	SW	SW				
+1918-11	5	0	40.70	14.3	1918-11-16	E	SE		5	0	0
+1918-12	3	0	25.30	11.9	1918-12-06	SW			11	0	0
+1919-01	10	0	78.80	17.0	1919-01-04						
+1919-02	14	0	137.00	32.0	1919-02-11						
+1919-03	7	0	51.80	29.3	1919-03-23						
+1919-04	7	0	49.60	10.5	1919-04-02						
+1919-06	0	0	0.00	0.0							
+1919-07	0	0	0.00	0.0							
+1919-08	0	0	0.00	0.0							
+1919-09	5	0	8.30	2.8	1919-09-24						
+1919-10	5	0	19.00	9.0	1919-10-12						
+1919-11	12	0	146.00	48.0	1919-11-05						
+1919-12	5	0	27.90	12.0	1919-12-16						
+1920-01	6	0	32.00	12.0	1920-01-04	SW	SW	1	0		
+1920-02	8	0	64.70	24.0	1920-02-25	NE	SW	0	0		
+1920-03	6	0	22.90	6.0	1920-03-15	3er Cte	SW	2	0		
+1920-04	9	0	47.70	11.0	1920-04-17	SW	SW	0	1		
+1920-05	5	0	45.80	18.8	1920-05-24	SW	SW	0	1		
+1920-06	4	0	20.30	9.3	1920-06-08	Various	SW	0	3		
+1920-07	0	0	0.00	0.0				0	0		
+1920-08	0	0	0.00	0.0				0	0		
+1920-09	3	0	15.50	10.5	1920-09-20	NE	SW	0	1		
+1920-10	11	0	97.50	25.0	1920-10-05	SW	E	0	0		
+1920-11	9	0	59.00	12.0	1920-11-04 and 25	SW	SW	0	0		
+1920-12	8	0	77.70	23.0	1920-12-13	SW	E	0	0		
+1921-01	3	0	13.50	6.8	1921-01-13					0	
+1921-02	8	0	64.50	29.8	1921-02-27	E	E			0	
+1921-03	4	0	27.40	12.0	1921-03-05	1er Cte				0	
+1921-04	5	0	10.20	4.0	1921-04-15	NE	SW			0	
+1921-05	6	0	34.50	16.0	1921-05-26	SW	SW			3	
+1921-06	0	0	0.00	0.0						0	
+1921-07	1	0	2.00	2.0	1921-07-18	SW	SW			0	
+1921-08	0	0	0.00	0.0						0	
+1921-09	3	0	33.00	15.0	1921-09-19	E	SW			0	
+1921-10	6	0	72.00	29.4	1921-10-09					0	
+1921-11	7	0	65.30	18.0	1921-11-24	SW	E-SW			0	
+1921-12	2	0	23.00	19.0	1921-12-02	SW-E	SW			0	
+1922-01	9	0	84.90	19.8	1922-01-24	SW	E		1	0	
+1922-02	3	0	16.00	6.6	1922-02-06				0	0	
+1922-03	10	0	71.50	20.2	1922-03-19	SW	SW		0	0	
+1922-04	5	0	20.30	6.0	1922-04-03	SW	SW		0	0	
+1922-05	3	0	14.50	7.5	1922-05-14	E	SW		0	3	
+1922-06	4	0	47.30	29.2	1922-06-05	S	SW		0	2	
+1922-07	0	0	0.00	0.0					0	1	
+1922-08	1	0	2.00	2.0	1922-08-13	E	E		0	1	
+1922-09	2	0	19.20	14.0	1922-09-26	SW	SW		0	0	
+1922-10	12	0	115.00	22.5	1922-10-15	S	SW		0	0	
+1922-11	4	0	19.40	13.0	1922-11-03				0	0	
+1922-12	8	0	82.00	19.0	1922-12-24				0	0	
+1923-01	0	0	0.00	0.0						0	0
+1923-02	10	0	71.20	21.0	1923-02-22	SW	W-SW			1	0
+1923-03	5	0	24.30	12.0	1923-03-23	SW	SW			0	0
+1923-04	13	0	119.00	34.5	1923-04-12	SW	SW			0	0
+1923-05	2	0	18.50	15.5	1923-05-21	SW	SW			1	0
+1923-06	5	0	9.00	4.5	1923-06-03					2	0
+1923-07	0	0	0.00	0.0						0	0
+1923-08	0	0	0.00	0.0						0	0
+1923-09	1	0	8.50	8.5	1923-09-15	SW	SW			0	0
+1923-10	5	0	51.10	26.0	1923-10-14	SW	SW			0	0
+1923-11	12	0	155.20	35.0	1923-11-26	SW	SW			0	0
+1923-12	3	0	17.50	10.0	1923-12-09	SW	SW			0	0
+1924-01	8	0	70.10	24.0	1924-01-16	SW	SE			0	
+1924-02	7	1	54.00	13.5	1924-02-09	SW	SW			0	
+1924-03	15	0	129.80	21.0	1924-03-20	SW	SW			0	
+1924-04	6	0	73.80	33.0	1924-04-05					0	
+1924-05	2	0	7.00	5.0	1924-05-07	SW	SW			1	
+1924-06	0	0	0.00	0.0						0	
+1924-07	0	0	0.00	0.0						0	
+1924-08	1	0	18.00	18.0	1924-08-12					1	
+1924-09	6	0	37.50	16.5	1924-09-08	SW	SW			0	
+1924-10	3	0	36.00	21.0	1924-10-15	SW	SE			0	
+1924-11	13	0	96.00							0	
+1924-12	10	0	66.60	22.5	1924-12-01	SW	SW			0	
+1925-01	1	0	11.50	11.5	1925-01-26	SW	SW				
+1925-02	7	0	86.50	25.0	1925-02-14	SW	SW				
+1925-03	2	0	10.20	6.2	1925-03-09	SW	SW				
+1925-04	6	0	41.30	15.0	1925-04-20	S	SW				
+1925-05	4	0	33.20	15.5	1925-05-21	SW	SW				
+1925-06		0	103.50								
+1925-07	2	0	16.00	11.0	1925-07-23	SW	SW				
+1925-08	1	0	3.00	3.0	1925-08-24	SW	SW				
+1925-09	0	0	0.00	0.0							
+1925-10	4	0	41.00	15.0	1925-10-23	SW	SW				
+1925-11	8	0	84.00	50.5	1925-11-28	SW	NE				
+1925-12	14	0	136.50	38.5	1925-12-20	SW	SW				
+1926-01	3	0	20.00	11.0	1926-01-21					0	
+1926-02	10	0	102.20	32.5	1926-02-01	SW	SW			0	
+1926-03	9	0	62.00	13.5	1926-03-21	SW	SW			1	
+1926-04	8	0	42.00	13.5	1926-04-12	SW	SW			0	
+1926-05	6	0	56.00	23.5	1926-05-21	SW	SW			1	
+1926-06	0	0	0.00	0.0						0	
+1926-07	0	0	0.00	0.0						0	
+1926-08	2	0	26.50	24.0	1926-08-31					2	
+1926-09	0	0	0.00	0.0						0	
+1926-10	7	0	130.00	56.0	1926-10-22	SW	SW			0	
+1926-11	14	0	111.20	26.0	1926-11-19	SW	SW			0	
+1926-12	2	0	3.50	2.0	1926-12-15					0	
+1927-01	10	0	62.50	13.5	1927-01-15	SW	SW			0	
+1927-02	8	0	40.00	13.0	1927-02-24	SW	SW			0	
+1927-03	9	0	51.30	18.5	1927-03-17	SW	SW			0	
+1927-04	0	0	0.00	0.0						0	
+1927-05	7	0	60.50	23.0	1927-05-14	SW				6	
+1927-06	2	0	7.50	5.0	1927-06-01	SW	SW			1	
+1927-07	0	0	0.00	0.0						0	
+1927-08	1	0	6.00	6.0	1927-08-29	SW	SW			1	
+1927-09	1	0	3.00	3.0	1927-09-23	SW	SW			0	
+1927-10	5	0	72.50	35.0	1927-10-22	SW	SW			0	
+1927-11	7	0	110.00	33.5	1927-11-18	SW	SW			0	
+1927-12	17	0	130.00	21.0	1927-12-10	SW	E			0	
+1928-01	4	0	18.50	9.5	1928-01-16	3er Cte	SW			0	
+1928-02	6	0	111.50	54.0	1928-02-29	SW	E			0	
+1928-03	12	0	75.50	15.5	1928-03-02	SW	SW			0	
+1928-04		0	104.80							0	
+1928-05	9	0	61.70	12.5	1928-05-16	SW	SW			0	
+1928-06	2	0	27.70	20.7	1928-06-06	SW	SW			0	
+1928-07	0	0	0.00	0.0						0	
+1928-08	1	0	1.50	1.5	1928-08-03	NE	NE			1	
+1928-09	7	0	110.50	49.5	1928-09-27	SW	SW			1	
+1928-10	3	0	13.50	8.5	1928-10-22	SW	SW			0	
+1928-11	5	0	59.00	27.3	1928-11-07	SW	SW			0	
+1928-12	4	0	29.50	12.5	1928-12-11	SW	SW			0	
+1929-01	7	0	30.00	8.0	1929-01-01	SW	SW			0	
+1929-02	10	0	73.70	23.0	1929-02-24	SW	SW			1	
+1929-03	4	0	64.00	30.5	1929-03-05	SW	E			2	
+1929-04	7	0	54.60	18.2	1929-04-23	SW	SW			1	
+1929-05	3	0	13.70	9.2	1929-05-18	SW	SW			0	
+1929-06	1	0	13.50	13.5	1929-06-30	SW	SW			0	
+1929-07	3	0	9.30	3.5	1929-07-01	SW	SW			0	
+1929-08	0	0	0.00	0.0						3	
+1929-09	3	0	28.00	13.5	1929-09-10	SW	SW				
+1929-10			20.00							0	
+1929-11	5	0	82.00	34.0	1929-11-18						
+1929-12			27.70								
+1933-12	6	0	51.50	16.4	1933-12-06 and 14	Various	SE	2	3		
+1934-01	3	0	11.80	7.2	1934-01-13					0	0
+1934-02	2	0	4.00	2.0	1934-02-14 and 25					0	0
+1934-03	7	0	58.70	18.0	1934-03-09					0	0
+1934-04	9	0	71.50	22.5	1934-04-06					0	2
+1934-05	5	0	55.90	25.6	1934-05-14					0	
+1934-06	0	0	0.00	0.0						0	0
+1934-07	0	0	0.00	0.0						0	0
+1934-08	1	0	3.00	3.0	1934-08-19					1	0
+1934-09	0	0	0.00	0.0						0	0
+1934-10	1	0	2.80	2.8	1934-10-04	SW	SW			0	0
+1934-11	5	0	34.70	9.5	1934-11-02	SW	SE			0	0
+1934-12	9	0	127.50	37.0	1934-12-13					0	0
+1935-06	2	0	17.20	10.2	1935-06-29	E				2	
+1935-07	2	0	15.30	10.2	1935-07-22	E-SE	E				

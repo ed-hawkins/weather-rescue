@@ -1,0 +1,65 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from CCMONT2 (1889-1901), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926298 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 40.320155 * LONGITUDE: -5.857607
+	DATE/TIME START: 1889-06-01T00:00:00 * DATE/TIME END: 1901-09-01T00:00:00
+Event(s):	CCMONT2 * LATITUDE: 40.320155 * LONGITUDE: -5.857607 * LOCATION: Baños de Montemayor, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 6am
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 2pm
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg
+	Humidity, relative [%] (RH) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Saussure hygrometer
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of stormy days [days/month] (Stormy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE) * COMMENT: stormy with rain
+Size:	288 data points
+*/
+Date/Time	TTT [°C] (at 6am)	TTT [°C] (at 2pm)	PPPP other [arbitrary units] (in mmHg)	RH [%] (Saussure hygrometer)	Rainy days [days/month] (Observation)	Stormy days [days/month] (stormy with rain, Observation)
+1889-06	16	21	749	64	13	0
+1889-07	18	23	755	56	0	0
+1889-08	21	25	753	55	1	0
+1889-09	19	22	752	58	2	1
+1890-06	18	22	751	60	4	1
+1890-07	20	24	753	55	1	1
+1890-08	20	25	754	56	0	0
+1890-09	19	21	756	55	1	0
+1891-06	17	21	749	65	9	1
+1891-07	20	24	753	57	1	1
+1891-08	21	25	755	55	1	0
+1891-09	19	22	751	60	6	0
+1892-06	18	23	750	56	5	1
+1892-07	22	25	753	55	1	0
+1892-08	21	26	755	58	2	0
+1892-09	19	21	749	60	4	0
+1894-06	17	21	749	57	5	0
+1894-07	29	24	755	55	0	0
+1894-08	21	26	753	54	1	0
+1894-09	18	21	750	60	6	2
+1895-06	16	20	748	62	8	1
+1895-07	21	23	754	54	1	0
+1895-08	22	25	756	53	0	0
+1895-09	19	22	747	63	8	2
+1896-06	17	21	746	65	11	3
+1896-07	23	24	752	54	1	1
+1896-08	21	24	755	53	0	0
+1896-09	16	20	751	55	1	0
+1897-06	18	23	747	61	4	2
+1897-07	22	25	751	54	1	0
+1897-08	21	24	756	53	0	0
+1897-09	17	20	750	58	3	1
+1898-06	17	22	747	63	5	2
+1898-07	23	26	745	64	6	2
+1898-08	24	27	756	54	0	0
+1898-09	26	21	750	61	4	2
+1899-06	17	21	745	64	7	1
+1899-07	24	28	755	54	1	1
+1899-08	23	27	747	63	7	4
+1899-09	18	22	750	61	5	2
+1900-06	16	22	753	54	2	0
+1900-07	23	27	755	52	1	0
+1900-08	21	26	750	60	4	1
+1900-09	19	24	745	64	8	2
+1901-06	17	21	753	54	2	2
+1901-07	22	28	755	52	3	1
+1901-08	20	25	748	50	0	0
+1901-09	18	23	746	64	7	0

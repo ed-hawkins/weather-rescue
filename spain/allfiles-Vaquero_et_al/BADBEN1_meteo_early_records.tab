@@ -1,0 +1,52 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from BADBEN1 (1890), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926428 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 38.966667 * LONGITUDE: -5.854167
+	DATE/TIME START: 1890-01-01T00:00:00 * DATE/TIME END: 1890-04-01T00:00:00
+Event(s):	BADBEN1 * LATITUDE: 38.966667 * LONGITUDE: -5.854167 * LOCATION: Don Benito, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, max
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max pressure
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, min
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of min pressure
+	Pressure, difference [arbitrary units] (dP) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, between max and min
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, at 9am
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, at 3pm
+	Pressure, difference [arbitrary units] (dP) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, between 9am and 3 pm
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, mean
+	Temperature, air, maximum [°C] (TxTxTx) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: thermometer exposed to shadow
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max temperature, exposed to shadow
+	Temperature, air, minimum [°C] (TnTnTn) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: thermometer exposed to shadow
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of min temperature, exposed to shadow
+	Temperature, air, maximum [°C] (TxTxTx) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean max, thermometer exposed to shadow
+	Temperature, air, minimum [°C] (TnTnTn) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean min, thermometer exposed to shadow
+	Temperature, difference [°C] (delta T) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: between min and max, exposed to shadow
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Psychrometer, dry thermometer * COMMENT: mean, at 9am
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Psychrometer, wet thermometer * COMMENT: mean, at 9am
+	Temperature, difference [°C] (delta T) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 9am, between dry and wet thermometer
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Psychrometer, dry thermometer * COMMENT: mean, at 3pm
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Psychrometer, wet thermometer * COMMENT: mean, at 3pm
+	Temperature, difference [°C] (delta T) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 3pm, between dry and wet thermometer
+	Humidity, relative [%] (RH) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 9am
+	Humidity, relative [%] (RH) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 3pm
+	Vapor pressure [arbitrary units] (VPVP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: Vapor pressure at 9am (mmHg)
+	Vapor pressure [arbitrary units] (VPVP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: Vapor pressure at 3pm (mmHg)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: W = west, E = east, N = north, S = south
+	Distance [km] (Distance) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: total space travelled by the wind
+	Wind speed [arbitrary units] (ff) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean, in km
+	Wind speed, gust [arbitrary units] (ff gust) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: max in one day of the month, in km
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max wind velocity
+	Precipitation [mm/month] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Precipitation, daily, maximum [mm/day] (Precip day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: within this month
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max accumulated precipitation
+	Evaporation [mm] (Evapor) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: monthly mean
+Size:	144 data points
+*/
+Date/Time	PPPP other [arbitrary units] (in mmHg, max)	Day of month (of max pressure)	PPPP other [arbitrary units] (in mmHg, min)	Day of month (of min pressure)	dP [arbitrary units] (in mmHg, between max and min)	PPPP other [arbitrary units] (in mmHg, at 9am)	PPPP other [arbitrary units] (in mmHg, at 3pm)	dP [arbitrary units] (in mmHg, between 9am and 3 pm)	PPPP other [arbitrary units] (in mmHg, mean)	TxTxTx [°C] (thermometer exposed to shadow)	Day of month (of max temperature, exposed t...)	TnTnTn [°C] (thermometer exposed to shadow)	Day of month (of min temperature, exposed t...)	TxTxTx [°C] (mean max, thermometer exposed...)	TnTnTn [°C] (mean min, thermometer exposed...)	delta T [°C] (between min and max, exposed ...)	TTT [°C] (mean)	TTT [°C] (mean, at 9am, Psychrometer, d...)	TTT [°C] (mean, at 9am, Psychrometer, w...)	delta T [°C] (at 9am, between dry and wet t...)	TTT [°C] (mean, at 3pm, Psychrometer, d...)	TTT [°C] (mean, at 3pm, Psychrometer, w...)	delta T [°C] (at 3pm, between dry and wet t...)	RH [%] (at 9am)	RH [%] (at 3pm)	Vapor pressure [arbitrary units] at 9am	Vapor pressure [arbitrary units] at 3pm	Wind dir descr	Distance [km] (total space travelled by the ...)	ff [arbitrary units] (mean)	ff gust [arbitrary units] (max in one day of the month, ...)	Day of month (of max wind velocity)	Precip [mm/month]	Rainy days [days/month] (Observation)	Precip day max [mm/day] (within this month)	Day of month (of max accumulated precipitation)	Evapor [mm] (monthly mean)
+1890-01	755.6	7	733.2	3	32.4	749.2	747.3	1.9	748.2	18.3	24	-4.4	2	14.0	1.5	12.5	7.8	5.7	5.3	0.4	13.3	10.6	2.7	89	71	6.4	6.1	E	4636	150	483	23	13	2	10	1	3.2
+1890-02	748.4	21	732.4	17	16.0	740.5	738.9	1.6	739.7	18.5	24	-3.1	3	14.4	1.8	12.6	8.1	6.6	5.9	0.7	12.8	10.2	2.6	85	70	6.6	7.8	E	4435	158	313	14	38	10	13	17	3.2
+1890-03	748.5	11	727.5	18	31.0	740.1	738.4	1.7	739.2	24.0	30	-5.0	2	15.6	15.6	12.5	9.3	8.1	6.3	1.8	14.1	9.5	4.6	79	53	6.4	6.5	W					79	9	16	4	4.1
+1890-04	749.8	22	722.4	16	27.4	738.7	737.3	1.4	738.0	29.0	23	4.0	27	19.4	19.4	11.9	13.4	13.3	10.7	3.6	17.9	13.0	4.9	74	57	8.5	8.3	WNW	7349	252	659	16	89	12	13	16	4.3

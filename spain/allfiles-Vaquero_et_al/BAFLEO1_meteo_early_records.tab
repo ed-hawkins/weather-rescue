@@ -1,0 +1,27 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from BAFLEO1 (1932), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926122 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 38.060000 * LONGITUDE: -6.490000
+	DATE/TIME START: 1932-01-01T00:00:00 * DATE/TIME END: 1932-12-01T00:00:00
+Event(s):	BAFLEO1 * LATITUDE: 38.060000 * LONGITUDE: -6.490000 * LOCATION: Fuentes de León, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of snowy days [days/month] (Snowy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Precipitation [mm/month] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge
+	Precipitation, daily, maximum [mm/day] (Precip day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge * COMMENT: within this month
+	Date (Date) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max daily precipitation
+Size:	54 data points
+*/
+Date/Time	Rainy days [days/month]	Snowy days [days/month]	Precip [mm/month]	Precip day max [mm/day]	Date
+1932-01	7	0	94.80	32.5	1932-01-28
+1932-02	6	0	64.60	16.9	1932-02-06
+1932-03	12	0	118.20	24.9	1932-03-01
+1932-04	7	0	33.30	13.7	1932-04-04
+1932-05	4	0	89.00	37.5	1932-05-07
+1932-06	7	0	75.60	46.5	1932-06-14
+1932-07	0	0	0.00	0.0	
+1932-09	10	0	54.80	17.7	1932-09-22
+1932-10	6	0	47.40	25.7	1932-10-13
+1932-11	9	0	139.10	43.9	1932-11-17
+1932-12	14	0	292.00	63.6	1932-12-07

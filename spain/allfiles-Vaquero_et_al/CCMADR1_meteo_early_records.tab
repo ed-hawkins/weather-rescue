@@ -1,0 +1,53 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from CCMADR1 (1933-1936), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926290 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 39.180000 * LONGITUDE: -5.580000
+	DATE/TIME START: 1933-10-01T00:00:00 * DATE/TIME END: 1936-12-01T00:00:00
+Event(s):	CCMADR1 * LATITUDE: 39.180000 * LONGITUDE: -5.580000 * LOCATION: Madrigalejo, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Temperature, air, monthly mean [°C] (TTT monthly m) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: from the max and min temperatures
+	Temperature, air, monthly maximum [°C] (TTT month max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: reached by the bright bulb thermometer in the shadow
+	Temperature, air, maximum [°C] (TxTxTx) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: reached by the bright bulb thermometer in the shadow in one day
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max temperature in the shadow ("Various" means several days)
+	Temperature, air, monthly minimum [°C] (TTT month min) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: reached by the bright bulb thermometer in the shadow
+	Temperature, air, minimum [°C] (TnTnTn) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: reached by the bright bulb thermometer in the shadow in one day
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of min temperature in the shadow
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of snowy days [days/month] (Snowy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Precipitation [mm/month] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge
+	Precipitation, daily, maximum [mm/day] (Precip day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge * COMMENT: within this month
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max daily precipitation
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean, in rainy days (W = west, E = east, N = north, S = south)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: max, in rainy days (W = west, E = east, N = north, S = south)
+	Number of foggy days [days/month] (Foggy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of stormy days [days/month] (Stormy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+Size:	158 data points
+*/
+Date/Time	TTT monthly m [°C] (from the max and min temperat...)	TTT month max [°C] (reached by the bright bulb th...)	TxTxTx [°C] (reached by the bright bulb th...)	Day of month (of max temperature in the shadow)	TTT month min [°C] (reached by the bright bulb th...)	TnTnTn [°C] (reached by the bright bulb th...)	Day of month (of min temperature in the shadow)	Rainy days [days/month] (Observation)	Snowy days [days/month] (Observation)	Precip [mm/month] (Hellmann Rain Gauge)	Precip day max [mm/day] (within this month, Hellmann R...)	Day of month (of max daily precipitation)	Wind dir descr (mean, in rainy days (W = west...)	Wind dir descr (max, in rainy days (W = west,...)	Foggy days [days/month] (Observation)	Stormy days [days/month] (Observation)
+1933-10								4	0	57.6	29.0	20	SW			
+1933-11								9	0	60.6	18.0	18				
+1933-12								8	0	49.4	16.5	13				
+1934-01								3	0	10.1	5.0	13			2	0
+1934-02								2	0	8.4	4.7	14			0	0
+1934-03								8	0	55.0	19.0	8		SW	0	0
+1934-04								12	0	82.3	27.2	7	SW	SW	0	0
+1934-05								5	0	49.7	19.5	14			0	5
+1934-06								0	0	0.0	0.0				0	0
+1934-07								0	0	0.0	0.0				0	0
+1934-08								0	0	0.0	0.0				0	0
+1934-09								0	0	0.0	0.0				0	0
+1934-10								1	4	4.0	4.0	4			0	0
+1934-11								7	0	45.0	13.5	6			0	0
+1934-12								15	0	119.1	35.0	10			0	0
+1935-03								3	0	15.1	10.0	11				
+1935-04								3	0	28.4	12.5	28				3
+1935-05								11	0	91.5	20.5	21				
+1935-11								9	0	84.4	18.5	25				1
+1935-12								10	0	79.9	27.5	24				
+1936-01								11	0	90.9	29.0	19				
+1936-02								8	0	74.0	15.7	17				
+1936-03								18	0	92.5	16.0	22				
+1936-06	16.8	25.7	32.5	Various	8.0	4.5	3									
+1936-11								1	0	37.5	37.5	9				
+1936-12								2	0	55.5	44.5	28				

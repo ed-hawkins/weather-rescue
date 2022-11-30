@@ -1,0 +1,41 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from CCGUAD1 (1935-1936), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926288 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 39.460000 * LONGITUDE: -5.250000
+	DATE/TIME START: 1935-06-01T00:00:00 * DATE/TIME END: 1936-12-01T00:00:00
+Event(s):	CCGUAD1 * LATITUDE: 39.460000 * LONGITUDE: -5.250000 * LOCATION: Guadalupe, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Temperature, air, monthly mean [°C] (TTT monthly m) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: from the max and min temperatures
+	Temperature, air, monthly maximum [°C] (TTT month max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: reached by the bright bulb thermometer in the shadow
+	Temperature, air, maximum [°C] (TxTxTx) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: reached by the bright bulb thermometer in the shadow in one day
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max temperature in the shadow
+	Temperature, air, monthly minimum [°C] (TTT month min) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: reached by the bright bulb thermometer in the shadow
+	Temperature, air, minimum [°C] (TnTnTn) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: reached by the bright bulb thermometer in the shadow in one day
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of min temperature in the shadow  ("Various" means several days)
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of snowy days [days/month] (Snowy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Precipitation [mm/month] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge
+	Precipitation, daily, maximum [mm/day] (Precip day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge * COMMENT: within this month
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max daily precipitation
+Size:	110 data points
+*/
+Date/Time	TTT monthly m [°C] (from the max and min temperat...)	TTT month max [°C] (reached by the bright bulb th...)	TxTxTx [°C] (reached by the bright bulb th...)	Day of month (of max temperature in the shadow)	TTT month min [°C] (reached by the bright bulb th...)	TnTnTn [°C] (reached by the bright bulb th...)	Day of month (of min temperature in the shadow)	Rainy days [days/month] (Observation)	Snowy days [days/month] (Observation)	Precip [mm/month] (Hellmann Rain Gauge)	Precip day max [mm/day] (within this month, Hellmann R...)	Day of month (of max daily precipitation)
+1935-06								3	0	4.7	4.5	25
+1935-07								0	0	0.0	0.0	
+1935-08								0	0	0.0	0.0	
+1935-09								1	0	0.5	0.5	29
+1935-10								3	0	16.5	12.0	25
+1935-11								15	0	130.5	21.8	19
+1935-12								14	0	120.5	30.2	25
+1936-01	8.4	10.1	13.0	23	6.7	4.0	26					
+1936-02	8.3	10.8	15.0	8	5.8	0.2	20					
+1936-03	7.9	10.2	16.0	18	5.6	2.0	Various					
+1936-04	11.3	14.6	22.0	26	8.1	4.0	16 and 17					
+1936-05	12.8	16.1	22.0	15 and 16	9.5	5.2	7					
+1936-06	17.8	22.2	28.0	29	13.6	8.0	4					
+1936-07	22.4	27.2	31.0	15 and 17	17.6	12.2	2					
+1936-09	21.1	24.8	33.0	3	17.5	13.0	19 and 20					
+1936-10	13.3	16.7	22.0	3 and 4	10.4	7.3	14					
+1936-11	9.2	11.7	17.0	1	6.7	4.0	11					
+1936-12	5.7	8.1	12.3	3	3.3	0.0	15					

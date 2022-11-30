@@ -1,0 +1,88 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from CCCACE4 (1898-1902), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926439 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 39.473056 * LONGITUDE: -6.370000
+	DATE/TIME START: 1898-01-01T00:00:00 * DATE/TIME END: 1902-12-01T00:00:00
+Event(s):	CCCACE4 * LATITUDE: 39.473056 * LONGITUDE: -6.370000 * LOCATION: Cáceres, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Temperature, air, monthly maximum [°C] (TTT month max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean at 9am
+	Temperature, air, monthly mean [°C] (TTT monthly m) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 9am
+	Temperature, air, monthly minimum [°C] (TTT month min) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean at 9am
+	Temperature, air, monthly maximum [°C] (TTT month max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean at 2pm
+	Temperature, air, monthly mean [°C] (TTT monthly m) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 2pm
+	Temperature, air, monthly minimum [°C] (TTT month min) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean at 2pm
+	Temperature, air, monthly maximum [°C] (TTT month max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean at 6pm
+	Temperature, air, monthly mean [°C] (TTT monthly m) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 6pm
+	Temperature, air, monthly minimum [°C] (TTT month min) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean at 6pm
+	Temperature, technical [°C] (T tech) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: Mean maximum room temperature
+	Temperature, technical [°C] (T tech) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: Mean room temperature
+	Temperature, technical [°C] (T tech) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: Mean minimum room temperature
+	Temperature, air, monthly mean [°C] (TTT monthly m) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, mean max
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, mean
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, mean min
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+Size:	1020 data points
+*/
+Date/Time	TTT month max [°C] (mean at 9am)	TTT monthly m [°C] (at 9am)	TTT month min [°C] (mean at 9am)	TTT month max [°C] (mean at 2pm)	TTT monthly m [°C] (at 2pm)	TTT month min [°C] (mean at 2pm)	TTT month max [°C] (mean at 6pm)	TTT monthly m [°C] (at 6pm)	TTT month min [°C] (mean at 6pm)	T tech [°C] (Mean maximum room temperature)	T tech [°C] (Mean room temperature)	T tech [°C] (Mean minimum room temperature)	TTT monthly m [°C]	PPPP other [arbitrary units] (in mmHg, mean max)	PPPP other [arbitrary units] (in mmHg, mean)	PPPP other [arbitrary units] (in mmHg, mean min)	Rainy days [days/month]
+1898-01	9.50	6.40	4.00	12.00	9.50	7.00	11.00	8.73	7.00	10.00	10.00	10.00	8.36	742.00	730.94	717.50	7
+1898-02	12.00	7.70	4.00	15.00	12.00	8.00	13.00	9.94	7.00	12.00	10.90	10.00	9.80	737.00	728.04	715.00	2
+1898-03	15.00	9.00	4.50	18.50	12.90	7.00	16.00	10.75	6.00	13.50	12.30	11.00	10.90	729.50	719.47	710.00	7
+1898-04	18.00	13.33	7.00	23.00	18.54	10.50	20.00	17.27	10.00	16.00	14.20	12.00	16.12	433.00	724.34	717.00	3
+1898-05	25.00	16.25	12.50	29.50	20.90	14.00	26.00	19.52	13.00	19.00	17.75	16.00	18.55	730.25	722.69	715.50	9
+1898-06	25.00	20.75	19.00	31.50	26.94	23.50	30.00	25.00	23.00	23.50	21.16	18.50	23.97	727.00	723.38	720.50	2
+1898-07	31.00	27.00	23.00	39.50	34.00	27.00	33.00	31.36	25.00	28.50	26.88	24.00	30.94	729.00	723.50	720.50	0
+1898-08	29.00	26.95	23.00	37.00	33.60	27.50	33.50	30.43	26.00	28.00	27.23	26.00	30.00	728.25	724.63	720.50	0
+1898-09	30.00	24.35	18.50	36.25	29.19	22.75	32.75	26.38	20.00	29.00	26.00	21.00	26.64	728.00	724.14	719.00	3
+1898-10	20.50	17.33	13.50	24.00	20.75	15.00	21.00	18.70	13.50	20.50	19.42	18.00	18.94	729.00	723.00	711.00	7
+1898-11	14.00	9.70	5.00	17.00	12.68	8.50	15.00	11.50	7.25	17.25	14.55	11.25	11.28	731.50	722.98	708.50	9
+1898-12	7.75	5.40	2.00	11.50	8.99	6.00	10.00	7.86	6.00	11.50	10.15	9.00	7.40	739.00	732.88	728.25	3
+1899-01	8.75	6.24	2.25	12.50	9.39	4.00	11.00	8.17	4.00	11.00	10.20	9.00	7.95	739.60	729.11	710.00	6
+1899-02	13.00	9.40	6.00	18.50	11.89	6.00	15.50	10.60	6.00	12.25	11.26	9.50	10.63	732.30	724.36	709.30	11
+1899-03	17.00	10.28	5.00	24.00	16.00	13.00	20.00	13.09	10.00	15.00	12.85	11.50	12.88	735.00	727.23	717.10	9
+1899-04	21.00	16.95	12.00	28.00	21.96	14.75	25.00	19.38	12.00	20.00	18.16	17.00	19.35	730.40	726.26	720.16	2
+1899-05	26.00	20.79	17.00	32.00	26.30	23.00	28.00	23.25	17.50	22.00	20.70	20.00	23.44	730.90	725.70	721.00	3
+1899-06	28.00	20.69	15.00	34.00	26.15	18.00	32.00	23.97	16.00	23.50	21.25	19.25	23.60	729.16	725.56	719.50	5
+1899-07	32.00	26.73	22.50	38.50	33.22	28.00	36.00	30.45	25.00	28.00	26.28	24.00	30.13	729.08	726.55	724.08	0
+1899-08	32.00	26.83	23.50	39.00	32.10	28.00	36.00	29.29	25.00	29.50	27.00	26.00	29.40	728.90	725.37	722.30	0
+1899-09	28.00	23.25	16.75	34.25	27.87	20.00	31.00	24.97	20.00	26.50	24.36	21.75	25.36	729.16	726.00	722.33	3
+1899-10	21.50	18.58	16.25	26.00	21.25	18.00	23.00	19.67	16.00	21.00	20.68	20.00	19.82	735.50	727.60	719.50	11
+1899-11	17.00	11.06	6.50	20.00	14.76	11.00	17.00	13.05	9.75	18.25	14.60	13.00	12.95	733.90	730.08	721.50	3
+1899-12	10.00	6.33	2.50	12.00	9.86	7.75	12.00	8.51	6.25	12.25	10.96	9.75	8.24	732.75	725.76	714.25	8
+1900-01	10.00	5.42	2.00	12.50	9.11	5.50	11.25	7.87	5.50	11.50	9.96	9.00	7.47	737.33	729.30	710.08	3
+1900-02	12.25	7.97	3.25	15.00	10.84	7.00	14.25	9.84	6.25	13.00	11.50	9.60	9.55	731.90	722.17	711.08	14
+1900-03	10.00	7.99	5.00	15.75	11.78	6.50	12.50	9.60	4.50	12.25	10.66	10.00	9.80	734.00	725.37	715.00	6
+1900-04	20.00	14.00	8.75	26.75	19.16	12.25	23.00	16.75	10.50	18.50	14.00	11.00	16.28	734.00	727.42	721.00	9
+1900-05	23.00	15.90	11.00	30.50	20.29	14.00	27.00	17.86	13.00	17.00	16.87	16.50	18.02	731.00	724.19	708.00	12
+1900-06	27.00	22.33	16.75	34.00	28.35	19.50	31.25	26.20	15.50	24.50	21.64	19.00	25.62	731.20	725.54	719.16	3
+1900-07	30.50	26.52	22.50	37.00	33.28	27.00	35.00	31.04	24.50	28.00	26.12	24.00	30.28	730.30	725.40	722.10	2
+1900-08	29.00	24.27	15.50	37.00	30.69	16.00	34.25	28.54	15.75	28.00	25.02	21.50	27.83	729.00	724.93	719.33	1
+1900-09	25.00	21.90	17.21	31.75	26.36	21.00	30.00	23.73	17.50	23.75	22.80	20.50	24.00	730.58	726.60	722.90	9
+1900-10	21.50	15.70	6.75	27.00	19.32	5.00	24.00	17.00	6.00	20.75	19.35	16.00	17.38	732.70	727.90	722.70	3
+1900-11	14.25	9.03	3.75	17.00	12.78	6.00	16.00	11.47	5.00	16.00	14.37	12.50	11.08	734.00	725.80	711.20	3
+1900-12	11.00	5.94	3.00	14.00	9.19	5.00	12.00	8.37	5.00	11.75	10.62	9.25	7.83	734.25	731.24	716.00	4
+1901-01	8.00	4.75	0.10	13.00	9.23	2.25	11.00	8.16	1.50	10.50	9.56	8.75	7.37	737.00	727.87	713.00	7
+1901-02	8.00	2.40	1.75	11.00	7.36	4.00	9.50	5.95	2.25	9.00	7.94	7.25	5.24	732.00	724.13	715.50	7
+1901-03	10.75	7.48	4.25	16.50	11.69	6.50	14.00	10.27	7.00	11.50	10.05	9.00	9.81	739.60	722.00	713.75	14
+1901-04	19.00	12.94	8.00	26.50	18.05	12.50	24.00	16.43	9.50	16.00	15.05	14.00	15.85	733.50	725.57	716.25	6
+1901-05	19.00	16.60	13.50	25.00	21.41	15.50	25.00	20.04	16.00	19.00	17.45	16.00	19.38	731.00	724.77	719.00	6
+1901-06	27.00	22.96	18.00	34.75	29.73	18.50	33.00	27.92	18.00	25.00	22.42	19.25	26.87	731.00	725.66	718.00	3
+1901-07	33.50	26.54	20.00	39.00	32.98	27.00	36.25	31.19	26.00	28.75	27.04	24.25	30.18	728.50	724.18	720.00	0
+1901-08	30.00	25.57	21.00	38.00	32.58	26.50	35.00	29.92	25.00	27.75	25.89	23.90	29.34	728.50	725.20	722.00	0
+1901-09	27.50	20.37	15.50	33.00	24.36	14.00	30.00	25.76	14.75	25.25	22.06	19.25	22.38	730.00	724.47	715.50	6
+1901-10	19.50	14.20	8.75	22.75	17.50	12.25	21.00	15.69	11.25	19.50	16.90	14.00	15.84	733.75	725.13	718.00	7
+1901-11	13.00	7.75	1.75	16.00	11.86	6.00	14.50	10.75	4.00	14.00	13.12	11.75	10.14	735.00	726.00	711.00	5
+1901-12	9.00	4.16	0.00	11.00	7.74	3.75	10.00	6.52	3.00	9.00	8.20	7.50	6.14	735.00	724.50	708.00	5
+1902-01	8.00	5.12	2.50	12.00	9.21	5.00	10.00	7.77	3.25	9.75	9.30	9.00	7.36	739.00	730.79	722.00	0
+1902-02	11.00	7.34	-0.50	13.50	10.07	4.00	12.00	9.05	3.75	10.25	9.75	8.25	8.84	729.50	720.69	712.00	18
+1902-03	19.00	10.74	6.50	24.00	14.56	8.00	21.75	12.50	5.75	14.25	12.60	11.50	12.60	732.75	725.03	714.25	8
+1902-04	18.50	13.60	11.00	21.75	17.00	11.00	19.50	15.12	11.25	16.00	15.12	14.25	15.30	730.00	721.86	716.00	9
+1902-05	26.00	17.03	13.00	31.00	19.98	10.50	28.00	17.57	11.00	18.00	16.50	15.50	18.20	734.00	726.29	713.00	5
+1902-06	29.50	20.29	10.00	34.75	24.68	14.00	33.00	22.77	13.75	21.00	19.30	17.00	22.58	730.00	724.41	718.00	3
+1902-07	30.00	25.06	18.50	38.00	30.62	19.50	36.00	28.44	17.50	25.00	23.58	21.00	28.04	730.00	725.89	720.75	3
+1902-08	29.75	25.56	17.00	37.75	31.22	19.00	34.00	28.76	18.50	26.75	25.04	21.75	28.51	728.00	725.02	721.00	4
+1902-09	25.00	20.88	17.25	29.50	25.85	19.75	29.00	23.33	19.00	23.00	21.50	20.25	23.35	730.00	726.16	719.00	2
+1902-10	18.50	14.57	12.00	21.50	18.87	16.00	19.50	16.65	14.50	19.00	17.62	15.50	16.70	734.00	726.07	712.50	8
+1902-11	14.00	10.50	6.75	16.00	12.76	8.50	14.25	11.99	8.00	15.00	13.65	12.50	11.75	733.00	724.27	706.00	13
+1902-12	10.75	5.87	2.25	12.00	8.85	4.50	10.25	8.19	4.50	11.25	10.38	9.00	7.64	739.00	729.13	713.00	4

@@ -1,0 +1,122 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from CCALIA1 (1912-1936), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926193 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 39.450000 * LONGITUDE: -5.160000 * ALTITUDE: 700 m
+	DATE/TIME START: 1912-05-01T00:00:00 * DATE/TIME END: 1936-07-01T00:00:00
+Event(s):	CCALIA1 * LATITUDE: 39.450000 * LONGITUDE: -5.160000 * ALTITUDE: 700 m * LOCATION: Alía, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of snowy days [days/month] (Snowy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Precipitation [mm/month] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge
+	Precipitation, daily, maximum [mm/day] (Precip day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge * COMMENT: within this month
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max daily precipitation
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean, in rainy days (W = west, E = east, N = north, S = south) ("Various" means several directions)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: max, in rainy days (W = west, E = east, N = north, S = south)
+	Number of dew days [days/month] (Dew days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of frost days [days/month] (Frost days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of foggy days [days/month] (Foggy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of stormy days [days/month] (Stormy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of hail days [days/month] (Hail days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+Size:	681 data points
+*/
+Date/Time	Rainy days [days/month] (Observation)	Snowy days [days/month] (Observation)	Precip [mm/month] (Hellmann Rain Gauge)	Precip day max [mm/day] (within this month, Hellmann R...)	Day of month (of max daily precipitation)	Wind dir descr (mean, in rainy days (W = west...)	Wind dir descr (max, in rainy days (W = west,...)	Dew days [days/month] (Observation)	Frost days [days/month] (Observation)	Foggy days [days/month] (Observation)	Stormy days [days/month] (Observation)	Hail days [days/month] (Observation)
+1912-05	3	0	10.00	7.9	1912-05-24						3	
+1912-06	5	0	36.80	16.8	1912-06-12							
+1912-07	2	0	7.10	3.8	1912-07-29						1	
+1912-08	0	0	0.00	0.0								
+1912-09	6	0	59.00	32.4	1912-09-20	SW	N				4	
+1912-10	6	0	50.30	17.0	1912-10-30		N				1	
+1912-11	3	0	9.90	6.2	1912-11-30	N	N					
+1912-12	1	0	7.60	7.6	1912-12-06	SW				2		
+1913-01	14	0	197.40	41.7	1913-01-25	NW	NW		8	4	0	0
+1913-02	7	1	75.70	33.5	1913-02-24	N	N		5	1	2	1
+1913-03	9	1	104.00	28.8	1913-03-27	N	N		0	0	0	0
+1913-04	7	1	33.50	7.2	1913-04-05	N	N		0	1	0	4
+1913-05	8	0	17.40	3.6	1913-05-08 and 16	NW	N-NW		0	0	5	0
+1913-06	4	0	24.70	12.3	1913-06-16	SW	SW		0	0	0	0
+1913-07	0	0	0.00	0.0					0	0	0	0
+1913-08	0	0	0.00	0.0					0	0	0	0
+1913-09	3	0	22.40	10.5	1913-09-25		S		0	0	0	0
+1913-10	13	0	222.20	42.5	1913-10-23				0	1	1	0
+1913-11	9	0	120.40	46.6	1913-11-10				0	4	0	0
+1913-12	2	0	28.00	20.4	1913-12-27				0	0	0	0
+1914-01	2	1	9.60	8.3	1914-01-20			0	0	0	0	0
+1914-02	9	0	134.20	42.1	1914-02-25			0	0	0	0	0
+1914-03	6	0	63.80	24.2	1914-03-10			0	0	0	0	0
+1914-04	5	0	16.80	5.2	1914-04-13			0	0	0	0	0
+1914-05	1	0	4.00	4.0	1914-05-25			0	0	0	0	0
+1914-06	3	0	21.50	19.6	1914-06-30			0	0	0	1	1
+1914-07	3	0	2.50	1.5	1914-07-01			0	0	0	0	0
+1914-08	0	0	0.00	0.0				0	0	0	0	0
+1914-09	0	0	0.00	0.0				0	0	0	0	0
+1914-10	6	0	38.40	15.6	1914-10-22			0	0	0	0	0
+1914-11	11	0	181.90	72.5	1914-11-21			0	0	5	0	0
+1914-12	17	1	226.20	70.5	1914-12-13			0	0	11	0	0
+1915-01	4	3	61.70	16.7	1915-01-27			0	0	2	0	0
+1915-02	12	1	113.90	22.9	1915-02-20			0	0	0	0	0
+1915-03	14	0	138.30	27.6	1915-03-18			0	0	0	0	0
+1915-04	7	0	20.20	6.7	1915-04-01			0	0	0	0	3
+1915-05	11	0	58.90	14.2	1915-05-07			0	0	0	1	0
+1915-06	5	0	24.10	19.9	1915-06-09			0	0	0	2	0
+1915-07	0	0	0.00	0.0				0	0	0	0	0
+1915-08	0	0	0.00	0.0				0	0	0	0	0
+1915-09	4	0	1.60	0.7	1915-09-13 and 26			0	0	0	1	0
+1915-10	5	0	38.70	17.5	1915-10-10			0	0	0	0	0
+1915-11	14	0	183.70	41.1	1915-11-04			0	0	5	0	0
+1915-12	17	0	181.30	57.9	1915-12-07			0	0	6	0	0
+1916-01	2	0	24.80	16.5	1916-01-19					3		
+1916-02	12	0	131.70	64.3	1916-02-04							
+1916-03	19	0	278.30	65.6	1916-03-10							
+1916-04	3	0	16.60	14.0	1916-04-22							
+1916-05	8	0	62.50	31.1	1916-05-07							
+1916-06	3	0	1.80	1.0	1916-06-17							
+1916-09	6	0	121.20	37.5	1916-09-18						1	
+1916-11	6	1	299.50	75.5	1916-11-17							
+1916-12	9	0	382.60	70.2	1916-12-16							
+1917-11	2	0	12.10	12.0	1917-11-21							
+1917-12	0	4	0.00	0.0	1917-12-30							
+1918-01	8	3	178.70									
+1918-03	5	0	57.90	13.1	1918-03-15							
+1918-04	3	0	62.10	30.0	1918-04-12							
+1918-11	5	0	57.40	34.5	1918-11-21							
+1919-02	11	0	264.20	60.0	1919-02-20							
+1919-09	2	0	6.20	5.2								
+1921-12	3	0	70.00	26.8	1921-12-03	Various		1				
+1922-01	10	1	168.80	23.3	1922-01-20							
+1922-02	1	0	11.80	11.8	1922-02-05							
+1923-02	6	2	116.70	21.7	1923-02-24					3		
+1933-10	4	0	55.30	20.1	1933-10-20.1	21						
+1933-11	10	0	77.70	77.7	1933-11-20.5	28						
+1933-12	11	0	81.10	81.1	1933-12-21.3	14						
+1934-01	4	0	32.50	15.0	1934-01-15							
+1934-02	2	1	7.70	3.7	1934-02-26							
+1934-03	12	0	92.20	22.5	1934-03-08							
+1934-04	13	0	136.80	29.5	1934-04-07							
+1934-05	7	0	43.40	11.0	1934-05-14							
+1934-06	1	0	12.00	12.0	1934-06-18							
+1934-07	0	0	0.00	0.0								
+1934-08	1	0	1.00	1.0	1934-08-19							
+1934-09	1	0	2.00	2.0	1934-09-28							
+1934-10	0	0	0.00	0.0								
+1934-11	11	0	74.80	21.0	1934-11-02							
+1934-12	18	0	189.30	51.0	1934-12-10							
+1935-01	0	2	2.00	1.0	1935-01-29 and 30							
+1935-02	8	0	32.50	10.0	1935-02-26							
+1935-03	7	0	68.00	22.0	1935-03-20							
+1935-04	4	0	17.20	5.7	1935-04-28							
+1935-05	13	0	78.80	17.5	1935-05-21							
+1935-06	2	0	8.00	5.0	1935-06-29							
+1935-07	0	0	0.00	0.0								
+1935-08	1	0	6.20	6.2	1935-08-10							
+1935-09	0	0	0.00	0.0								
+1935-10	2	0	7.00	4.0	1935-10-26							
+1935-11	13	0	163.00	30.0	1935-11-19							
+1935-12	11	0	247.00	51.0	1935-12-28							
+1936-01	23	0	248.20	54.5	1936-01-19							
+1936-02	12	0	229.00	38.5	1936-02-22							
+1936-03	15	0	165.00	22.0	1936-03-19 and 22							
+1936-04	11	0	95.50	20.0	1936-04-13							
+1936-05	10	0	79.00	20.0	1936-05-08							
+1936-06	2	0	23.50	14.0	1936-06-20							
+1936-07	0	0	0.00	0.0	1936-07-00							

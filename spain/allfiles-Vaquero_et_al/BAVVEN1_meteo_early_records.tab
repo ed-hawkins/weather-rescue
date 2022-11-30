@@ -1,0 +1,515 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from BAVVEN1 (1882-1883), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926399 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 38.265278 * LONGITUDE: -6.474444
+	DATE/TIME START: 1882-01-01T00:00:00 * DATE/TIME END: 1883-11-30T00:00:00
+Event(s):	BAVVEN1 * LATITUDE: 38.265278 * LONGITUDE: -6.474444 * LOCATION: Valencia del Ventoso, Spain * METHOD/DEVICE: Weather station/meteorological * COMMENT: the symbol "#" represents suspicious data found from a quality control observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, at 9am
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, at 3pm
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, mean
+	Pressure, difference [arbitrary units] (dP) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Temperature, air, daily maximum [°C] (TxTxTx day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Temperature, air, daily minimum [°C] (TnTnTn day min) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Temperature, air, daily mean [°C] (TTT daily m) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Temperature, difference [°C] (delta T) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: between max and mean
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: WD1, during morning * COMMENT: W = west, E = east, N = north, S = south"
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: WD2, during afternoon * COMMENT: W = west, E = east, N = north, S = south"
+	Wind speed description (ff descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: WF1, during morning
+	Wind speed description (ff descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: WF2, during afternoon
+	Present weather (ww) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: SS1, during morning
+	Present weather (ww) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: SS2, during morning
+	Precipitation [mm/day] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Evaporation [mm] (Evapor) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean
+Size:	7746 data points
+*/
+Date/Time	PPPP other [arbitrary units] (in mmHg, at 9am)	PPPP other [arbitrary units] (in mmHg, at 3pm)	PPPP other [arbitrary units] (in mmHg, mean)	dP [arbitrary units]	TxTxTx day max [°C]	TnTnTn day min [°C]	TTT daily m [°C]	delta T [°C] (between max and mean)	Wind dir descr (WD1, during morning)	Wind dir descr (WD2, during afternoon)	ff descr (WF1, during morning)	ff descr (WF2, during afternoon)	ww (SS1, during morning)	ww (SS2, during morning)	Precip [mm/day]	Evapor [mm] (mean)
+1882-01-01	17.50	19.00	18.25	-1.50	9.0	6.0	7.50	3.0	N	N	Breeze	Breeze	Cloudy	Cloudy	0.0	2.5
+1882-01-02	21.25	20.50	20.87	0.75	7.0	5.0	6.00	2.0	NE	NE	Wind	Wind	Clear	Clear	0.0	3.5
+1882-01-03	18.50	15.00	#16.85	3.50	8.0	2.0	5.00	6.0	NE	SW	Calm	Calm	Cloudy	Cloudy	0.0	3.0
+1882-01-04	16.00	17.00	16.50	-1.00	5.0	1.0	3.00	4.0	N	N	Wind	Wind	Covered	Covered	16.0	2.0
+1882-01-05	23.50	22.50	23.00	1.00	4.5	3.0	3.75	1.5	NE	N	Calm	Calm	Clear	Clear	0.0	2.0
+1882-01-06	25.00	25.00	25.00	0.00	4.0	4.0	4.00	0.0	N	NE	Calm	Calm	Clear	Clear	0.0	1.5
+1882-01-07	27.00	27.00	27.00	0.00	6.5	2.0	4.25	4.5	NE	NE	Calm	Calm	Clear	Clear	0.0	2.0
+1882-01-08	28.50	27.50	28.00	1.00	7.5	3.0	5.25	#4.2	NE	NE	Calm	Calm	Clear	Clear	0.0	2.0
+1882-01-09	29.00	28.00	28.50	1.00	7.5	4.0	5.75	#3.2	NE	NE	Calm	Calm	Cloudy	Cloudy	0.0	2.0
+1882-01-10	27.50	27.00	27.25	0.50	8.0	1.5	4.75	6.5	NE	NE	Calm	Calm	Cloudy	Cloudy	0.0	1.5
+1882-01-11	27.50	26.00	26.75	1.50	7.0	1.5	4.25	5.5	N	N	Calm	Calm	Clear		0.0	1.5
+1882-01-12	24.00	24.00	24.00	0.00	7.5	2.0	4.75	5.5	N	NE	Calm	Calm	Clear	Cloudy	0.0	2.0
+1882-01-13	26.00	25.00	25.50	1.00	8.5	2.0	5.25	#3.5	NE	NE	Calm	Calm	Clear	Clear	0.0	2.0
+1882-01-14	28.50	28.00	28.25	0.50	7.0	1.0	4.00	6.0	E	E	Breeze	Wind	Clear	Clear	0.0	2.5
+1882-01-15	29.00	28.00	28.50	1.00	8.5	1.5	5.00	7.0	E	E	Calm	Wind	Clear	Clear	0.0	1.5
+1882-01-16	31.50	30.50	31.00	1.00	8.5	2.5	5.50	6.0	E	E	Breeze	Wind	Clear	Clear	0.0	2.5
+1882-01-17	32.00	30.50	31.25	1.50	9.0	2.5	5.75	6.5	E	E	Breeze	Wind	Clear	Cloudy	0.0	2.5
+1882-01-18	31.50	30.50	31.00	1.00	9.0	1.0	5.00	8.0	NE	E	Breeze	Wind	Clear	Cloudy	0.0	2.0
+1882-01-19	30.00	29.00	29.50	1.00	8.5	1.0	4.75	7.5	E	E	Breeze	Wind	Clear	Cloudy	0.0	2.0
+1882-01-20	30.00	29.50	29.75	0.50	8.0	1.0	4.50	7.0	E	S	Breeze	Wind	Clear	Cloudy	0.0	2.0
+1882-01-21	29.50	28.00	28.75	1.50	9.0	1.0	5.00	8.0	E	E	Breeze	Breeze	Clear	Clear	0.0	2.0
+1882-01-22	26.50	25.50	26.00	1.00	9.5	1.0	5.25	8.5	E	W	Breeze	Breeze	Cloudy	Cloudy	0.0	1.5
+1882-01-23	25.00	24.50	#25.75	0.50	8.5	1.0	4.75	7.5	SW	SE	Breeze	Breeze	Cloudy	Cloudy	0.0	1.5
+1882-01-24	25.00	25.00	25.00	0.00	8.0	1.0	4.50	7.0	E	W	Breeze	Wind	Covered	Covered	0.0	1.5
+1882-01-25	28.00	27.50	27.75	0.50	9.0	1.0	5.00	8.0	E	SE	Breeze	Breeze	Covered	Cloudy	48.0	1.5
+1882-01-26	27.00	27.00	27.00	0.00	9.0	1.5	5.25	7.5	SE	SE	Breeze	Wind	Cloudy	Clear	0.0	2.0
+1882-01-27	28.00	27.50	27.75	0.50	11.0	1.5	6.25	9.5	E	E	Breeze	Breeze	Cloudy	Clear	0.0	2.0
+1882-01-28	28.00	27.50	27.75	0.50	11.0	3.0	7.00	8.0	SE	S	Breeze	Breeze	Covered	Covered	0.0	1.5
+1882-01-29	28.00	25.50	26.75	2.50	10.0	3.0	6.50	7.0	E	W	Breeze	Breeze	Clear	Cloudy	0.0	1.5
+1882-01-30	26.00	24.00	25.00	2.00	11.0	3.0	7.00	8.0	SE	SE	Calm	Breeze	Clear	Cloudy	0.0	2.0
+1882-01-31	24.50	23.00	#23.75	0.50	10.5	3.5	7.00	7.0	SE	SE	Breeze	Wind	Covered	Covered	0.0	1.5
+1882-03-01	24.50	23.50	24.00	1.00	10.0	2.5	6.25	7.5	SW	SW	Breeze	Wind	Cloudy	Cloudy	3.0	2.5
+1882-03-02	27.00	25.00	26.00	2.00	10.0	2.0	6.00	#6.8	SW	SW	Wind	Wind	Cloudy	Covered	0.0	2.0
+1882-03-03	18.50	13.50	16.00	5.00	11.5	2.0	6.75	9.5	S	S	Wind	Strong Wind	Covered	Covered	3.0	2.0
+1882-03-04	15.50	16.00	15.75	-0.50	10.5	2.0	6.25	8.5	SW	SW	Wind	Wind	Cloudy	Cloudy	8.0	1.5
+1882-03-05	22.50	23.00	22.75	-0.50	13.0	1.5	7.25	11.5	W	W	Breeze	Breeze	Clear	Clear	0.0	1.5
+1882-03-06	26.00	26.00	26.00	0.00	13.0	2.0	7.50	11.0	NW	NW	Breeze	Breeze	Clear	Clear	0.0	1.5
+1882-03-07	28.00	27.00	27.50	1.00	15.5	2.0	8.75	13.5	N	NW	Breeze	Breeze	Clear	Clear	0.0	2.0
+1882-03-08	27.50	27.00	27.25	0.50	16.5	4.5	10.50	12.0	NE	NE	Breeze		Clear	Clear	0.0	2.1
+1882-03-09	28.00	27.00	27.50	1.00	18.0	4.0	11.00	14.0	NE	E		Calm-Breeze	Clear	Clear	0.0	2.5
+1882-03-10	28.00	27.50	27.75	0.50	16.0	4.5	10.25	11.5	E	E	Calm-Breeze	Breeze	Clear	Clear	0.0	3.0
+1882-03-11	28.00	27.00	27.50	1.00	18.5	4.0	11.25	14.5	E	E	Breeze	Breeze	Clear	Clear	0.0	3.5
+1882-03-12	26.00	24.50	25.25	1.50	19.5	4.0	#11.50	#15.0	E	E	Breeze	Wind	Clear	Clear	0.0	3.5
+1882-03-13	25.50	24.50	25.00	1.00	17.5	5.0	11.25	12.5	E	E	Breeze	Wind	Clear	Clear	0.0	4.0
+1882-03-14	25.50	24.00	24.75	#1.00	16.5	4.0	10.25	#11.5	E	E	Breeze	Wind	Clear	Clear	0.0	4.0
+1882-03-15	25.50	26.50	26.00	-1.00	17.0	4.5	10.75	12.5	E		Wind		Clear	Clear	0.0	3.5
+1882-03-16	28.00	27.50	27.75	0.50	18.0	3.5	#11.00	#15.0	E	E	Wind	Wind	Clear	Clear	0.0	3.0
+1882-03-17	28.00	26.00	27.00	2.00	19.5	5.0	12.25	#13.5	E		Wind		Clear	Clear	0.0	3.5
+1882-03-18	26.00	24.00	#25.25	#2.50	19.0	5.0	12.00	14.0	E	E	Wind	Wind	Clear	Cloudy	0.0	3.5
+1882-03-19	22.50	18.00	20.25	4.50	16.0	5.0	10.50	11.0	E	W	Breeze	Breeze	Clear-Cloudy		0.0	3.5
+1882-03-20	17.00	16.00	16.50	1.00	14.0	4.0	10.00	#10.0	W		Breeze-Wind	Wind	Cloudy	Cloudy-Covered	0.0	3.5
+1882-03-21	18.00	19.50	18.75	-1.50	17.0	3.5	10.25	13.5	W	SE	Wind	Wind	Covered	Covered	1.5	3.0
+1882-03-22	20.00	18.00	19.00	2.00	10.0	4.0	7.00	6.0	N	NE	Breeze	Wind	Clear	Cloudy	0.0	3.0
+1882-03-23	22.50	21.50	22.00	1.00	17.0	3.0	10.00	14.0	N	N	Wind	Wind	Clear	Clear	2.0	2.5
+1882-03-24	23.00	22.00	22.50	1.00	15.0	4.0	9.50	11.0	NE	N	Breeze		Clear	Clear	0.0	3.0
+1882-03-25	23.50	21.50	22.50	2.00	15.5	3.0	9.25	12.5	NE	NE	Wind	Calm-Breeze	Clear	Clear	0.0	2.5
+1882-03-26	23.00	19.50	21.25	3.50	14.0	3.0	8.50	11.0	N	N	Wind	Breeze	Clear	Clear	0.0	3.0
+1882-03-27	22.00	21.50	21.75	0.50	13.0	4.0	8.50	9.0	NE	NE	Wind	Strong Wind	Clear	Clear	0.0	3.0
+1882-03-28	25.00	25.00	25.00	0.00	18.0	3.0	10.50	15.0	NE	N	Wind	Breeze	Clear	Clear	0.0	3.0
+1882-03-29	22.00	20.00	21.00	2.00	19.0	4.0	11.50	15.0	SW	NE	Breeze	Breeze	Clear	Clear	0.0	3.5
+1882-03-30	18.00	16.50	17.25	1.50	15.0	4.0	9.50	11.0	NE	W		Breeze-Wind	Clear	Clear	0.0	3.0
+1882-03-31	17.50	17.00	17.25	0.50	15.5	3.5	9.50	12.0	W	W	Wind	Wind	Clear	Cloudy	0.0	3.0
+1882-05-01	18.00	19.50	18.75	-1.50	20.0	5.5	12.75	#5.5	N	W	Breeze	Wind	Clear	Clear	0.0	4.0
+1882-05-02	18.50	16.50	17.50	2.00	16.5	4.0	10.25	12.5	S	S	Breeze	Wind	Clear	Cloudy	0.0	4.0
+1882-05-03	17.00	17.00	17.00	0.00	17.0	5.0	11.00	12.0	SW	W	Breeze	Wind	Covered	Cloudy	3.0	3.0
+1882-05-04	21.00	20.50	20.75	0.50	15.0	3.5	9.25	11.5	SW	SW	Breeze	Wind	Cloudy	Covered	15.0	3.0
+1882-05-05	18.50	17.50	18.00	1.00	17.5	3.5	10.50	14.0	W	SW	Breeze	Wind	Covered	Covered	3.0	3.0
+1882-05-06	20.00	19.00	19.50	1.00	23.0	3.5	13.25	19.5	S-W	S-W	Breeze	Breeze	Cloudy	Cloudy	0.0	3.0
+1882-05-07	17.50	16.50	17.00	1.00	18.0	5.0	11.50	13.0			Breeze	Wind	Cloudy	Cloudy	0.0	4.0
+1882-05-08	18.00	17.50	17.75	0.50	19.0	4.0	11.50	15.0	NE	SE	Breeze	Wind	Covered	Covered	2.0	3.0
+1882-05-09	19.00	19.00	19.00	0.00	23.0	4.5	13.75	18.5	E	E	Wind	Strong Wind	Cloudy	Cloudy	4.5	3.5
+1882-05-10	20.50	19.00	19.75	1.50	24.0	5.0	14.50	19.0	E	SE	Wind	Wind	Clear	Clear	0.0	4.5
+1882-05-11	20.50	20.50	20.50	0.00	27.0	5.0	16.00	22.0	E	SE	Wind	Wind	Clear	Clear	0.0	5.0
+1882-05-12	22.00	21.00	21.50	1.00	26.0	6.0	16.00	20.0	E	SE	Breeze	Wind	Clear	Clear	0.0	6.0
+1882-05-13	21.50	20.50	21.00	1.00	25.5	5.5	15.50	20.0	SE	SW	Breeze	Wind	Clear	Cloudy	0.0	6.0
+1882-05-14	19.00	18.00	18.50	1.00	23.5	5.5	14.50	18.0	SW	SW	Breeze	Wind	Cloudy	Clear	0.0	5.0
+1882-05-15	16.50	15.00	15.75	1.50	24.5	5.0	14.75	19.5	W	SW	Breeze	Wind	Covered	Covered	0.0	6.0
+1882-05-16	16.00	15.50	15.75	0.50	25.5	4.5	15.00	21.0	SW	SW	Breeze	Wind	Cloudy	Cloudy	0.0	4.5
+1882-05-17	17.00	17.25	17.12	#-0.50	23.5	5.5	14.50	18.0	N	SE-S	Breeze	Wind	Covered	Covered	0.0	5.5
+1882-05-18	18.50	17.00	17.75	1.50	16.0	5.0	10.50	11.0	E	S	Breeze	Wind	Covered	Covered	3.0	3.5
+1882-05-19	15.00	12.50	13.75	2.50	18.0	4.5	11.25	13.5	S	S	Wind	Wind	Covered	Covered	9.0	3.0
+1882-05-20	14.50	14.00	14.25	0.50	16.5	4.5	10.50	12.0	S	S	Wind	Wind	Cloudy	Covered	22.0	3.5
+1882-05-21	19.50	19.00	19.25	0.50	17.0	3.5	10.25	13.5	S	S	Wind	Strong Wind	Cloudy	Cloudy	15.0	2.5
+1882-05-22	19.50	18.00	18.75	1.50	19.0	4.0	11.50	15.0	SW	S	Wind	Strong Wind	Covered	Covered	0.0	3.5
+1882-05-23	18.50	16.50	17.50	2.00	18.0	4.5	#11.50	#14.0	SW	SW	Wind	Wind	Cloudy	Cloudy	3.0	1.0
+1882-05-24	19.00	17.50	18.25	1.50	19.0	3.5	11.25	15.5	SW	SW	Wind	Strong Wind	Cloudy	Cloudy	1.5	3.0
+1882-05-25	18.00	18.50	18.25	-0.50	19.0	3.5	11.25	15.5	S	S	Wind	Strong Wind	Covered	Cloudy	0.0	3.0
+1882-05-26	21.50	22.00	21.75	-0.50	23.5	4.5	14.00	19.0	S	S	Wind	Wind	Cloudy	Cloudy	0.0	3.0
+1882-05-27	23.50	21.50	22.50	2.00	28.0	5.0	16.50	23.0	E	W	Breeze	Breeze	Clear	Cloudy	0.0	3.5
+1882-05-28	22.50	22.00	22.25	0.50	29.0	6.0	17.50	23.0	W	W	Breeze	Wind	Clear	Cloudy	0.0	5.5
+1882-05-29	24.00	23.00	23.50	1.00	28.5	5.5	17.00	23.0		NW	Breeze	Wind	Clear	Clear	0.0	4.5
+1882-05-30	22.50	20.00	21.25	2.50	29.5	6.0	17.75	#22.5	E	E	Breeze	Breeze	Cloudy	Clear	0.0	5.5
+1882-05-31	18.50	17.00	17.75	1.50	29.5	6.5	18.00	23.0	S	S	Breeze	Wind	Clear	Clear	0.0	6.5
+1882-06-01	18.50	18.00	18.25	0.50	28.5	7.0	17.75	21.5	SW	W	Breeze	Wind	Cloudy	Cloudy	0.0	6.5
+1882-06-02	20.00	19.00	19.50	1.00	23.0	6.0	14.50	17.0	W	W	Breeze	Wind	Clear	Covered	0.0	6.0
+1882-06-03	19.50	20.00	19.75	-0.50	23.5	5.0	14.25	18.5	S	SW	Wind	Wind	Cloudy	Clear	0.0	4.5
+1882-06-04	23.00	22.50	22.75	0.50	26.5	4.5	15.50	22.0	N	NW	Wind	Wind	Cloudy	Cloudy	0.0	4.5
+1882-06-05	23.50	21.50	22.50	2.00	30.5	5.5	18.00	25.0	NE	NE	Wind	Breeze	Clear	Clear	0.0	4.5
+1882-06-06	21.00	18.50	#19.25	2.50	26.0	6.5	16.25	19.5	SW-NW		Breeze	Wind	Clear	Clear	0.0	6.5
+1882-06-07	20.50	21.00	20.75	-0.50	27.0	5.0	16.00	22.0	N-NW	W	Wind	Wind	Clear	Clear	0.0	6.5
+1882-06-08	23.50	22.00	22.75	1.50	30.0	5.5	17.75	24.5	NE	NE	Breeze	Wind	Clear	Clear	0.0	5.5
+1882-06-09	22.00	20.00	21.00	2.00	31.0	6.5	18.75	24.5	NE	N	Breeze	Wind	Clear	Clear	0.0	7.0
+1882-06-10	21.00	19.50	#20.50	1.50	29.5	6.5	18.00	23.0	N	NE	Breeze	Wind	Clear	Clear	0.0	7.0
+1882-06-11	21.50	20.50	21.00	1.00	31.5	7.5	19.50	24.0	E	NE	Wind	Wind	Clear	Clear	0.0	7.5
+1882-06-12	20.50	19.50	20.00	1.00	32.0	7.5	19.75	24.5	E	NE	Breeze	Wind	Clear	Clear	0.0	7.5
+1882-06-13	20.50	19.50	20.00	1.00	33.0	7.5	20.25	25.5	NE	NE	Breeze	Wind	Clear	Clear	0.0	7.5
+1882-06-14	22.50	21.50	22.00	1.00	34.5	8.5	21.50	#6.0	E-SE	E	Breeze	Wind	Clear	Clear	0.0	8.0
+1882-06-15	22.00	21.50	#20.75	0.50	33.5	8.5	21.00	25.0	SE	SE	Breeze	Wind	Clear	Clear	0.0	8.5
+1882-06-16	22.50	21.50	22.00	1.00	29.5	7.0	18.25	22.5	S	SE	Breeze	Wind	Clear	Clear	0.0	7.5
+1882-06-17	20.50	19.50	20.00	1.00	19.5	7.0	13.25	12.5	S	SW	Breeze	Wind	Cloudy	Clear	0.0	7.0
+1882-06-18	23.00	22.50	22.75	0.50	27.5	6.0	16.75	21.5	SW	SW	Wind	Wind	Covered	Clear	0.0	6.5
+1882-06-19	24.00	23.00	23.50	1.00	29.5	5.5	17.50	24.0	W	SW	Breeze	Wind	Clear	Clear	0.0	4.5
+1882-06-20	22.50	21.00	#22.25	#2.50	34.0	6.5	20.25	27.5	N		Breeze	Breeze	Clear	Clear	0.0	6.0
+1882-06-21	21.00	19.50	20.25	1.50	34.0	7.5	20.75	26.5	W	W	Breeze	Wind	Clear	Cloudy	0.0	7.0
+1882-06-22	20.50	19.00	#20.25	1.50	29.5	7.5	18.50	22.0	W	W	Breeze	Wind	Clear	Clear	0.0	8.0
+1882-06-23	21.00	20.00	20.50	1.00	29.5	7.0	#18.00	#22.0	W	W	Breeze	Breeze	Clear	Clear	0.0	7.5
+1882-06-24	21.00	20.00	20.50	1.00	29.0	6.0	17.50	23.0	W	W	Calm	Wind	Clear	Clear	0.0	7.5
+1882-06-25	22.50	22.00	22.25	0.50	29.5	7.0	18.25	22.5	W	NW	Breeze	Wind	Clear	Clear	0.0	7.5
+1882-06-26	22.50	21.00	21.75	1.50	31.0	6.5	18.75	24.5	W	N	Breeze	Breeze	Clear	Clear	0.0	7.5
+1882-06-27	22.00	21.50	21.75	0.50	30.0	6.5	18.25	23.5	W	W	Calm	Wind	Clear	Cloudy	0.0	8.0
+1882-06-28	24.50	23.50	24.00	1.00	31.0	8.5	19.75	22.5	W	W	Breeze	Wind	Cloudy	Clear	0.0	10.0
+1882-06-29	24.00	22.50	23.25	1.50	32.0	9.5	20.75	22.5	W	W	Breeze	Wind	Cloudy	Cloudy	0.0	10.0
+1882-06-30	20.50	20.50	20.50	0.00	34.0	9.5	#22.75	24.5	W	W	Calm	Breeze	Clear	Clear	0.0	2.5
+1882-07-01	19.50	20.00	19.75	-0.50	33.0	11.0	22.00	22.0	W-NW		Calm	Breeze	Clear	Clear	0.0	12.0
+1882-07-02	20.50	19.00	19.75	1.50	34.0	12.0	#22.00	22.0	SW-W		Breeze	Wind	Clear-Cloudy		0.0	12.5
+1882-07-03	21.00	20.50	20.75	0.50	30.0	11.0	20.50	19.0	SW	W	Breeze	Wind	Clear	Cloudy	0.0	14.0
+1882-07-04	20.50	20.00	20.25	0.50	29.5	8.5	19.00	21.0	S	SW	Wind	Breeze	Clear	Clear	0.0	11.0
+1882-07-05	21.00	20.00	20.50	1.00	30.0	8.5	19.25	21.5	SW	W	Breeze	Wind	Clear	Clear	0.0	10.0
+1882-07-06	21.00	19.50	20.25	1.50	25.0	8.5	16.75	16.5	W	SW	Breeze	Wind	Clear	Clear	0.0	9.5
+1882-07-07	19.00	18.50	18.75	0.50	20.0	7.0	13.50	13.0			Breeze	Strong Wind	Covered	Covered	0.0	10.0
+1882-07-08	19.50	16.50	18.00	3.00	17.0	6.5	11.75	10.5	S	S	Breeze	Wind	Covered	Covered	3.0	7.0
+1882-07-09	23.00	23.50	23.25	#0.50	26.0	5.5	15.75	20.5	S-SW-W	S-SW-W	Breeze	Wind	Cloudy	Cloudy	61.0	5.5
+1882-07-10	25.50	24.50	25.00	1.00	28.0	6.5	17.25	21.5	W	W	Breeze	Breeze	Clear	Clear	0.0	5.5
+1882-07-11	24.50	23.00	23.75	1.50	30.0	6.5	18.25	#25.5	W	W	Calm	Breeze	Clear	Clear	0.0	6.5
+1882-07-12	23.50	22.00	22.75	#3.50	32.0	8.0	20.00	24.0	NW	NW	Breeze	Breeze	Clear	Clear	0.0	8.0
+1882-07-13	21.00	21.00	21.00	0.00	30.0	8.0	19.00	22.0	NW	NW	Breeze	Breeze	Clear	Clear	0.0	8.5
+1882-07-14	20.00	18.00	19.00	2.00	30.5	7.5	19.00	23.0	NW	W	Breeze	Breeze	Clear	Clear	0.0	9.0
+1882-07-15	19.50	17.00	18.25	2.50	23.5	7.5	15.50	#26.0	W	W	Breeze	Strong Wind	Clear	Cloudy	0.0	9.0
+1882-07-16	21.50	20.50	21.00	1.00	27.0	6.5	16.75	20.5	N	NW	Wind	Strong Wind	Cloudy	Clear	0.0	7.5
+1882-07-17	22.00	20.00	21.00	2.00	33.5	6.5	20.00	27.0	NW	NE	Calm	Wind	Clear	Clear	0.0	7.5
+1882-07-18	22.00	21.00	21.50	1.00	35.5	7.5	21.50	28.0	NE	NE	Breeze	Breeze	Clear	Clear	0.0	8.0
+1882-07-19	23.50	22.50	23.00	1.00	36.0	9.0	22.50	27.0	E	SW	Calm	Breeze	Clear	Clear	0.0	8.5
+1882-07-20	23.50	22.00	22.75	#0.50	32.0	9.0	20.50	23.0	W	W	Calm	Breeze	Clear	Clear	0.0	9.0
+1882-07-21	22.50	22.00	22.25	0.50	32.0	8.0	20.00	24.0	W	W	Breeze	Breeze	Clear	Clear	0.0	8.5
+1882-07-22	23.00	22.50	22.75	0.50	32.5	8.0	20.25	24.5	W	W	Calm	Breeze	Clear	Clear	0.0	8.0
+1882-07-23	23.50	20.50	22.00	3.00	33.0	8.5	20.75	24.5	N-NW	W	Calm	Breeze	Clear	Clear	0.0	8.0
+1882-07-24	22.00	21.50	21.75	0.50	34.0	8.0	21.00	26.0	SW-NW		Calm	Breeze	Clear	Clear	0.0	8.5
+1882-07-25	23.00	22.50	22.75	0.50	34.5	8.5	21.50	26.0	W	W	Calm	Breeze	Clear	Clear	0.0	8.0
+1882-07-26	24.00	22.50	23.25	1.50	35.5	9.0	22.25	26.5	N	W	Calm	Breeze	Clear	Clear	0.0	9.0
+1882-07-27	25.00	24.00	24.50	1.00	36.5	9.5	23.00	27.0	NW	NW	Calm	Wind	Clear	Clear	0.0	10.0
+1882-07-28	23.00	20.00	21.50	3.00	36.5	11.0	23.75	25.5	SW	W	Calm	Breeze	Clear	Cloudy	0.0	11.5
+1882-07-29	19.00	17.00	18.00	2.00	36.5	12.0	24.25	24.5	W	W	Calm	Breeze	Clear	Clear	0.0	12.0
+1882-07-30	19.00	18.50	18.75	0.50	37.0	12.0	24.50	25.0	NE	E	Calm	Breeze	Clear	Clear	0.0	12.5
+1882-07-31	23.00	22.50	22.75	0.50	37.5	13.0	#20.25	24.5	E	E	Wind	Wind	Clear	Clear	0.0	13.5
+1882-08-01	25.50	25.50	25.50	0.00	37.0	14.5	25.75	22.5	E	E	Breeze	Wind	Clear	Clear	0.0	15.5
+1882-08-02	26.00	24.50	25.25	1.50	37.5	12.0	24.75	#17.5	S-SW		Breeze	Breeze	Clear	Covered	0.0	12.0
+1882-08-03	25.00	22.50	23.75	2.50	37.5	12.0	24.75	#17.5	SW	NE	Calm	Wind	Clear	Covered	0.0	12.0
+1882-08-04	22.00	21.00	21.50	1.00	36.5	11.5	#24.50	25.0	NW	SW	Calm	Wind	Cloudy	Covered	3.0	13.0
+1882-08-05	22.00	20.00	21.00	2.00	36.0	9.0	22.50	27.0	SW	SW	Calm	Wind	Clear	Cloudy	0.0	11.0
+1882-08-06	21.00	20.00	20.50	1.00	31.0	10.0	20.50	21.0	W	SW	Calm	Breeze	Clear	Cloudy	0.0	11.0
+1882-08-07	20.50	20.00	20.25	0.50	35.0	10.0	22.50	25.0	SW		Breeze	Wind	Covered	Clear	0.0	11.0
+1882-08-08	20.50	20.00	20.25	0.50	32.0	11.0	21.50	21.0	SW	SW	Breeze	Wind	Cloudy	Cloudy	0.0	11.5
+1882-08-09	21.50	20.00	20.75	1.50	33.0	11.0	#21.50	#21.0	W	SW	Breeze	Wind	Clear	Clear	0.0	11.5
+1882-08-10	22.00	20.00	21.00	2.00	32.5	11.0	21.75	21.5	SW		Breeze	Breeze	Clear	Clear	0.0	10.5
+1882-08-11	21.50	18.00	#19.25	3.50	32.5	12.0	22.25	#10.5	SW	S	Breeze	Wind	Clear	Clear	0.0	13.0
+1882-08-12	21.50	20.00	20.75	1.50	31.5	12.0	21.75	#9.5	SW	NW	Breeze	Wind	Cloudy	Cloudy	0.0	13.0
+1882-08-13	22.00	20.50	21.25	1.50	29.5	12.0	20.75	17.5	NW	W	Breeze	Wind	Clear	Clear	0.0	10.0
+1882-08-14	23.50	23.00	23.25	0.50	29.5	8.0	18.75	21.5	W	W	Breeze	Wind	Clear	Clear	0.0	9.5
+1882-08-15	24.00	23.00	23.50	1.00	29.0	9.0	19.00	20.0	W	NW	Breeze	Wind	Clear	Clear	0.0	10.5
+1882-08-16	24.50	20.00	22.25	4.50	29.0	10.0	19.50	19.0	NE	NW	Breeze	Wind	Clear	Clear	0.0	8.5
+1882-08-17	21.00	20.00	20.50	1.00	33.0	9.0	21.00	24.0	NW	NW	Calm	Breeze	Clear	Clear	0.0	12.0
+1882-08-18	21.50	21.00	21.25	0.50	36.0	10.5	23.25	25.5	NW	W	Calm	Breeze	Clear	Cloudy	0.0	12.5
+1882-08-19	23.00	22.00	22.50	1.00	35.0	12.0	23.50	23.0	W	W	Breeze	Breeze	Cloudy	Clear-Cloudy	0.0	13.0
+1882-08-20	23.00	22.50	22.75	0.50	31.0	12.0	21.50	19.0	W	N	Calm	Breeze	Cloudy	Cloudy	0.0	12.0
+1882-08-21	24.50	23.50	24.00	1.00	31.0	9.0	20.00	22.0	NW	NE	Wind	Breeze	Clear	Clear	0.0	8.5
+1882-08-22	24.50	23.00	23.75	1.50	34.5	8.5	21.50	26.0	E	NW	Calm	Calm	Clear	Clear	0.0	13.5
+1882-08-23	19.50	19.00	19.25	0.50	37.0	13.0	25.00	24.0	W	W	Calm	Wind	Clear	Clear	0.0	14.0
+1882-08-24	19.50	20.00	#18.75	#0.50	31.0	13.0	22.00	18.0	W	W	Breeze	Wind	Clear	Clear	0.0	12.0
+1882-08-25	23.00	20.50	21.75	2.50	31.0	11.0	#21.50	20.0	W	W	Breeze	Wind	Clear	Clear	0.0	9.5
+1882-08-26	23.50	21.50	22.50	2.00	29.0	10.5	#18.75	18.5	W-NW		Wind		Cloudy-Covered		0.0	8.5
+1882-08-27	23.00	22.00	22.50	1.00	28.0	8.0	18.00	20.0	NE	NE	Breeze	Wind	Clear	Clear	0.0	9.0
+1882-08-28	23.50	22.50	23.00	1.00	33.0	10.0	#22.50	23.0	E	E		Wind	Clear	Clear	0.0	8.5
+1882-08-29	24.00	23.50	23.75	0.50	35.0	9.0	22.00	26.0	E	NE	Calm-Breeze-Wind	Wind	Clear	Clear	0.0	10.5
+1882-08-30	25.00	23.00	24.00	2.00	36.5	11.0	23.75	25.5	NE	SE	Calm-Breeze		Clear	Clear	0.0	11.5
+1882-08-31	24.50	24.00	24.25	0.50	36.5	11.0	23.75	#24.5	SE	SW	Calm	Wind	Clear	Clear	0.0	11.5
+1882-09-01	23.50	21.50	22.50	2.00	35.5	13.0	24.25	22.5	S	S	Breeze	Breeze	Clear	Clear	0.0	13.5
+1882-09-02	23.50	23.00	23.25	0.50	33.0	11.0	22.00	22.0	SW	SW	Calm	Breeze	Cloudy	Clear	0.0	12.0
+1882-09-03	24.50	21.00	22.75	3.50	31.0	12.5	#16.75	18.5	SW	W	Calm	Wind	Cloudy	Clear	3.0	11.5
+1882-09-04	23.00	21.00	22.00	2.00	34.0	10.5	22.25	23.5	NW	W	Breeze	Wind	Clear	Cloudy	0.0	9.5
+1882-09-05	23.00	20.50	21.75	2.50	30.0	11.0	20.50	19.0	E	SW	Breeze	Wind	Cloudy	Cloudy	0.0	11.5
+1882-09-06	19.00	18.00	18.50	1.00	26.0	10.0	18.00	16.0	S	SW	Breeze	Strong Wind	Cloudy	Covered	0.0	11.0
+1882-09-07	19.50	17.50	18.50	2.00	25.5	9.5	17.50	16.0	E	SE	Wind	Wind	Covered	Covered	0.0	8.0
+1882-09-08	19.00	18.00	18.50	1.00	27.0	9.0	18.00	18.0	SE	SW	Wind	Wind	Covered	Covered	4.0	10.0
+1882-09-09	21.00	18.00	19.50	3.00	26.0	10.0	18.00	16.0	SW	SW	Breeze	Wind	Cloudy	Covered	4.0	9.0
+1882-09-10	20.00	22.00	21.00	#-5.00	20.0	11.0	15.50	9.0	SW	W	Breeze	Breeze	Covered	Covered	4.0	9.5
+1882-09-11	22.00	22.00	22.00	0.00	19.0	9.0	14.00	10.0	W	NW	Breeze	Wind	Covered	Cloudy	0.0	7.0
+1882-09-12	21.00	21.00	21.00	0.00	18.0	7.0	12.50	11.0	NW	SW	Wind	Wind	Clear	Cloudy	0.0	6.0
+1882-09-13	24.00	23.50	23.75	0.50	19.0	7.5	13.25	11.5	W	SW	Breeze	Wind	Clear	Covered	0.0	6.5
+1882-09-14	20.50	18.50	19.50	2.00	19.0	8.0	13.50	11.0	W	W	Breeze	Strong Wind	Covered	Covered	0.0	6.5
+1882-09-15	19.50	19.00	19.25	0.50	19.0	7.0	13.00	12.0	W	W	Wind	Wind	Covered	Clear	2.0	6.5
+1882-09-16	21.50	21.00	21.25	0.50	22.0	8.0	15.00	14.0	NW	N	Breeze	Wind	Clear	Cloudy	0.0	6.0
+1882-09-17	22.00	20.50	21.25	#-0.50	22.0	9.0	15.50	13.0	NW	NW	Breeze	Wind	Clear	Clear	0.0	8.0
+1882-09-18	21.50	20.00	20.75	1.50	18.5	7.0	12.75	11.5	NE	NW	Breeze	Wind	Clear	Cloudy	0.0	7.5
+1882-09-19	19.00	19.50	19.25	-0.50	17.0	7.0	12.00	10.0	NW	NW	Breeze	Breeze	Clear	Clear	0.0	6.5
+1882-09-20	18.50	19.00	18.75	-0.50	17.5	7.0	12.25	10.5	W	W	Breeze	Wind	Covered	Clear	0.0	6.5
+1882-09-21	19.50	19.00	19.25	0.50	17.5	7.0	12.25	10.5	W	NW	Breeze	Wind	Clear	Cloudy	0.0	6.0
+1882-09-22	22.00	20.50	21.25	1.50	20.0	7.0	13.50	13.0	W	W	Breeze	Breeze	Cloudy	Cloudy	0.0	5.5
+1882-09-23	21.50	21.50	21.50	0.00	18.0	7.0	12.50	11.0	W	W	Calm	Wind	Cloudy	Cloudy	0.0	5.0
+1882-09-24	23.00	21.00	22.00	2.00	17.5	7.0	12.25	10.5	W	W	Breeze	Breeze	Clear	Cloudy	0.0	5.0
+1882-09-25	22.00	19.50	20.75	2.50	17.5	7.0	12.25	10.5	W	SW	Breeze	Strong Wind	Cloudy	Covered	0.0	5.0
+1882-09-26	20.50	19.00	19.75	1.50	15.5	6.5	11.00	9.0	W	SW	Wind	Wind	Covered	Covered	4.0	4.0
+1882-09-27	24.00	23.50	23.75	0.50	20.0	6.0	13.00	14.0	W	W	Wind	Wind	Cloudy	Covered	3.0	3.5
+1882-09-28	#27.00	#27.00	#27.25	#0.50	19.0	7.0	13.00	12.0	W	W	Breeze	Calm	Cloudy	Clear	0.0	3.5
+1882-09-29	27.50	26.00	26.75	1.50	21.5	7.5	14.50	14.0	NW	W	Calm	Wind	Clear	Clear	0.0	3.5
+1882-09-30	26.50	#25.75	25.75	1.50	21.0	7.5	#13.50	13.5	SW		Breeze	Breeze	Clear	Cloudy	0.0	3.5
+1882-11-01	24.50	24.50	24.50	0.00	12.5	0.5	6.50	12.0	W	W	Breeze	Breeze	Cloudy	Cloudy	0.0	2.0
+1882-11-02	25.00	24.00	24.50	1.00	12.0	1.0	6.50	11.0	NW	W	Breeze	Breeze	Cloudy	Cloudy	0.0	2.5
+1882-11-03	25.00	25.50	25.25	-0.50	11.0	1.5	6.25	9.5	W	NW	Breeze	Breeze	Clear	Clear	0.0	2.5
+1882-11-04	28.00	27.00	27.50	1.00	12.0	1.0	6.50	11.0	NE	NE	Breeze	Breeze	Clear	Clear	0.0	2.5
+1882-11-05	28.50	27.50	28.00	1.00	12.0	2.0	7.00	10.0	NE	NE	Breeze	Wind	Clear	Clear	0.0	2.5
+1882-11-06	27.50	26.00	26.75	1.50	11.0	2.0	6.50	9.0	NE	NE	Breeze	Breeze	Cloudy	Clear	0.0	2.0
+1882-11-07	27.50	26.00	26.75	1.50	13.0	0.5	6.75	12.5	NE	NE	Breeze	Breeze	Clear	Clear	0.0	2.0
+1882-11-08	27.00	26.00	26.50	1.00	11.0	2.0	6.50	9.0	NW	SW		Breeze	Cloudy	Clear	0.0	2.0
+1882-11-09	25.50	25.00	25.25	0.50	13.0	2.0	7.50	11.0	SW	W	Breeze	Breeze	Cloudy	Cloudy	0.0	2.5
+1882-11-10	26.00	25.00	25.50	1.00	12.0	2.5	7.25	9.5	W	W	Breeze	Breeze	Cloudy	Cloudy	0.0	2.5
+1882-11-11	24.00	25.00	24.50	-1.00	12.0	2.5	7.25	#10.5	W	W	Breeze	Breeze	Cloudy	Cloudy	0.0	2.0
+1882-11-12	24.50	22.00	#23.50	2.50	12.5	1.5	7.00	11.0	SW	S	Breeze	Wind	Cloudy	Cloudy	0.0	2.0
+1882-11-13	22.50	22.00	#22.50	0.50	13.0	2.0	7.50	11.0	S	S	Breeze	Wind	Cloudy	Covered	0.0	2.5
+1882-11-14	21.50	21.50	21.50	0.00	13.0	2.5	7.75	10.5	S	NW	Breeze	Wind	Covered	Cloudy	0.0	2.5
+1882-11-15	23.50	23.50	23.50	0.00	10.0	2.5	6.25	7.5			Breeze	Breeze	Clear	Clear	5.0	1.5
+1882-11-16	25.00	25.00	25.00	#1.00	9.5	1.5	5.50	8.0	N	NW	Breeze	Wind	Clear		0.0	2.5
+1882-11-17	26.00	25.00	25.50	#1.50	10.5	1.0	5.75	9.5	N	NW	Wind	Breeze	Cloudy	Cloudy	0.0	1.5
+1882-11-18	27.50	26.00	26.75	#0.50	9.0	1.0	5.00	8.0	NW	NW	Breeze	Breeze	Clear	Clear	0.0	1.5
+1882-11-19	27.00	27.50	27.25	#0.50	10.0	1.0	5.50	9.0	N	N	Breeze	Breeze	Clear	Clear	0.0	2.0
+1882-11-20	25.50	23.50	24.50	2.00	9.0	0.5	4.75	8.5			Breeze	Wind	Clear	Cloudy	0.0	2.0
+1882-11-21	25.00	24.50	24.75	0.50	9.0	1.0	5.00	8.0	NW	N	Breeze	Wind		Cloudy	0.0	2.5
+1882-11-22	28.50	27.50	28.00	1.00	8.5	0.5	4.50	8.0	NE	NE	Breeze	Breeze	Cloudy	Cloudy	0.0	2.0
+1882-11-23	27.50	25.00	26.25	2.50	8.5	0.5	4.50	8.0	NE	NE	Breeze	Breeze	Cloudy	Cloudy	0.0	1.5
+1882-11-24	25.50	25.00	25.25	0.50	9.5	1.0	#5.00	#9.0	N	NE	Breeze	Breeze	Covered	Covered	0.0	1.5
+1882-11-25	25.50	25.00	25.25	0.50	11.0	1.5	#5.50	#10.0	N	NE	Breeze	Breeze	Covered	Cloudy	0.0	2.5
+1882-11-26	24.50	23.00	23.75	1.50	11.0	2.0	#6.25	#9.5	NE	W	Breeze	Breeze	Covered	Covered	0.0	1.5
+1882-11-27	23.50	22.50	23.00	1.00	7.5	1.0	#4.75	#5.5	W	SW	Breeze	Breeze	Covered	Covered	1.0	2.0
+1882-11-28	28.00	28.00	28.00	0.00	7.5	0.5	#4.25	#6.5	E	NE	Wind	Wind	Cloudy	Cloudy	0.0	1.5
+1882-11-29	28.50	27.50	28.00	1.00	7.5	0.5	4.00	7.0	E	NE	Breeze	Breeze	Cloudy	Cloudy	0.0	2.0
+1882-11-30	28.00	26.00	27.00	2.00	7.0	0.5	3.75	6.5	N	NE	Breeze	Wind	Cloudy	Cloudy	0.0	2.0
+1882-12-01	24.50	24.00	24.25	0.50	7.0	-0.5	3.25	7.5	NE	NW	Breeze	Wind	Clear	Covered	0.0	2.0
+1882-12-02	20.00	20.00	20.00	0.00	7.0	-1.0	3.00	#7.0	NE	N	Breeze	Wind	Cloudy	Covered	0.0	2.0
+1882-12-03	26.00	24.50	25.25	1.50	5.0	1.5	3.25	#7.0	N	W	Breeze	Breeze	Clear	Clear	0.5	2.0
+1882-12-04	23.50	22.00	22.75	1.50	8.0	0.5	4.25	7.5	W	W	Breeze	Breeze			0.0	2.0
+1882-12-05	21.00	19.00	20.00	2.00	9.0	1.5	5.25	7.5	NW	NW	Breeze	Wind	Covered	Covered	1.5	2.0
+1882-12-06	16.50	12.00	14.25	4.50	8.5	1.5	5.00	7.0	SW	SW	Wind	Wind	Covered	Cloudy	1.0	1.5
+1882-12-07	12.50	12.50	12.50	0.00	7.5	1.0	4.25	6.5	W	SW	Breeze	Wind	Covered	Covered	8.5	1.5
+1882-12-08	15.00	14.00	14.50	1.00	6.5	0.5	#3.25	6.0	W	NW	Wind	Wind	Covered	Covered	5.0	2.0
+1882-12-09	18.00	17.50	17.75	0.50	6.5	1.0	3.75	5.5	N	N	Breeze	Wind	Covered	Covered	0.0	1.5
+1882-12-10	9.00	11.50	#11.50	#-2.00	6.5	0.5	3.50	6.0	W	W	Wind	Wind			11.0	15.0
+1882-12-11	16.00	14.00	15.00	2.00	9.5	0.5	5.00	9.0	SW	SE	Breeze	Wind	Covered	Covered	9.0	1.5
+1882-12-12	15.50	13.00	14.25	2.50	9.0	0.5	#5.25	8.5	S	S	Breeze	Breeze	Covered	Covered	20.0	1.5
+1882-12-13	11.00	12.00	11.50	-1.00	7.0	1.5	4.25	5.5	SW	SW	Breeze		Covered	Covered	9.5	1.5
+1882-12-14	17.00	17.50	17.25	-0.50	6.5	-0.5	#2.75	#6.0	W	NW	Breeze	Breeze	Covered	Cloudy	9.0	1.5
+1882-12-15	22.00	21.50	21.75	0.50	9.5	2.5	#6.25	#6.5	NW	SW	Breeze	Breeze	Cloudy	Covered	0.0	1.5
+1882-12-16	22.00	21.50	21.75	0.50	9.0	4.0	6.50	5.0	SW	W	Breeze	Breeze	Covered	Cloudy	16.5	1.5
+1882-12-17	22.00	19.00	20.50	3.00	9.5	2.0	5.75	7.5	SE	SW	Breeze	Breeze	Covered	Cloudy	0.0	1.5
+1882-12-18	17.00	13.00	15.00	4.00	7.0	2.0	4.50	5.0	S	W	Breeze	Breeze	Covered	Covered	0.0	1.5
+1882-12-19	16.00	17.00	16.50	-1.00	5.5	2.0	3.75	3.5	NW	NW	Wind	Wind	Clear	Clear	3.5	1.5
+1882-12-20	22.50	26.00	24.25	-3.50	6.0	1.0	3.50	5.0	N	NE		Breeze	Cloudy	Clear	0.0	1.0
+1882-12-21	28.50	28.50	28.50	0.00	8.5	1.0	4.75	7.5	NE	NE	Breeze	Breeze	Clear	Clear	0.0	1.5
+1882-12-22	30.00	30.00	30.00	0.00	8.5	1.0	4.75	7.5	NE	SW	Breeze	Breeze	Clear	Clear	0.0	1.5
+1882-12-23	27.50	26.50	27.00	1.00	10.0	1.5	5.75	8.5	W	NW	Breeze	Breeze	Covered	Cloudy	0.0	1.0
+1882-12-24	27.50	25.00	26.25	2.50	8.5	3.0	5.75	5.5	NW	W	Breeze	Breeze	Cloudy	Clear	0.0	1.0
+1882-12-25	28.50	26.00	#27.50	#2.00	7.5	2.0	4.75	5.5	W	W	Breeze	Breeze			0.0	1.5
+1882-12-26	27.50	28.00	27.75	-0.50	8.0	1.5	4.75	6.5	NE	NE	Breeze	Breeze	Covered	Cloudy	0.0	1.0
+1882-12-27	28.00	28.00	28.00	0.00	8.5	1.5	5.00	7.0	NE	NE	Breeze	Breeze	Clear	Clear	0.0	1.0
+1882-12-28	27.00	27.00	27.00	0.00	8.5	1.0	4.75	7.5	NE	NE	Breeze	Breeze	Clear	Clear	0.0	1.5
+1882-12-29	26.50	27.00	26.75	#0.50	10.0	1.5	5.75	8.5	NE	SW	Breeze	Breeze	Clear	Cloudy	0.0	1.0
+1882-12-30	29.00	29.00	29.00	#0.50	10.0	1.5	5.75	8.5	E	S	Breeze	Breeze	Cloudy	Cloudy	0.0	1.0
+1882-12-31	30.00	28.50	29.25	1.50	10.5	1.5	6.00	9.0	SW	S	Breeze	Breeze	Covered	Cloudy	0.0	1.5
+1883-03-01	16.50	15.00	15.75	1.50	15.0	4.0	9.50	11.0	W	SW	Wind	Wind	Cloudy	Cloudy	0.0	2.5
+1883-03-02	14.50	14.00	14.25	0.50	13.0	3.5	8.25	9.5	S	S	Wind	Wind	Covered	Cloudy	3.5	2.5
+1883-03-03	18.00	16.00	17.00	2.00	14.5	3.5	9.00	11.0	SW	SW	Breeze	Breeze	Cloudy	Covered	5.0	3.0
+1883-03-04	20.00	17.50	18.75	2.50	11.0	3.5	7.25	7.5	SW	S	Breeze	Wind	Covered	Covered	5.0	2.5
+1883-03-05	15.00	15.50	15.25	-0.50	15.0	3.0	9.00	12.0	NW	W	Breeze	Breeze	Covered	Covered	14.0	2.0
+1883-03-06	17.00	16.00	16.50	1.00	13.0	3.5	8.25	9.5	W	S	Calm	Breeze	Clear	Cloudy	5.0	2.0
+1883-03-07	16.50	16.50	16.50	0.00	16.0	3.0	9.50	13.0	N	E	Breeze	Wind	Clear		1.5	2.0
+1883-03-08	18.50	18.00	18.25	0.50	18.0	3.0	10.50	15.0	E	E	Breeze	Breeze	Clear	Clear	0.5	3.0
+1883-03-09	21.00	20.50	20.75	0.50	16.0	4.5	10.25	11.5	E	NE	Calm	Breeze	Clear	Cloudy	0.0	3.0
+1883-03-10	21.00	20.00	20.50	1.00	16.5	5.0	10.75	11.5				Breeze	Clear	Clear	0.0	3.0
+1883-03-11	20.50	19.00	19.75	1.50	21.0	4.5	12.75	16.5	W	W	Calm	Wind	Clear	Clear	0.0	3.0
+1883-03-12	19.50	18.00	18.75	1.50	18.5	5.0	11.75	13.5	SW	S	Breeze	Breeze	Cloudy	Cloudy	0.0	4.0
+1883-03-13	17.00	17.00	17.00	0.00	15.5	5.0	10.25	10.5	S	S	Wind	Wind	Cloudy	Cloudy	0.0	3.5
+1883-03-14	16.00	14.00	15.00	2.00	16.0	3.5	9.75	12.5	S	S	Wind	Wind	Covered	Covered	2.5	2.5
+1883-03-15	15.50	16.50	16.00	-1.00	16.5	4.0	10.25	#11.5	SW	W	Wind		Covered	Cloudy	10.0	3.5
+1883-03-16	21.00	21.00	21.00	0.00	18.0	3.5	10.75	14.5	SW	SW	Breeze	Breeze	Cloudy	Clear	4.0	2.5
+1883-03-17	23.00	23.00	23.00	0.00	19.5	3.5	11.50	16.0	SW	SW			Clear		0.0	3.5
+1883-03-18	24.50	23.50	24.00	1.00	21.0	3.5	12.25	17.5	SW	N	Calm	Wind	Clear	Clear	0.0	4.0
+1883-03-19	23.00	22.50	22.75	0.50	22.5	5.0	13.75	17.5	NE	S	Calm	Wind	Clear	Clear	0.0	3.0
+1883-03-20	23.50	23.00	23.25	0.50	25.0	5.5	15.25	19.5	SW	W	Breeze	Wind		Clear	0.0	4.0
+1883-03-21	24.00	22.00	23.00	2.00	19.5	6.0	12.75	13.5	SW	SW	Breeze	Breeze	Clear	Clear	0.0	4.0
+1883-03-22	22.00	22.00	22.00	0.00	16.0	4.5	10.25	11.5	SW	S	Breeze	Wind	Covered	Cloudy	0.0	4.0
+1883-03-23	24.00	23.00	23.50	1.00	18.0	3.5	10.75	14.5	SW	SW	Breeze	Wind	Covered	Cloudy	2.0	3.5
+1883-03-24	23.50	23.00	#23.50	0.50	21.0	5.0	13.00	16.0	SW	SW	Breeze	Wind	Covered	Cloudy	0.0	3.0
+1883-03-25	24.00	24.00	24.00	0.00	17.0	6.0	11.50	11.0	SW	SW	Breeze	Wind	Cloudy	Cloudy	0.0	3.0
+1883-03-26	21.00	20.00	20.50	1.00	17.5	5.0	11.25	12.5	SW	SW	Breeze	Wind	Covered	Cloudy	0.0	3.0
+1883-03-27	21.00	21.00	21.00	0.00	18.0	5.0	11.50	13.0	W	W	Breeze	Wind	Clear	Clear	0.0	3.5
+1883-03-28	24.00	23.00	23.50	1.00	22.5	5.0	13.75	17.5	W	W	Breeze	Wind	Clear	Clear	0.0	3.0
+1883-03-29	21.50	20.00	20.75	1.50	26.0	5.5	#15.70	20.5	S	W	Breeze	Wind	Clear	Clear	0.0	3.5
+1883-03-30	18.00	15.00	16.50	3.00	24.5	6.0	15.25	18.5	SW	SW	Wind	Wind	Clear		0.0	5.0
+1883-04-01	25.00	25.00	25.00	0.00	12.5	2.5	7.50	10.0	SW	SW	Breeze	Wind	Covered	Covered	5.5	
+1883-04-02	26.00	25.50	25.75	0.50	13.0	2.0	7.50	11.0	W	W	Breeze	Wind	Cloudy	Covered	5.0	2.0
+1883-04-03	26.00	24.50	25.25	1.50	13.0	3.5	8.25	9.5	NW	NE	Breeze	Wind	Cloudy	Covered	0.0	2.0
+1883-04-04	25.00	25.00	25.00	0.00	14.5	3.5	9.00	11.0	E	E	Wind	Wind	Clear	Cloudy	0.0	3.0
+1883-04-05	25.00	23.50	24.25	1.50	15.0	4.0	9.50	11.0	E	E	Wind	Wind	Clear	Clear	0.0	3.5
+1883-04-06	23.50	22.50	23.00	1.00	16.0	4.5	10.25	11.5	E	SE	Wind	Wind	Clear	Cloudy	0.0	3.5
+1883-04-07	20.50	19.50	20.00	1.00	16.5	5.0	10.75	11.5	S	E	Wind	Breeze	Clear	Covered	0.0	4.0
+1883-04-08	19.00	17.50	18.25	1.50	13.0	5.0	9.00	8.0	NE	NE	Breeze	Wind	Clear	Clear	0.0	4.5
+1883-04-09	21.00	21.00	21.00	0.00	13.0	4.0	8.50	9.0	E	E	Wind	Wind	Clear	Clear	3.0	4.0
+1883-04-10	21.00	21.50	21.25	-0.50	15.0	3.5	9.25	11.5	NE	NE	Wind	Wind	Clear	Cloudy	0.0	4.0
+1883-04-11	21.50	20.00	20.75	1.50	11.0	4.0	7.50	7.0	NE	NE	Breeze	Breeze	Clear	Clear	0.0	3.5
+1883-04-12	19.50	18.00	18.75	1.50	13.0	3.5	8.25	9.5	E	N	Wind	Wind	Cloudy	Clear	0.0	4.0
+1883-04-13	17.00	16.00	16.50	1.00	11.5	2.5	7.00	9.0	NW	NW	Breeze	Wind	Cloudy	Cloudy	0.0	3.5
+1883-04-14	14.50	14.00	14.25	0.50	9.0	3.0	6.00	6.0	NW	W	Wind	Wind	Cloudy	Covered	0.0	3.5
+1883-04-15	18.00	17.50	17.75	0.50	9.5	2.0	5.75	7.5	NE	NE	Wind	Wind	Cloudy	Covered	0.0	3.0
+1883-04-16	22.50	23.00	22.75	-0.50	12.0	2.0	7.00	10.0	NE	NE	Breeze	Wind	Clear	Cloudy	9.5	2.5
+1883-04-17	22.50	20.50	21.50	2.00	15.0	2.5	8.75	12.5	NE	E	Breeze	Wind	Clear	Clear	4.5	2.5
+1883-04-18	19.00	18.00	18.50	1.00	9.5	3.5	6.50	6.0	NW	SW	Breeze	Wind	Clear	Clear	0.0	3.5
+1883-04-19	18.50	19.50	19.00	-1.00	11.0	2.0	6.50	9.0	W	NW	Wind	Wind	Clear	Cloudy	0.0	4.0
+1883-04-20	27.00	24.00	25.50	3.00	15.0	2.0	8.50	13.0	N	N	Wind	Wind	Clear	Cloudy	4.5	3.0
+1883-04-21	25.00	24.00	24.50	1.00	11.0	3.0	7.00	8.0	NW	NW	Breeze	Wind	Clear	Clear	3.5	4.0
+1883-04-22	23.50	20.50	22.00	3.00	12.0	2.0	7.00	10.0	NW	NW	Breeze	Wind	Covered	Cloudy	0.0	4.0
+1883-04-23	17.50	14.50	16.00	3.00	13.0	2.5	7.75	10.5	NW	NW	Wind	Wind	Covered	Cloudy	0.0	4.0
+1883-04-24	17.50	17.00	17.25	0.50	15.0	3.0	9.00	12.0	NW	NW	Wind	Breeze	Cloudy	Clear	0.0	3.5
+1883-04-25	16.50	16.00	16.25	0.50	11.5	3.5	7.50	8.0	W	SW	Breeze	Wind	Covered	Cloudy	0.0	4.0
+1883-04-26	11.50	8.50	10.00	3.00	10.5	2.0	6.25	8.5	S	S	Strong Wind	Wind	Covered	Covered	0.0	3.0
+1883-04-27	11.00	11.50	11.25	-0.50	8.5	0.5	4.50	8.0	NW	NW	Breeze	Wind	Covered	Cloudy	27.0	2.5
+1883-04-28	16.00	18.00	17.00	-2.00	12.0	2.0	7.00	10.0	W	W	Wind	Strong Wind	Covered	Covered	10.0	2.0
+1883-04-29	23.00	22.00	22.50	1.00	10.5	3.5	7.00	7.0	SW	S	Breeze	Wind	Cloudy	Covered	4.0	4.0
+1883-04-30	20.50	16.50	18.50	4.00	11.5	2.5	7.00	9.0	S	NW	Wind	Strong Wind	Covered	Covered	4.5	3.0
+1883-05-01	20.50	19.00	19.75	1.50	12.5	2.0	7.25	10.5	W	SW	Wind	Wind	Cloudy	Cloudy	3.5	3.0
+1883-05-02	18.00	17.50	17.75	0.50	10.5	2.5	6.50	8.0	S	S	Wind	Wind	Covered	Cloudy	0.0	3.5
+1883-05-03	13.50	11.00	12.25	2.50	10.5	1.5	6.00	9.0	S	SE	Breeze	Breeze	Covered	Covered	6.0	2.5
+1883-05-04	11.50	13.50	12.50	-2.00	9.5	2.5	6.00	7.0	SW	W	Breeze	Wind	Covered	Covered	8.0	2.5
+1883-05-05	18.50	19.00	18.75	#0.50	9.0	2.0	5.50	7.0	SW	SW	Wind	Wind	Covered	Covered	5.0	2.5
+1883-05-06	18.00	17.00	17.50	1.00	12.5	2.0	7.25	10.5	S	S	Breeze	Breeze	Covered	Covered	10.0	2.0
+1883-05-07	14.50	14.00	14.25	0.50	10.0	3.0	6.50	7.0	S	S	Breeze	Breeze	Covered	Covered	45.5	2.0
+1883-05-08	17.00	15.50	16.25	1.50	9.5	2.0	5.75	7.5	SE	SE			Covered	Covered	8.5	2.0
+1883-05-09	19.00	20.50	19.75	-1.50	10.0	3.0	6.50	7.0	W	W	Wind	Strong Wind	Covered	Cloudy	9.0	2.5
+1883-05-10	25.00	25.00	25.00	#1.00	11.5	3.0	7.25	8.5	NW	NW	Strong Wind	Breeze	Cloudy	Clear	2.5	3.5
+1883-05-11	25.50	26.00	25.75	-0.50	13.0	3.0	8.00	10.0	NW	N	Breeze	Breeze	Clear	Clear	0.0	4.0
+1883-05-12	27.00	26.00	26.50	1.00	15.0	3.0	9.00	12.0	N	NE	Breeze	Breeze	Clear	Clear	0.0	4.5
+1883-05-13	24.50	23.50	24.00	1.00	17.0	4.0	10.50	13.0	E	W	Breeze	Breeze	Clear	Cloudy	0.0	4.5
+1883-05-14	22.50	21.50	22.00	1.00	12.5	4.5	8.50	8.0	W	S	Breeze	Wind	Clear	Cloudy	0.0	4.5
+1883-05-15	20.50	19.50	20.00	1.00	13.0	4.0	8.50	9.0	NE	W	Wind	Breeze	Cloudy	Covered	0.0	4.5
+1883-05-16	17.00	18.00	17.50	-1.00	10.0	3.5	6.75	6.5	SE	SE	Wind	Breeze	Covered	Covered	45.0	4.0
+1883-05-17	21.00	22.00	21.50	-1.00	15.5	3.0	9.25	12.5	SW	NW	Breeze	Wind	Covered	Covered	12.0	3.0
+1883-05-18	24.50	23.00	#24.00	#1.00	18.0	4.5	11.25	13.5	NE	SE	Wind	Wind	Clear	Clear	0.0	4.5
+1883-05-19	23.00	22.50	22.75	0.50	19.0	4.0	11.50	15.0	SW	SW	Wind	Breeze	Clear	Cloudy	0.0	5.0
+1883-05-20	22.50	22.50	22.50	0.00	16.0	4.5	10.25	11.5	SW	SW	Breeze	Breeze	Clear	Clear	0.0	5.5
+1883-05-21	22.50	22.50	22.50	0.00	17.0	4.0	10.50	13.0	SW	NW	Breeze	Breeze	Covered	Covered	6.5	4.0
+1883-05-22	#22.50	25.50	25.50	0.00	17.0	5.0	11.00	12.0	NW	NW	Breeze	Breeze	Covered	Clear	28.5	4.5
+1883-05-23	26.50	26.00	26.25	0.50	19.0	4.5	11.75	14.5	NW	NW	Breeze	Breeze	Clear	Clear	0.0	5.0
+1883-05-24	25.00	25.00	25.00	0.00	18.0	5.0	11.50	13.0	NW	SW	Breeze	Breeze	Cloudy	Covered	0.0	5.0
+1883-05-25	21.00	19.00	20.00	2.00	16.5	5.0	10.75	11.5	SE	SW	Wind	Wind	Cloudy	Cloudy	4.5	4.5
+1883-05-26	21.00	21.00	21.00	0.00	16.0	4.5	#10.50	11.5	NW	NW	Wind	Wind	Cloudy	Cloudy	2.5	4.5
+1883-05-27	21.50	21.50	21.50	0.00	18.0	5.0	11.50	13.0	NW	NW	Breeze	Breeze	Cloudy	Cloudy	0.0	5.0
+1883-05-28	22.50	22.00	22.25	0.50	19.5	5.0	12.25	14.5	NW	NW	Breeze	Breeze	Clear	Cloudy	0.0	5.0
+1883-05-29	24.00	24.50	24.25	#0.50	20.0	5.0	12.50	15.0	N	N	Breeze	Breeze	Clear	Cloudy	0.0	5.0
+1883-05-30	25.50	25.50	25.50	0.00	20.0	5.0	12.50	15.0	NE	NE	Breeze	Breeze	Clear	Cloudy	0.0	6.0
+1883-05-31	24.50	25.00	24.75	#0.50	21.0	5.0	13.00	16.0	N		Breeze	Breeze	Clear	Cloudy	0.0	5.5
+1883-06-01	22.00	21.00	21.50	1.00	21.0	6.0	13.50	15.0	NW	NW	Breeze	Breeze	Clear	Clear	0.0	6.5
+1883-06-02	19.00	18.00	18.50	1.00	19.5	7.0	13.25	12.5	SW	SW	Strong Wind	Wind	Clear	Cloudy	0.0	6.5
+1883-06-03	21.50	20.00	20.75	1.50	13.0	5.5	9.25	7.5	S	SW	Wind	Strong Wind	Covered	Covered	0.0	5.5
+1883-06-04	18.50	19.50	19.00	-1.00	13.5	4.5	9.00	9.0	SW	SW	Wind	Wind	Covered	Covered	9.5	4.5
+1883-06-05	23.00	23.00	23.00	0.00	15.5	5.0	10.25	10.5	SW	W	Wind	Wind	Covered	Covered	8.5	4.5
+1883-06-06	23.50	22.50	23.00	1.00	15.5	5.0	10.25	10.5	N	NW	Breeze	Breeze	Cloudy	Cloudy	3.5	4.5
+1883-06-07	19.50	19.50	19.50	0.00	17.5	5.0	11.25	12.5	SW	NW	Wind	Wind	Cloudy	Covered	0.0	5.5
+1883-06-08	22.00	23.00	22.50	-1.00	18.0	5.0	11.50	13.0	W	NW	Wind	Wind	Cloudy	Cloudy	0.0	6.0
+1883-06-09	25.00	25.00	25.00	0.00	17.5	6.0	11.75	11.5	N	NW	Breeze	Breeze	Cloudy	Clear	0.0	6.0
+1883-06-10	24.00	24.00	24.00	0.00	19.0	5.0	12.00	14.0	N	N	Breeze	Strong Wind	Cloudy	Cloudy	0.0	6.0
+1883-06-11	23.00	22.50	22.75	0.50	17.5	6.0	11.75	11.5	N	NW	Wind	Breeze	Clear	Cloudy	0.0	6.5
+1883-06-12	23.00	23.00	23.00	0.00	19.0	5.5	12.25	13.5	NW	NE	Wind	Breeze	Cloudy	Cloudy	0.0	6.5
+1883-06-13	26.50	26.00	26.25	0.50	20.5	5.5	13.00	15.0	E	NE	Wind	Wind	Clear	Cloudy	0.0	6.5
+1883-06-14	25.50	23.50	24.50	2.00	21.5	5.0	13.25	16.5	NE	NE	Breeze	Breeze	Cloudy	Clear	0.0	6.5
+1883-06-15	23.00	21.00	22.00	2.00	22.0	5.5	13.75	16.5	NE	NE	Breeze	Breeze	Clear	Cloudy	0.0	6.5
+1883-06-16	21.50	22.00	21.75	-0.50	21.0	6.0	13.50	15.0	N	NW	Breeze	Wind	Clear	Clear	0.0	6.5
+1883-06-17	23.00	24.00	23.50	-1.00	20.0	5.0	12.50	15.0	NW	NW	Breeze	Wind	Clear	Cloudy	0.0	6.5
+1883-06-18	25.00	24.50	24.75	0.50	22.0	5.0	13.50	17.0	N	NE	Breeze	Wind	Clear	Clear	0.0	6.5
+1883-06-19	23.50	22.00	22.75	1.50	22.5	6.0	14.25	16.5	N	NE	Breeze	Wind	Clear	Clear	0.0	6.5
+1883-06-20	22.00	20.50	21.25	1.50	23.0	6.0	14.50	17.0	NE	NE	Breeze	Wind	Cloudy	Clear	0.0	7.0
+1883-06-21	23.00	24.00	23.50	-1.00	23.0	5.5	14.25	17.5	NW	NW	Breeze	Wind	Clear	Clear	0.0	6.5
+1883-06-22	25.00	24.00	24.50	1.00	22.5	6.5	14.50	16.0	NE	NW	Breeze	Breeze	Clear	Clear	0.0	7.0
+1883-06-23	24.00	24.00	24.00	0.00	22.5	6.0	14.25	16.5	N	NW	Breeze	Wind	Clear	Clear	0.0	7.0
+1883-06-24	22.50	22.00	22.25	0.50	20.5	6.0	13.25	14.5	NW	W	Breeze	Wind	Clear	Clear	0.0	7.0
+1883-06-25	24.00	24.00	24.00	0.00	20.5	5.5	#15.00	15.0	NW	NW	Breeze	Wind	Clear	Clear	0.0	6.5
+1883-06-26	24.00	24.00	24.00	0.00	21.5	6.0	13.75	15.5	NW	NW	Breeze	Wind	Clear	Clear	0.0	6.5
+1883-06-27	23.50	23.50	23.50	0.00	21.5	6.0	13.75	15.5	NW	NW	Breeze	Wind	Clear	Clear	0.0	6.5
+1883-06-28	24.00	24.50	24.25	-0.50	22.5	6.5	14.50	16.0	NW	SW	Breeze	Wind	Cloudy	Cloudy	0.0	7.0
+1883-06-29	23.50	25.00	24.25	-1.50	22.5	5.0	13.75	17.5	SW	SW	Breeze	Wind	Cloudy	Cloudy	0.0	6.5
+1883-06-30	25.50	25.00	25.25	0.50	22.5	5.0	13.75	17.5	SW	NW	Breeze	Wind	Clear	Clear	0.0	7.0
+1883-07-01	24.50	24.50	24.50	0.00	23.0	5.5	14.25	17.5	NE	NE	Breeze	Breeze	Clear	Clear	0.0	7.0
+1883-07-02	22.50	21.50	22.00	1.00	23.5	7.0	15.25	16.5	E	SE	Breeze	Breeze	Clear	Clear	0.0	7.0
+1883-07-03	22.00	20.50	21.25	1.50	22.5	6.5	14.50	16.0	NE	NW	Breeze	Wind	Clear	Clear	0.0	7.5
+1883-07-04	22.50	21.00	21.75	1.50	20.5	7.0	13.75	13.5	NW	NW	Breeze	Wind	Clear	Cloudy	0.0	7.0
+1883-07-05	22.00	21.00	21.50	1.00	22.5	6.0	14.25	16.5	N	NW	Wind	Wind	Clear	Clear	0.0	7.0
+1883-07-06	22.50	21.00	21.75	1.50	25.5	7.0	16.25	18.5	W	N	Breeze	Wind	Clear	Cloudy	0.0	7.0
+1883-07-07	22.50	22.00	22.25	0.50	23.0	6.5	14.75	16.5	NW	NW	Breeze	Wind	Clear	Clear	0.0	7.0
+1883-07-08	23.50	23.00	23.25	0.50	21.0	7.0	14.00	14.0	NW	NW	Breeze	Wind	Clear	Cloudy	0.0	7.0
+1883-07-09	23.50	24.00	23.75	-0.50	22.5	6.5	14.50	16.0	NW	NW	Breeze	Wind	Clear	Cloudy	0.0	7.5
+1883-07-10	24.50	23.50	24.00	1.00	22.0	6.0	14.00	16.0	NW	NW	Breeze	Wind	Cloudy	Cloudy	0.0	7.0
+1883-07-11	24.00	23.50	#13.75	0.50	23.0	6.0	14.50	17.0	NW	NW	Breeze	Wind	Clear	Cloudy	0.0	7.0
+1883-07-12	22.50	22.00	22.25	0.50	21.0	6.5	13.75	14.5	NW	NW	Breeze	Wind	Clear	Clear	0.0	7.0
+1883-07-13	22.50	21.00	21.75	1.50	21.0	6.0	13.50	15.0	NW	N	Breeze	Wind	Clear	Clear	0.0	7.0
+1883-07-14	24.00	24.50	24.25	-0.50	22.5	6.0	14.25	16.5	NW	N	Wind	Wind	Clear	Clear	0.0	6.5
+1883-07-15	25.50	24.50	25.00	1.00	24.5	6.5	15.50	18.0	NW	NE	Breeze	Wind	Clear	Clear	0.0	6.5
+1883-07-16	27.00	26.00	26.50	1.00	23.5	7.0	15.25	16.5	E	NE	Calm	Breeze	Clear	Clear	0.0	7.5
+1883-07-17	27.50	24.00	25.75	3.50	23.5	6.5	15.00	17.0	NE	NE	Breeze	Wind	Clear	Clear	0.0	7.5
+1883-07-18	26.50	21.00	23.75	5.50	23.5	6.5	15.00	17.0	NE	N	Breeze	Wind	Clear	Clear	0.0	7.5
+1883-07-19	22.50	19.50	21.00	3.00	22.0	6.0	14.00	16.0	N	NW	Breeze	Wind	Clear	Cloudy	0.0	7.5
+1883-07-20	21.00	21.00	21.00	0.00	22.5	5.0	#14.00	#17.0	NW	NW	Breeze	Wind	Clear	Cloudy	0.0	6.5
+1883-07-21	23.00	21.50	22.25	1.50	21.0	5.5	13.25	15.5	W	NW	Breeze	Wind	Clear	Clear	0.0	7.0
+1883-07-22	24.50	24.00	24.25	0.50	23.0	5.0	14.00	18.0	N	NW	Wind	Wind	Clear	Clear	0.0	6.5
+1883-07-23	25.00	23.50	24.25	1.50	23.5	6.0	14.75	17.5	NW	NW	Wind	Wind	Clear	Clear	0.0	7.0
+1883-07-24	23.00	22.00	22.50	1.00	23.0	6.5	14.75	16.5	NW	NW	Breeze	Breeze	Clear	Clear	0.0	7.0
+1883-07-25	23.00	21.00	22.00	2.00	23.5	6.5	15.00	17.0	NW	NW	Breeze	Breeze	Clear	Clear	0.0	7.5
+1883-07-26	23.00	22.50	22.75	0.50	23.0	6.0	14.50	17.0	W	W	Breeze	Breeze	Clear	Clear	0.0	7.5
+1883-07-27	24.00	22.50	23.25	1.50	22.0	6.5	14.25	15.5	W	NW	Breeze	Wind	Clear	Clear	0.0	7.5
+1883-07-28	23.00	22.00	22.50	1.00	23.0	6.0	14.50	17.0	N	NW	Breeze	Wind	Clear	Clear	0.0	7.0
+1883-07-29	24.00	23.50	23.75	0.50	22.5	6.0	14.25	16.5	NE	NE	Wind	Breeze	Clear	Clear	0.0	7.0
+1883-07-30	21.50	20.50	21.00	1.00	20.5	6.0	13.25	14.5	N	N	Breeze	Wind	Clear	Clear	0.0	7.5
+1883-07-31	22.50	21.00	21.75	1.50	23.0	5.5	14.25	17.5	N	NE	Wind	Wind	Clear	Clear	0.0	6.5
+1883-09-01	23.00	22.00	22.50	1.00	18.0	6.0	12.00	#13.0	NW	NW	Wind	Wind	Cloudy	Cloudy	0.0	7.5
+1883-09-02	23.00	22.50	22.75	0.50	19.5	5.0	12.25	14.5	NW	NW	Wind	Wind	Cloudy	Clear	1.5	6.5
+1883-09-03	22.00	22.00	22.00	0.00	15.0	5.5	10.25	9.5	NW	NW	Breeze	Wind	Clear	Cloudy	0.0	6.5
+1883-09-04	26.00	25.50	25.75	0.50	16.5	5.0	10.75	11.5	N	N	Breeze	Wind	Clear	Clear	0.0	6.0
+1883-09-05	26.50	23.50	25.00	3.00	18.5	5.0	11.75	#12.5	NW	N	Breeze	Wind	Clear	Clear	0.0	6.0
+1883-09-06	24.50	24.00	24.25	0.50	19.5	5.5	12.50	14.0	NE	N	Breeze	Wind	Clear	Clear	0.0	6.5
+1883-09-07	23.50	22.50	23.00	1.00	21.0	5.5	13.25	15.5	NE	NE	Breeze	Wind	Clear	Clear	0.0	7.0
+1883-09-08	23.50	22.50	23.00	1.00	22.0	5.5	13.75	16.5	NE	N	Breeze	Wind	Clear	Clear	0.0	7.5
+1883-09-09	23.00	23.00	23.00	0.00	23.5	6.0	14.75	17.5	NE	NE	Breeze	Breeze	Clear	Clear	0.0	8.5
+1883-09-10	23.50	23.50	23.50	0.00	25.0	6.0	15.50	19.0	SE	W	Breeze	Breeze	Cloudy	Cloudy	0.0	9.0
+1883-09-11	25.00	24.00	24.50	1.00	21.0	7.0	14.00	14.0	SW	NW	Breeze	Wind	Cloudy	Cloudy	0.0	9.0
+1883-09-12	24.50	24.00	24.25	0.50	22.0	6.0	14.00	16.0	NW	N	Breeze	Wind	Cloudy	Cloudy	0.0	7.5
+1883-09-13	22.50	20.00	21.25	2.50	22.0	6.5	14.25	15.5	NE	W	Breeze	Wind	Clear	Cloudy	0.0	8.5
+1883-09-14	21.00	20.50	20.75	0.50	19.5	6.5	13.00	13.0	W	NW	Breeze	Wind	Clear	Covered	0.0	8.5
+1883-09-15	22.00	22.00	22.00	0.00	19.0	5.5	12.25	13.5	NW	NW	Breeze	Wind	Clear	Cloudy	0.0	8.0
+1883-09-16	26.00	26.00	26.00	0.00	19.0	5.0	12.00	14.0	N	NW	Breeze	Wind	Clear	Cloudy	0.0	8.0
+1883-09-17	27.00	25.50	26.25	1.50	20.0	5.5	12.75	14.5	NW	NE	Breeze	Wind	Clear	Cloudy	0.0	8.0
+1883-09-18	26.00	24.00	25.00	2.00	23.0	6.0	14.50	17.0	E	NE	Breeze	Wind	Cloudy	Cloudy	0.0	8.5
+1883-09-19	24.50	23.00	23.75	1.50	18.5	7.0	12.75	11.5	NW	NW	Breeze	Wind	Cloudy	Cloudy	0.0	8.5
+1883-09-20	24.00	24.50	24.25	#0.50	20.5	6.0	13.25	14.5	W	NW	Breeze	Breeze	Cloudy	Cloudy	0.0	8.5
+1883-09-21	25.50	24.50	25.00	1.00	20.0	6.0	13.00	14.0	NW	NW	Breeze	Breeze	Clear	Cloudy	0.0	8.5
+1883-09-22	26.50	25.00	25.75	1.50	20.0	6.5	13.25	13.5	NW	NW	Breeze	Breeze	Covered	Cloudy	0.0	8.0
+1883-09-23	25.50	25.50	25.50	0.00	20.5	6.5	13.50	14.0	W	NW	Breeze	Breeze	Cloudy	Cloudy	0.0	8.0
+1883-09-24	27.00	25.50	26.25	1.50	21.0	7.0	14.00	14.0	NW	W	Breeze	Breeze	Clear	Cloudy	0.0	8.0
+1883-09-25	26.00	26.50	26.25	#0.50	23.0	6.5	14.75	16.5	W	E	Breeze	Breeze	Cloudy	Cloudy	0.0	8.5
+1883-09-26	26.00	24.50	25.25	1.50	20.0	7.0	13.50	13.0	E	NW	Breeze	Wind	Cloudy	Cloudy	0.0	9.0
+1883-09-27	26.50	26.50	26.50	0.00	17.5	6.5	12.00	11.0	W	NW	Breeze	Wind	Cloudy	Covered	0.0	9.0
+1883-09-28	25.00	24.00	24.50	1.00	17.0	6.0	11.50	11.0	NE	NW	Breeze	Wind	Clear	Clear	0.0	7.5
+1883-09-29	23.00	21.00	22.00	2.00	14.0	5.5	9.75	#9.5	NE	NW	Breeze	Wind	Clear	Cloudy	0.0	7.0
+1883-09-30	21.50	21.00	21.25	0.50	13.0	5.0	9.00	8.0	NW	N	Wind	Wind	Covered	Cloudy	0.0	6.5
+1883-11-01	23.00	22.50	22.75	0.50	13.5	4.0	#8.50	9.5	W	NE	Breeze	Breeze	Cloudy	Cloudy	0.0	4.0
+1883-11-02	23.00	21.00	22.00	2.00	12.0	4.0	8.00	8.0	NE	NE	Breeze	Breeze	Clear	Covered	0.0	4.0
+1883-11-03	22.00	21.50	21.75	0.50	12.5	4.5	#8.00	8.0	SE	NE	Breeze	Wind	Cloudy	Covered	10.5	4.0
+1883-11-04	24.50	24.00	24.25	0.50	11.0	4.5	7.75	6.5	E	NE	Wind	Wind	Clear	Clear	2.5	4.0
+1883-11-05	25.00	24.00	24.50	1.00	11.5	4.0	7.75	7.5	NE	NW	Breeze	Breeze	Clear	Clear	0.0	4.0
+1883-11-06	24.00	23.00	23.50	1.00	12.0	4.0	8.00	8.0	NW	W	Breeze	Wind	Clear	Cloudy	0.0	3.5
+1883-11-07	22.50	22.00	22.25	0.50	10.5	3.5	7.00	7.0	SW	NW	Wind	Wind	Covered	Covered	0.0	3.0
+1883-11-08	25.00	25.00	25.00	0.00	8.5	3.0	5.75	5.5	N	N	Wind	Wind	Cloudy	Clear	5.5	3.0
+1883-11-09	28.00	27.00	27.50	1.00	10.0	2.5	6.25	7.5	NE	SW	Breeze	Wind	Clear	Clear	0.0	2.5
+1883-11-10	28.00	27.00	27.50	1.00	9.5	3.0	6.25	6.5			Breeze	Breeze	Clear	Clear	0.0	2.5
+1883-11-11	27.00	25.50	26.25	1.50	8.5	2.5	5.50	6.0	NW	SW	Breeze	Wind	Clear	Clear	0.0	2.0
+1883-11-12	25.00	24.00	24.50	1.00	9.5	2.5	6.00	7.0	SW	SW	Breeze	Breeze	Cloudy	Cloudy	0.0	2.5
+1883-11-13	23.00	23.50	23.25	-0.50	9.5	3.0	6.25	6.5	SW	NW	Breeze	Breeze	Cloudy	Cloudy	0.0	2.0
+1883-11-14	23.00	21.50	22.25	1.50	8.5	2.5	5.50	6.0	NE	NE	Breeze	Breeze	Cloudy	Cloudy	0.0	2.0
+1883-11-15	23.50	23.50	23.50	0.00	9.0	3.0	6.00	6.0	NE	NE	Breeze	Wind	Clear	Clear	0.0	2.0
+1883-11-16	24.00	23.50	23.75	#-0.50	8.0	2.5	5.25	5.5	NW	N	Breeze	Wind	Cloudy	Clear	0.0	2.0
+1883-11-17	27.50	27.00	27.25	0.50	8.5	2.5	5.50	6.0	NE	NW	Breeze	Wind	Clear	Clear	0.0	2.0
+1883-11-18	27.50	27.00	27.25	0.50	9.0	2.5	5.75	6.5	NW	NW	Breeze	Wind	Cloudy	Clear	0.0	2.0
+1883-11-19	29.00	28.50	28.75	0.50	9.0	2.5	5.75	6.5	NW	NW	Breeze	Breeze	Clear	Clear	0.0	2.0
+1883-11-20	30.00	30.00	30.00	0.00	9.5	3.0	6.25	6.5	NE	NW	Breeze	Breeze	Clear	Clear	0.0	2.0
+1883-11-21	29.00	28.50	28.75	0.50	9.0	2.5	5.75	6.5	SW	SW	Wind	Breeze	Cloudy	Cloudy	0.0	2.0
+1883-11-22	29.00	28.50	28.75	0.50	8.0	2.5	5.25	5.5	SE	NE	Breeze	Wind	Clear	Clear	0.0	2.5
+1883-11-23	28.00	27.50	27.75	0.50	9.5	2.5	6.00	7.0	NE	NW	Breeze	Breeze	Clear	Cloudy	0.0	2.0
+1883-11-24	26.50	26.00	26.25	0.50	9.5	3.0	6.25	6.5	SW	NW	Breeze	Breeze	Covered	Cloudy	0.0	2.0
+1883-11-25	24.00	22.50	23.25	1.50	10.0	2.5	6.25	7.5	NW	SW	Breeze	Breeze	Clear	Cloudy	0.0	2.0
+1883-11-26	21.50	23.00	22.25	-1.50	8.0	3.0	5.50	5.0	S	W	Wind	Wind	Covered	Cloudy	0.0	2.0
+1883-11-27	28.00	27.00	27.50	1.00	8.0	3.0	5.50	5.0	SW	N	Breeze	Wind	Covered	Clear	0.0	2.0
+1883-11-28	25.50	26.00	25.75	-0.50	10.0	2.5	6.25	7.5	NE	NE	Wind	Wind	Cloudy	Cloudy	0.0	1.5
+1883-11-29	28.50	27.00	27.75	1.50	9.0	2.5	5.75	6.5	S	NE	Wind	Wind	Cloudy	Cloudy	0.0	2.0
+1883-11-30	27.50	29.00	28.25	-1.50	8.5	2.5	5.50	6.0	NE	SE	Wind	Wind	Clear	Clear	0.0	1.5

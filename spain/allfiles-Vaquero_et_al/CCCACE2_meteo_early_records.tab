@@ -1,0 +1,3196 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from CCCACE2 (1880-1889), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926307 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 39.473056 * LONGITUDE: -6.370000
+	DATE/TIME START: 1880-10-25T00:00:00 * DATE/TIME END: 1889-07-09T00:00:00
+Event(s):	CCCACE2 * LATITUDE: 39.473056 * LONGITUDE: -6.370000 * LOCATION: Cáceres, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST) * COMMENT: the symbol "#" represents suspicious data found from a quality control
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: (W = west, E = east, N = north, S = south)
+	Wind force description (Wind force descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Present weather (ww) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+Size:	12781 data points
+*/
+Date/Time	PPPP other [arbitrary units]	TTT [°C]	Wind dir descr	Wind force descr	ww
+1880-10-25	764.1	17.6	SW	Breeze	Almost covered
+1880-10-26	762.3	20.0	SE	Wind	Clouds
+1880-10-27	760.3	16.3	SW	Wind	Clouds
+1880-10-28	761.1	14.7	SSW	Wind	Covered
+1880-10-29	760.4	14.7	S	Wind	Rainy
+1880-10-30	765.5	13.8	SSW	Breeze	Almost covered
+1880-10-31	763.8	16.0	N	Wind	Almost covered
+1880-11-01	768.6	12.4	N	Wind	Clear
+1880-11-02	761.6	10.0	S	Wind	Rainy
+1880-11-03	757.1	9.2	NW	Breeze	Clear
+1880-11-04	760.2	5.7	N	Breeze	Cloudy
+1880-11-05	763.1	4.5	N	Breeze	Covered
+1880-11-06	764.7	6.1	N	Breeze	
+1880-11-07	759.5	7.0		Breeze	Clear
+1880-11-08	763.8	7.2	NE	Breeze	Clear
+1880-11-09	763.8	8.4	NE	Breeze	Clear
+1880-11-10	765.5	8.7	NNW	Breeze	Clear
+1880-11-11	767.4	7.7	N	Breeze	Clear
+1880-11-12	768.9	8.7	NE	Breeze	Clear
+1880-11-13	768.0	10.7	N	Calm	Clear
+1880-11-14	767.8	13.4	S	Calm	Clear
+1880-11-15		9.9	SSE	Calm	Almost clear
+1880-11-16	764.6	8.7	WSW	Wind	Clear
+1880-11-17	754.2	8.6	WSW	Wind	Almost cloudy
+1880-11-18	753.7	12.0	S	Wind	Almost cloudy
+1880-11-19	758.5	11.7	SSW	Breeze	Clear
+1880-11-20	759.7	8.8	S	Wind	Covered
+1880-11-21	753.6	6.6	N	Wind	Clear
+1880-11-22	759.1	7.4	SW	Breeze	Almost covered
+1880-11-23	759.5	6.7	E	Wind	Rainy
+1880-11-24	769.0	6.8	N	Breeze	Clear
+1880-11-25	773.2	5.4	N	Breeze	Fog
+1880-11-26	770.8	8.0	NNE	Calm	Cloudy
+1880-11-27		7.5	N	Calm	Rainy
+1880-11-28	770.3	8.1	ENE	Wind	Almost covered
+1880-11-29	769.8	7.8	NE	Wind	Almost clear
+1880-11-30	773.1	7.3	NE	Breeze	Clear
+1880-12-01	767.9	7.4	NE	Breeze	Almost covered
+1880-12-02	767.4	6.8	E	Breeze	Clear
+1880-12-03	770.5	9.0	NE	Breeze	Clear
+1880-12-04	771.6	4.8	N	Breeze	Fog
+1880-12-05	773.1	2.6	N	Calm	Fog
+1880-12-06	772.5	0.5	N	Calm	Fog
+1880-12-07	772.9	2.2	NE	Breeze	Clear
+1880-12-08	774.9	3.5	NNE	Breeze	Some clouds
+1880-12-09	778.1	4.9	NE	Breeze	Clear
+1880-12-10	775.1	5.7	NNE	Calm	Clear
+1880-12-11	771.5	5.5	NE	Breeze	Clear
+1880-12-12	769.6	3.7	N	Calm	Fog
+1880-12-13	776.6	1.4	NE	Breeze	Clear
+1880-12-14	770.6	3.1	N	Calm	Clear
+1880-12-15	767.5	4.0	N	Calm	Clear
+1880-12-16	763.6	6.1	S	Breeze	Covered
+1880-12-17		7.8	SW	Wind	Covered
+1880-12-18	761.8	4.9	NE	Breeze	Clear
+1880-12-19	766.3	7.4	N	Breeze	Clear
+1880-12-20	769.1	3.5	N	Breeze	Clear
+1880-12-21	771.5	7.6	NW	Calm	Clear
+1880-12-22	771.3	4.5	N	Breeze	Covered
+1880-12-23	769.8	3.0	NNW	Calm	Covered
+1880-12-24	767.1	#5.3	SSW	Wind	Rainy
+1880-12-25	765.2	17.2	SSW	Wind	Rainy
+1880-12-26	766.3	12.0	SW	Wind	Covered
+1880-12-27	765.3	10.9	SE	Wind	Covered
+1880-12-28	761.0	8.3	SSW	Wind	Rainy
+1880-12-29	758.9	9.5		Strong wind	Covered
+1880-12-30	765.1	6.8	NNW	Breeze	Clear
+1880-12-31	770.3	4.0	N	Wind	Clear
+1881-01-01	772.8	3.0	N	Breeze	Clear
+1881-01-02	767.3	3.8	N	Wind	Some clouds
+1881-01-03	762.0	-0.5	NNW	Wind	Clear
+1881-01-04	760.7	0.8	N	Wind	Clear
+1881-01-05	761.8	2.1	SW	Breeze	Clouds
+1881-01-06	764.4	-0.5	SSW	Breeze	Clouds
+1881-01-07	760.5	-0.1	NE	Breeze	Clouds
+1881-01-08	764.0	6.1	S	Breeze	Almost covered
+1881-01-09	758.3		NE	Wind	Rainy
+1881-01-10	754.8	5.2	NE	Wind	Rainy
+1881-01-11	755.3	11.3	S	Wind	Rainy
+1881-01-12	758.3	13.5	SW	Wind	Rainy
+1881-01-13	755.4	13.0	SW	Wind	Rainy
+1881-01-14	#744.1	12.7	SW	Hurricane wind	Rainy
+1881-01-15	750.5	11.7	SSW	Wind	Covered
+1881-01-16	758.9	8.0	WNW	Calm	Covered
+1881-01-17	751.4	12.0	SW	Wind	Covered
+1881-01-18	752.3	7.8	S	Wind	Covered
+1881-01-19	756.0	4.6	WSW	Wind	Rainy
+1881-01-20	765.7	5.5	SW	Calm	Clouds
+1881-01-21	758.4	4.5	NNE	Wind	Rainy
+1881-01-22	758.5	7.1	W	Breeze	Cloudy
+1881-01-23	762.2	3.5	WSW	Breeze	Covered
+1881-01-24	754.4	2.8	NE	Strong wind	Rainy
+1881-01-25	759.4	7.5	SW	Breeze	Covered
+1881-01-26	753.1	6.6	S	Wind	Covered
+1881-01-27	753.2	10.9	SSW	Strong wind	Covered
+1881-01-28	755.8	11.8	SW	Strong wind	Rainy
+1881-01-29	750.2	11.0	SW	Wind	Almost covered
+1881-01-30	757.3	10.2	SW	Wind	Almost covered
+1881-01-31	759.6	12.0	W	Wind	Rainy
+1881-02-01	766.9	9.8	SW	Breeze	Covered
+1881-02-02	766.1	11.3	SW	Breeze	Covered
+1881-02-03					
+1881-02-04	763.7	7.8	W	Breeze	Almost covered
+1881-02-05	766.4	8.6	SSW	Wind	Covered
+1881-02-06	765.4	11.8		Breeze	Covered
+1881-02-07	767.5	10.4	WSW	Breeze	Almost clear
+1881-02-08	769.1	9.5	NW	Calm	Clear
+1881-02-09	768.9	10.8	N	Breeze	Clear
+1881-02-10	766.1	5.0	NW	Breeze	Clear
+1881-02-11	765.5	8.2	NW	Breeze	Clouds
+1881-02-12	765.4	5.8	WNW	Breeze	Some clouds
+1881-02-13	764.5	8.0	NNW	Calm	Covered
+1881-02-14	759.8	9.8	SSE	Breeze	Clear
+1881-02-15	752.5	6.3	SW	Wind	Covered
+1881-02-16	753.4	5.7	S	Wind	Rainy
+1881-02-17	759.3	7.3	W	Breeze	Clear
+1881-02-18	759.3	9.4	S	Breeze	Covered
+1881-02-19	755.8	9.6	S	Wind	Covered
+1881-02-20	759.7	5.0	S	Calm	Rainy
+1881-02-21	758.4	6.8	SE	Breeze	Rainy
+1881-02-22	758.8	6.6	E	Breeze	Clouds
+1881-02-23	756.3	8.2	ENE	Calm	Almost covered
+1881-02-24	758.9	9.1	NE	Wind	Clear
+1881-02-25	754.1	8.6	ENE	Strong wind	Clear
+1881-02-26	751.6	10.0	NW	Breeze	Some clouds
+1881-02-27	752.7	8.6	SW	Wind	Almost covered
+1881-02-28	754.4	8.5	N	Calm	Covered
+1881-03-01	765.7	9.0	WNW	Calm	Clouds
+1881-03-02	763.2	11.1	S	Breeze	Some clouds
+1881-03-03	759.4	11.9	S	Strong wind	Covered
+1881-03-04	759.3	11.9	S	Wind	Covered
+1881-03-05	761.2	12.5	S	Breeze	Covered
+1881-03-06	759.6	14.5	S	Wind	Covered
+1881-03-07	761.8	12.5	SW	Wind	Covered
+1881-03-08	766.3	9.9	N	Calm	Clear
+1881-03-09	768.9	11.9	NE	Wind	Cloudy
+1881-03-10	767.6	18.1	SE	Wind	Some clouds
+1881-03-11	763.8	13.5	S	Breeze	Covered
+1881-03-12	763.5	11.0	S	Breeze	Covered
+1881-03-13	758.5	13.4	SW	Breeze	Cloudy
+1881-03-14	758.9	10.8	SW	Calm	Covered
+1881-03-15	763.3	10.2	NNW	Breeze	Clear
+1881-03-16	766.3	12.3	SE	Breeze	Clear
+1881-03-17	766.9	10.9	NE	Wind	Clear
+1881-03-18	767.9	7.6	E	Strong wind	Some clouds
+1881-03-19	765.9	8.5	NE	Strong wind	Clear
+1881-03-20	763.0	11.2	E	Calm	Covered
+1881-03-21	762.8	11.5	SW	Breeze	Clouds
+1881-03-22	763.9	16.3	SSW	Calm	Clouds
+1881-03-23	758.7	15.1	S	Breeze	Covered
+1881-03-24	753.5	12.1	S	Wind	Rainy
+1881-03-25	755.2	14.1	S	Breeze	Cloudy
+1881-03-26	754.1	11.2	SW	Breeze	Covered
+1881-03-27	751.2	11.0	SSW	Breeze	Rainy
+1881-03-28	754.0	12.2	ESE	Wind	Covered
+1881-03-29	750.0	12.2	S	Breeze	Covered
+1881-03-30	748.0	11.2	S	Strong wind	Covered
+1881-03-31	750.1	11.6	S	Wind	Rainy
+1881-04-01	750.1	10.5	SW	Wind	Rainy
+1881-04-02	749.5	8.2	SSW	Wind	Rainy
+1881-04-03	748.7	9.2	SE	Wind	Rainy
+1881-04-04	746.5	9.8	SW	Breeze	Covered
+1881-04-05	#745.0	9.7	SE	Strong wind	Rainy
+1881-04-06	#744.2	10.0	NE	Breeze	Covered
+1881-04-07	755.1	12.0	SW	Breeze	Covered
+1881-04-08	761.4	13.1	N	Calm	Clear
+1881-04-09	766.5	11.5	SW	Breeze	Covered
+1881-04-10	766.5	12.4	S	Breeze	Covered
+1881-04-11	765.9	11.0	N	Breeze	Clouds
+1881-04-12	761.4	15.3	S	Breeze	Clouds
+1881-04-13	759.7	12.5	S	Breeze	Cloudy
+1881-04-14	761.7	13.8	S	Calm	Some clouds
+1881-04-15	758.6	11.8	SW	Breeze	Covered
+1881-04-16	756.6	14.8	SE	Breeze	Cloudy
+1881-04-17	748.7	14.5	SE	Strong wind	Covered
+1881-04-18	752.3	12.8	S	Strong wind	Cloudy
+1881-04-19	751.7	10.9	ESE	Wind	Covered
+1881-04-20	751.7	13.0	SW	Breeze	Cloudy
+1881-04-21	752.1	11.8	WSW	Breeze	Cloudy
+1881-04-22	758.7	10.2	NE	Breeze	Clear
+1881-04-23	761.8	10.1	N	Breeze	Clear
+1881-04-24	767.3	10.9	SE	Breeze	Clear
+1881-04-25	777.1	13.8	NE	Wind	Clouds
+1881-04-26	768.9	17.0	NW	Breeze	Clear
+1881-04-27	769.7	16.2	N	Wind	Clear
+1881-04-28	766.5	17.3	N	Wind	Clear
+1881-04-29	765.8	15.8	NE	Wind	Clear
+1881-04-30	761.7	19.8	SE	Breeze	Clear
+1881-05-01	759.8	18.7	SW	Calm	Some clouds
+1881-05-02	758.4	14.3	SW	Wind	Some clouds
+1881-05-03	762.5	12.5	N	Wind	Cloudy
+1881-05-04	766.4	14.2	N	Calm	Clear
+1881-05-05	767.0	16.6	NE	Breeze	Clear
+1881-05-06	767.1	16.8	NE	Wind	Clear
+1881-05-07	768.4	17.9	NE	Wind	Clear
+1881-05-08	768.2	19.0	N	Breeze	Clear
+1881-05-09	765.7	18.8	N	Calm	Clear
+1881-05-10	761.5	18.0	N	Breeze	Clear
+1881-05-11	760.2	15.6	NE	Strong wind	Cloudy
+1881-05-12	761.1	14.0	NE	Wind	Clear
+1881-05-13	758.9	15.0	NE	Wind	Clear
+1881-05-14	759.7	15.2	NE	Wind	Clear
+1881-05-15	760.7	16.8	N	Calm	Some clouds
+1881-05-16	761.2	17.4	S	Breeze	Clear
+1881-05-17	763.3	16.0	N	Breeze	Clear
+1881-05-18	762.7	20.5		Calm	Clear
+1881-05-19	761.6	12.1	SSW	Breeze	Clear
+1881-05-20	761.3	19.7	NNE	Calm	Clear
+1881-05-21	762.3	#12.1	SE	Breeze	Clear
+1881-05-22	761.7	21.3	SSW	Breeze	Clear
+1881-05-23	760.2	21.5	SE	Breeze	Some clouds
+1881-05-24	757.1	18.4	SSW	Wind	Cloudy
+1881-05-25	757.9	14.6	S	Wind	Covered
+1881-05-26	761.0	14.4	SW	Breeze	Rainy
+1881-05-27	762.8	16.9	NE	Calm	Clear
+1881-05-28	762.4	21.0	N	Breeze	Clear
+1881-05-29	762.0	19.7	NW	Wind	Clear
+1881-05-30	762.0	20.1	N	Breeze	Clear
+1881-05-31	762.2	17.4	NE	Wind	Clear
+1881-06-01	761.2	21.0	NE	Calm	Clear
+1881-06-02	761.7	21.8	NE	Wind	Clear
+1881-06-03	762.7	21.5	NE	Wind	Clear
+1881-06-04	762.2	20.2	NE	Wind	Clear
+1881-06-05	759.6	17.4	E	Breeze	Clear
+1881-06-06	758.4	11.8	W	Wind	Covered
+1881-06-07	760.1	14.0	NW	Wind	Clouds
+1881-06-08	761.2	15.5	W	Wind	Clear
+1881-06-09	762.6	16.8	NE	Wind	Clear
+1881-06-10	767.2	15.9	NE	Wind	Clear
+1881-06-11	765.1	19.2	NE	Wind	Clear
+1881-06-12	763.1	18.9	NE	Calm	Clear
+1881-06-13	762.5	18.5	NNE	Breeze	Clear
+1881-06-14	761.6	25.4	N	Breeze	Cloudy
+1881-06-15	761.8	24.8	W	Breeze	Clear
+1881-06-16	762.4	20.1	S	Wind	Clouds
+1881-06-17	763.8	19.8	SSW	Breeze	Covered
+1881-06-18	763.4	18.2	S	Wind	Almost covered
+1881-06-19	763.7	19.7	SSW	Breeze	Clear
+1881-06-20	760.4	18.8	S	Wind	Clear
+1881-06-21	760.4	19.7	S	Wind	Some clouds
+1881-06-22	762.7	19.9	S	Breeze	Cloudy
+1881-06-23	763.4	24.0	SW	Breeze	Some clouds
+1881-06-24	762.2	23.9	WSW	Breeze	Clouds
+1881-06-25	765.5	22.7	N	Wind	Clear
+1881-06-26	765.0	27.0	NE	Breeze	Clear
+1881-06-27	760.9	27.3	N	Breeze	Clear
+1881-06-28	760.1	30.5	NE	Calm	Clear
+1881-06-29	763.4	26.7	S	Calm	Clear
+1881-06-30	765.9	29.8	S	Breeze	Clear
+1881-07-01	762.3	23.4	SW	Breeze	Covered
+1881-07-02	758.2	19.5	SSW	Calm	Cloudy
+1881-07-03	762.0	20.7	E	Wind	Cloudy
+1881-07-04	763.6	24.5	NE	Breeze	Clear
+1881-07-05	767.0	21.4	SSW	Wind	Cloudy
+1881-07-06	767.2	17.8	N	Wind	Clear
+1881-07-07	763.8	24.6	NE	Breeze	Cloudy
+1881-07-08	761.7	26.2	S	Wind	Cloudy
+1881-07-09	766.3	27.1	W	Breeze	Covered
+1881-07-10	765.5	26.9	E	Wind	Covered
+1881-07-11	763.5	25.3	NE	Breeze	Hazy
+1881-07-12	764.2	25.8	S	Calm	Cloudy
+1881-07-13	764.6	28.4	NE	Wind	Some clouds
+1881-07-14	763.9	26.7	NE	Wind	Cloudy
+1881-07-15	766.6	27.6	NE	Breeze	Clear
+1881-07-16	762.9	#29.8	SE	Breeze	Hazy
+1881-07-17	762.5	#20.2	NE	Breeze	Clear
+1881-07-18	761.1	31.8	SE	Breeze	Cloudy
+1881-07-19	759.9	27.9	S	Calm	Cloudy
+1881-07-20	759.6	23.7	S	Breeze	Cloudy
+1881-07-21	760.9	#22.1	SW	Breeze	Cloudy
+1881-07-22	761.9	33.3	N	Breeze	Clear
+1881-07-23	763.8	27.0	NE	Breeze	Clear
+1881-07-24	761.9	31.0	ENE	Breeze	Hazy
+1881-07-25	760.5	30.5	SSW	Wind	Clear
+1881-07-26	759.4	26.8	SSW	Breeze	Clear
+1881-07-27	760.9	28.1	N	Breeze	Clear
+1881-07-28	764.0	28.1	NE	Wind	Clear
+1881-07-29	765.3	28.1	SW	Breeze	Some clouds
+1881-07-30	764.9	26.5	W	Calm	Clear
+1881-07-31	763.5	#27.1	SSW	Calm	Clear
+1881-08-01	762.0	#38.8	W	Calm	Hazy
+1881-08-02					
+1881-08-03	765.5	27.0	N	Breeze	Hazy
+1881-08-04	764.8	30.4	NE	Calm	Hazy
+1881-08-05	764.3	29.6	SE	Breeze	Hazy
+1881-08-06	764.7	29.4	SW	Breeze	Hazy
+1881-08-07	764.6	30.6	E	Breeze	Clear
+1881-08-08	762.3	29.8	NE	Strong wind	Clear
+1881-08-09	760.2	28.1	WSW	Calm	Clear
+1881-08-10	762.3	27.9	ENE	Calm	Clear
+1881-08-11	763.5	28.9	NE	Breeze	Clear
+1881-08-12	761.3	27.8	SW	Breeze	Clear
+1881-08-13	760.3	28.0	W	Breeze	Clear
+1881-08-14	761.2	24.4	WNW	Wind	Clear
+1881-08-15	761.8	25.1	N	Breeze	Clear
+1881-08-16	761.1	28.2	SW	Breeze	Clear
+1881-08-17	760.1	28.4	SW	Breeze	Clear
+1881-08-18	762.2	26.0	SW	Breeze	Clear
+1881-08-19	757.2	#31.0	S	Strong wind	Cloudy
+1881-08-20	763.9	20.8	SW	Breeze	Clear
+1881-08-21	763.4	22.5	SSW	Breeze	Clear
+1881-08-22	761.1	21.0	SW	Breeze	Clear
+1881-08-23					
+1881-08-24	763.5	18.7	WNW	Wind	Clear
+1881-08-25	764.1	20.8	W	Breeze	Clouds
+1881-08-26	761.7	22.0	SW	Breeze	Clear
+1881-08-27	761.1	18.3	W	Wind	Clear
+1881-08-28	767.0	18.7	WNW	Wind	Clear
+1881-08-29	766.4	#13.1	NE	Wind	Clear
+1881-08-30	764.1	22.4	E	Breeze	Clear
+1881-08-31	760.2	23.1	SW	Breeze	Clear
+1881-09-01	761.5	20.8	NE	Wind	Clear
+1881-09-02	761.4	20.6	NE	Wind	Clear
+1881-09-03	760.4	24.4	W	Calm	Clear
+1881-09-04	762.2	19.8	SSW	Wind	Clear
+1881-09-05	760.2	16.6	SSW	Wind	Some clouds
+1881-09-06	758.7	16.7	SW	Wind	Covered
+1881-09-07	760.4	18.6	ESE	Wind	Clear
+1881-09-08	763.4	18.0	SSW	Wind	Clear
+1881-09-09	763.0	17.0	W	Breeze	Covered
+1881-09-10	759.5	16.1	NNW	Wind	Clear
+1881-09-11	759.9	17.6	N	Wind	Clear
+1881-09-12	763.4	18.4	WNW	Breeze	Clear
+1881-09-13	763.7	23.1	ESE	Breeze	Some clouds
+1881-09-14	764.3	21.8	S	Breeze	Clear
+1881-09-15	762.5	25.8	ESE	Wind	Clear
+1881-09-16	764.7	26.2	W	Breeze	Cloudy
+1881-09-17	757.9	#29.0	S	Strong wind	Cloudy
+1881-09-18	761.9	19.6	SW	Wind	Cloudy
+1881-09-19	764.0	18.4	SW	Breeze	Cloudy
+1881-09-20	759.5	17.8	SW	Wind	Covered
+1881-09-21	756.1	14.9	SSW	Wind	Cloudy
+1881-09-22	763.6	16.1	SSW	Wind	Some clouds
+1881-09-23	764.9	17.6	WNW	Wind	Clouds
+1881-09-24	765.7	19.6	NE	Breeze	Clear
+1881-09-25					
+1881-09-26	764.0	25.1	S	Breeze	Clouds
+1881-09-27	764.4	22.9	S	Wind	Clear
+1881-09-28	763.7	23.8	S	Wind	Clear
+1881-09-29	763.0	19.3	NW	Breeze	Clear
+1881-09-30	761.9	18.4	N	Breeze	Clear
+1881-10-01	758.7	16.7	N	Wind	Clear
+1881-10-02	757.8	17.3	NW	Breeze	Clear
+1881-10-03	756.3	21.1	SSW	Breeze	Some clouds
+1881-10-04	755.3	12.4	NE	Wind	Rainy
+1881-10-05	759.3	12.9	S	Wind	Cloudy
+1881-10-06	758.7	13.5		Breeze	Cloudy
+1881-10-07	758.5	8.1	NE	Strong wind	Rainy
+1881-10-08	757.2	10.2	NE	Wind	Covered
+1881-10-09	761.6	13.4	N	Calm	Almost clear
+1881-10-10	763.4	15.2	NNW	Breeze	Clear
+1881-10-11	764.7	14.8	N	Calm	Covered
+1881-10-12	766.3	14.3	NE	Breeze	Clear
+1881-10-13	766.1	17.1	SSW	Breeze	Clear
+1881-10-14	764.9	16.5	S	Wind	Clear
+1881-10-15	764.8	14.4	SW	Breeze	Clear
+1881-10-16	764.3	15.2	NE	Breeze	Clear
+1881-10-17	762.3	16.8	NE	Breeze	Clear
+1881-10-18	760.5	17.2	SSE	Wind	Clear
+1881-10-19	757.9	13.5	SE	Wind	Rainy
+1881-10-20	753.7	13.8	S	Wind	Rainy
+1881-10-21	756.1	12.3	SE	Wind	Covered
+1881-10-22	748.4	12.5	S	Strong wind	Covered
+1881-10-23	751.4	10.6	S	Wind	Covered
+1881-10-24	759.6	10.9	S	Wind	Covered
+1881-10-25	755.9	16.9	SW	Wind	Rainy
+1881-10-26	757.1	15.7	S	Strong wind	Rainy
+1881-10-27	759.4	11.7	S	Strong wind	Covered
+1881-10-28	758.1	10.9	SW	Wind	Almost clear
+1881-10-29	755.7	7.1	NNW	Wind	Rainy
+1881-10-30	757.9	5.8	SSW	Breeze	Clear
+1881-10-31	762.8	5.9	N	Breeze	Clear
+1881-11-01	760.3	6.9	S	Wind	Rainy
+1881-11-02	757.2	13.1	SW	Wind	Almost clear
+1881-11-03	762.5	14.9	SW	Wind	Covered
+1881-11-04	764.0	16.3	SE	Wind	Almost covered
+1881-11-05	765.4	15.2	ENE	Wind	Almost clear
+1881-11-06	766.7	13.1	NE	Wind	Almost clear
+1881-11-07	764.1	13.1	NE	Breeze	Covered
+1881-11-08	761.5	15.4	ENE	Wind	Clear
+1881-11-09	761.5	13.7	SW	Wind	Almost clear
+1881-11-10	767.5	12.3	SW	Breeze	Clear
+1881-11-11	766.8	11.3	NE	Breeze	Clear
+1881-11-12	767.7	11.5	N	Breeze	Covered
+1881-11-13	768.0	10.3	NE	Wind	Almost covered
+1881-11-14	767.7	10.8	NE	Wind	Clear
+1881-11-15	766.3	12.4	SE	Wind	Clear
+1881-11-16	772.7	7.1	NE	Wind	Cloudy
+1881-11-17	766.8		NE	Wind	Clear
+1881-11-18	766.7	7.6	NW	Breeze	Clear
+1881-11-19	765.8	11.5	ESE	Calm	Clear
+1881-11-20	767.4	8.1	NE	Breeze	Clear
+1881-11-21	768.6	8.6	NE	Calm	Clear
+1881-11-22	768.4	8.1	NW	Breeze	Clear
+1881-11-23	767.1	10.7	ESE	Calm	Covered
+1881-11-24	768.0	11.4	ESE	Breeze	Rainy
+1881-11-25	765.4	12.0	ESE	Breeze	Some clouds
+1881-11-26	765.2	9.3	WNW	Breeze	Some clouds
+1881-11-27	761.2	8.1	SE	Wind	Some clouds
+1881-11-28	758.6	7.3	SW	Wind	Clear
+1881-11-29	763.8	4.4	NW	Wind	Clear
+1881-11-30	767.0	8.2	S	Calm	Clouds
+1881-12-01	768.2	8.4	S	Breeze	Covered
+1881-12-02	769.5		NE	Wind	Clear
+1881-12-03	768.8	6.2	SE	Wind	Clouds
+1881-12-04	769.1	4.8	NW	Wind	Clear
+1881-12-05	769.3	4.5	N	Wind	Clear
+1881-12-06		6.4	NW	Breeze	Clear
+1881-12-07		7.1	S	Wind	Cloudy - Rainy
+1881-12-08		5.2	WNW	Breeze	Clouds
+1881-12-09		1.6	NE	Wind	Rainy
+1881-12-10		4.6	WSW	Breeze	Clear
+1881-12-11		5.8	ESE	Wind	Clouds
+1881-12-12		3.6	N	Wind	Clouds
+1881-12-13		2.8	NNW	Wind	Clear
+1881-12-14		1.6	NW	Wind	Clear
+1881-12-15		3.6	NW	Wind	Clear
+1881-12-16		4.7	S	Wind	Covered
+1881-12-17		6.1	S	Wind	Drizzle
+1881-12-18		8.3	SW	Breeze	Covered
+1881-12-19		9.5	S	Wind	Rainy
+1881-12-20		10.3	SW	Wind	Covered
+1881-12-21		11.0	SE	Wind	Rainy
+1881-12-22					
+1881-12-23		7.5	W	Breeze	Clear
+1881-12-24		7.6	NNW	Breeze	Clear
+1881-12-25		1.8	W	Calm	Dense fog
+1881-12-26		4.7	NE	Wind	Clear
+1881-12-27		2.2	ENE	Breeze	Clear
+1881-12-28		3.9	ENE	Breeze	Clear
+1881-12-29		2.1	NE	Wind	Cloudy
+1881-12-30		2.9	NE	Breeze	Clear
+1881-12-31		5.7	E	Wind	Clear
+1882-01-01		8.3	ESE	Wind	Covered
+1882-01-02					
+1882-01-03		5.5	NE	Calm	Clear
+1882-01-04		4.4	NW	Strong wind	Clear
+1882-01-05		4.2	N	Breeze	Clear
+1882-01-06		7.5	NW	Calm	Clear
+1882-01-07		4.7	W	Breeze	Clear
+1882-01-08		4.5	N	Breeze	Clear
+1882-01-09		4.9	NE	Breeze	Clouds
+1882-01-10		7.3	NE	Breeze	Clouds
+1882-01-11		7.5	NW	Calm	Clear
+1882-01-12		4.5	NE	Wind	Clouds
+1882-01-13		3.1	NE	Breeze	Clear
+1882-01-14		2.3	NE	Wind	Clear
+1882-01-15		4.6	NE	Wind	Clear
+1882-01-16		4.6	NE	Wind	Clear
+1882-01-17		4.8	NE	Wind	Clear
+1882-01-18		6.0	ENE	Calm	Clear
+1882-01-19		4.8	NE	Wind	Clear
+1882-01-20		4.4	NE	Wind	Clear
+1882-01-21		5.6	NE	Breeze	Clear
+1882-01-22		4.2	NE	Calm	Clouds
+1882-01-23		3.1	NE	Breeze	Clear
+1882-01-24		3.4	ENE	Wind	Clouds
+1882-01-25		5.9	NE	Wind	Almost covered
+1882-01-26		4.5	ENE	Wind	Clouds
+1882-01-27		6.2	NE	Wind	Clear
+1882-01-28		6.2	NE	Wind	Clear
+1882-01-29		11.1	ENE	Breeze	Clouds
+1882-01-30		9.7	ESE	Calm	Covered
+1882-01-31		8.6	SE	Wind	Covered
+1882-02-01		5.3	NNE	Breeze	Clouds
+1882-02-02		5.8	NE	Breeze	Cloudy
+1882-02-03		5.2	NE	Wind	Cloudy
+1882-02-04		6.1	NE	Wind	Clear
+1882-02-05		5.5	NE	Wind	Clear
+1882-02-06		7.3	NE	Calm	Clear
+1882-02-07		6.4	NE	Breeze	Clear
+1882-02-08		6.0	ENE	Breeze	Clear
+1882-02-09		6.9	NE	Calm	Clouds
+1882-02-10		8.2	SE	Wind	Clear
+1882-02-11		7.6	SE	Wind	Covered
+1882-02-12		6.4	NNW	Wind	Clear
+1882-02-13		5.7	NW	Breeze	Clear
+1882-02-14		7.8	NE	Wind	Clear
+1882-02-15		7.9	NE	Calm	Clear
+1882-02-16		6.8	NE	Wind	Clear
+1882-02-17		4.6	NE	Wind	Clear
+1882-02-18		8.8	NE	Calm	Clear
+1882-02-19		3.9	N	Breeze	Clear
+1882-02-20		6.5	N	Wind	Cloudy
+1882-02-21		5.2	NE	Wind	Clear
+1882-02-22		6.1	NE	Wind	Clear
+1882-02-23		9.2	E	Breeze	Covered
+1882-02-24		14.5	ESE	Wind	Cloudy
+1882-02-25		13.6	SE	Wind	Covered
+1882-02-26		13.1	S	Strong wind	Rainy
+1882-02-27		13.2	SW	Wind	Cloudy
+1882-02-28		14.1	SW	Strong wind	Almost covered
+1882-03-01		9.7	SW	Wind	Cloudy
+1882-03-02		6.7	SW	Wind	Almost clear
+1882-03-03		8.4	SW	Strong wind	Covered
+1882-03-04		6.5	NW	Wind	Clear
+1882-03-05		7.0	NW	Breeze	Clear
+1882-03-06		8.6	NW	Calm	Clear
+1882-03-07		11.6	NNW	Calm	Clear
+1882-03-08		11.4	NE	Calm	Clear
+1882-03-09		12.8	NE	Calm	Clear
+1882-03-10		12.9	NE	Breeze	Clear
+1882-03-11		12.4	NE	Calm	Clear
+1882-03-12		12.7	NNW	Breeze	Clear
+1882-03-13	763.9	13.0	NE	Breeze	Clear
+1882-03-14		13.3	NE	Breeze	Clear
+1882-03-15		12.5	NE	Breeze	Clear
+1882-03-16		12.8	NE	Breeze	Almost clear
+1882-03-17		12.9	NE	Wind	Clear
+1882-03-18		12.2	NW	Calm	Clear
+1882-03-19		15.2	NW	Calm	Cloudy
+1882-03-20		10.8	S	Wind	Covered
+1882-03-21		11.9	ESE	Wind	Cloudy
+1882-03-22		9.2	NE	Wind	Dense fog
+1882-03-23		6.7	N	Wind	Clear
+1882-03-24		8.8	N	Wind	Clear
+1882-03-25		13.7	NW	Breeze	Clouds
+1882-03-26		14.8	N	Calm	Clouds
+1882-03-27		9.3	N	Strong wind	Clear
+1882-03-28		9.8	NE	Wind	Clouds
+1882-03-29		10.1	NE	Wind	Clear
+1882-03-30		13.3	SW	Wind	Clear
+1882-03-31		9.4	NNW	Wind	Clear
+1882-04-01					
+1882-04-02		10.1	S	Wind	Covered
+1882-04-03		9.3	SW	Calm	Covered
+1882-04-04		9.3	SW	Wind	Covered
+1882-04-05		7.5	WSW	Calm	Covered
+1882-04-06		9.3	NE	Wind	Clear
+1882-04-07		11.1	NE	Wind	Cloudy
+1882-04-08		12.2	NE	Wind	Clear
+1882-04-09		14.9	ESE	Calm	Clear
+1882-04-10		15.0	W	Breeze	Clear
+1882-04-11		16.2	W	Calm	Clear
+1882-04-12		13.3	S	Breeze	Covered
+1882-04-13		14.7	S	Breeze	Covered
+1882-04-14		12.7	SW	Calm	Cloudy
+1882-04-15		12.1	WSW	Wind	Covered
+1882-04-16		12.3	WNW	Wind	Cloudy
+1882-04-17		12.8	NW	Breeze	Some clouds
+1882-04-18		14.6	N	Breeze	Clouds
+1882-04-19		15.2	ESE	Breeze	Clear
+1882-04-20					
+1882-04-21		21.8	W	Calm	Clear
+1882-04-22		13.8	SW	Wind	Some clouds
+1882-04-23		11.6	W	Wind	Cloudy
+1882-04-24					
+1882-04-25					
+1882-04-26		11.8	S	Strong wind	Rainy
+1882-04-27		12.2	NW	Wind	Clear
+1882-04-28		16.0	WSW	Breeze	Cloudy
+1882-04-29		17.9	W	Calm	Clear
+1882-04-30		16.5	SW	Breeze	Clear
+1882-05-01		16.5	SW	Breeze	Clear
+1882-05-02		12.8	S	Wind	Cloudy
+1882-05-03		10.8	SW	Breeze	Rainy
+1882-05-04		11.4	W	Wind	Cloudy
+1882-05-05		11.3	S	Wind	Covered
+1882-05-06		14.7	W	Breeze	Clear
+1882-05-07		11.1	SW	Breeze	Rainy
+1882-05-08		14.0	NE	Wind	Cloudy
+1882-05-09		19.1	NE	Strong wind	Clear
+1882-05-10		20.0	NNE	Strong wind	Some clouds
+1882-05-11		20.5	NE	Strong wind	Clear
+1882-05-12		20.6	N	Calm	Clear
+1882-05-13		21.5	S	Breeze	Clear
+1882-05-14		17.6	W	Calm	Cloudy
+1882-05-15		19.5	W	Breeze	Cloudy
+1882-05-16		16.9	S	Wind	Cloudy
+1882-05-17		20.8	E	Wind	Cloudy
+1882-05-18		16.3	ESE	Breeze	Rainy
+1882-05-19		12.2	SSE	Wind	Rainy
+1882-05-20					
+1882-05-21					
+1882-05-22		16.4	S	Strong wind	Covered
+1882-05-23		13.9	S	Wind	Almost covered
+1882-05-24		14.1	s	Wind	Covered
+1882-05-25					
+1882-05-26		14.8	W	Wind	Rainy
+1882-05-27		19.4	SE		Some clouds
+1882-05-28		20.4	NW	Calm	Clouds
+1882-05-29		18.0	S	Calm	Almost clear
+1882-05-30		19.6	NE	Breeze	Clear
+1882-05-31		23.7	S	Wind	Clouds
+1882-06-01		15.2	SW	Wind	Cloudy
+1882-06-02		17.8	SW	Calm	Cloudy
+1882-06-03		16.3	SE	Wind	Covered
+1882-06-04		12.0	NW	Breeze	Clouds
+1882-06-05					
+1882-06-06		23.2	NE	Breeze	Clear
+1882-06-07		16.7	N	Wind	Clear
+1882-06-08		18.2	N	Breeze	Clear
+1882-06-09		22.8	NE	Calm	Clear
+1882-06-10		20.8	N	Breeze	Clear
+1882-06-11		18.5	NE	Strong wind	Clear
+1882-06-12		#22.0	NE	Wind	Clear
+1882-06-13		#35.5	NW	Wind	Clear
+1882-06-14		23.5	NE	Wind	Clear
+1882-06-15		26.0		Calm	Clear
+1882-06-16		24.8	SW	Breeze	Clear
+1882-06-17		22.2	S	Wind	Clouds
+1882-06-18		19.2	W	Breeze	Cloudy
+1882-06-19		21.2	NW	Breeze	Clear
+1882-06-20		25.6	NW	Calm	Clear
+1882-06-21		28.7	W	Calm	Clear
+1882-06-22		20.1	S	Breeze	Clear
+1882-06-23		20.0	SW	Calm	Clear
+1882-06-24		22.2	S	Breeze	Clear
+1882-06-25		18.8	NW	Breeze	Clear
+1882-06-26		19.8	N	Breeze	Clear
+1882-06-27		26.5	NE	Calm	Clear
+1882-06-28					
+1882-06-29		27.1	S	Calm	Some celajes
+1882-06-30		27.6	NW	Breeze	Clear
+1882-07-01		27.1	NE	Breeze	Clear
+1882-07-02		27.9	NE	Breeze	Clear
+1882-07-03		28.3	NW	Wind	Clear
+1882-07-04		25.1	SW	Wind	Hazy
+1882-07-05		21.3	W	Wind	Clear
+1882-07-06		18.0	S	Wind	Clear
+1882-07-07		16.1	S	Strong wind	Covered
+1882-07-08		17.8	SW	Wind	Rainy
+1882-07-09		16.3	SW	Wind	Cloudy
+1882-07-10		17.5	S	Wind	Cloudy
+1882-07-11		21.4	SSW	Calm	Clear
+1882-07-12		21.5	N	Calm	Clear
+1882-07-13		27.9	N	Breeze	Clear
+1882-07-14		24.2	S	Breeze	Clear
+1882-07-15		19.7	SW	Strong wind	Covered
+1882-07-16		18.5	NW	Wind	Some clouds
+1882-07-17		22.2	NNW	Calm	Clear
+1882-07-18		25.6	NE		Clear
+1882-07-19		29.6	NE	Breeze	Clear
+1882-07-20		28.8	NW	Breeze	Clear
+1882-07-21		24.5	W	Breeze	Clear
+1882-07-22		23.6	N	Breeze	Clear
+1882-07-23		25.6	N	Wind	Clear
+1882-07-24		23.5	NW	Calm	Clear
+1882-07-25		25.4	NW	Breeze	Clouds
+1882-07-26		25.7	NE	Wind	Clear
+1882-07-27		27.6	NE	Wind	Clear
+1882-07-28		29.1	N	Calm	Clear
+1882-07-29		26.3	NE	Wind	Clear
+1882-07-30		24.6	NE	Strong wind	Clear
+1882-07-31		26.6	NE	Wind	Clear
+1882-08-01		29.7	NE	Breeze	Clear
+1882-08-02		32.3	SE	Calm	Hazy
+1882-08-03		29.5	NE	Breeze	Clear
+1882-08-04		30.2	NE	Wind	Covered
+1882-08-05		28.3	NE	Breeze	Clear
+1882-08-06		26.9	S	Breeze	Hazy
+1882-08-07		#31.1	SE	Calm	Clouds
+1882-08-08		21.0	S	Wind	Cloudy
+1882-08-09		22.1	S	Wind	Hazy
+1882-08-10		27.4	S	Calm	Hazy
+1882-08-11		25.5	SSW	Calm	Hazy
+1882-08-12		22.1	S	Wind	Clouds
+1882-08-13		20.6	SW	Wind	Clear
+1882-08-14		20.2	SW	Breeze	Covered
+1882-08-15					
+1882-08-16		23.7	W	Calm	Clear
+1882-08-17		25.7	NE	Breeze	Clear
+1882-08-18		28.3	NW	Breeze	Clear
+1882-08-19		27.4	S	Breeze	Clear
+1882-08-20		23.7	NW	Breeze	Almost covered
+1882-08-21		25.0	NW	Wind	Clear
+1882-08-22		27.3	NE	Breeze	Clear
+1882-08-23		30.4	SSW	Calm	Clear
+1882-08-24		21.9	W	Breeze	Clear
+1882-08-25		21.2	W	Breeze	Clouds
+1882-08-26		18.2	SW	Wind	Clear
+1882-08-27		20.0	NE	Wind	Some clouds
+1882-08-28		22.2	NE	Breeze	Clear
+1882-08-29		24.8	N	Wind	Clear
+1882-08-30		27.7	SW	Breeze	Clear
+1882-08-31		28.7	SW	Calm	Calm
+1882-09-01		25.5	S	Wind	Hazy
+1882-09-02		21.3	SSW	Breeze	Clear
+1882-09-03		24.8	WSW	Breeze	Clouds
+1882-09-04		22.9	W	Breeze	Clear
+1882-09-05		22.1	NNE	Breeze	Clear
+1882-09-06		21.8	NE	Wind	Clear
+1882-09-07		20.8	NE	Wind	Almost covered
+1882-09-08		19.0	NE	Wind	Cloudy
+1882-09-09		18.4	SSE	Wind	Covered
+1882-09-10		17.3	S	Wind	Almost covered
+1882-09-11		16.7	S	Breeze	Covered
+1882-09-12		14.4	NE	Wind	Some clouds
+1882-09-13		13.8	NW	Wind	Clouds
+1882-09-14		16.4	SW	Wind	Covered
+1882-09-15		15.1	NNW	Wind	Clear
+1882-09-16		17.0	NW	Breeze	Cloudy
+1882-09-17			NW	Wind	Clear
+1882-09-18		19.6	NNE	Calm	Clouds
+1882-09-19		16.0	S	Breeze	Cloudy
+1882-09-20					
+1882-09-21					
+1882-09-22		15.3	SW	Breeze	Clear
+1882-09-23		17.2	WSW	Calm	Clear
+1882-09-24		15.8	SW	Wind	Clear
+1882-09-25		12.8	S	Wind	Covered
+1882-09-26		11.0	SW	Wind	Rainy
+1882-09-27		15.3	SSW	Wind	Covered
+1882-09-28		16.2	SW	Wind	Almost covered
+1882-09-29		16.5	WSW	Breeze	Clear
+1882-09-30		19.7	WNW	Wind	Clear
+1882-10-01					
+1882-10-02		22.2	SSW	Breeze	Cloudy
+1882-10-03		19.5	NW	Breeze	Almost covered
+1882-10-04		19.3	NNE	Wind	Cloudy
+1882-10-05		14.6	NE	Wind	Clear
+1882-10-06		12.7	NE	Strong wind	Clear
+1882-10-07		17.4	S	Wind	Cloudy
+1882-10-08		17.0	SSE	Breeze	Clouds
+1882-10-09		17.5	SSE	Breeze	Covered
+1882-10-10		22.0	ESE	Wind	Clear
+1882-10-11		15.8	S	Wind	Rainy
+1882-10-12		14.4	SW	Wind	Clouds
+1882-10-13		13.6	W	Wind	Clouds
+1882-10-14		11.9	NW	Wind	Clouds
+1882-10-15		13.1	WNW	Breeze	Clear
+1882-10-16		13.0	WSW	Wind	Covered
+1882-10-17		13.0	WNW	Breeze	Clear
+1882-10-18		14.7	WSW	Breeze	Clear
+1882-10-19		15.2	S	Wind	Cloudy
+1882-10-20		13.6	WSW	Breeze	Clear
+1882-10-21		12.7	SW	Breeze	Almost covered
+1882-10-22		15.7	SSW	Wind	Cloudy
+1882-10-23		13.1	S	Wind	Fog
+1882-10-24		15.1	S	Wind	Covered
+1882-10-25					
+1882-10-26		9.2		Wind	Covered
+1882-10-27		10.2	SW	Wind	Almost covered
+1882-10-28		9.7	W	Wind	Clouds
+1882-10-29		9.5	W	Breeze	Clear
+1882-10-30		13.0	WSW	Breeze	Some clouds
+1882-10-31		11.4	NE	Breeze	Clear
+1882-11-01		12.9	S	Wind	Covered
+1882-11-02		7.6	W	Breeze	Almost covered
+1882-11-03		10.7	NW	Strong wind	Clear
+1882-11-04		10.3	NE	Wind	Clear
+1882-11-05		10.3	NE	Breeze	Clear
+1882-11-06		11.4	NE	Breeze	Clear
+1882-11-07		14.2	N	Calm	Clear
+1882-11-08		13.0	S	Wind	Almost covered
+1882-11-09		13.5	SW	Wind	Cloudy
+1882-11-10		13.2	SW	Wind	Covered
+1882-11-11		14.2	SW	Breeze	Clear
+1882-11-12		12.5	S	Breeze	Covered
+1882-11-13		15.0	S	Strong wind	Covered
+1882-11-14		11.8	WSW	Wind	Some clouds
+1882-11-15		7.6	NW	Wind	Clear
+1882-11-16		7.8	WNW	Breeze	Clouds
+1882-11-17		10.2	W	Breeze	Cloudy
+1882-11-18		11.4	WNW	Breeze	Clouds
+1882-11-19		12.2	SW	Breeze	Clear
+1882-11-20		10.9	NW	Breeze	Clear
+1882-11-21		8.3	NW	Wind	Clouds
+1882-11-22		7.4	NW	Breeze	Clouds
+1882-11-23		9.1	WNW	Breeze	Clear
+1882-11-24		8.4	W	Wind	Clouds
+1882-11-25		8.9	W	Breeze	Clear
+1882-11-26		11.2	S	Breeze	Fog
+1882-11-27		10.2	W	Breeze	Cloudy
+1882-11-28		5.8	N	Breeze	Clear
+1882-11-29		8.7	N	Calm	Clear
+1882-11-30		8.0	NNW	Wind	Clear
+1882-12-01		8.7	NW	Breeze	Clouds
+1882-12-02		5.5	NNW	Strong wind	Clear
+1882-12-03					
+1882-12-04		7.4	S	Wind	Almost covered
+1882-12-05		6.7	W	Wind	Covered
+1882-12-06		7.1	S	Strong wind	Rainy
+1882-12-07		6.3	S	Wind	Almost clear
+1882-12-08					
+1882-12-09		2.6	W	Breeze	Clear
+1882-12-10		1.5	N	Breeze	Rainy
+1882-12-11		2.8	W	Breeze	Cloudy
+1882-12-12		7.2	SE	Wind	Covered
+1882-12-13		6.9	ENE	Calm	Covered
+1882-12-14		5.1	NW	Calm	Fog
+1882-12-15			NW	Breeze	Cloudy
+1882-12-16		7.3	NE	Calm	Fog
+1882-12-17		7.3	NE	Wind	Covered
+1882-12-18		8.1	S	Wind	Covered
+1882-12-19		7.7	N	Strong wind	Clear
+1882-12-20		6.8	NE	Wind	Cloudy
+1882-12-21		7.2	N	Breeze	Clear
+1882-12-22		8.8	W	Wind	Clear
+1882-12-23		9.3	W	Breeze	Clear
+1882-12-24		10.0	NW	Breeze	Clear
+1882-12-25		8.5	NW	Calm	Clear
+1882-12-26		2.7	NW	Breeze	Dense fog
+1882-12-27		1.9	NE	Wind	Fog
+1882-12-28		2.2	NE	Calm	Fog
+1882-12-29		6.8	SE	Breeze	Covered
+1882-12-30		9.2	SSE	Calm	Covered
+1882-12-31		5.7	N	Breeze	Clear
+1883-01-01		6.1	N	Wind	Clouds
+1883-01-02		6.8	S	Breeze	Fog
+1883-01-03		3.9	N	Breeze	Cloudy
+1883-01-04		8.6	W	Calm	Cloudy
+1883-01-05		5.6	W	Breeze	Clear
+1883-01-06		5.0	N	Calm	Cloudy
+1883-01-07		6.2	NE	Calm	Clear
+1883-01-08		8.8	SE	Wind	Rainy
+1883-01-09		9.0	S	Wind	Rainy
+1883-01-10		7.0	S	Wind	Almost covered
+1883-01-11		7.6	S	Wind	Covered
+1883-01-12		5.4	N	Wind	Rainy
+1883-01-13		6.8	W	Strong wind	Rainy
+1883-01-14		7.7	W	Wind	Clear
+1883-01-15		7.1	W	Wind	Clear
+1883-01-16					
+1883-01-17		4.3	N	Breeze	Clear
+1883-01-18		3.9	N	Calm	Clear
+1883-01-19		3.6	N	Wind	Clear
+1883-01-20		3.9	NE	Wind	Clear
+1883-01-21		4.6	NE	Wind	Clear
+1883-01-22		6.4	N	Calm	Clear
+1883-01-23		6.3	W	Calm	Clear
+1883-01-24		9.0	W	Wind	Clouds
+1883-01-25		9.8	W	Wind	Clouds
+1883-01-26		9.0	SW	Breeze	Covered
+1883-01-27		5.1	NW	Breeze	Clear
+1883-01-28		4.7	S	Breeze	Clear
+1883-01-29		9.4	NE	Calm	Clear
+1883-01-30		7.9	W	Wind	Clear
+1883-01-31		6.9	W	Strong wind	Rainy
+1883-02-01		5.0	S	Wind	Clear
+1883-02-02		8.1	S	Wind	Covered
+1883-02-03		6.7	S	Wind	Covered
+1883-02-04		4.3	NW	Breeze	Clear
+1883-02-05		6.3	NE	Wind	Almost covered
+1883-02-06		10.0	E	Wind	Clouds
+1883-02-07		7.3	S	Wind	Covered
+1883-02-08		10.6	S	Strong wind	Covered
+1883-02-09		5.8		Wind	Clear
+1883-02-10		6.4	S	Wind	Covered
+1883-02-11		9.2	SW	Breeze	Clear
+1883-02-12		9.5	S	Strong wind	Covered
+1883-02-13		4.4	SW	Breeze	Clear
+1883-02-14		7.4	S	Breeze	Clouds
+1883-02-15		8.4	S	Breeze	Clouds
+1883-02-16		5.5	NE	Breeze	Clear
+1883-02-17		6.4	NE	Wind	Clear
+1883-02-18		10.1	SW	Breeze	Clouds
+1883-02-19		6.3	NW	Wind	Almost cloudy
+1883-02-20		5.7	NE	Strong wind	Cloudy
+1883-02-21		5.0	NE	Wind	Clear
+1883-02-22		5.4	NE	Wind	Clear
+1883-02-23		7.5	NE	Wind	Clear
+1883-02-24		10.6	NE	Breeze	Clear
+1883-02-25		11.3	NE	Breeze	Clear
+1883-02-26		10.0	NE	Breeze	Clear
+1883-02-27		9.7	NE	Breeze	Clear
+1883-02-28		10.8	NE	Breeze	Clear
+1883-03-01		9.8	NW	Breeze	Clear
+1883-03-02		10.2	W	Calm	Clear
+1883-03-03		10.2	WSW	Breeze	Clear
+1883-03-04		8.2	NE	Wind	Cloudy
+1883-03-05		8.7	NE	Wind	Almost clear
+1883-03-06		6.7	NE	Breeze	Clear
+1883-03-07		5.6	N	Wind	Clear
+1883-03-08					
+1883-03-09		2.2	N	Wind	Clear
+1883-03-10		1.3	N	Wind	Clear
+1883-03-11		1.3	N	Breeze	Clear
+1883-03-12		4.2	NW	Breeze	Clear
+1883-03-13		6.4	W	Breeze	Clear
+1883-03-14		4.7	NNE	Wind	Clouds
+1883-03-15		7.6	N	Breeze	Clouds
+1883-03-16		7.3	S	Wind	Covered
+1883-03-17		7.6	ENE	Wind	Rainy
+1883-03-18		8.5	SE	Wind	Almost covered
+1883-03-19		5.3	WSW	Wind	Covered
+1883-03-20		5.0	S	Wind	Almost cloudy
+1883-03-21		7.7	SW	Wind	Cloudy
+1883-03-22		9.8	SSE	Wind	Covered
+1883-03-23		9.4	S	Wind	Almost covered
+1883-03-24		9.9	SE	Breeze	Covered
+1883-03-25		10.6	WSW	Breeze	Almost covered
+1883-03-26		9.7	S	Breeze	Covered
+1883-03-27		9.6	NW	Breeze	Some clouds
+1883-03-28		7.8	NE	Breeze	Clear
+1883-03-29		12.4	S	Breeze	Clear
+1883-03-30		10.3	S	Wind	Covered
+1883-03-31		14.0	SW	Calm	Covered
+1883-04-01					
+1883-04-02		13.2	S	Breeze	Covered
+1883-04-03		13.1	NW	Calm	Clear
+1883-04-04					
+1883-04-05		14.5	NE	Wind	Clear
+1883-04-06		13.8	NE	Wind	Clear
+1883-04-07		13.2	NE	Wind	Some clouds
+1883-04-08		13.0	NE	Wind	Clear
+1883-04-09		12.1	ENE	Wind	Clear
+1883-04-10		12.5	NE	Wind	Clear
+1883-04-11		12.6	NE	Wind	Clear
+1883-04-12					
+1883-04-13		10.4	N	Wind	Clear
+1883-04-14		9.2	NNW	Wind	Clouds
+1883-04-15		9.0	NE	Wind	Cloudy
+1883-04-16		11.8	NE	Wind	Clear
+1883-04-17		12.6	NE	Breeze	Cloudy
+1883-04-18		14.3	S	Breeze	Clouds
+1883-04-19		9.7	WSW	Wind	Cloudy
+1883-04-20		10.3	N		Clear
+1883-04-21		14.1	N	Wind	Clouds
+1883-04-22		16.0	NW	Wind	Clouds
+1883-04-23		13.0	W	Wind	Almost covered
+1883-04-24		11.3	SW	Wind	Cloudy
+1883-04-25		13.8	SW	Calm	Covered
+1883-04-26		11.3	SE	Strong wind	Covered
+1883-04-27		10.4	S	Breeze	Covered
+1883-04-28		8.6	W	Wind	Covered
+1883-04-29		10.6	W	Wind	Cloudy
+1883-04-30		10.5	S	Strong wind	Rainy
+1883-05-01		9.6	W	Wind	Cloudy
+1883-05-02		10.6	SE	Wind	Covered
+1883-05-03		8.2	ENE	Wind	Covered
+1883-05-04		9.4	S	Wind	Covered
+1883-05-05		9.2	SSW	Wind	Covered
+1883-05-06		6.4	SE	Wind	Rainy
+1883-05-07		12.8	SSE	Wind	Almost covered
+1883-05-08		9.4	S	Wind	Covered
+1883-05-09		10.7	WSW	Wind	Covered
+1883-05-10		9.6	W	Breeze	Cloudy
+1883-05-11		9.8	NNE	Breeze	Clear
+1883-05-12		18.2	NE	Calm	Clear
+1883-05-13		16.7	NE	Calm	Clear
+1883-05-14		17.2	WSW	Breeze	Clear
+1883-05-15					
+1883-05-16		14.4	NE	Wind	Covered
+1883-05-17		14.6	S	Wind	Covered
+1883-05-18		16.0	NE	Wind	Clouds
+1883-05-19		#11.4	NE	Breeze	Clouds
+1883-05-20		24.7	W	Calm	Clear
+1883-05-21		16.2	SW	Wind	Covered
+1883-05-22		18.7	ENE	Breeze	Almost covered
+1883-05-23		23.4	W	Calm	Clear
+1883-05-24		22.2	S	Wind	Clouds
+1883-05-25		17.7	ENE	Breeze	Covered
+1883-05-26		16.3	NW	Breeze	Some clouds
+1883-05-27		16.6	NW	Calm	Clouds
+1883-05-28		17.4	N	Calm	Clear
+1883-05-29		21.0	NE	Calm	Clear
+1883-05-30		#14.5	W	Calm	Clear
+1883-05-31		25.4	SW	Calm	Clear
+1883-06-01		20.0	SW	Breeze	Clear
+1883-06-02		23.3	SE	Breeze	Clear
+1883-06-03		15.2	S	Wind	Almost covered
+1883-06-04		12.4	S	Wind	Covered
+1883-06-05		15.2	S	Breeze	Covered
+1883-06-06		16.0	W	Breeze	Almost covered
+1883-06-07					
+1883-06-08		14.8	S	Wind	Cloudy
+1883-06-09					
+1883-06-10		17.8	W	Breeze	Some clouds
+1883-06-11		17.6	NNE	Breeze	Clear
+1883-06-12		15.7	NE	Breeze	Clouds
+1883-06-13		18.0	NE	Wind	Clear
+1883-06-14		20.0	NNE	Wind	Clear
+1883-06-15					
+1883-06-16		25.6	WSW	Wind	Clear
+1883-06-17		20.6	W	Breeze	Clear
+1883-06-18		18.0	NE	Wind	Clear
+1883-06-19		22.8	SE	Calm	Clear
+1883-06-20		20.4	NNE	Breeze	Clear
+1883-06-21		22.4	NW	Calm	Clear
+1883-06-22		20.1	NE	Breeze	Clear
+1883-06-23		24.6	WNW	Breeze	Clear
+1883-06-24		24.0	S	Breeze	Some clouds
+1883-06-25		21.0	WNW	Wind	Clear
+1883-06-26		19.8	NE	Breeze	Clear
+1883-06-27		19.6	S	Wind	Clear
+1883-06-28		21.2	S	Breeze	Clear
+1883-06-29		19.4	SW	Wind	Clouds
+1883-06-30		23.8	W	Breeze	Clear
+1883-07-01					
+1883-07-02		26.6	N	Calm	Clear
+1883-07-03		26.4	S	Wind	Clouds
+1883-07-04		21.6	S	Breeze	Clear
+1883-07-05		17.4	S	Wind	Clear
+1883-07-06		19.0	S	Wind	Clear
+1883-07-07					
+1883-07-08					
+1883-07-09					
+1883-07-10		25.8	SW	Breeze	Clouds
+1883-07-11		22.5	SW	Breeze	Clear
+1883-07-12		29.2	SW	Calm	Clear
+1883-07-13		22.9	W	Breeze	Cloudy
+1883-07-14		19.1	NNW	Wind	Clear
+1883-07-15		22.0	N	Breeze	Clear
+1883-07-16		23.8	N	Wind	Clear
+1883-07-17		27.3	NE	Calm	Clear
+1883-07-18		29.6	NW	Calm	Clear
+1883-07-19		24.0	S	Breeze	Clouds
+1883-07-20		24.5	W	Wind	Cloudy
+1883-07-21		22.5	S	Calm	Clear
+1883-07-22		21.8	WNW	Breeze	Clear
+1883-07-23		24.6	N	Wind	Clear
+1883-07-24		24.8	NW	Breeze	Clear
+1883-07-25		27.0	NE	Breeze	Clear
+1883-07-26		28.8	N	Calm	Clear
+1883-07-27		29.5	SW	Calm	Clear
+1883-07-28		24.7	W	Calm	Clear
+1883-07-29					
+1883-07-30		13.7	NW	Breeze	Clear
+1883-07-31		20.1	N	Wind	Clear
+1883-08-01					
+1883-08-02		18.3	NW	Breeze	Clear
+1883-08-03					
+1883-08-04		27.4	NE	Wind	Clear
+1883-08-05		30.1	NE	Breeze	Clear
+1883-08-06		29.3	S	Breeze	Clear
+1883-08-07		27.7	SW	Breeze	Clear
+1883-08-08		27.1	WNW	Calm	Clear
+1883-08-09		27.3	W	Calm	Clear
+1883-08-10		26.9	NW	Calm	Clear
+1883-08-11		25.9	W	Breeze	Clear
+1883-08-12		30.8	SW	Breeze	Clear
+1883-08-13					
+1883-08-14					
+1883-08-15		22.1	NW	Wind	Clear
+1883-08-16		21.8	N	Wind	Clouds
+1883-08-17		23.3	NE	Breeze	Clear
+1883-08-18		26.4	NE	Wind	Clear
+1883-08-19		27.1	NE	Breeze	Clear
+1883-08-20		28.7	NE	Breeze	Clear
+1883-08-21		29.4	NE	Calm	Clear
+1883-08-22		24.9	S	Wind	Almost covered
+1883-08-23		21.6	N	Breeze	Covered
+1883-08-24					
+1883-08-25		26.5	NNE	Wind	Clear
+1883-08-26					
+1883-08-27		27.8	NE	Breeze	Clear
+1883-08-28		28.0	NE		Clear
+1883-08-29		28.1	N	Breeze	Clear
+1883-08-30		26.6	NW	Calm	Clear
+1883-08-31					
+1883-09-01					
+1883-09-02					
+1883-09-03		16.7	SSW	Wind	Clouds
+1883-09-04		15.5	NW	Wind	Clear
+1883-09-05		18.1	NNW	Wind	Clear
+1883-09-06		19.7	W	Wind	Clear
+1883-09-07		22.7	N	Breeze	Clear
+1883-09-08					
+1883-09-09		18.1	S	Calm	Clear
+1883-09-10		#14.8	SE		Clear
+1883-09-11		24.6	NW	Breeze	Clear
+1883-09-12		19.7	N	Wind	Clouds
+1883-09-13		20.6	NE	Breeze	Clear
+1883-09-14		25.5	NE	Breeze	Clear
+1883-09-15		17.5	S	Wind	Cloudy
+1883-09-16					
+1883-09-17		22.7	WSW	Calm	Cloudy
+1883-09-18		23.4	W	Breeze	Clear
+1883-09-19		24.2	S	Breeze	Clear
+1883-09-20		20.2	S	Wind	Cloudy
+1883-09-21		16.5	SE	Wind	Clouds
+1883-09-22		19.6	S	Breeze	Cloudy
+1883-09-23		20.8	WSW	Breeze	Cloudy
+1883-09-24		20.3	SW	Wind	Cloudy
+1883-09-25		24.2	W	Breeze	Clouds
+1883-09-26		24.4	W	Breeze	Clouds
+1883-09-27		21.7	W	Breeze	Clouds
+1883-09-28		16.3	NW	Wind	Clear
+1883-09-29		19.3	NW	Wind	Cloudy
+1883-09-30					
+1883-10-01		13.4	W	Wind	Clear
+1883-10-02		13.2	NNW	Wind	Clear
+1883-10-03		12.1	NW	Breeze	Clear
+1883-10-04		14.6	W	Wind	Some clouds
+1883-10-05		14.0	N	Breeze	Clear
+1883-10-06		13.8	N	Breeze	Clouds
+1883-10-07					
+1883-10-08		8.2	NE	Strong wind	Rainy
+1883-10-09		11.1	ENE	Wind	Covered
+1883-10-10		16.0	ENE	Wind	Covered
+1883-10-11		14.1	WSW	Breeze	Almost covered
+1883-10-12		11.8	S	Wind	Almost covered
+1883-10-13		16.2	SW	Calm	Clear
+1883-10-14					
+1883-10-15		17.9	S	Breeze	Clouds
+1883-10-16		11.4	SSW	Breeze	Covered
+1883-10-17		15.5	S	Calm	Covered
+1883-10-18		19.3	N	Wind	Clear
+1883-10-19					
+1883-10-20		19.9	N	Calm	Clear
+1883-10-21		13.8	W	Breeze	Almost covered
+1883-10-22		9.4	N	Wind	Clear
+1883-10-23		11.4	ENE	Breeze	Clear
+1883-10-24		14.0	SW	Breeze	Clear
+1883-10-25		14.0	NE	Breeze	Clear
+1883-10-26		12.5	ENE	Wind	Rainy
+1883-10-27		16.1	S	Wind	Covered
+1883-10-28		16.1	SE	Wind	Covered
+1883-10-29		13.7	S	Wind	Rainy
+1883-10-30		14.8	NNE	Wind	Covered
+1883-10-31		14.2	NE	Wind	Covered
+1883-11-01		14.0	NE	Wind	Almost covered
+1883-11-02		14.3	N	Wind	Almost clear
+1883-11-03		13.6	ENE	Breeze	Covered
+1883-11-04					
+1883-11-05		16.0	NW	Calm	Clear
+1883-11-06		11.4	S	Wind	Fog
+1883-11-07		13.2	S	Wind	Covered
+1883-11-08		9.7	NW	Wind	Clear
+1883-11-09		8.3	NW	Breeze	Clear
+1883-11-10		8.8	N	Breeze	Clear
+1883-11-11		10.3	N	Breeze	Clear
+1883-11-12		12.4	W	Breeze	Clouds
+1883-11-13		11.4	W	Breeze	Clouds
+1883-11-14		9.2	S	Breeze	Clouds
+1883-11-15		11.3	E	Breeze	Clear
+1883-11-16		10.9	W	Breeze	Clear
+1883-11-17		9.0	NW	Wind	Clear
+1883-11-18					
+1883-11-19		12.4	N	Calm	Clear
+1883-11-20		9.4	N	Wind	Clouds
+1883-11-21		11.0	N	Calm	Clouds
+1883-11-22		8.2	W	Breeze	Clear
+1883-11-23					
+1883-11-24		13.0	SW	Breeze	Covered
+1883-11-25					
+1883-11-26		10.2	S	Wind	Covered
+1883-11-27		7.3		Wind	Clear
+1883-11-28		4.1	NE	Breeze	Clear
+1883-11-29		7.2	NE	Wind	Clear
+1883-11-30		6.9	NE	Wind	Clear
+1883-12-01		5.8	N	Wind	Clear
+1883-12-02		7.6	N	Breeze	Clear
+1883-12-03		7.1	S	Breeze	Clear
+1883-12-04		5.0	N	Breeze	Clear
+1883-12-05		8.9	W	Wind	Clear
+1883-12-06		4.1	S	Wind	Fog
+1883-12-07		5.2	N	Strong wind	Clear
+1883-12-08		2.0	N	Strong wind	Clear
+1883-12-09					
+1883-12-10		0.4	NW	Breeze	Clear
+1883-12-11		8.8	NW	Breeze	Clear
+1883-12-12		4.6	NW	Breeze	Clear
+1883-12-13		4.8	N	Wind	Clear
+1883-12-14		5.3	NE	Breeze	Clear
+1883-12-15		4.2	N	Breeze	Cloudy
+1883-12-16					
+1883-12-17		4.7	N	Wind	Clouds
+1883-12-18		1.4	NE	Strong wind	Covered
+1883-12-19		0.6	NE	Strong wind	Almost clear
+1883-12-20		2.4	NE	Strong wind	Covered
+1883-12-21		4.8	NE	Wind	Covered
+1883-12-22		6.1	NE	Wind	Covered
+1883-12-23		6.4	SE	Wind	Cloudy
+1883-12-24		5.5	NE	Wind	Cloudy
+1883-12-25					
+1883-12-26		6.0	NE	Breeze	Clear
+1883-12-27		5.0	NE	Breeze	Clear
+1883-12-28		3.9	NE	Breeze	Clear
+1883-12-29		5.6	NE	Breeze	Clear
+1883-12-30					
+1883-12-31		2.4	NE	Wind	Cloudy
+1884-01-01		7.2	E	Wind	Rainy
+1884-01-02		11.1	SE	Wind	Rainy
+1884-01-03		10.2	SE	Wind	Covered
+1884-01-04		14.3	E	Breeze	Clouds
+1884-01-05		9.0	NE	Calm	Some clouds
+1884-01-06					
+1884-01-07		12.4	NE	Breeze	Clear
+1884-01-08		8.6	NE	Wind	Clear
+1884-01-09		6.6	NNW	Breeze	Clear
+1884-01-10		8.4	NE	Breeze	Clear
+1884-01-11		4.3	NE	Breeze	Clear
+1884-01-12		5.5	NE	Calm	Clear
+1884-01-13		6.8	NE	Breeze	Clear
+1884-01-14		6.2	NE	Breeze	Clear
+1884-01-15		3.8	NNE	Wind	Clear
+1884-01-16		7.7	NE	Calm	Clear
+1884-01-17		7.5	NE	Breeze	Clear
+1884-01-18		5.6	NE	Breeze	Clear
+1884-01-19		4.4	NE	Calm	Clear
+1884-01-20		5.7	NE	Breeze	Clear
+1884-01-21		3.5	NE	Calm	Clear
+1884-01-22		4.1	NE	Breeze	Clear
+1884-01-23		5.2	NW	Breeze	Clear
+1884-01-24		10.0	W	Breeze	Clouds
+1884-01-25		5.3	SW	Breeze	Rainy
+1884-01-26		7.5	WNW	Calm	Almost clear
+1884-01-27		3.8	W	Breeze	Covered
+1884-01-28		11.6	SSW	Wind	Covered
+1884-01-29		11.7	S	Breeze	Covered
+1884-01-30		7.8	NE	Breeze	Clear
+1884-01-31		11.5	E	Breeze	Clear
+1884-02-01		8.0	S	Wind	Covered
+1884-02-02		6.3	SW	Breeze	Covered
+1884-02-03		5.5	S	Wind	Almost clear
+1884-02-04		7.2	NE	Wind	Covered
+1884-02-05		8.8	NE	Strong wind	Clouds
+1884-02-06		7.4	N	Wind	Covered
+1884-02-07		7.3	NE	Breeze	Covered
+1884-02-08					
+1884-02-09		8.2		Wind	Covered
+1884-02-10					
+1884-02-11		12.8	WSW	Breeze	Covered
+1884-02-12		8.2	NNW	Calm	Fog
+1884-02-13		10.1	S	Wind	Clouds
+1884-02-14		10.7	E	Wind	Clear
+1884-02-15		9.8	SE	Wind	Covered
+1884-02-16					
+1884-02-17					
+1884-02-18		11.3	SSE	Breeze	Clouds
+1884-02-19		7.5	S	Wind	Covered
+1884-02-20		8.1	W	Breeze	Clear
+1884-02-21		8.6	S	Wind	Covered
+1884-02-22		11.2	S	Wind	Clouds
+1884-02-23		7.7	WSW	Wind	Cloudy
+1884-02-24		8.4	WNW	Breeze	Clear
+1884-02-25		11.1	N	Breeze	Clouds
+1884-02-26					
+1884-02-27		8.0	S	Wind	Covered
+1884-02-28		9.8		Wind	Covered
+1884-02-29		5.1	SSW	Wind	Rainy
+1884-03-01	752.1	10.0	WSW	Breeze	Clear
+1884-03-02		8.6	SW	Calm	Clear
+1884-03-03		8.7	NNW	Wind	Clear
+1884-03-04		8.5	S	Wind	Cloudy
+1884-03-05		8.6	NNE	Wind	Covered
+1884-03-06		8.3	N	Wind	Clear
+1884-03-07		11.2	NW	Breeze	Almost clear
+1884-03-08		8.0	NW	Wind	Clouds
+1884-03-09					
+1884-03-10		11.0	S	Wind	Covered
+1884-03-11	751.6	11.3	S	Strong wind	Rainy
+1884-03-12	761.3	8.6	W	Wind	Almost clear
+1884-03-13	767.6	13.8	ESE	Calm	Clear
+1884-03-14	766.8	11.4	SE	Breeze	Clear
+1884-03-15	762.2	13.4	E	Wind	Clouds
+1884-03-16	760.3	12.5	E	Wind	Almost covered
+1884-03-17	758.3	13.0	NE	Strong wind	Covered
+1884-03-18	763.6	12.1	N	Strong wind	Clear
+1884-03-19	762.9	13.3	NE	Strong wind	Clear
+1884-03-20	764.6	14.8	NE	Calm	Clouds
+1884-03-21	768.3	10.8	NE	Breeze	Clear
+1884-03-22	765.9	11.3	N	Breeze	Clear
+1884-03-23	762.3	14.2	NW	Calm	
+1884-03-24	761.2	11.8	SE	Wind	Clear
+1884-03-25	759.8	11.0	S	Wind	Clear
+1884-03-26	757.4	10.8	WNW	Breeze	Clouds
+1884-03-27	755.8	11.0	SE	Wind	Cloudy
+1884-03-28	755.4	10.0	ENE	Calm	Almost covered
+1884-03-29	752.9	9.4	SW	Breeze	Some clouds
+1884-03-30	752.4	11.4	S	Calm	Clouds
+1884-03-31	755.7	14.2	S	Calm	Clouds
+1884-04-01	761.0	11.0	SW	Wind	Almost covered
+1884-04-02	754.4	10.0	SSE	Strong wind	Covered
+1884-04-03	758.7	8.8	S	Strong wind	Cloudy
+1884-04-04	752.2	12.0	S	Strong wind	Rainy
+1884-04-05	752.5	11.1	S	Strong wind	Rainy
+1884-04-06	755.4	8.7	SW	Wind	Covered
+1884-04-07	764.2	11.0	S	Wind	Cloudy
+1884-04-08	763.4	11.9	SSE	Wind	Covered
+1884-04-09	759.6	13.3	WSW	Calm	Covered
+1884-04-10	761.9	11.3	SSW	Breeze	Clear
+1884-04-11	759.3	17.5	E	Breeze	Clear
+1884-04-12					
+1884-04-13	756.8	12.0	SE	Calm	Covered
+1884-04-14	754.5	13.8	NNW	Breeze	Cloudy
+1884-04-15	756.3	11.1	W	Wind	Cloudy
+1884-04-16	757.0	4.2	W	Breeze	Covered
+1884-04-17	756.2	11.2	S	Breeze	Almost clear
+1884-04-18	754.6	9.3	SSE	Wind	Covered
+1884-04-19	757.2	11.0	SSW	Breeze	Almost covered
+1884-04-20	760.1	12.8	SW	Breeze	Cloudy
+1884-04-21	755.0	10.2	E	Wind	Covered
+1884-04-22	750.0	10.4	E	Wind	Rainy
+1884-04-23	754.8	11.4	S	Strong wind	Almost covered
+1884-04-24	756.6	10.0	SSW	Strong wind	Almost covered
+1884-04-25	758.2	9.0	SW	Wind	Cloudy
+1884-04-26	761.4	10.5	NE	Breeze	Cloudy
+1884-04-27	767.0	11.5	NW	Breeze	Clear
+1884-04-28	763.2	16.1	E	Wind	Cloudy
+1884-04-29	760.5	8.8	NW	Wind	Cloudy
+1884-04-30	763.6	10.2	NW	Breeze	Clear
+1884-05-01					
+1884-05-02	768.1	15.3	NNE	Breeze	Clear
+1884-05-03	766.1	18.8	NE	Breeze	Clear
+1884-05-04	761.9	21.4	S	Breeze	Clear
+1884-05-05	763.6	16.2	W	Breeze	Clear
+1884-05-06	764.8	14.8	WSW	Wind	Cloudy
+1884-05-07	768.8	15.7	ENE	Wind	Clear
+1884-05-08	769.2	18.2	N	Breeze	Clear
+1884-05-09	767.5	19.0		Wind	Clear
+1884-05-10	766.6	17.9	NE	Wind	Clear
+1884-05-11	764.5	19.2	NE	Breeze	Clear
+1884-05-12	760.4	16.8	S	Wind	Almost covered
+1884-05-13	765.2	17.2	S	Calm	Clear
+1884-05-14	766.8	18.4	NW	Breeze	Clear
+1884-05-15	768.9	19.0	N	Wind	Clear
+1884-05-16	766.5	21.0	NE	Wind	Clear
+1884-05-17	762.5	15.8	E	Wind	Rainy
+1884-05-18					
+1884-05-19	759.0	13.0	SW	Breeze	Covered
+1884-05-20		12.4	NW	Wind	Clouds
+1884-05-21	764.6	13.5	N	Strong wind	Covered
+1884-05-22					
+1884-05-23	765.2	18.7	NE	Wind	Cloudy
+1884-05-24					
+1884-05-25	766.1	16.1	S	Breeze	Covered
+1884-05-26	763.1	17.5	N	Calm	Cloudy
+1884-05-27	764.2	22.3	WSW	Calm	Clear
+1884-05-28	767.0	21.6	SW	Breeze	Clear
+1884-05-29	763.5	20.7	SW	Breeze	Clear
+1884-05-30	761.7	18.0	W	Calm	Clear
+1884-05-31	764.9	20.0	S	Breeze	Clear
+1884-06-01	766.5	18.1	S	Wind	Almost clear
+1884-06-02	765.4	15.7	SW	Wind	Almost covered
+1884-06-03	768.4	12.7	W	Wind	Clouds
+1884-06-04	769.3	14.1	N	Wind	Clear
+1884-06-05					
+1884-06-06	767.6	20.2	W	Breeze	Clear
+1884-06-07	766.6	17.0	W	Breeze	Clear
+1884-06-08					
+1884-06-09	767.0	20.2	N	Breeze	Clouds
+1884-06-10	763.0	12.8	NE	Breeze	Clear
+1884-06-11	768.0	20.0	N	Wind	Clear
+1884-06-12	768.5	19.1	NE	Wind	Clear
+1884-06-13	763.0	21.0	NE	Breeze	Clear
+1884-06-14	767.5	21.1	NE	Wind	Clear
+1884-06-15	766.8	21.3	NE	Breeze	Clear
+1884-06-16	765.2	24.2	SE	Breeze	Clear
+1884-06-17	762.2	25.5	NNE	Breeze	Clear
+1884-06-18	762.1	22.4	S	Calm	Clouds
+1884-06-19	767.7	16.9		Breeze	Almost covered
+1884-06-20	768.4	21.6	SW	Wind	Clear
+1884-06-21	768.1	21.7	S	Wind	Clear
+1884-06-22					
+1884-06-23	763.2	#23.3	N	Wind	Clear
+1884-06-24	764.6	#11.1	N	Wind	Clear
+1884-06-25	763.8	22.0	NE	Wind	Clouds
+1884-06-26	770.0	22.1	NE	Breeze	Clear
+1884-06-27	768.8	27.1	S	Breeze	Clear
+1884-06-28	769.3	25.2	SSW	Breeze	Clear
+1884-06-29	766.4	28.7	S	Calm	Clear
+1884-06-30	765.4	#28.0	SW	Breeze	Clear
+1884-07-01	766.0	18.1	S	Wind	Clear
+1884-07-02	767.7	25.4	ENE	Calm	Clear
+1884-07-03	766.5	19.7	WSW	Breeze	Clear
+1884-07-04	767.0	20.0	S	Breeze	Clear
+1884-07-05	768.1	21.0	SW	Breeze	Clouds
+1884-07-06	768.7	21.9	N	Breeze	Clear
+1884-07-07	764.9	26.6	SW	Wind	Clear
+1884-07-08	764.5	21.0	S	Breeze	Clear
+1884-07-09	765.5	20.0	SSW	Wind	Clear
+1884-07-10	766.3	17.2	S	Wind	Rainy
+1884-07-11	766.5	20.4	S	Wind	Cloudy
+1884-07-12	756.8	22.5	NE	Breeze	Clear
+1884-07-13	766.3	22.8	W	Calm	Clear
+1884-07-14	766.9	23.2	W	Breeze	Clear
+1884-07-15	766.7	27.5	W	Calm	
+1884-07-16	766.2	24.4	WSW	Breeze	Cloudy
+1884-07-17	765.8	23.3	W	Calm	Clear
+1884-07-18	768.0	25.6	WSW	Breeze	Clear
+1884-07-19	768.5	24.6	N	Breeze	Clear
+1884-07-20	767.5	26.6	NE	Wind	Clear
+1884-07-21		25.6	NW	Wind	Clear
+1884-07-22	762.8	29.1	N	Wind	Clear
+1884-07-23	766.4	30.0	NE	Wind	Clear
+1884-07-24	765.8	28.4	S	Wind	Clear
+1884-07-25					
+1884-07-26	767.0	22.2	N	Wind	Clear
+1884-07-27	766.8	28.4	N	Breeze	Clear
+1884-07-28	768.5	26.6	N	Wind	Clear
+1884-07-29	767.8	25.6	NE	Wind	Clear
+1884-07-30		30.1	ENE	Breeze	Clear
+1884-07-31	767.1	31.5	SE	Breeze	Clear
+1884-08-01	767.9	29.8	S	Breeze	Clear
+1884-08-02	767.7	29.2	S	Breeze	Clear
+1884-08-03	767.7	33.0	W	Breeze	Clear
+1884-08-04	768.7	30.0	W	Calm	Covered
+1884-08-05	766.4	30.8	S	Wind	Clouds
+1884-08-06	764.9	30.2	SE	Calm	Covered
+1884-08-07	760.0	24.4	NE	Wind	Covered
+1884-08-08	765.9	28.5	NE	Breeze	Clear
+1884-08-09	760.6	27.3	S	Calm	Clear
+1884-08-10	765.6	29.9	SE	Wind	Cloudy
+1884-08-11	767.0	29.2	S	Wind	Clear
+1884-08-12	768.4	28.4		Breeze	Clear
+1884-08-13	768.0	26.8	N	Wind	Cloudy
+1884-08-14	767.4	30.0	W	Breeze	Clear
+1884-08-15					
+1884-08-16		20.3	E	Breeze	Clear
+1884-08-17					
+1884-08-18	768.4	27.3	W	Calm	Cloudy
+1884-08-19	766.7	#28.2	SW	Calm	Cloudy
+1884-08-20	767.2	18.8	SE	Wind	Cloudy
+1884-08-21	767.4	22.4	S	Calm	Clear
+1884-08-22	765.6	25.5	SE	Breeze	Clear
+1884-08-23	765.8	24.0	SE	Breeze	Cloudy
+1884-08-24					
+1884-08-25	769.2	20.4	S	Wind	Almost covered
+1884-08-26	766.7	25.0	W	Breeze	Clear
+1884-08-27	756.6	23.4	N	Breeze	Clear
+1884-08-28	766.1	19.6	SSW	Wind	Covered
+1884-08-29	770.5	18.5	S	Breeze	Clear
+1884-08-30	771.2	25.3	N	Breeze	Clouds
+1884-08-31					
+1884-09-01	770.9	18.8	WSW	Breeze	
+1884-09-02	768.6	20.0	S	Breeze	Covered
+1884-09-03	764.9	16.8	S	Strong wind	Covered
+1884-09-04		25.3	NW	Breeze	Clear
+1884-09-05		20.1		Breeze	Clear
+1884-09-06		21.0	W	Calm	Clear
+1884-09-07			NE	Calm	Clear
+1884-09-08	770.9	#25.5	NE	Wind	Clear
+1884-09-09	770.0	#35.5	NE	Breeze	Clear
+1884-09-10	767.1	#17.8	NE	Calm	Clear
+1884-09-11	765.4	#27.3	NW	Calm	Clear
+1884-09-12	767.0	12.7	S	Wind	Clear
+1884-09-13	767.6	16.0	S	Wind	Covered
+1884-09-14					
+1884-09-15	767.5	17.7	S	Wind	Cloudy
+1884-09-16	766.4	19.0	S	Breeze	Cloudy
+1884-09-17	771.3	18.3	W	Breeze	Cloudy
+1884-09-18	771.3	17.5	NNE	Breeze	Clear
+1884-09-19	769.8	20.0	E	Breeze	Cloudy
+1884-09-20	769.8	16.2	S	Wind	Covered
+1884-09-21		17.8	S	Wind	Covered
+1884-09-22	770.1	19.8	SW	Breeze	Clear
+1884-09-23	769.4	17.5	N	Breeze	Clouds
+1884-09-24	770.5	17.7	NE	Breeze	Clouds
+1884-09-25		14.4	N	Wind	Rainy
+1884-09-26	760.5	17.3	NE	Breeze	Clouds
+1884-09-27	762.2	18.8	NE	Breeze	Clear
+1884-09-28	769.6	20.5	E	Calm	Clear
+1884-09-29	771.5	21.5	S	Breeze	Clear
+1884-09-30					
+1884-10-01	771.6	15.7	N	Calm	Fog
+1884-10-02	769.8	18.3	NE	Wind	Clear
+1884-10-03		18.5	NNE	Breeze	Clear
+1884-10-04		19.1	NNE	Wind	Clear
+1884-10-05					
+1884-10-06		13.1	N	Wind	Clear
+1884-10-07		12.2	NE	Wind	Clear
+1884-10-08		12.8	NE	Breeze	Clear
+1884-10-09	767.1	14.4	E	Breeze	Clear
+1884-10-10	766.9	12.9	NW	Wind	Clear
+1884-10-11	768.0	13.7	NNW	Breeze	Clear
+1884-10-12	767.7	12.6	NW	Wind	Clear
+1884-10-13		10.1	N	Wind	Clear
+1884-10-14		12.1	N	Breeze	Clear
+1884-10-15		13.0	NE	Breeze	Clear
+1884-10-16	777.4	13.8	NE	Wind	Clear
+1884-10-17		12.8	NE	Wind	Clear
+1884-10-18	775.2	11.0	N	Wind	Clouds
+1884-10-19	767.2	16.5	NE	Breeze	Clear
+1884-10-20	773.1	15.6	NE	Breeze	Cloudy
+1884-10-21		13.8	E	Breeze	Rainy
+1884-10-22	769.2	12.7	W	Breeze	Covered
+1884-10-23		10.0	SSW	Breeze	Covered
+1884-10-24	762.4	11.5	S	Wind	Covered
+1884-10-25		10.7	NE	Wind	Cloudy
+1884-10-26		10.0	NE	Breeze	Clear
+1884-10-27	772.9	15.7	S	Breeze	Clear
+1884-10-28		15.2	S	Calm	Clear
+1884-10-29	767.2	14.6	SE	Calm	Clouds
+1884-10-30	767.2	14.6	N	Breeze	Almost covered
+1884-10-31	773.9	13.0	NE	Wind	Covered
+1884-11-01	771.7	14.1	NE	Breeze	Covered
+1884-11-02	764.6	15.1	NE	Wind	Covered
+1884-11-03	765.1	14.1	NE	Strong wind	
+1884-11-04	768.4	14.8	N	Wind	Clear
+1884-11-05	771.6	12.8	N	Breeze	Clear
+1884-11-06	769.5	13.7	NE	Breeze	Clear
+1884-11-07	770.0	13.8	S	Calm	Covered
+1884-11-08	774.1	11.9	N	Breeze	Fog
+1884-11-09	773.9	13.6	NNE	Breeze	Clear
+1884-11-10	775.6	13.3	NE	Breeze	Clear
+1884-11-11	774.2	12.3	NE	Breeze	Almost clear
+1884-11-12	771.5	13.3	NNE	Breeze	Almost clear
+1884-11-13	771.7	6.5	N	Breeze	Fog
+1884-11-14	769.4	10.0	NE	Breeze	Clear
+1884-11-15	770.1	10.8	NE	Breeze	Clear
+1884-11-16					
+1884-11-17	772.0	9.5	NE	Breeze	Clear
+1884-11-18	767.4	12.2	S	Breeze	Covered
+1884-11-19	770.2	11.6	NE	Calm	Almost covered
+1884-11-20	769.1	4.4	N	Wind	Clear
+1884-11-21	768.1	1.0	N	Breeze	Clear
+1884-11-22	766.0	2.2	N	Breeze	Clear
+1884-11-23	762.7	3.3	N	Breeze	Clear
+1884-11-24	773.9	1.3	NE	Wind	Clear
+1884-11-25	767.9	0.8	NE	Breeze	Clear
+1884-11-26	774.2	1.0	NE	Wind	Clear
+1884-11-27	776.7	3.2	NE	Wind	Clear
+1884-11-28	771.9	4.1	NE	Wind	Covered
+1884-11-29	764.0	6.5	NE	Wind	Cloudy
+1884-11-30	760.0	4.0	NE	Wind	Clear
+1884-12-01	766.0	3.2	NNW	Wind	Clear
+1884-12-02	773.2	4.9	N	Breeze	Clear
+1884-12-03	777.0	8.0	SW	Breeze	Cloudy
+1884-12-04	776.4	9.0	SW	Breeze	Fog
+1884-12-05	774.0	10.8	SW	Calm	Covered
+1884-12-06	777.6	8.2	W	Calm	Almost covered
+1884-12-07					
+1884-12-08	778.4	3.3	NNE	Wind	Fog
+1884-12-09	768.0	5.0	NE	Calm	Fog
+1884-12-10	777.7	3.6	NE	Wind	Clear
+1884-12-11	777.2	10.9	W	Breeze	Almost clear
+1884-12-12	776.6	10.3	NW	Wind	Clear
+1884-12-13	778.6	6.4	NNE	Breeze	Clear
+1884-12-14					
+1884-12-15	770.5	9.0	ENE	Breeze	Clear
+1884-12-16	774.6	8.2	S	Wind	Almost clear
+1884-12-17	769.7	9.7	S	Wind	Almost clear
+1884-12-18	773.3	4.1	NW	Wind	Clear
+1884-12-19	770.0	6.2	N	Breeze	Fog
+1884-12-20	775.5	7.1	S	Wind	Clouds
+1884-12-21	771.3	6.9	NW	Wind	Clear
+1884-12-22	768.6	4.1	NW	Wind	Cloudy
+1884-12-23	766.9	3.1		Wind	Clear
+1884-12-24					
+1884-12-25	766.0	6.7	E	Calm	Covered
+1884-12-26					
+1884-12-27					
+1884-12-28	762.7	1.1	S	Wind	Covered
+1884-12-29	763.2	7.2	SW	Wind	Covered
+1884-12-30		7.6	S	Breeze	Fog
+1884-12-31		3.2	N	Wind	Fog
+1885-01-01		0.2	N	Breeze	Fog
+1885-01-02		1.7	N	Breeze	Clouds
+1885-01-03	768.4	4.6	NE	Wind	Rainy
+1885-01-04					
+1885-01-05	#764.1	3.3	N	Breeze	Clear
+1885-01-06	777.4	4.0	WNW	Breeze	Clear
+1885-01-07	778.9	2.2	N	Breeze	Clouds
+1885-01-08	776.2	4.1	NE	Breeze	Clear
+1885-01-09	769.0	5.0	W	Breeze	Almost covered
+1885-01-10	774.0	6.1	N	Calm	Fog
+1885-01-11					
+1885-01-12	765.7	3.8	W	Wind	Almost clear
+1885-01-13	770.7	3.1	WNW	Wind	Clear
+1885-01-14	759.3	4.7	S	Wind	Cloudy
+1885-01-15	761.9	4.0	W	Wind	Clear
+1885-01-16	760.4	3.2	NW	Breeze	Clear
+1885-01-17	765.4	0.3	N	Calm	Clouds
+1885-01-18	772.0	3.3	N	Breeze	Cloudy
+1885-01-19	770.5	2.2	ENE	Wind	Almost covered
+1885-01-20	#766.2	4.3	ENE	Wind	Clouds
+1885-01-21	753.1	3.7	NE	Wind	Covered
+1885-01-22	755.9	6.2	E	Wind	Rainy
+1885-01-23	762.4	6.6	E	Wind	Rainy
+1885-01-24	768.1	6.8	NE	Wind	Almost covered
+1885-01-25	768.8	9.0	E	Breeze	Almost clear
+1885-01-26	771.0	9.1	S	Breeze	Rainy
+1885-01-27	774.6	7.2	s	Breeze	Fog
+1885-01-28	774.5	9.0	E	Breeze	Clouds
+1885-01-29	767.7	11.1	S	Wind	Covered
+1885-01-30	756.0	7.2	W	Wind	Rainy
+1885-01-31					
+1885-02-01	768.7	11.1	S	Wind	Almost covered
+1885-02-02	761.9	11.1	S	Strong wind	Covered
+1885-02-03	#766.9	8.1	S	Wind	Almost covered
+1885-02-04	#752.1	12.0	WSW	Wind	Cloudy
+1885-02-05	765.3	11.6	WSW	Wind	Covered
+1885-02-06	774.5	8.0	S	Calm	Clear
+1885-02-07	775.7	10.6	SW	Breeze	Almost covered
+1885-02-08	770.2	8.3	W	Breeze	Fog
+1885-02-09	775.5	14.0	SSW	Breeze	Cloudy
+1885-02-10	775.0	8.8	W	Breeze	Clear
+1885-02-11	773.7	9.6	NE	Breeze	Clear
+1885-02-12	771.7	10.5	ENE	Breeze	Clear
+1885-02-13	770.2	11.5	ENE	Breeze	Clear
+1885-02-14	766.3	15.2	E	Wind	Cloudy
+1885-02-15	765.2	12.5	SSE	Breeze	Almost covered
+1885-02-16	#763.4	10.5	S	Wind	Almost covered
+1885-02-17	#747.0	11.0	S	Strong wind	Covered
+1885-02-18	764.1	11.2	S	Breeze	Covered
+1885-02-19	755.4	12.2	S	Wind	Covered
+1885-02-20	759.5	11.2	S	Strong wind	Cloudy
+1885-02-21	769.7	11.0	S	Wind	Almost covered
+1885-02-22					
+1885-02-23	769.9	12.5	NE	Wind	Clear
+1885-02-24	767.6	11.1	NE	Breeze	Covered
+1885-02-25	772.7	9.3	NW	Wind	Clear
+1885-02-26	775.3	13.0	W	Calm	Clear
+1885-02-27	775.2	9.6	S	Breeze	Rainy
+1885-02-28	776.6	7.7	W	Breeze	Clear
+1885-03-01	771.3	9.0	SSW	Breeze	Covered
+1885-03-02	769.2	8.0	W	Breeze	Covered
+1885-03-03	769.7	11.8	WSW	Breeze	Covered
+1885-03-04	760.4	12.4	S	Wind	Almost covered
+1885-03-05	754.1	16.0	SE	Strong wind	Covered
+1885-03-06	764.5	10.0	S	Strong wind	Almost covered
+1885-03-07	756.4	9.7	SE	Wind	Covered
+1885-03-08					
+1885-03-09	761.7	8.7	S	Wind	Covered
+1885-03-10	760.6	10.7	E	Wind	Rainy
+1885-03-11	762.3	9.6	E	Breeze	Almost covered
+1885-03-12	761.4	9.6	NNW	Breeze	Almost covered
+1885-03-13	763.8	9.8	NW	Breeze	Clear
+1885-03-14	767.5	11.4	E	Wind	Cloudy
+1885-03-15	771.1	10.4	NE	Calm	Clear
+1885-03-16	771.9	9.4	NE	Wind	Clear
+1885-03-17	768.8	5.4	NE	Wind	Rainy
+1885-03-18	763.6	8.0	NE	Breeze	Covered
+1885-03-19	756.0	8.1	N	Breeze	Covered
+1885-03-20	765.1	6.2	NE	Wind	Covered
+1885-03-21	767.8	11.2	NE	Breeze	Clouds
+1885-03-22	768.5	8.8	N	Breeze	Clear
+1885-03-23	763.9	8.4	N	Strong wind	Covered
+1885-03-24	767.3	5.2	N	Wind	Clear
+1885-03-25					
+1885-03-26					
+1885-03-27	768.9	13.0	NW	Wind	Cloudy
+1885-03-28	774.2	9.8	N	Wind	Clear
+1885-03-29					
+1885-03-30	#773.2	6.0	WNW	Wind	Covered
+1885-03-31	757.6	8.0	E	Breeze	Covered
+1885-04-01	766.2	9.8	NE	Wind	Clear
+1885-04-02					
+1885-04-03					
+1885-04-04					
+1885-04-05					
+1885-04-06					
+1885-04-07					
+1885-04-08					
+1885-04-09					
+1885-04-10					
+1885-04-11					
+1885-04-12					
+1885-04-13					
+1885-04-14					
+1885-04-15					
+1885-04-16					
+1885-04-17					
+1885-04-18					
+1885-04-19					
+1885-04-20					
+1885-04-21					
+1885-04-22					
+1885-04-23					
+1885-04-24					
+1885-04-25					
+1885-04-26					
+1885-04-27					
+1885-04-28					
+1885-04-29					
+1885-04-30					
+1885-05-01	768.6	16.2	W	Breeze	Clear
+1885-05-02	766.9	16.0	SW	Wind	Almost clear
+1885-05-03	766.7	15.0	SW	Wind	Cloudy
+1885-05-04					
+1885-05-05	764.0	15.1	S	Wind	
+1885-05-06	764.4	14.8	S	Wind	Cloudy
+1885-05-07	767.5	17.5	SW	Breeze	Cloudy
+1885-05-08					
+1885-05-09					
+1885-05-10					
+1885-05-11	769.2	18.8	S	Breeze	Clear
+1885-05-12	765.7	21.7	SSW	Breeze	Clear
+1885-05-13	764.3	18.8	SW	Breeze	Clouds
+1885-05-14					
+1885-05-15	771.2	13.8	N	Wind	Clear
+1885-05-16	769.8	16.4	NE	Breeze	Clear
+1885-05-17					
+1885-05-18	767.7	19.2	NW	Breeze	Clear
+1885-05-19		18.1	NE	Breeze	Clear
+1885-05-20	768.9	18.6	SW	Breeze	Clear
+1885-05-21	768.5	14.9	W	Breeze	Cloudy
+1885-05-22		14.5	WNW	Breeze	Clear
+1885-05-23	769.5	17.7	NW	Breeze	Clear
+1885-05-24					
+1885-05-25	767.9	20.2	NNW	Breeze	Clear
+1885-05-26	769.3	23.2	NE	Breeze	Clear
+1885-05-27	768.3	24.8	S	Breeze	Clear
+1885-05-28	766.5	26.2	WNW	Breeze	Almost clear
+1885-05-29	768.9	21.0	W	Calm	Clear
+1885-05-30		22.1	W	Calm	Clouds
+1885-05-31					
+1885-06-01	768.9	27.1	E	Calm	Clear
+1885-06-02	766.1	29.2	SE	Breeze	Clear
+1885-06-03	766.2	25.2	W	Breeze	Clouds
+1885-06-04					
+1885-06-05	768.7	19.0	NE	Wind	Cloudy
+1885-06-06		22.2	NE	Breeze	Clear
+1885-06-07	767.2	27.2	W	Breeze	Clear
+1885-06-08	766.3	19.8	W	Breeze	Clouds
+1885-06-09	765.4	17.0	W	Wind	Clouds
+1885-06-10	765.9	21.6	NNW	Calm	Clear
+1885-06-11		21.6	N	Wind	Clear
+1885-06-12	767.0	22.4	N	Breeze	Clear
+1885-06-13		24.2	E	Wind	Clouds
+1885-06-14					
+1885-06-15	766.5	23.3	W		Cloudy
+1885-06-16	763.5	19.8	S	Wind	Almost clear
+1885-06-17	763.2	19.0		Breeze	Clear
+1885-06-18	766.0	18.8	SW	Breeze	Covered
+1885-06-19	768.4	21.2	N	Calm	Clouds
+1885-06-20	768.3	24.4	W	Calm	Clear
+1885-06-21	770.7	23.4	N	Breeze	Clear
+1885-06-22	768.7	23.2	ESE	Calm	Clear
+1885-06-23	767.3	26.7	S	Breeze	
+1885-06-24	768.3	18.4	W	Breeze	Clear
+1885-06-25	765.7	19.9	S	Breeze	Cloudy
+1885-06-26	766.4	16.7	WSW	Breeze	Almost covered
+1885-06-27	768.2	15.0		Wind	Covered
+1885-06-28	760.1	18.6	S	Breeze	Almost clear
+1885-06-29					
+1885-06-30	767.3	16.1	W	Breeze	Covered
+1885-07-01	767.2	21.2	S	Breeze	Clouds
+1885-07-02	767.4	20.1	SE	Breeze	Cloudy
+1885-07-03	#760.3	17.8	S	Breeze	Cloudy
+1885-07-04	773.2	21.1	W	Calm	Cloudy
+1885-07-05	774.9	20.1	NW	Calm	Clear
+1885-07-06	773.7	21.4	NNE	Breeze	Cloudy
+1885-07-07	771.7	25.1	NE	Breeze	Clear
+1885-07-08	769.9	26.2	N	Breeze	Clear
+1885-07-09	768.3	27.6	NE	Wind	Clear
+1885-07-10	766.6	#28.3	S	Breeze	Clear
+1885-07-11	768.1	19.0	SW	Calm	Clear
+1885-07-12					
+1885-07-13	766.6	27.4	S	Breeze	Clear
+1885-07-14	767.3	25.4	E	Calm	Clear
+1885-07-15	768.4	26.0	NE	Wind	Clear
+1885-07-16	767.5	29.1	ENE	Breeze	Clear
+1885-07-17	767.3	23.3	S	Breeze	Clear
+1885-07-18	766.4	26.8	W	Breeze	Clear
+1885-07-19					
+1885-07-20	767.8	27.4	NE	Breeze	Clear
+1885-07-21	769.7	31.0	NW	Calm	Clear
+1885-07-22	770.0	31.7	S	Calm	Clear
+1885-07-23	766.6	30.5	S	Calm	Clear
+1885-07-24	764.2	27.8	S	Calm	Clear
+1885-07-25	764.3	24.8	E	Wind	Cloudy
+1885-07-26					
+1885-07-27	767.1	22.9	SE	Wind	Cloudy
+1885-07-28	756.1	#15.7	S	Wind	Rainy
+1885-07-29	766.3	25.0	SSW	Breeze	Clear
+1885-07-30	765.1	16.2	SSW	Calm	Clear
+1885-07-31	764.9	22.8	S	Wind	Cloudy
+1885-08-01	765.1	21.5	S	Wind	Cloudy
+1885-08-02					
+1885-08-03		24.0	WSW	Breeze	Clear
+1885-08-04		20.2	SW	Breeze	Clear
+1885-08-05		25.8	S	Calm	Clear
+1885-08-06	765.7	21.6	S	Breeze	Clear
+1885-08-07	763.9	24.1	W	Breeze	Clear
+1885-08-08	767.8	22.0	NW	Breeze	Clear
+1885-08-09					
+1885-08-10	765.9	28.0	S	Calm	Clear
+1885-08-11	766.3	25.4	W	Calm	Clear
+1885-08-12	766.4	22.7	S	Breeze	Clear
+1885-08-13	767.3	23.7	S	Calm	Clear
+1885-08-14	768.0	25.3	NW	Breeze	Clear
+1885-08-15	768.5	31.5	S	Calm	Clear
+1885-08-16					
+1885-08-17	764.0	34.5	SW	Calm	Clear
+1885-08-18	765.4	30.2	NW	Breeze	Clear
+1885-08-19		23.0		Calm	Clouds
+1885-08-20	764.8	24.9	W	Wind	Clear
+1885-08-21	761.0	24.4	W	Wind	Clouds
+1885-08-22	765.7	22.4	SW	Wind	Clear
+1885-08-23					
+1885-08-24	764.6	22.7	S	Breeze	Clear
+1885-08-25	765.9	21.4	S		Almost covered
+1885-08-26	766.3	22.5	SW	Breeze	Clear
+1885-08-27	764.3	22.1	SW	Breeze	Clouds
+1885-08-28	756.1	15.7	S	Wind	Rainy
+1885-08-29	756.6	18.3	NW	Wind	Clear
+1885-08-30	763.0	22.0	N	Wind	Almost clear
+1885-08-31	763.6	21.3	NW	Breeze	Clear
+1885-09-01	765.2	21.7	NW	Strong breeze	Clear
+1885-09-02	761.8	24.8	NNW	Breeze	Clear
+1885-09-03	760.3	21.9	S	Breeze	Cloudy
+1885-09-04	764.8	17.4	WSW	Wind	Cloudy
+1885-09-05	764.4	21.4	W	Breeze	Clear
+1885-09-06	763.7		S	Wind	Clouds
+1885-09-07	766.9	15.6	W	Wind	Some clouds
+1885-09-08	768.6	18.0	NE	Strong wind	Clear
+1885-09-09	768.1	22.0	NW	Breeze	Clear
+1885-09-10	764.6	25.3	N	Calm	Clear
+1885-09-11	764.7	23.0	N	Wind	Clear
+1885-09-12	769.0	21.4	NE	Wind	Clouds
+1885-09-13					
+1885-09-14	765.6	27.1	S	Wind	Clear
+1885-09-15	766.2	25.1	NE	Wind	Clear
+1885-09-16	763.2	27.3	E	Wind	Cloudy
+1885-09-17	764.6	18.9	S	Wind	Clouds
+1885-09-18	764.5	18.7	W	Wind	Cloudy
+1885-09-19	765.7	19.1	N	Breeze	Clear
+1885-09-20					
+1885-09-21	765.0	22.8	NE	Calm	Clear
+1885-09-22	765.3	21.7	N	Strong breeze	Clear
+1885-09-23	766.6	22.1	NE	Wind	Clouds
+1885-09-24	765.5	21.4	ENE	Wind	Cloudy
+1885-09-25	756.4	#20.6	N	Breeze	
+1885-09-26	751.0	9.5	N	Wind	Rainy
+1885-09-27	755.8	15.8	N	Breeze	Almost covered
+1885-09-28	764.2	14.2	NE	Wind	Almost covered
+1885-09-29	760.6	15.0	NE	Breeze	Clear
+1885-09-30	770.2	17.1	SSW	Calm	Clear
+1885-10-01	768.1	16.8	SW	Breeze	Clouds
+1885-10-02	768.1	16.5	NW	Breeze	Clear
+1885-10-03	767.1	19.2	S	Breeze	Clear
+1885-10-04	765.9	20.5	SSW	Breeze	Clear
+1885-10-05	765.4	17.2	NW	Breeze	Covered
+1885-10-06	765.0	18.1	E	Calm	Clear
+1885-10-07	766.3	18.3	NW	Breeze	Clear
+1885-10-08	766.7	18.4	NNW	Calm	Clear
+1885-10-09	764.0	19.0	W	Breeze	Clouds
+1885-10-10	762.2	16.0	W	Wind	Clear
+1885-10-11	763.0	12.9	NW	Strong wind	Clear
+1885-10-12	764.4	12.3	NW	Wind	Clear
+1885-10-13	759.8	12.0	NE	Wind	Clear
+1885-10-14	764.4	9.0	NW	Wind	Clouds
+1885-10-15	758.5	9.8	NW	Wind	Cloudy
+1885-10-16	763.1	10.7	S	Wind	Clear
+1885-10-17	766.4	11.4	NE	Breeze	Cloudy
+1885-10-18	765.0	15.4	S	Calm	Cloudy
+1885-10-19	761.4	12.0	S	Wind	Cloudy
+1885-10-20					
+1885-10-21					
+1885-10-22	762.8	11.2	SW	Breeze	Clouds
+1885-10-23	759.1	12.8	S	Wind	Covered
+1885-10-24	757.3	9.4	WSW	Breeze	Covered
+1885-10-25					
+1885-10-26	767.1	11.3	W	Breeze	Cloudy
+1885-10-27	771.0	14.2	W	Wind	Cloudy
+1885-10-28	770.1	15.7	W	Breeze	Clear
+1885-10-29	766.5	15.0	W	Breeze	Clear
+1885-10-30					
+1885-10-31	765.0	11.2	W	Breeze	Covered
+1885-11-01					
+1885-11-02	768.7	7.4	N	Breeze	Clouds
+1885-11-03	766.0	7.2	NW	Breeze	Clear
+1885-11-04	767.0	12.0	SW	Breeze	Clouds
+1885-11-05	769.8	10.4	N	Breeze	Clear
+1885-11-06	770.9	9.8	NW	Breeze	Clear
+1885-11-07	767.4	9.8	N	Breeze	Clear
+1885-11-08	765.7	9.1	NE	Breeze	Clear
+1885-11-09	765.8	10.4	NNW	Breeze	Clear
+1885-11-10	765.0	9.0	N	Breeze	Clear
+1885-11-11	762.7	10.7	NE	Wind	Clear
+1885-11-12	761.0	10.2	ENE	Strong wind	Rainy
+1885-11-13	761.0	13.1	ENE	Breeze	Almost covered
+1885-11-14	759.9	11.7	NE	Breeze	Covered
+1885-11-15	759.3	14.0	NE	Breeze	Cloudy
+1885-11-16	758.9	11.2	E	Wind	Rainy
+1885-11-17	755.6	12.4	SSE	Wind	Rainy
+1885-11-18	749.9	12.0	S	Breeze	Covered
+1885-11-19	755.3	11.3	W	Breeze	Covered
+1885-11-20	759.7	13.4	W	Breeze	Almost clear
+1885-11-21	755.2	12.2	SW	Breeze	Rainy
+1885-11-22					
+1885-11-23	756.2	9.3	S	Breeze	Covered
+1885-11-24	759.0	14.0	S	Breeze	Covered
+1885-11-25	760.7	15.0	SW	Breeze	Covered
+1885-11-26	763.1	14.0	SE	Wind	Rainy
+1885-11-27	769.3	8.1	SW	Wind	Cloudy
+1885-11-28	771.1	9.0	SW	Breeze	Clouds
+1885-11-29					
+1885-11-30	773.6	5.0		Wind	Fog
+1885-12-01	770.2	3.6	N	Wind	Fog
+1885-12-02	768.4	9.5	S	Wind	Covered
+1885-12-03		4.3	NE	Wind	Covered
+1885-12-04	771.4	6.1	E	Breeze	Clouds
+1885-12-05	771.4	5.2	NNE		Almost covered
+1885-12-06					
+1885-12-07	759.0	9.4	SE	Breeze	Covered
+1885-12-08	757.6	10.8	SE	Wind	Almost covered
+1885-12-09	760.1	10.7	E	Wind	Rainy
+1885-12-10	761.0	10.0	E	Breeze	Covered
+1885-12-11	763.4	9.6	E	Breeze	Cloudy
+1885-12-12	769.1	7.5	NE	Breeze	Covered
+1885-12-13					
+1885-12-14	771.0	2.3	N	Breeze	Fog
+1885-12-15	771.5	4.2			Clouds
+1885-12-16	773.0	6.0	NW	Breeze	Cloudy
+1885-12-17	772.8	5.5	NE	Wind	Clear
+1885-12-18	769.2	5.0	N	Breeze	Clear
+1885-12-19	768.6	5.4	E	Breeze	Clear
+1885-12-20					
+1885-12-21	766.2	7.3	W	Wind	Rainy
+1885-12-22		7.1	S	Breeze	Covered
+1885-12-23	767.3	7.5	NE	Wind	Clear
+1885-12-24	764.0	5.9		Wind	Clear
+1885-12-25		4.2	E	Wind	Covered
+1885-12-26		9.1	NE	Breeze	Cloudy
+1885-12-27					
+1885-12-28	775.4	3.5	NNE	Wind	Fog
+1885-12-29	775.8	2.5	NE	Breeze	Fog
+1885-12-30	771.7	5.2	N	Wind	Clouds
+1885-12-31	777.2	7.4	N	Breeze	Clear
+1886-01-01					
+1886-01-02	769.0	3.5	N	Breeze	Clear
+1886-01-03	770.2	5.0	N	Breeze	Some celajes
+1886-01-04	771.6	4.8	N	Breeze	Clear
+1886-01-05	769.2	8.1	N	Breeze	Clouds
+1886-01-06	766.7	3.4	N	Breeze	Cloudy
+1886-01-07	759.8	4.0	NW	Breeze	Covered
+1886-01-08	762.8	2.8	NW	Wind	Cloudy
+1886-01-09	765.9	3.0	NW	Wind	Clear
+1886-01-10	766.2	5.6	N	Breeze	Clear
+1886-01-11	773.1	7.4	NW	Wind	Clear
+1886-01-12	762.6	3.2	N	Wind	Clear
+1886-01-13	765.6		NW	Wind	Clouds
+1886-01-14	759.8	4.1	N	Strong wind	Clear
+1886-01-15	765.0	3.5	NNW	Breeze	Clear
+1886-01-16	764.3	4.2	NW	Wind	Clear
+1886-01-17					
+1886-01-18	759.0	9.2	S	Strong wind	Rainy
+1886-01-19	758.1	3.2	W	Wind	Covered
+1886-01-20	758.2	2.9	W	Strong wind	Cloudy
+1886-01-21	750.8	8.8	SW	Strong wind	Covered
+1886-01-22	754.0	4.9	SW	Strong wind	Almost covered
+1886-01-23	758.3	4.4	SE	Strong wind	Covered
+1886-01-24					
+1886-01-25	753.9	6.2	SE	Strong wind	Covered
+1886-01-26	756.2	6.6	SSW	Breeze	Covered
+1886-01-27	755.6	4.5	S	Wind	Covered
+1886-01-28	763.9	5.6	W	Breeze	Clear
+1886-01-29	766.4	8.8	S	Wind	Covered
+1886-01-30					
+1886-01-31					
+1886-02-01					
+1886-02-02					
+1886-02-03	768.1	15.4	NNW	Breeze	Clear
+1886-02-04	765.7	10.2	NW	Breeze	Clear
+1886-02-05	768.1	5.8	N	Wind	Clear
+1886-02-06	766.0	7.0	N	Wind	Almost clear
+1886-02-07	766.5	7.1	NW	Strong wind	Clouds
+1886-02-08	770.2	1.1	N	Wind	Clear
+1886-02-09	770.3	1.8	N	Wind	Clear
+1886-02-10	770.4	7.2	NNW	Breeze	Clear
+1886-02-11	766.7	6.8	NW	Wind	Clouds
+1886-02-12	765.9	5.6	NW	Breeze	Clear
+1886-02-13	763.5	11.3	SE	Breeze	Clouds
+1886-02-14	760.0	7.1	SE	Wind	Drizzle
+1886-02-15					
+1886-02-16					
+1886-02-17	753.6	6.2	NE	Wind	Clouds
+1886-02-18	758.2	9.2	SE	Breeze	Cloudy
+1886-02-19	759.7	9.0	NNE	Wind	Clear
+1886-02-20	761.4	9.0	ENE	Breeze	Clear
+1886-02-21	763.1	11.9	W	Calm	Clear
+1886-02-22	765.8	9.0	SW	Breeze	Clear
+1886-02-23	763.5	7.2	NE	Wind	Clouds
+1886-02-24	762.5	8.8	E	Wind	Covered
+1886-02-25	762.9	9.1	SSE	Wind	Rainy
+1886-02-26	766.5	11.0	W	Breeze	Cloudy
+1886-02-27	769.3	11.4	NW	Breeze	Clear
+1886-02-28	768.1	11.3	W	Breeze	Clear
+1886-03-01					
+1886-03-02					
+1886-03-03	761.5	12.1	S	Wind	Covered
+1886-03-04	763.3	12.2	S	Wind	Covered
+1886-03-05	759.0	12.7	S	Strong wind	Covered
+1886-03-06	764.7	11.2	W	Wind	Cloudy
+1886-03-07	764.7	14.0	S	Wind	Covered
+1886-03-08	760.1	12.2	W	Wind	Covered
+1886-03-09	761.6	12.1	S	Breeze	Almost covered
+1886-03-10					
+1886-03-11	757.7	10.6	NE	Breeze	Covered
+1886-03-12	753.2	11.9	E	Breeze	Almost covered
+1886-03-13	757.2	9.5	NNE	Strong wind	Covered
+1886-03-14					
+1886-03-15	763.9	11.3	S	Breeze	Clouds
+1886-03-16					
+1886-03-17					
+1886-03-18	764.0	11.6	SE	Breeze	Clouds
+1886-03-19	#756.4	13.7	S	Breeze	Cloudy
+1886-03-20	769.6	13.3	S	Breeze	Clear
+1886-03-21					
+1886-03-22	766.2	15.2	NE	Wind	Clouds
+1886-03-23	763.5	16.4	ENE	Breeze	Clouds
+1886-03-24	763.9	15.7	S	Breeze	Cloudy
+1886-03-25	764.9	13.6	S	Breeze	Cloudy
+1886-03-26	767.9	13.5	W	Breeze	Clear
+1886-03-27	769.5	15.3	ENE	Breeze	Clear
+1886-03-28	766.8	15.0	SW	Breeze	Cloudy
+1886-03-29	769.2	13.5	N	Wind	Clear
+1886-03-30	771.8	14.2	NE	Breeze	Clear
+1886-03-31					
+1886-04-01					
+1886-04-02	759.2	16.1	SSE	Wind	Cloudy
+1886-04-03	760.8	15.1	E	Breeze	Clouds
+1886-04-04	761.6	15.0	NE	Strong wind	Clouds
+1886-04-05	761.8	13.4	NE	Breeze	Covered
+1886-04-06	762.5	17.1	NE	Breeze	Clouds
+1886-04-07	765.5	17.1	NE	Breeze	Clear
+1886-04-08	764.4	15.6	SW	Breeze	Clear
+1886-04-09	767.9	9.4	W	Wind	Clear
+1886-04-10	764.4	13.0	WNW	Breeze	Cloudy
+1886-04-11	761.0	14.0	NNW	Wind	Cloudy
+1886-04-12	764.1	9.5	N	Strong wind	Clear
+1886-04-13	768.0	9.7	N	Wind	Clear
+1886-04-14	767.8	10.4	NE	Wind	Clear
+1886-04-15	766.2	12.4	NE	Wind	Clear
+1886-04-16					
+1886-04-17					
+1886-04-18					
+1886-04-19	756.1	10.0	W	Breeze	Cloudy
+1886-04-20	760.8	10.4	SW	Breeze	Cloudy
+1886-04-21	760.5	12.2	E	Wind	Clouds
+1886-04-22	758.8	13.3	SSE	Wind	Almost covered
+1886-04-23					
+1886-04-24	758.5	17.0	E	Breeze	Clouds
+1886-04-25					
+1886-04-26	758.3	13.8	SE	Wind	Cloudy
+1886-04-27	754.1	15.1	S	Wind	Almost covered
+1886-04-28	754.0	12.2	S	Wind	Rainy
+1886-04-29	758.0	16.5	SW	Breeze	Cloudy
+1886-04-30					
+1886-05-01					
+1886-05-02					
+1886-05-03					
+1886-05-04					
+1886-05-05	766.1	18.0	NE	Wind	Clear
+1886-05-06	765.9	23.4	SE	Breeze	Clear
+1886-05-07	763.7	23.5	NW	Breeze	Clear
+1886-05-08	761.4	27.0	WNW	Breeze	Clear
+1886-05-09					
+1886-05-10	764.2	19.0	W	Breeze	Some clouds
+1886-05-11	763.0	22.6	W	Breeze	Clouds
+1886-05-12	756.9	17.0	S	Wind	Rainy
+1886-05-13	754.6	12.1	WSW	Breeze	Cloudy
+1886-05-14	759.9	10.2	WSW	Wind	Cloudy
+1886-05-15	766.7	13.2	S	Breeze	Clear
+1886-05-16					
+1886-05-17					
+1886-05-18	761.8	#19.7	SE	Breeze	Clear
+1886-05-19	760.9	10.5	S	Wind	Covered
+1886-05-20	763.9	15.5	S	Breeze	Cloudy
+1886-05-21					
+1886-05-22	766.1	12.3	W	Breeze	Cloudy
+1886-05-23					
+1886-05-24	766.4	16.8	N	Breeze	Clear
+1886-05-25	763.2	22.9	NNW	Breeze	Clear
+1886-05-26	760.5	19.1	S	Wind	Clear
+1886-05-27	769.9	15.7	WSW	Breeze	Cloudy
+1886-05-28	762.0	14.2	SW	Breeze	Clear
+1886-05-29	770.8	15.4	W	Breeze	Cloudy
+1886-05-30					
+1886-05-31	758.5	14.0	S	Wind	Almost covered
+1886-06-01	760.7	15.7	NW	Wind	Cloudy
+1886-06-02	762.4	15.5	S	Breeze	Cloudy
+1886-06-03					
+1886-06-04					
+1886-06-05	762.0	18.7	SW	Breeze	Clouds
+1886-06-06	761.9	16.5	SW	Breeze	Cloudy
+1886-06-07	760.5	19.6	WSW	Breeze	Clouds
+1886-06-08	762.4	17.0	SW	Breeze	Some clouds
+1886-06-09	764.1	16.8	S	Breeze	Cloudy
+1886-06-10	766.5	18.1	W	Breeze	Cloudy
+1886-06-11	768.2	19.5	NE	Breeze	Clear
+1886-06-12					
+1886-06-13					
+1886-06-14	764.0	23.7	N	Wind	Clear
+1886-06-15	764.5	25.1	N	Wind	Clear
+1886-06-16	763.4	24.8	N	Wind	Clear
+1886-06-17					
+1886-06-18	756.8	27.0	N	Breeze	
+1886-06-19	755.8	34.9	W	Breeze	Clouds
+1886-06-20					
+1886-06-21	762.7	21.6	S	Breeze	Clear
+1886-06-22	764.2	24.2	N	Calm	Clear
+1886-06-23	764.0	26.7	NNE	Breeze	Clear
+1886-06-24					
+1886-06-25					
+1886-06-26	763.5	#15.4	W	Breeze	Clouds
+1886-06-27	763.6	25.0		Calm	Clear
+1886-06-28	763.0	26.4	W	Calm	Clear
+1886-06-29	762.7	22.0	SW	Breeze	Clear
+1886-06-30	760.8	22.0	SW	Breeze	Cloudy
+1886-07-01	761.9	23.0	S	Breeze	Cloudy
+1886-07-02	761.9	28.0	SW	Breeze	Cloudy
+1886-07-03					
+1886-07-04	763.4	31.8	NE	Wind	Cloudy
+1886-07-05	765.0	28.0	NE	Wind	Clear
+1886-07-06	760.2	30.0	SSE	Calm	Clear
+1886-07-07	761.4	25.0	S	Breeze	Cloudy
+1886-07-08	761.4	24.8	NW	Breeze	Cloudy
+1886-07-09	761.4	27.0	NE	Wind	Clouds
+1886-07-10	760.6	24.0			Clouds
+1886-07-11	765.2	25.0	NE	Wind	Clear
+1886-07-12	766.0	24.9	E	Breeze	Clear
+1886-07-13	763.8	26.8	E	Breeze	Clear
+1886-07-14	761.8	30.5	N	Breeze	Cloudy
+1886-07-15	762.5	27.0	N	Wind	Almost clear
+1886-07-16	762.5	31.0	ENE	Breeze	Clear
+1886-07-17	761.3	33.2	NE	Calm	Clear
+1886-07-18	752.8	29.5	S	Wind	Clear
+1886-07-19	758.2	23.0	SW	Wind	Cloudy
+1886-07-20	762.5	22.5	ENE	Breeze	Cloudy
+1886-07-21	762.0	25.6	N	Calm	Cloudy
+1886-07-22	763.2	25.2	N	Breeze	Clear
+1886-07-23	760.5	25.0	N	Breeze	Clouds
+1886-07-24	760.0	28.2	SW	Breeze	Clouds
+1886-07-25	760.8	28.0	N	Breeze	Clear
+1886-07-26	762.4	21.6	N	Wind	Clear
+1886-07-27	763.6	20.1	N	Wind	Clear
+1886-07-28	767.2	24.8	E	Breeze	Clear
+1886-07-29	766.1	26.4	E	Breeze	Clear
+1886-07-30	761.9	26.0	S	Breeze	Clear
+1886-07-31	765.3	20.0	N	Wind	Clear
+1886-08-01	765.3	24.0	N	Breeze	Clear
+1886-08-02	765.1	25.0	N	Breeze	Clear
+1886-08-03	764.2	25.2	NNW	Calm	Clear
+1886-08-04	766.1	25.2	NNW	Breeze	Clear
+1886-08-05	765.1	25.0	NE	Breeze	Clouds
+1886-08-06	765.0	26.0	N	Breeze	Clear
+1886-08-07					
+1886-08-08					
+1886-08-09	766.1	30.0	S	Breeze	Clear
+1886-08-10	760.1	27.0	S	Breeze	Clear
+1886-08-11	762.7	24.0	N	Wind	Clouds
+1886-08-12	763.1	24.0	N	Breeze	Clouds
+1886-08-13	762.9	24.0	NNW	Breeze	Clear
+1886-08-14	763.2	22.0	N	Breeze	Clear
+1886-08-15	765.0	26.0	NE	Breeze	Clear
+1886-08-16	765.0	26.6	E	Breeze	Clear
+1886-08-17	761.8	26.0	E	Breeze	Clouds
+1886-08-18	765.1	24.0	E	Wind	Cloudy
+1886-08-19	767.2	22.4	E	Breeze	Clear
+1886-08-20	764.3	23.0	NE	Breeze	Cloudy
+1886-08-21					
+1886-08-22	763.2	24.2	E	Breeze	Cloudy
+1886-08-23	768.2	21.0	N	Wind	Clouds
+1886-08-24	765.8	20.0	N	Breeze	Clear
+1886-08-25	765.8	21.0	N	Breeze	Clear
+1886-08-26	767.3	25.0	E	Calm	Clear
+1886-08-27					
+1886-08-28	761.8	26.0	N	Breeze	Clear
+1886-08-29					
+1886-08-30	764.0	27.0	E	Breeze	Cloudy
+1886-08-31	760.5	28.0	W	Calm	Clear
+1886-09-01	765.0	27.0	E	Breeze	Cloudy
+1886-09-02	765.2	25.2	E	Breeze	Cloudy
+1886-09-03	763.1	23.3	E	Breeze	Cloudy
+1886-09-04	765.3	23.5	N	Breeze	Clear
+1886-09-05					
+1886-09-06					
+1886-09-07					
+1886-09-08					
+1886-09-09	766.5	23.4	W	Breeze	Cloudy
+1886-09-10	766.4	22.2	NW	Breeze	Clear
+1886-09-11	766.9	19.5	N	Wind	Clouds
+1886-09-12	764.3	24.2	NW	Breeze	Clear
+1886-09-13	762.1	24.5	S	Breeze	Clear
+1886-09-14	762.1	25.8	E	Breeze	Cloudy
+1886-09-15	766.3	22.2	E	Breeze	Cloudy
+1886-09-16	767.3	22.4	SW	Breeze	Clear
+1886-09-17					
+1886-09-18	755.3	20.0	NW	Breeze	
+1886-09-19					
+1886-09-20	762.4	21.0	SW	Wind	Cloudy
+1886-09-21					
+1886-09-22					
+1886-09-23	759.1	16.0	SSE	Breeze	Rainy
+1886-09-24	762.0	17.0	NNW	Breeze	Cloudy
+1886-09-25	767.3	15.0	N	Breeze	Cloudy
+1886-09-26	766.5	16.5	N	Breeze	Clouds
+1886-09-27	771.6	17.6	NE	Breeze	Clouds
+1886-09-28	771.5	18.0		Breeze	Clouds
+1886-09-29					
+1886-09-30					
+1886-10-01	762.1	20.5	N	Wind	Cloudy
+1886-10-02					
+1886-10-03					
+1886-10-04					
+1886-10-05	766.8	14.0	SW	Breeze	Covered
+1886-10-06					
+1886-10-07					
+1886-10-08					
+1886-10-09	763.0	17.0	S	Breeze	Cloudy
+1886-10-10	763.0	14.6	N	Breeze	Covered
+1886-10-11	763.2	16.0	N	Breeze	Clear
+1886-10-12	763.8	18.0	NW	Breeze	Cloudy
+1886-10-13					
+1886-10-14					
+1886-10-15					
+1886-10-16					
+1886-10-17					
+1886-10-18	745.3	12.9	NW	Wind	Cloudy
+1886-10-19					
+1886-10-20	755.2	13.4	NW	Breeze	Cloudy
+1886-10-21	762.1	12.9	W	Wind	Cloudy
+1886-10-22					
+1886-10-23	756.9	12.2	N	Breeze	Cloudy
+1886-10-24	757.1	12.6	S	Breeze	Cloudy
+1886-10-25					
+1886-10-26	751.4	12.0	S	Breeze	Covered
+1886-10-27					
+1886-10-28					
+1886-10-29	763.1	10.0	NW	Breeze	Clear
+1886-10-30					
+1886-10-31					
+1886-11-01					
+1886-11-02					
+1886-11-03	765.6	13.0	N	Breeze	Clear
+1886-11-04					
+1886-11-05	761.1	13.0	N	Breeze	Covered
+1886-11-06					
+1886-11-07	761.2	9.0	NW	Breeze	Almost clear
+1886-11-08	758.2	6.7	N	Wind	Cloudy
+1886-11-09					
+1886-11-10					
+1886-11-11	747.8	8.5	S	Breeze	Covered
+1886-11-12					
+1886-11-13	751.8	6.1	N	Wind	Cloudy
+1886-11-14	754.8		N	Breeze	Clear
+1886-11-15	756.0	10.0	S	Breeze	Covered
+1886-11-16	755.3	8.5	W	Breeze	Cloudy
+1886-11-17	762.6	7.4	N	Breeze	Clear
+1886-11-18	763.2	10.5	N	Breeze	Clouds
+1886-11-19	772.0	8.6	N	Breeze	Clear
+1886-11-20	763.1	7.2	N	Wind	Clear
+1886-11-21					
+1886-11-22					
+1886-11-23	762.2	9.0	N	Wind	Clear
+1886-11-24	761.2	7.0	N	Breeze	Clear
+1886-11-25	760.3	1.5	N	Wind	Clear
+1886-11-26	758.3	4.0	N	Breeze	Clear
+1886-11-27	756.3	5.0	SW	Breeze	Cloudy
+1886-11-28					
+1886-11-29	767.4	6.0	N	Breeze	Clear
+1886-11-30	760.4	8.5	N	Wind	Cloudy
+1886-12-01	758.4	6.5	N	Wind	Clouds
+1886-12-02	759.1	4.8	N	Breeze	Clouds
+1886-12-03	759.5	5.2	NW	Breeze	Clear
+1886-12-04	759.9	7.6	S	Breeze	Clear
+1886-12-05					
+1886-12-06	766.0	5.7	N	Breeze	Clear
+1886-12-07					
+1886-12-08	760.3	11.6	S	Wind	Rainy
+1886-12-09	764.6	9.0		Wind	Almost clear
+1886-12-10	758.3	7.5	S	Wind	Covered
+1886-12-11	762.3	12.0	S	Calm	Rainy
+1886-12-12	765.5	11.6	S	Breeze	Covered
+1886-12-13	762.7	13.4	S	Breeze	Almost clear
+1886-12-14					
+1886-12-15	757.1	10.2	S	Wind	Almost covered
+1886-12-16					
+1886-12-17					
+1886-12-18	751.7	12.7	S	Wind	Clear
+1886-12-19					
+1886-12-20	749.3	10.5	S	Strong wind	Covered
+1886-12-21	758.9	2.4	S	Strong wind	Covered
+1886-12-22	768.7	-0.2	NE	Wind	Clear
+1886-12-23	765.1	3.1	SW	Wind	Clouds
+1886-12-24	762.5	8.1	W	Wind	Fog
+1886-12-25	761.1	6.7	W	Calm	Fog
+1886-12-26	760.2	7.5	WSW	Breeze	Clear
+1886-12-27	761.9	8.7	WNW	Breeze	Some clouds
+1886-12-28	766.6	6.8	NE	Breeze	Clear
+1886-12-29	765.9	5.5		Breeze	Clear
+1886-12-30	764.9	5.0	NE	Breeze	Clear
+1886-12-31	761.0	4.4		Breeze	Clear
+1887-01-01					
+1887-01-02	759.5	1.0	N	Wind	Clear
+1887-01-03	760.5	0.6	N	Breeze	Clear
+1887-01-04	754.1	3.2	S	Wind	Rainy
+1887-01-05	756.3	6.2	S	Wind	Covered
+1887-01-06	751.2	8.2	W	Wind	Cloudy
+1887-01-07	752.3	3.8	S	Wind	Covered
+1887-01-08	747.4	4.3	W	Wind	Almost clear
+1887-01-09	755.2	5.2	SW	Breeze	Clear
+1887-01-10	760.3	6.7	SW	Breeze	Clear
+1887-01-11	760.6	6.6	S	Wind	
+1887-01-12	762.4	5.3	E	Breeze	Clouds
+1887-01-13	761.0	8.6	N	Breeze	Clear
+1887-01-14	758.7	4.3	N	Wind	Clear
+1887-01-15	757.7	7.3	N	Calm	Clear
+1887-01-16					
+1887-01-17					
+1887-01-18	766.7	10.5	NW	Breeze	Clear
+1887-01-19					
+1887-01-20	774.7	6.2	N	Breeze	Clouds
+1887-01-21	764.7	5.4	NE	Strong wind	Cloudy
+1887-01-22	763.7	7.0	WNW	Wind	Covered
+1887-01-23					
+1887-01-24	#776.3	6.7	SE		Fog
+1887-01-25	762.4	9.9	E	Wind	Clear
+1887-01-26	763.4	6.2	NE	Wind	Cloudy
+1887-01-27	764.7	5.8	NE	Wind	Clear
+1887-01-28	767.2	7.2	NE	Wind	Clouds
+1887-01-29	766.6	5.3	NE	Breeze	Clear
+1887-01-30					
+1887-01-31					
+1887-02-01					
+1887-02-02	766.8	3.0	NW	Calm	Clear
+1887-02-03	768.8	7.0	NE	Breeze	Clear
+1887-02-04	769.4	8.0	NW	Breeze	Clear
+1887-02-05	770.0	7.8	E	Breeze	Clouds
+1887-02-06	776.9	16.5	NE	Breeze	Clear
+1887-02-07	765.6	10.2	NE	Calm	Clear
+1887-02-08	759.4	3.2	NE	Wind	Clear
+1887-02-09	760.0	2.6	ENE	Breeze	Clear
+1887-02-10	758.6	1.5	N	Wind	Clear
+1887-02-11	758.1	2.3	NW	Wind	Clear
+1887-02-12	760.3	0.2	N	Breeze	Clear
+1887-02-13					
+1887-02-14	755.5	5.0	W		Clear
+1887-02-15	755.7	7.1	E		Covered
+1887-02-16					
+1887-02-17					
+1887-02-18	762.1	1.7	N	Wind	Clear
+1887-02-19	759.7	2.9	N	Breeze	Some clouds
+1887-02-20					
+1887-02-21					
+1887-02-22	769.3	9.7	NW	Calm	Clear
+1887-02-23	765.2	11.8	S	Breeze	Clear
+1887-02-24	766.8	12.5	S	Wind	Clear
+1887-02-25	767.2	13.1	S	Calm	Cloudy
+1887-02-26	762.9	9.5	NE	Breeze	Clear
+1887-02-27	763.3	9.8	SE	Breeze	Clear
+1887-02-28	761.7	10.0	N	Breeze	Clear
+1887-03-01					
+1887-03-02					
+1887-03-03	762.0	9.5	NE	Strong wind	Almost clear
+1887-03-04	762.2	8.4	NE	Strong wind	Covered
+1887-03-05	758.3	11.1	E	Breeze	Covered
+1887-03-06					
+1887-03-07					
+1887-03-08	758.6	10.3	W	Calm	Clear
+1887-03-09	759.4	10.4	WNW	Breeze	Some clouds
+1887-03-10	757.1	13.1	S	Calm	Clear
+1887-03-11	756.0	11.4	S	Breeze	Fog
+1887-03-12	756.4	11.5		Breeze	Covered
+1887-03-13					
+1887-03-14		#12.4	SE	Breeze	Covered
+1887-03-15	#738.6	3.2	N	Wind	Rainy
+1887-03-16					
+1887-03-17					
+1887-03-18	754.3	5.3	NE	Wind	Covered
+1887-03-19	754.6	10.2	S	Wind	Covered
+1887-03-20	755.7	11.4	S	Wind	Almost covered
+1887-03-21	757.0	12.1	S	Wind	Covered
+1887-03-22	761.6	12.9	W	Breeze	Cloudy
+1887-03-23	762.9	10.2	S	Wind	Cloudy
+1887-03-24	760.0	17.0	SW	Breeze	Clouds
+1887-03-25	759.9	16.0	N	Calm	Clear
+1887-03-26	762.2	14.0	NE	Wind	Clear
+1887-03-27					
+1887-03-28	757.1	11.5	NE	Wind	Covered
+1887-03-29	754.9	10.0	E	Breeze	Covered
+1887-03-30	753.7	9.1	ENE	Wind	Covered
+1887-03-31					
+1887-04-01					
+1887-04-02	758.6	8.5	N	Breeze	Clear
+1887-04-03					
+1887-04-04	757.4	6.5	S	Strong wind	Covered
+1887-04-05	753.3	9.6	W	Wind	Cloudy
+1887-04-06	752.9	6.5	W	Wind	Cloudy
+1887-04-07					
+1887-04-08	755.5	10.6	SW	Breeze	Some clouds
+1887-04-09	753.6	11.2	W	Breeze	Cloudy
+1887-04-10	752.6	15.0	N	Breeze	Cloudy
+1887-04-11	756.9	11.5	S	Wind	Cloudy
+1887-04-12	758.1	16.2	S	Breeze	Covered
+1887-04-13	757.5	12.7	SW	Breeze	Clear
+1887-04-14	757.4	15.0	W	Calm	Clear
+1887-04-15					
+1887-04-16					
+1887-04-17	#776.2	11.4	NNE	Wind	Clear
+1887-04-18	761.3	5.8	N	Strong wind	Clear
+1887-04-19	760.7	9.4	N	Strong wind	Clear
+1887-04-20	757.5	7.2	NE	Wind	Covered
+1887-04-21	755.4	12.0	NW	Breeze	Clear
+1887-04-22	754.6	17.4	W	Calm	Clear
+1887-04-23	751.3	18.0	SSW	Breeze	Clouds
+1887-04-24	#752.7	12.5	NW	Breeze	Clear
+1887-04-25	765.7	12.8	W	Breeze	Clear
+1887-04-26	762.6	14.0	NW	Breeze	Clear
+1887-04-27	760.4	20.8	S	Calm	Clear
+1887-04-28	765.1	18.8	S	Breeze	Clouds
+1887-04-29	758.3	19.0	S	Wind	Almost covered
+1887-04-30	751.6	18.8	S	Wind	Clear
+1887-05-01					
+1887-05-02					
+1887-05-03	751.2	10.4	SW	Wind	Covered
+1887-05-04	750.5	13.8	SE	Wind	Cloudy
+1887-05-05	752.8	10.6	S	Wind	Cloudy
+1887-05-06	764.8	13.2	S	Wind	Almost covered
+1887-05-07					
+1887-05-08	764.3	19.0	NE	Breeze	Clear
+1887-05-09	763.3	15.2	NE	Wind	Clear
+1887-05-10	759.9	18.2	N	Breeze	Clear
+1887-05-11	757.2	20.1	NE	Wind	Clear
+1887-05-12	756.5	20.0	E	Breeze	Cloudy
+1887-05-13	757.7	20.2	NE	Wind	Clear
+1887-05-14	756.1	16.5	NNE	Wind	Clear
+1887-05-15		12.5	N	Strong wind	Clear
+1887-05-16					
+1887-05-17					
+1887-05-18	765.1	19.5	W	Calm	Clear
+1887-05-19	760.7	18.6	SW	Breeze	Clear
+1887-05-20	760.7	20.0	SW	Breeze	Clear
+1887-05-21	757.9	17.7		Wind	Clear
+1887-05-22	765.6	20.9		Breeze	Clear
+1887-05-23	758.8	17.4	N	Wind	Clear
+1887-05-24	759.8	#17.6	N	Wind	Clear
+1887-05-25	757.9	30.4	N	Wind	Clear
+1887-05-26	756.2	22.2	W	Wind	Clear
+1887-05-27	755.6	16.8	S	Breeze	Clear
+1887-05-28	752.8	16.5	S	Wind	Covered
+1887-05-29	752.9	17.4	SE	Wind	Cloudy
+1887-05-30	756.4	15.0	S	Wind	Covered
+1887-05-31	759.0	16.1	S	Breeze	Almost covered
+1887-06-01	754.4	15.0	S	Wind	Covered
+1887-06-02					
+1887-06-03	759.7	17.5	S	Breeze	Cloudy
+1887-06-04	760.9	17.4		Calm	Almost covered
+1887-06-05	761.1	19.8	N	Breeze	Clear
+1887-06-06	765.4	24.0	NW	Breeze	Clear
+1887-06-07	758.5	24.6	NE	Breeze	Clear
+1887-06-08	757.0	25.2	NE	Wind	Clear
+1887-06-09					
+1887-06-10	760.2	25.6	NE	Breeze	Clear
+1887-06-11	758.2	27.0	N	Calm	Clear
+1887-06-12	755.8	27.0	NE	Breeze	Clear
+1887-06-13					
+1887-06-14					
+1887-06-15					
+1887-06-16					
+1887-06-17					
+1887-06-18	754.5	23.2	NE	Wind	Cloudy
+1887-06-19					
+1887-06-20	768.4	27.2	SW	Breeze	Clear
+1887-06-21			SW	Breeze	Clear
+1887-06-22	754.3		W	Breeze	Clear
+1887-06-23	758.4	24.7	S	Breeze	Clear
+1887-06-24	759.6	20.0	S	Wind	Cloudy
+1887-06-25	760.2	24.0	SW	Breeze	Clear
+1887-06-26	760.7	24.7	NNW	Breeze	Clear
+1887-06-27	759.5	24.8	NNE	Breeze	Clear
+1887-06-28	759.3	24.1	NE	Wind	Clear
+1887-06-29	757.3	27.1	NE	Breeze	Clouds
+1887-06-30	756.6	24.6	NE	Breeze	Clear
+1887-07-01	758.5	25.0	NE	Breeze	Clear
+1887-07-02	757.3	#20.3	SE	Breeze	Clear
+1887-07-03	756.5	#31.2	S	Breeze	Clear
+1887-07-04	758.3	21.0	S	Breeze	Clear
+1887-07-05	758.0	22.1	NW	Wind	Almost covered
+1887-07-06	757.7	25.2	E	Wind	Clouds
+1887-07-07	757.2	28.1	NE	Calm	Clear
+1887-07-08	758.5	#28.0		Breeze	Clear
+1887-07-09	760.4	#17.0	S	Breeze	Clear
+1887-07-10	760.2	27.0	NW	Calm	Clear
+1887-07-11	757.6	30.1	NE	Calm	Clear
+1887-07-12	755.4	30.8	S	Calm	Clear
+1887-07-13	765.4	26.7	S	Calm	Clear
+1887-07-14	759.1	28.2	SSW	Calm	Clear
+1887-07-15					
+1887-07-16	757.9	28.2	S	Breeze	Clear
+1887-07-17	757.7	28.0	S	Calm	Clear
+1887-07-18	753.1	22.4	W	Wind	Clear
+1887-07-19	762.4	20.4	N	Breeze	Clear
+1887-07-20	766.9	18.5	NE	Wind	Clouds
+1887-07-21	755.7	23.8	NNE	Wind	Clear
+1887-07-22	755.5	27.2	NE	Wind	Clear
+1887-07-23	760.0	30.3	E	Breeze	Clear
+1887-07-24					
+1887-07-25	758.2	21.4	W	Breeze	Clear
+1887-07-26	756.9	#13.0	E	Breeze	Clear
+1887-07-27	759.2	24.0	W	Breeze	Clear
+1887-07-28	759.3		W	Calm	Clear
+1887-07-29	757.8	31.0	WNW	Breeze	Clear
+1887-07-30	754.9	31.0	N	Breeze	Clear
+1887-07-31					
+1887-08-01	758.0	31.1	W	Calm	Clear
+1887-08-02	765.9	30.8	N	Breeze	Clear
+1887-08-03	765.4	32.1	NE	Breeze	Clouds
+1887-08-04	756.2	30.8	S	Breeze	Cloudy
+1887-08-05	754.9	28.5	S	Breeze	Clear
+1887-08-06	755.5	29.8	SE	Breeze	Clear
+1887-08-07					
+1887-08-08	760.2	29.0	NE	Wind	Clear
+1887-08-09	760.9	32.0	N	Breeze	Clear
+1887-08-10	758.3	29.0	W	Breeze	Clear
+1887-08-11	755.3	25.3	S	Wind	Clear
+1887-08-12	752.6	21.2	S	Breeze	Clouds
+1887-08-13	753.4	21.7	SE	Wind	Cloudy
+1887-08-14					
+1887-08-15					
+1887-08-16	758.5	21.4	W	Breeze	Cloudy
+1887-08-17	770.0	20.5	NW	Wind	Clear
+1887-08-18	760.0	21.0	N	Breeze	Clear
+1887-08-19	756.6	23.5	N	Wind	Clear
+1887-08-20	754.4	24.6	NW	Breeze	Clear
+1887-08-21					
+1887-08-22	753.6	27.2	S	Breeze	Clouds
+1887-08-23	755.7	27.8	E	Breeze	Cloudy
+1887-08-24	755.7	28.0	S	Wind	Clouds
+1887-08-25	755.9	24.6		Breeze	Clear
+1887-08-26	756.0	22.2	W	Calm	Cloudy
+1887-08-27	754.3	24.0	SSW	Breeze	Some clouds
+1887-08-28	756.3	18.4	SW	Breeze	Covered
+1887-08-29	760.4	20.0	W	Breeze	Clear
+1887-08-30	759.9	22.0	W	Breeze	Clear
+1887-08-31		24.6	SW	Breeze	Clear
+1887-09-01					
+1887-09-02	759.0	23.2	W	Breeze	Clouds
+1887-09-03	754.8	17.8	S	Wind	Cloudy
+1887-09-04					
+1887-09-05	759.2	23.5	N	Breeze	Clear
+1887-09-06	755.6	#28.5	NNW	Calm	Clear
+1887-09-07	755.9	18.8	NW	Wind	Almost covered
+1887-09-08					
+1887-09-09	758.4	22.6	NE	Wind	Clear
+1887-09-10	757.8	21.7	NE	Breeze	Clear
+1887-09-11	756.5	23.5	NE	Breeze	Cloudy
+1887-09-12		21.4	SSE	Breeze	Clear
+1887-09-13	754.4	24.0	S	Breeze	Clear
+1887-09-14	756.9	20.9	S	Wind	Clear
+1887-09-15	759.3	15.0	S	Breeze	Clear
+1887-09-16					
+1887-09-17					
+1887-09-18					
+1887-09-19	760.0	25.0	W	Breeze	Clouds
+1887-09-20	759.8	22.5	S	Breeze	Clouds
+1887-09-21	756.8	17.0	ENE	Wind	Cloudy
+1887-09-22	752.1	20.0	E	Wind	
+1887-09-23	756.8	19.9	E	Wind	Clear
+1887-09-24	757.3	20.6	NE	Breeze	Clear
+1887-09-25	753.9	13.8	NE	Breeze	Clear
+1887-09-26					
+1887-09-27	753.4	15.6	SSW	Wind	Clouds
+1887-09-28	755.1	14.0	W	Wind	Clouds
+1887-09-29	750.7	15.6	W	Wind	Covered
+1887-09-30	754.2	12.0	W	Wind	Almost clear
+1887-10-01					
+1887-10-02					
+1887-10-03	759.8	13.5	NE	Wind	Some clouds
+1887-10-04	758.8	13.2	E	Breeze	Clear
+1887-10-05	758.4	12.0	N	Breeze	Clear
+1887-10-06	755.0	16.6	SE	Breeze	Almost covered
+1887-10-07	757.8	16.4	SE	Calm	Clear
+1887-10-08	755.2	16.4	ESE	Breeze	Clouds
+1887-10-09					
+1887-10-10	756.4	14.4	W	Wind	Some clouds
+1887-10-11	757.0	13.4	S	Wind	Covered
+1887-10-12	756.4	9.6	NW	Wind	
+1887-10-13					
+1887-10-14	759.2	10.4	NE	Wind	Clouds
+1887-10-15	758.5	11.4	NE	Breeze	
+1887-10-16					
+1887-10-17					
+1887-10-18	762.5	9.4	NE	Wind	Clear
+1887-10-19	762.3	12.0	NE	Wind	
+1887-10-20	761.3	11.4	NE	Wind	Clear
+1887-10-21	761.5	12.8	NE	Breeze	Clear
+1887-10-22	762.0	12.4	NE	Wind	Clear
+1887-10-23	768.6	11.0	NE	Wind	Clear
+1887-10-24	768.3	11.8	NE	Breeze	Clear
+1887-10-25	760.9	10.3	NE	Breeze	Clear
+1887-10-26	764.5	5.6	N	Breeze	Clear
+1887-10-27	759.9			Wind	Clear
+1887-10-28	758.6	13.6	SE	Calm	Clouds
+1887-10-29	759.0	14.8	S	Breeze	Covered
+1887-10-30					
+1887-10-31					
+1887-11-01					
+1887-11-02					
+1887-11-03	752.0	15.5	SW	Breeze	Cloudy
+1887-11-04	754.3	11.0	WNW	Breeze	Clear
+1887-11-05	758.6	12.2	W	Breeze	Cloudy
+1887-11-06					
+1887-11-07	752.9	11.7	W	Breeze	Clear
+1887-11-08	755.5	10.1	S	Wind	Some clouds
+1887-11-09	759.2	11.0	S	Wind	Clear
+1887-11-10	758.0	9.8	S	Wind	Rainy
+1887-11-11	756.2	11.4	SW	Breeze	Cloudy
+1887-11-12	756.8	11.0	S	Breeze	Clouds
+1887-11-13					
+1887-11-14	751.8	14.5		Wind	Covered
+1887-11-15	#743.6	13.2	S	Wind	Rainy
+1887-11-16					
+1887-11-17					
+1887-11-18	747.9	8.2	S	Wind	Rainy
+1887-11-19	758.7	7.5	W	Wind	Almost clear
+1887-11-20	750.9	12.1	W	Breeze	Cloudy
+1887-11-21	751.0	4.6	S	Wind	Covered
+1887-11-22	747.6	5.6	S	Wind	Cloudy
+1887-11-23	#740.4	7.0	S	Strong wind	Covered
+1887-11-24	749.5	9.0	E	Breeze	Clouds
+1887-11-25	757.4	6.3	N	Breeze	Fog
+1887-11-26	759.2	5.3	N	Breeze	Clear
+1887-11-27					
+1887-11-28	761.8	7.1	N	Calm	Clear
+1887-11-29	759.0	7.4	N	Calm	Cloudy
+1887-11-30	756.7	6.8	NW	Breeze	Clear
+1887-12-01					
+1887-12-02	761.0	5.1		Wind	Clear
+1887-12-03	766.1	2.7	N	Breeze	Cloudy
+1887-12-04					
+1887-12-05					
+1887-12-06	760.9	7.6	W	Breeze	Cloudy
+1887-12-07	762.5	7.0	NW	Wind	Clear
+1887-12-08					
+1887-12-09	765.0	9.2	NW	Breeze	Clear
+1887-12-10	763.5	7.8	N	Breeze	Clear
+1887-12-11					
+1887-12-12	759.6	3.4	N	Breeze	Cloudy
+1887-12-13	759.6	4.8	S	Wind	Covered
+1887-12-14	758.3	7.8	W	Breeze	Covered
+1887-12-15	#750.8	10.0	SE	Breeze	Cloudy
+1887-12-16	764.7	7.5	S	Breeze	Cloudy
+1887-12-17	767.1	7.8	SW	Calm	Fog
+1887-12-18					
+1887-12-19	762.4	6.0	SW	Wind	Clouds
+1887-12-20	752.4	10.0	W	Wind	Clouds
+1887-12-21	748.6	1.6	NW	Wind	Covered
+1887-12-22	750.1	2.5	NW	Wind	Clear
+1887-12-23	756.3	0.7	NW	Wind	Clear
+1887-12-24	759.4	2.6	NW	Wind	Clear
+1887-12-25					
+1887-12-26			N	Breeze	Covered
+1887-12-27	746.5	2.4	N	Wind	Drizzle
+1887-12-28					
+1887-12-29					
+1887-12-30					
+1887-12-31	#741.5	9.4	NW	Wind	Covered
+1888-01-01					
+1888-01-02					
+1888-01-03	760.3	10.4	E	Breeze	Clear
+1888-01-04	755.5	9.8	S	Strong wind	Covered
+1888-01-05	759.6	10.4		Breeze	Cloudy
+1888-01-06					
+1888-01-07	770.1	4.8	NE	Wind	Clouds
+1888-01-08					
+1888-01-09	771.2	4.7	N	Breeze	Clear
+1888-01-10	767.4	4.7	NW	Breeze	Clear
+1888-01-11	767.9	4.2	E	Breeze	Clear
+1888-01-12	766.6	5.7	ENE	Breeze	Clear
+1888-01-13	763.5	2.4	N	Breeze	Fog
+1888-01-14	760.0	0.2	N	Wind	Cloudy
+1888-01-15					
+1888-01-16	759.2	3.5	S	Breeze	Covered
+1888-01-17	761.9	6.8	SE	Wind	Rainy
+1888-01-18	764.8	9.4	S	Calm	Covered
+1888-01-19	768.3	4.4	S	Wind	Fog
+1888-01-20					
+1888-01-21	768.1	2.9	NE	Wind	Fog
+1888-01-22					
+1888-01-23	763.8	8.0	N	Wind	Clear
+1888-01-24	765.2	7.4	NE	Wind	Clear
+1888-01-25	766.7	7.2	NE	Wind	Clear
+1888-01-26	765.7	7.2	NE	Breeze	Clear
+1888-01-27	764.2	3.7	N	Wind	Clear
+1888-01-28	765.9	8.5	NW	Calm	Clear
+1888-01-29					
+1888-01-30	752.8	0.6	NW	Wind	Clear
+1888-01-31	753.3	1.4	NW	Wind	Clear
+1888-02-01	754.0	0.6	S	Strong wind	Almost covered
+1888-02-02					
+1888-02-03	757.0	1.6	E	Wind	Clear
+1888-02-04					
+1888-02-05					
+1888-02-06	758.2	7.9		Breeze	Clear
+1888-02-07	762.0	5.0	N	Breeze	Clear
+1888-02-08	760.4	6.0	W	Breeze	Clear
+1888-02-09	760.7	5.5	NE	Wind	Clear
+1888-02-10	765.9	8.6	NE	Breeze	Clear
+1888-02-11					
+1888-02-12	765.3	9.4	SSW	Wind	Cloudy
+1888-02-13					
+1888-02-14					
+1888-02-15	760.4	6.2	NW	Wind	Clear
+1888-02-16	757.5	2.6	NW	Wind	Clear
+1888-02-17	756.6	2.6	NW	Wind	Clear
+1888-02-18	751.9	3.5	N	Wind	Clear
+1888-02-19					
+1888-02-20	748.9	3.5	N	Wind	Clear
+1888-02-21	747.7	2.4	W	Wind	Cloudy
+1888-02-22	750.8	5.0	NW	Wind	Clouds
+1888-02-23	752.7	4.4	SW	Wind	Cloudy
+1888-02-24	749.2	5.7	S	Wind	Almost covered
+1888-02-25	751.6	3.8	NW	Wind	Clear
+1888-02-26					
+1888-02-27	758.9	4.8	W	Wind	Clear
+1888-02-28	760.0	3.0	NE	Wind	Clear
+1888-02-29	757.3	0.8	NE	Wind	Clouds
+1888-03-01	747.6	3.5	SE	Strong wind	Clouds
+1888-03-02					
+1888-03-03					
+1888-03-04					
+1888-03-05					
+1888-03-06					
+1888-03-07					
+1888-03-08					
+1888-03-09	764.2	14.4	S	Breeze	Clouds
+1888-03-10	762.4	10.2	S	Wind	Covered
+1888-03-11					
+1888-03-12	755.5	12.0	SW	Wind	Cloudy
+1888-03-13	755.2	11.8	SW	Wind	Rainy
+1888-03-14	753.2	12.2	SW	Wind	Almost covered
+1888-03-15	750.6	8.0	SW	Wind	Covered
+1888-03-16	745.1	5.2	W	Wind	Rainy
+1888-03-17	754.2	5.5	NW	Wind	Clear
+1888-03-18					
+1888-03-19	754.1	6.0	NW	Wind	Clear
+1888-03-20	756.5	3.2	N	Wind	Clouds
+1888-03-21	755.9	4.2	NW	Wind	Clouds
+1888-03-22	758.0	5.5	NE	Wind	Cloudy
+1888-03-23	754.2	8.2	W	Breeze	Clear
+1888-03-24	748.0	7.3	SE	Strong wind	Covered
+1888-03-25					
+1888-03-26	#744.0	10.2	S	Strong wind	Covered
+1888-03-27	#744.9	9.4	S	Wind	Covered
+1888-03-28	#742.0	9.2	SW	Wind	Clouds
+1888-03-29					
+1888-03-30	756.9	10.0	SW	Wind	Cloudy
+1888-03-31	756.6	11.4	SW	Breeze	Clear
+1888-04-01					
+1888-04-02	748.5	9.5	NNE	Breeze	Cloudy
+1888-04-03	745.9	13.9	W	Breeze	Cloudy
+1888-04-04	754.6	11.0	NW	Breeze	Clear
+1888-04-05	749.9	9.3	SW	Breeze	Clear
+1888-04-06	748.8	5.5	NE	Wind	Almost covered
+1888-04-07	746.5	8.0	E	Wind	Cloudy
+1888-04-08	753.8	13.0	S	Wind	Clouds
+1888-04-09	760.2	7.8	NE	Wind	Clear
+1888-04-10					
+1888-04-11	762.8	10.4	NNE	Breeze	Clear
+1888-04-12	766.0	13.0	NW	Breeze	Clouds
+1888-04-13	756.1	15.2	N	Breeze	Clear
+1888-04-14	750.5	11.0	S	Calm	Covered
+1888-04-15					
+1888-04-16	760.4	13.3	W	Breeze	Almost clear
+1888-04-17	761.0	14.4	W	Breeze	Almost clear
+1888-04-18		14.2	S	Breeze	Covered
+1888-04-19	758.4	14.6	W	Wind	Cloudy
+1888-04-20	760.4	12.2	NW	Wind	Clear
+1888-04-21	757.2	15.3	W	Breeze	Clouds
+1888-04-22	750.9	10.0	S	Wind	Covered
+1888-04-23	751.6	9.0	S	Wind	Rainy
+1888-04-24	748.0	7.5	S	Wind	Covered
+1888-04-25	746.5	6.8	S	Wind	Rainy
+1888-04-26	756.8	13.0	S	Wind	Cloudy
+1888-04-27	761.2	14.9	SW	Calm	Clear
+1888-04-28	759.4	17.0	NE	Breeze	Clear
+1888-04-29	755.7	16.5	S	Wind	Covered
+1888-04-30	750.9	14.2	W	Breeze	Covered
+1888-05-01	756.2	11.3	S	Wind	Covered
+1888-05-02	760.4	14.7	W	Breeze	Clear
+1888-05-03	762.8	17.5	NW	Breeze	Clear
+1888-05-04	763.0	19.0	W	Calm	Clear
+1888-05-05	762.1	20.6	NE	Breeze	Clear
+1888-05-06	760.6	20.3	NE	Breeze	Clouds
+1888-05-07	759.4	18.7	NE	Breeze	Cloudy
+1888-05-08	760.0	17.5	NE	Wind	Clear
+1888-05-09	758.5		NE	Wind	Clear
+1888-05-10	756.4	20.5	NE	Breeze	Clear
+1888-05-11	754.5	21.4	NE	Breeze	Clear
+1888-05-12	754.3	23.0	SE	Breeze	Clear
+1888-05-13	754.7	22.5	S	Breeze	Cloudy
+1888-05-14	752.5	17.1	NE	Breeze	Cloudy
+1888-05-15	749.6	15.6	SW	Wind	Some clouds
+1888-05-16	752.8	16.0	S	Wind	Cloudy
+1888-05-17	752.8	15.5	SE	Wind	Covered
+1888-05-18		18.6	SE	Strong wind	Cloudy
+1888-05-19		13.8	W	Wind	Cloudy
+1888-05-20					
+1888-05-21					
+1888-05-22			NE	Breeze	Clear
+1888-05-23		17.3	N	Wind	Clear
+1888-05-24	750.8	19.7	NW	Breeze	Clouds
+1888-05-25		17.7	S	Wind	Cloudy
+1888-05-26		18.0	S	Breeze	Some clouds
+1888-05-27					
+1888-05-28		17.5	W	Wind	Clouds
+1888-05-29		17.5	W	Breeze	Clear
+1888-05-30		20.0	NW	Breeze	Clear
+1888-05-31		24.4	N	Calm	Clear
+1888-06-01		24.2	NE	Wind	Clear
+1888-06-02		26.5	SE	Breeze	Clear
+1888-06-03		27.8	SE	Calm	Clear
+1888-06-04		27.6	E	Breeze	Clouds
+1888-06-05		21.6	S	Wind	Cloudy
+1888-06-06		21.9	W	Breeze	Clouds
+1888-06-07		21.6	S	Calm	Clear
+1888-06-08		18.4	SW	Breeze	Cloudy
+1888-06-09	762.0	17.0	NW	Breeze	Clear
+1888-06-10	763.1	22.0	NE	Wind	Clear
+1888-06-11		15.9	NE	Calm	Clear
+1888-06-12		24.8	S	Breeze	Clouds
+1888-06-13		21.4	W	Breeze	Clear
+1888-06-14	759.9	22.0	NE	Breeze	Clear
+1888-06-15	759.6	25.6	NE	Breeze	Clear
+1888-06-16	759.5	20.5	S	Wind	Clear
+1888-06-17	760.5	22.6	S	Breeze	Clear
+1888-06-18	762.4	21.0	S	Breeze	Clear
+1888-06-19	761.6	23.8	W	Wind	Rainy
+1888-06-20	760.6	16.5	WNW	Wind	Clear
+1888-06-21	759.8	20.8	W	Breeze	Clouds
+1888-06-22	760.2	19.0	S	Wind	Clouds
+1888-06-23	759.2	19.5	S	Wind	Clouds
+1888-06-24	760.9	15.0	NE	Breeze	Cloudy
+1888-06-25	764.0	20.6	W	Breeze	Cloudy
+1888-06-26	765.0	23.0	S	Breeze	Clear
+1888-06-27	763.8	16.8	S	Wind	Covered
+1888-06-28	763.7	24.5	NW	Breeze	Clear
+1888-06-29					
+1888-06-30	762.9	20.4	W	Breeze	Clear
+1888-07-01					
+1888-07-02	764.5	30.8	N	Calm	Clear
+1888-07-03	763.9	28.6	W	Calm	Clear
+1888-07-04	761.6	23.2	W	Wind	Cloudy
+1888-07-05	761.8		W	Wind	Cloudy
+1888-07-06	761.5	20.0	WSW	Wind	Clouds
+1888-07-07	762.8	20.4	W	Breeze	Clouds
+1888-07-08					
+1888-07-09	762.2	22.6	W	Breeze	Clear
+1888-07-10	763.2	25.5	N	Breeze	Clear
+1888-07-11					
+1888-07-12	762.4	28.6	N	Breeze	Clear
+1888-07-13	762.9	#28.5	E	Breeze	Clear
+1888-07-14	760.1	18.0	S	Calm	Clear
+1888-07-15					
+1888-07-16	759.9	17.0	SW	Wind	Almost covered
+1888-07-17	761.0	20.4	WNW	Wind	Cloudy
+1888-07-18	763.3	20.7	W	Wind	Cloudy
+1888-07-19	764.3	20.6	N	Breeze	Clear
+1888-07-20	763.3	27.4	NNW	Breeze	Clear
+1888-07-21	762.2	28.4	W	Calm	Clear
+1888-07-22	761.6	25.6	S	Wind	Clear
+1888-07-23	762.9	21.6	S	Wind	Cloudy
+1888-07-24	763.4	25.1	SW	Breeze	Clear
+1888-07-25					
+1888-07-26	763.5	24.4	SW	Breeze	Clouds
+1888-07-27	764.0	23.5	WSW	Breeze	Clear
+1888-07-28	764.7	25.0	W	Breeze	Clear
+1888-07-29					
+1888-07-30	761.6	22.4	NW	Breeze	Clear
+1888-07-31	763.1	18.6	N	Wind	Clear
+1888-08-01	765.9	17.8	W	Wind	Clouds
+1888-08-02	766.9	21.5	ENE	Wind	Clear
+1888-08-03	765.4	23.4	N	Breeze	Clear
+1888-08-04	765.3	23.6	N	Wind	Clear
+1888-08-05	766.5	23.6	NE	Breeze	Clear
+1888-08-06	764.0	27.0	NE	Wind	Clear
+1888-08-07	764.4	28.3	NE	Breeze	Clear
+1888-08-08	763.4	29.3	NE	Wind	Clear
+1888-08-09	763.6	30.2	SE	Wind	Clouds
+1888-08-10	764.7	30.6	E	Breeze	Clear
+1888-08-11	766.8	29.7	S	Calm	Clear
+1888-08-12	765.0	27.0	S	Calm	Clear
+1888-08-13	763.1	27.8	S	Calm	Clear
+1888-08-14	762.8	28.3	S	Breeze	Clear
+1888-08-15	764.5	22.4	S	Breeze	Clear
+1888-08-16	760.5	21.0	W	Calm	Cloudy
+1888-08-17					
+1888-08-18	763.2	24.5	NW	Calm	Clear
+1888-08-19					
+1888-08-20	762.8	28.4	S	Wind	Clear
+1888-08-21	764.2	28.8	SW	Calm	Cloudy
+1888-08-22	764.9	23.0	NW	Wind	Clear
+1888-08-23	763.2	27.1	S	Breeze	Clear
+1888-08-24	760.3	20.5	SW	Breeze	Cloudy
+1888-08-25	765.0	15.8	W	Breeze	Cloudy
+1888-08-26					
+1888-08-27	766.4	24.2	N	Breeze	Clear
+1888-08-28	769.1	25.6	NE	Breeze	Clear
+1888-08-29	763.8	26.5	NW	Breeze	Clear
+1888-08-30	762.5	25.4	NW	Breeze	Clear
+1888-08-31	762.2	22.0	NE	Wind	Clear
+1888-09-01	763.0	22.4	NE	Breeze	Clear
+1888-09-02	763.4	18.3	N	Wind	Cloudy
+1888-09-03	760.7	20.2	NNE	Breeze	Clear
+1888-09-04	760.0	19.8	NE	Wind	Clear
+1888-09-05	764.7	19.6	NE	Wind	Clear
+1888-09-06	762.9	21.0	NE	Strong wind	Clouds
+1888-09-07	761.4	21.2	NE	Breeze	Clouds
+1888-09-08					
+1888-09-09	759.8	17.7	N	Wind	
+1888-09-10	763.5	20.0	NE	Wind	Cloudy
+1888-09-11	766.3	21.4	NE	Breeze	Clear
+1888-09-12	767.2	22.0	E	Wind	Clear
+1888-09-13	766.0	20.8	NNE	Wind	Clouds
+1888-09-14	764.6	25.0	NE	Calm	Clear
+1888-09-15	764.0	23.8	NE	Breeze	Clear
+1888-09-16					
+1888-09-17	762.2	28.8	NE	Breeze	Clear
+1888-09-18	760.3	22.1	NE	Wind	Covered
+1888-09-19	761.0	21.4	S	Breeze	Covered
+1888-09-20	762.0	21.7	S	Breeze	Covered
+1888-09-21	761.1	20.0	W	Breeze	Cloudy
+1888-09-22	760.9	17.6	SE	Breeze	Covered
+1888-09-23	762.9	14.7	SSW	Wind	Covered
+1888-09-24	764.6	16.7	SW	Breeze	Clear
+1888-09-25	762.9	17.3	S	Breeze	Clouds
+1888-09-26	763.3	21.0	E	Breeze	Clear
+1888-09-27	766.3	22.0			Clouds
+1888-09-28	765.8	22.4	E	Breeze	Clear
+1888-09-29	762.8	27.7	SE	Calm	Clear
+1888-09-30	760.0	26.6	S	Calm	Clear
+1888-10-01	757.7	19.0	SW	Breeze	Covered
+1888-10-02	750.7	17.5	S	Strong wind	Covered
+1888-10-03	758.0	14.5	W	Wind	Clear
+1888-10-04	761.5	13.4	NW	Breeze	Clear
+1888-10-05	766.5	12.9	WNW	Breeze	Clear
+1888-10-06	766.1	13.4	SW	Wind	Clear
+1888-10-07	767.9	13.2	N	Breeze	Clear
+1888-10-08	765.3	15.0	E	Calm	Clear
+1888-10-09	762.0	14.3	NNW	Breeze	Clear
+1888-10-10	762.7	12.0	NNE	Wind	Clear
+1888-10-11	763.2	12.7	NE	Wind	Clear
+1888-10-12	765.3	16.3	E	Breeze	Cloudy
+1888-10-13	762.5	17.4	E	Breeze	Covered
+1888-10-14	763.0	13.7	S	Breeze	Covered
+1888-10-15	764.6	15.2	S	Breeze	Cloudy
+1888-10-16	767.8	19.7	NE	Calm	Clear
+1888-10-17	766.5	18.6	S	Calm	Almost covered
+1888-10-18	762.6	21.4	E	Breeze	Clouds
+1888-10-19	761.2	21.4	S	Breeze	Clouds
+1888-10-20	765.3	18.1	NE	Breeze	Clear
+1888-10-21					
+1888-10-22	768.0	16.8	W	Calm	Clear
+1888-10-23	769.0	14.4	NW	Breeze	Clear
+1888-10-24	766.1	15.0	NE	Breeze	Clouds
+1888-10-25	766.4	18.3	E	Breeze	Clear
+1888-10-26	770.6	14.0	NE	Breeze	Clouds
+1888-10-27	771.3	14.2	SE	Breeze	Clear
+1888-10-28	774.4	15.2	NE	Breeze	Clear
+1888-10-29	774.0	14.7	NE	Breeze	Clear
+1888-10-30	772.8	13.4	ENE	Wind	Clear
+1888-10-31	767.9	12.4	NE	Breeze	Clear
+1888-11-01	758.7	15.0	S	Wind	Almost covered
+1888-11-02	761.9	11.7	W	Wind	Clear
+1888-11-03	765.4	10.5	WSW	Wind	Clouds
+1888-11-04	765.9	12.6	S	Wind	Covered
+1888-11-05	761.0	11.8	S	Wind	Cloudy
+1888-11-06	760.0	8.8	S	Wind	Almost covered
+1888-11-07	763.7	10.3	S	Wind	Covered
+1888-11-08	758.6	10.0	S	Wind	Rainy
+1888-11-09	764.2	8.6	W	Wind	Clear
+1888-11-10	765.6	9.8	SW	Wind	Covered
+1888-11-11	763.1	12.8	S	Strong wind	Covered
+1888-11-12	755.8	12.0	S	Wind	Rainy
+1888-11-13	760.3	9.2	S	Wind	Covered
+1888-11-14	765.7	9.0	W	Breeze	Clear
+1888-11-15	771.4	9.0	NW	Wind	Clear
+1888-11-16	773.7	9.5	NE	Breeze	Clear
+1888-11-17	773.2	10.0	N	Breeze	Clear
+1888-11-18					
+1888-11-19	771.7	8.9	NE	Breeze	Clear
+1888-11-20	771.9	9.5	N	Breeze	Clear
+1888-11-21	772.5	8.4	N	Breeze	Clear
+1888-11-22	777.2	15.6	NE	Wind	Clear
+1888-11-23	777.0	8.6	N	Wind	Clear
+1888-11-24	776.8	4.5	N	Wind	Clear
+1888-11-25					
+1888-11-26	770.5	12.0	E	Breeze	Clear
+1888-11-27	762.8	9.4	SE	Strong wind	Almost covered
+1888-11-28	755.7	7.4	S	Wind	Covered
+1888-11-29	756.5	5.3	SW	Strong wind	Rainy
+1888-11-30	756.9	8.4	S	Strong wind	Rainy
+1888-12-01	765.3	3.2	N	Wind	Cloudy
+1888-12-02	769.2	3.2	NE	Wind	Clear
+1888-12-03	770.3	5.6	NE	Wind	Almost covered
+1888-12-04					
+1888-12-05					
+1888-12-06					
+1888-12-07					
+1888-12-08					
+1888-12-09					
+1888-12-10					
+1888-12-11					
+1888-12-12					
+1888-12-13					
+1888-12-14					
+1888-12-15					
+1888-12-16					
+1888-12-17	765.0	7.8	NE	Wind	Almost covered
+1888-12-18	767.2	9.6	NE	Wind	Clear
+1888-12-19	765.1	9.1	SE	Strong wind	Covered
+1888-12-20	756.2	8.7	W	Wind	Cloudy
+1888-12-21	756.7	10.4	S	Strong wind	Covered
+1888-12-22					
+1888-12-23					
+1888-12-24	768.7	5.1	W	Breeze	Covered
+1888-12-25					
+1888-12-26	769.1	10.6	S	Wind	Covered
+1888-12-27	766.8	11.2	W	Breeze	Almost clear
+1888-12-28	763.6	6.4	S	Wind	Covered
+1888-12-29	755.4	5.8	NW	Wind	Covered
+1888-12-30					
+1888-12-31	759.7	3.8	NW	Breeze	Clear
+1889-01-01	761.2	7.0	W	Breeze	Clear
+1889-01-02	766.8	4.2	N	Breeze	Clear
+1889-01-03	768.7	4.4	N	Breeze	Clear
+1889-01-04	769.8	5.1	N	Breeze	Clear
+1889-01-05	763.5	0.4	N	Breeze	Fog
+1889-01-06					
+1889-01-07					
+1889-01-08	765.7	4.0	S	Strong wind	Covered
+1889-01-09	764.8	5.6	NW	Breeze	Clear
+1889-01-10	768.0	7.6	W	Breeze	Clear
+1889-01-11	766.1	7.5	W	Wind	Covered
+1889-01-12	760.9	11.4	W	Wind	Covered
+1889-01-13					
+1889-01-14	765.7	4.7	N	Breeze	Clear
+1889-01-15	766.5	5.2	NW	Wind	Clear
+1889-01-16	760.9	7.1	W	Breeze	Clouds
+1889-01-17	767.0	6.5	W	Breeze	Clear
+1889-01-18	770.8	4.8	N	Wind	Clear
+1889-01-19	771.7	7.4	N	Breeze	Clear
+1889-01-20					
+1889-01-21	765.2	5.2	N	Wind	Clear
+1889-01-22	761.2	4.4	N	Strong wind	Clear
+1889-01-23	763.8	0.7	N	Strong wind	Clear
+1889-01-24	768.2	1.6	N	Wind	Clear
+1889-01-25	771.5	2.2	NE	Wind	Clear
+1889-01-26	774.1	4.5	N	Breeze	Clear
+1889-01-27					
+1889-01-28	778.0	7.6	E	Breeze	Clear
+1889-01-29	775.8	7.2	S	Breeze	Covered
+1889-01-30	773.3	6.5	NE	Breeze	Clear
+1889-01-31	774.1	9.4	NW	Breeze	Clouds
+1889-02-01	773.3	10.1	NW	Breeze	Clear
+1889-02-02	768.8	2.0	NW	Breeze	Covered
+1889-02-03					
+1889-02-04	761.7	5.9	NW	Strong wind	Clear
+1889-02-05	764.3	3.5	N	Wind	Clear
+1889-02-06	771.7	0.4	N	Wind	Clear
+1889-02-07	769.4	5.2	W	Wind	Clear
+1889-02-08	768.8	5.1	NW	Wind	Clouds
+1889-02-09	766.6	10.0	W	Breeze	Clear
+1889-02-10	769.6	9.7	W	Breeze	Clear
+1889-02-11	767.6	8.4	W	Wind	Cloudy
+1889-02-12	768.5	3.4	NW	Strong wind	Clear
+1889-02-13	776.2	2.7	NW	Wind	Clear
+1889-02-14	777.8	7.0	NW	Breeze	Clouds
+1889-02-15	774.9	10.0	W	Wind	Clouds
+1889-02-16	774.0	10.8	NNW	Strong wind	Clear
+1889-02-17					
+1889-02-18	774.3	10.5	NE	Wind	Clear
+1889-02-19	776.7	11.7	E	Breeze	Clear
+1889-02-20	773.8	11.2	N	Breeze	Clear
+1889-02-21	764.6	14.2	NW	Breeze	Clear
+1889-02-22	765.4	7.4	N	Wind	Clear
+1889-02-23	762.2	6.8	NE	Wind	Clear
+1889-02-24					
+1889-02-25	#758.2	4.3	NE	Strong wind	Covered
+1889-02-26	746.1	4.6	NE	Wind	Rainy
+1889-02-27	756.1	7.2	W	Wind	Cloudy
+1889-02-28	#751.2	8.1	S	Strong wind	Almost covered
+1889-03-01	764.6	7.2	SW	Breeze	
+1889-03-02	766.0	6.2	S	Wind	Cloudy
+1889-03-03	764.5	5.3	S	Wind	Cloudy
+1889-03-04	769.1	7.0	W	Calm	Clear
+1889-03-05	770.2	9.2	W	Breeze	Cloudy
+1889-03-06	769.1	11.4	S	Breeze	Cloudy
+1889-03-07	762.5	9.5	S	Wind	Rainy
+1889-03-08					
+1889-03-09					
+1889-03-10					
+1889-03-11					
+1889-03-12	766.4	6.8	N	Wind	Clear
+1889-03-13	767.3	5.0	N	Wind	Clear
+1889-03-14	767.6	6.4	N	Wind	Clear
+1889-03-15	768.2	7.5	N	Wind	Clouds
+1889-03-16	770.4	7.6	N	Breeze	Clear
+1889-03-17					
+1889-03-18	762.1	13.4	S	Wind	Clouds
+1889-03-19	761.8	10.8	SW	Breeze	Cloudy
+1889-03-20	757.2	9.5	SW	Strong wind	Covered
+1889-03-21	759.4	9.0	W	Wind	Cloudy
+1889-03-22	765.4	6.0	N	Wind	Clear
+1889-03-23	769.0	5.6	N	Wind	Clear
+1889-03-24					
+1889-03-25					
+1889-03-26	778.6	10.5	N	Breeze	Clear
+1889-03-27	767.6	12.0	N	Wind	Clear
+1889-03-28	770.8	9.6	N	Wind	Clear
+1889-03-29	770.9	8.4	N	Breeze	Clear
+1889-03-30	769.0	9.8	NE	Breeze	Clear
+1889-03-31					
+1889-04-01	762.5	9.6	NW	Strong wind	Clouds
+1889-04-02	768.1	9.0	NE	Wind	Clear
+1889-04-03	766.6	11.4	N	Breeze	Clear
+1889-04-04					
+1889-04-05	762.5	10.3	W	Wind	Clouds
+1889-04-06	761.3	10.0	W	Wind	Almost covered
+1889-04-07					
+1889-04-08	757.9	10.0	W	Wind	Covered
+1889-04-09	760.2	10.8	W	Wind	Clouds
+1889-04-10	759.3	9.6	S	Strong wind	Cloudy
+1889-04-11					
+1889-04-12	755.9	7.0	S	Wind	Cloudy
+1889-04-13	760.6	9.5	WSW	Wind	Cloudy
+1889-04-14					
+1889-04-15	754.3	9.5	S	Wind	Cloudy
+1889-04-16	754.5	6.5	W	Wind	Cloudy
+1889-04-17	758.8	9.7	NW	Breeze	Clear
+1889-04-18	764.3	9.4	N	Wind	Clear
+1889-04-19	770.8	14.4	NW	Breeze	Clear
+1889-04-20	770.8	12.2	E	Breeze	Clear
+1889-04-21					
+1889-04-22	763.1		SW	Breeze	Clouds
+1889-04-23	763.1	11.4	SE	Breeze	Some clouds
+1889-04-24	766.5	14.5	SW	Calm	Clear
+1889-04-25	765.9	14.3	W	Breeze	Clear
+1889-04-26	765.8	15.0	W	Breeze	Clear
+1889-04-27	764.6	18.0	S	Breeze	Clear
+1889-04-28					
+1889-04-29	760.3	11.3	W	Wind	Clear
+1889-04-30	760.1	14.0	SW	Breeze	Covered
+1889-05-01	759.8	11.4	W	Wind	Some clouds
+1889-05-02	763.7	14.4	NW	Breeze	Clear
+1889-05-03	762.6	17.0	S	Breeze	Clouds
+1889-05-04	763.0	15.0	SW	Wind	Clouds
+1889-05-05					
+1889-05-06	762.0	14.0	W	Breeze	Clear
+1889-05-07	761.6	12.8	NW	Wind	Clouds
+1889-05-08	761.4	13.5	S	Wind	Covered
+1889-05-09					
+1889-05-10	761.6	12.8	S	Breeze	Cloudy
+1889-05-11	760.2	15.0	S	Wind	Covered
+1889-05-12					
+1889-05-13	759.2	17.0	SE	Calm	Covered
+1889-05-14	762.6	11.8	S	Wind	Cloudy
+1889-05-15	762.2	17.6	W	Breeze	Cloudy
+1889-05-16	761.1	17.8	SW	Breeze	Clear
+1889-05-17					
+1889-05-18	761.7	21.2	SW	Calm	Clear
+1889-05-19	758.5	22.0	NE	Calm	Clear
+1889-05-20	761.0	20.0	S	Breeze	Cloudy
+1889-05-21	761.5	22.2	S	Breeze	Clouds
+1889-05-22	759.3	24.2	S	Breeze	Clear
+1889-05-23	756.7	21.4	SW	Breeze	Clouds
+1889-05-24	753.8	18.8	SE	Breeze	Clouds
+1889-05-25	750.3	18.6	SW	Wind	Cloudy
+1889-05-26					
+1889-05-27					
+1889-05-28					
+1889-05-29	767.0	18.4	S	Breeze	Clear
+1889-05-30	762.2	20.0	S	Breeze	Clear
+1889-05-31	759.4	17.3	S	Breeze	Some clouds
+1889-06-01	760.2	10.0	S	Wind	Covered
+1889-06-02					
+1889-06-03	765.2	18.3	S	Breeze	Clear
+1889-06-04	763.7	#22.7	NE	Wind	Clear
+1889-06-05	761.4	#13.6	NE	Breeze	Clouds
+1889-06-06	760.0	23.9	S	Breeze	Cloudy
+1889-06-07	761.3	19.6	NE	Breeze	Covered
+1889-06-08	761.9	19.0	S	Breeze	Cloudy
+1889-06-09					
+1889-06-10	759.5	18.2	S	Breeze	Clouds
+1889-06-11	762.3	13.3	W	Wind	Cloudy
+1889-06-12	763.9	16.2	NW	Breeze	Clear
+1889-06-13	764.6	19.6	NW	Breeze	Cloudy
+1889-06-14	766.5	22.5	SW	Breeze	Clear
+1889-06-15	765.6	21.6	SW	Breeze	Clear
+1889-06-16					
+1889-06-17	757.5	25.0	W	Breeze	Clouds
+1889-06-18					
+1889-06-19	760.3	16.6	W	Breeze	Covered
+1889-06-20	763.0	17.4	S	Breeze	Covered
+1889-06-21	762.3	23.6	SW	Breeze	Cloudy
+1889-06-22	764.9	18.5	SW	Breeze	Cloudy
+1889-06-23					
+1889-06-24					
+1889-06-25	761.0	15.7	S	Breeze	Covered
+1889-06-26	763.0	12.3	S	Wind	Covered
+1889-06-27					
+1889-06-28					
+1889-06-29					
+1889-06-30					
+1889-07-01					
+1889-07-02					
+1889-07-03					
+1889-07-04					
+1889-07-05					
+1889-07-06					
+1889-07-07					
+1889-07-08	758.4	30.0	W	Calm	Clear
+1889-07-09					

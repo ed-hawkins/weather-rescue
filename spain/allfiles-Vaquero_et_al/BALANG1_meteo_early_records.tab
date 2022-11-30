@@ -1,0 +1,75 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from BALANG1 (1919-1923), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926180 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 38.900000 * LONGITUDE: -6.430000
+	DATE/TIME START: 1919-03-01T00:00:00 * DATE/TIME END: 1923-12-01T00:00:00
+Event(s):	BALANG1 * LATITUDE: 38.900000 * LONGITUDE: -6.430000 * LOCATION: La Angostura, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of snowy days [days/month] (Snowy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Precipitation [mm/month] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge
+	Precipitation, daily, maximum [mm/day] (Precip day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge * COMMENT: within this month
+	Date (Date) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max daily precipitation. max values also on 1920-10-08, 1922-01-31 and 1923-07-23
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean, in rainy days (W = west, E = east, N = north, S = south) (From the North to East (0º-90º): 1er Cte = first quadrant, from the East to South (90º-180º): 2º Cte = second quadrant, from the South to West (180º-270º): 3er Cte = third quadrant, from the West to North (270º-360º): 4º Cte = fourth quadrant) ("Various" means several directions)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: max, in rainy days (W = west, E = east, N = north, S = south) (From the North to East (0º-90º): 1er Cte = first quadrant, from the East to South (90º-180º): 2º Cte = second quadrant, from the South to West (180º-270º): 3er Cte = third quadrant, from the West to North (270º-360º): 4º Cte = fourth quadrant) ("Various" means several directions)
+	Number of stormy days [days/month] (Stormy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+Size:	359 data points
+*/
+Date/Time	Rainy days [days/month] (Observation)	Snowy days [days/month] (Observation)	Precip [mm/month] (Hellmann Rain Gauge)	Precip day max [mm/day] (within this month, Hellmann R...)	Date (of max daily precipitation. m...)	Wind dir descr (mean, in rainy days (W = west...)	Wind dir descr (max, in rainy days (W = west,...)	Stormy days [days/month] (Observation)
+1919-03	2	0	3.40	3.2	1919-03-12			
+1919-04	8	0	32.10	6.5	1919-04-02			
+1919-05	3	0	9.40	5.1	1919-05-09			
+1919-06	4	0	6.40	4.2	1919-06-02			
+1919-07	0	0	0.00	0.0				
+1919-08	0	0	0.00	0.0				
+1919-09	2	0	28.30	15.8	1919-09-26			
+1919-10	2	0	6.70	3.2	1919-10-02			
+1919-11	10	0	84.90	26.5	1919-11-06			
+1919-12	5	0	29.60	5.6	1919-12-16			
+1920-01	4	0	39.60	30.4	1920-01-04			
+1920-02	5	0	39.50	17.5	1920-02-25			
+1920-03	5	0	25.60	11.0	1920-03-16			
+1920-04	4	0	56.50	21.3	1920-04-13			
+1920-05	5	0	39.80	15.5	1920-05-22			
+1920-06	1	0	1.50	1.5	1920-06-08			
+1920-09	4	0	20.00	6.0	1920-09-20			
+1920-10	8	0	89.80	22.0	1920-10-06			
+1920-11	6	0	59.00	22.0	1920-11-26			
+1920-12	8	0	69.00	26.0	1920-12-13			
+1921-01	1	0	9.10	9.1	1921-01-13	W	W	
+1921-02	9	0	38.80	12.7	1921-02-03	SE	W-SE	
+1921-03	5	0	19.70	8.5	1921-03-06	E	SW	
+1921-04	5	0	21.40	16.0	1921-04-04	W	NW	
+1921-05	6	0	34.80	14.0	1921-05-18	W	W	
+1921-06	2	0	8.80	8.1	1921-06-02	W	W	
+1921-07	1	0	0.60	0.6	1921-07-18	W	W	
+1921-08	1	0	2.00	2.0	1921-08-09	W	W	
+1921-09	6	0	46.60	19.4	1921-09-19	E	E	
+1921-10	6	0	60.10	16.2	1921-10-02	E	E	
+1921-11	8	0	39.70	8.0	1921-11-21	Various	Various	
+1921-12	3	0	40.70	20.2	1921-12-02	W	W	
+1922-01	7	0	32.10	7.2	1922-01-25	3er Cte	S-SW	0
+1922-02	1	0	8.90	8.9	1922-02-06	W	W	0
+1922-03	13	0	76.90	15.2	1922-03-19	SW	SW	0
+1922-04	3	0	1.70	0.7	1922-04-04	Various	NW-SW	0
+1922-05	8	0	24.80	13.4	1922-05-14	Various	W-NW	11
+1922-06	4	0	38.70	20.8	1922-06-04	E and W	E	7
+1922-07	0	0	0.00	0.0				0
+1922-08	2	0	20.10	19.5	1922-08-11	S	S-SW	3
+1922-09	6	0	6.50	4.3	1922-09-26	W	NW-SW	0
+1922-10	10	0	94.40	28.0	1922-10-14	S	W	0
+1922-11	3	0	12.00	9.5	1922-11-01	NE	E	0
+1922-12	7	0	68.50	32.3	1922-12-19	NW	W	0
+1923-01	1	0	3.20	3.2	1923-01-12	W	W	
+1923-02	12	0	83.50	24.2	1923-02-21	Various	S-W	
+1923-03	5	0	18.70	7.9	1923-03-22	W	W	
+1923-04	16	0	71.00	15.4	1923-04-11	Various	SW	
+1923-05	2	0	5.10	2.6	1923-05-11	W	E	
+1923-06	4	0	47.00	25.3	1923-06-03	Various	W	
+1923-07	3	0	1.70	0.7	1923-07-11	Various	N-W	
+1923-08	2	0	10.80	10.3	1923-08-15	S-E	E	
+1923-09	4	0	32.90	16.4	1923-09-14	S-E	E	
+1923-10	7	0	42.70	17.5	1923-10-13	W	W	
+1923-11	11	0	96.70	54.3	1923-11-25	Various	S-W	
+1923-12	2	0	13.70	11.0	1923-12-05	S-W	S-W	

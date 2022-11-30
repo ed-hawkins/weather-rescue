@@ -1,0 +1,62 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from BATALA1 (1933-1936), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926275 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 39.060000 * LONGITUDE: -5.220000
+	DATE/TIME START: 1933-11-01T00:00:00 * DATE/TIME END: 1936-06-01T00:00:00
+Event(s):	BATALA1 * LATITUDE: 39.060000 * LONGITUDE: -5.220000 * LOCATION: Talarrubias, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Temperature, air, monthly mean [°C] (TTT monthly m) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: from the max and min temperatures
+	Temperature, air, monthly maximum [°C] (TTT month max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: reached by the bright bulb thermometer in the shadow
+	Temperature, air, maximum [°C] (TxTxTx) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: reached by the bright bulb thermometer in the shadow in one day
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max temperature in the shadow
+	Temperature, air, monthly minimum [°C] (TTT month min) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: reached by the bright bulb thermometer in the shadow
+	Temperature, air, minimum [°C] (TnTnTn) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: reached by the bright bulb thermometer in the shadow in one day
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of min temperature in the shadow
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of snowy days [days/month] (Snowy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Precipitation [mm/month] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge
+	Precipitation, daily, maximum [mm/day] (Precip day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge * COMMENT: within this month
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max daily precipitation
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean, in rainy days (W = west, E = east, N = north, S = south). (From the North to East (0º-90º): 1er Cte = first quadrant, from the East to South (90º-180º): 2° Cte = second quadrant, from the South to West (180º-270º): 3er Cte = third quadrant, from the West to North (270º-360º): 4° Cte = fourth quadrant) ("Various" means several directions)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: max, in rainy days (W = west, E = east, N = north, S = south). (From the North to East (0º-90º): 1er Cte = first quadrant, from the East to South (90º-180º): 2° Cte = second quadrant, from the South to West (180º-270º): 3er Cte = third quadrant, from the West to North (270º-360º): 4° Cte = fourth quadrant) ("Various" means several directions)
+	Number of dew days [days/month] (Dew days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of frost days [days/month] (Frost days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of foggy days [days/month] (Foggy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of stormy days [days/month] (Stormy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of hail days [days/month] (Hail days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+Size:	436 data points
+*/
+Date/Time	TTT monthly m [°C] (from the max and min temperat...)	TTT month max [°C] (reached by the bright bulb th...)	TxTxTx [°C] (reached by the bright bulb th...)	Day of month (of max temperature in the shadow)	TTT month min [°C] (reached by the bright bulb th...)	TnTnTn [°C] (reached by the bright bulb th...)	Day of month (of min temperature in the shadow)	Rainy days [days/month] (Observation)	Snowy days [days/month] (Observation)	Precip [mm/month] (Hellmann Rain Gauge)	Precip day max [mm/day] (within this month, Hellmann R...)	Day of month (of max daily precipitation)	Wind dir descr (mean, in rainy days (W = west...)	Wind dir descr (max, in rainy days (W = west,...)	Dew days [days/month] (Observation)	Frost days [days/month] (Observation)	Foggy days [days/month] (Observation)	Stormy days [days/month] (Observation)	Hail days [days/month] (Observation)
+1933-11								11	0	58.7	10.1	15	S	Various					
+1933-12								11	0	65.5	20.0	13	Various	SE					
+1934-01								3	0	14.3	8.2	12	S	S	0	0	0	0	0
+1934-02								3	1	11.9	5.0	13	N	E	0	0	0	0	0
+1934-03								15	0	73.0	14.5	11	SE	SE	0	0	0	0	0
+1934-04								14	0	78.0	16.4	7	S	S	0	0	0	0	0
+1934-05								6	0	68.1	27.7	13	W	W	0	0	0	4	0
+1934-06								2	0	11.6	8.8	9	1er Cte	NE	0	0	0	2	0
+1934-07								1	0	0.9	0.9	7	SE	SE	0	0	0	0	0
+1934-08								1	0	2.6	2.6	19	SW	SW	0	0	0	1	0
+1934-09								0	0	0.0	0.0				0	0	0	0	0
+1934-10								2	0	26.0	14.0	2	SE	SE	0	0	0	1	0
+1934-11								12	0	70.9	14.3	4	Various	S	0	0	0	0	1
+1934-12								14	0	154.7	33.5	11	S	S	0	0	1	0	0
+1935-01								1	2	2.5	2.2	19	Various	NE			1	0	0
+1935-02								6	1	26.0	10.0	25	SW	NW			0	0	1
+1935-03								7	0	60.4	21.0	5	SE-S	SE			0	1	1
+1935-04	13.6	20.9	26.0	9 and 10	6.4	3.0	6	4	0	15.1	7.4	21	S-NW	NW			1	0	1
+1935-05	14.8	20.5	28.1	14	9.2	6.0	Various	15	0	148.3	26.8	7	Various	SE			0	4	1
+1935-06								2	0	11.2	7.5	28	Various	N-S			0	1	0
+1935-07	26.8	34.5	40.0	29	19.1	14.5	13	0	0	0.0	0.0						0	0	0
+1935-08	26.0	33.5	38.5	11	18.5	13.5	29 and 30	2	0	22.5	22.1	9	NE	NE-S			0	2	1
+1935-09	22.6	29.3	35.0	7 and 21	15.9	10.0	18	1	0	1.5	1.5	29	S	S			0	0	0
+1935-10	14.5	20.0	25.0	1	8.9	4.0	22	4	0	16.7	6.0	3	S	S			0	1	0
+1935-11	10.2	14.1	23.0	3	6.4	2.0	11	15	0	108.0	17.5	22	S	SW			2	0	0
+1935-12	8.4	11.5	16.5	27	5.4	-2.0	15	14	0	161.6	41.0	27	S	S			5	2	0
+1936-01	9.3	12.2	16.0	22 and 23	6.4	2.0	8	16	0	120.4	27.0	18	3er Cte	S		0	2	0	0
+1936-02	10.2	13.4	18.0	11 and 12	7.0	-0.5	27	14	1	120.2	16.1	8	SW	S		0	3	1	0
+1936-03	10.0	14.0	21.0	31	6.0	0.0	4	19	1	181.3	29.2	24	SE	SE		0	0	4	0
+1936-04	13.3	18.4	24.5	25 and 26	8.3	3.0	18	10	0	89.2	25.6	19	SW	NW		0	0	3	0
+1936-05	14.5	19.9	27.0	14	9.2	5.5	7 and 8	11	0	71.9	14.8	20	SE	SE		0	1	1	0
+1936-06	19.8	26.7	33.0	28	12.9	6.0	5	5	0	22.4	6.7	14	SE	NW		0	0	2	0

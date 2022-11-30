@@ -1,0 +1,103 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from BAHDUQ1 (1926-1936), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926437 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 39.160000 * LONGITUDE: -5.020000
+	DATE/TIME START: 1926-06-01T00:00:00 * DATE/TIME END: 1936-06-01T00:00:00
+Event(s):	BAHDUQ1 * LATITUDE: 39.160000 * LONGITUDE: -5.020000 * LOCATION: Herrera del Duque, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Tonnelot barometer * COMMENT: in mmHg, max in one day of the month
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max pressure
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Tonnelot barometer * COMMENT: in mmHg, min in one day of the month
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of min pressure
+	Pressure, difference [arbitrary units] (dP) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: between max and min (mmHg)
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Tonnelot barometer * COMMENT: in mmHg, mean at 7am
+	Pressure, difference [arbitrary units] (dP) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: between 8am 6pm (mmHg)
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Richard barograph * COMMENT: in mmHg, max value of barograph
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max value of barograph ("Various" means several days)
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Richard barograph * COMMENT: in mmHg, min value of barograph
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of min value of barograph ("Various" means several days)
+	Pressure, difference [arbitrary units] (dP) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: between max and min values of barograph (mmHg)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: W = west, E = east, N = north, S = south
+	Distance [km] (Distance) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: total space travelled by the wind
+	Wind speed [arbitrary units] (ff) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: monthly, in km
+	Wind speed, gust [arbitrary units] (ff gust) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: max in one day, in km
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max wind velocity
+	Duration, number of days [days] (Duration) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: wind travelled 0 - 200 km space
+	Duration, number of days [days] (Duration) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: wind travelled 200 - 400 km space
+	Duration, number of days [days] (Duration) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: wind travelled 400 - 600 km space
+	Duration, number of days [days] (Duration) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: wind travelled >600 km space
+	Temperature, air, maximum [°C] (TxTxTx) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: bright bulb thermometer exposed to shadow
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max temperature exposed to shadow ("Various" means several days)
+	Temperature, air, minimum [°C] (TnTnTn) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: bright bulb thermometer exposed to shadow
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of min temperature exposed to shadow
+	Temperature, difference [°C] (delta T) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: max-min, bright bulk thermometer exposed to shadow
+	Temperature, air, monthly maximum [°C] (TTT month max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: bright bulb thermometer exposed to shadow
+	Temperature, air, monthly minimum [°C] (TTT month min) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: bright bulb thermometer exposed to shadow
+	Temperature, difference [°C] (delta T) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: monthly, bright bulb thermometer
+	Temperature, air, monthly mean [°C] (TTT monthly m) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: from monthly max and min temperatures
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Psychrometer, dry thermometer * COMMENT: mean, at 7am
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Psychrometer, wet thermometer * COMMENT: mean, at 7am
+	Temperature, difference [°C] (delta T) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 7am, between dry and wet thermometer
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Psychrometer, dry thermometer * COMMENT: mean, at 6pm
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Psychrometer, wet thermometer * COMMENT: mean, at 6pm
+	Temperature, difference [°C] (delta T) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 6pm, between dry and wet thermometer
+	Humidity, relative [%] (RH) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: monthly mean at 7am
+	Humidity, relative [%] (RH) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: monthly mean at 6pm
+	Water vapour pressure, monthly mean [arbitrary units] (WV) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, at 7am
+	Water vapour pressure, monthly mean [arbitrary units] (WV) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, at 6pm
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE) * COMMENT: "priceless rain days"
+	Number of snowy days [days/month] (Snowy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Precipitation [mm/month] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Pluviometer
+	Precipitation, daily, maximum [mm/day] (Precip day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Pluviometer * COMMENT: within this month
+	Day of the month (Day of month) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Pluviometer * COMMENT: of max daily precipitation ("Various" means several days)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean, in rainy days (W = west, E = east, N = north, S = south) ("Various" means several directions)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: max, in rainy days (W = west, E = east, N = north, S = south) ("Various" means several directions)
+	Evaporation, monthly total [mm] (Evapor m total) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Piché evaporimeter
+	Number of stormy days [days/month] (Stormy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+Size:	561 data points
+*/
+Date/Time	PPPP other [arbitrary units] (in mmHg, max in one day of th...)	Day of month (of max pressure)	PPPP other [arbitrary units] (in mmHg, min in one day of th...)	Day of month (of min pressure)	dP [arbitrary units] (between max and min (mmHg))	PPPP other [arbitrary units] (in mmHg, mean at 7am, Tonnelo...)	dP [arbitrary units] (between 8am 6pm (mmHg))	PPPP other [arbitrary units] (in mmHg, max value of barogra...)	Day of month (of max value of barograph)	PPPP other [arbitrary units] (in mmHg, min value of barogra...)	Day of month (of min value of barograph)	dP [arbitrary units] (between max and min values of...)	Wind dir descr (W = west, E = east, N = north...)	Distance [km] (total space travelled by the ...)	ff [arbitrary units] (monthly, unit ?)	ff gust [arbitrary units] (max in one day, unit ?)	Day of month (of max wind velocity)	Duration [days] (wind travelled 0 - 200 km space)	Duration [days] (wind travelled 200 - 400 km s...)	Duration [days] (wind travelled 400 - 600 km s...)	Duration [days] (wind travelled >600 km space)	TxTxTx [°C] (bright bulb thermometer expos...)	Day of month (of max temperature exposed to...)	TnTnTn [°C] (bright bulb thermometer expos...)	Day of month (of min temperature exposed to...)	delta T [°C] (max-min, bright bulk thermome...)	TTT month max [°C] (bright bulb thermometer expos...)	TTT month min [°C] (bright bulb thermometer expos...)	delta T [°C] (monthly, bright bulb thermometer)	TTT monthly m [°C] (from monthly max and min temp...)	TTT [°C] (mean, at 7am, Psychrometer, d...)	TTT [°C] (mean, at 7am, Psychrometer, w...)	delta T [°C] (at 7am, between dry and wet t...)	TTT [°C] (mean, at 6pm, Psychrometer, d...)	TTT [°C] (mean, at 6pm, Psychrometer, w...)	delta T [°C] (at 6pm, between dry and wet t...)	RH [%] (monthly mean at 7am)	RH [%] (monthly mean at 6pm)	WV [arbitrary units] (in mmHg, at 7am)	WV [arbitrary units] (in mmHg, at 6pm)	Rainy days [days/month] (Observation)	Rainy days [days/month] ("priceless rain days", Observ...)	Snowy days [days/month] (Observation)	Precip [mm/month] (Pluviometer)	Precip day max [mm/day] (within this month, Pluviometer)	Day of month (of max daily precipitation, P...)	Wind dir descr (mean, in rainy days)	Wind dir descr (max, in rainy days)	Evapor m total [mm] (Piché evaporimeter)	Stormy days [days/month] (Observation)
+1926-06	719.9	7, 8 and 14	712.2	23 and 24	7.7	717.1	715.9	720.0	Various	712.0	Various	8.0	SW	3672	122	212	25	28	2	0	0	34.8	21 and 22	7.2	7	27.6	27.1	12.8	14.3	19.9	19.9	15.1	4.8	24.9	16.1	8.8	58	39	10.1	8.8	1	0	0.0	1.0	1.0	25	SW	SW		0
+1926-07	722.5	28	713.4	6	9.1	717.0	716.0	722.5	28	712.5	18	10.0	NW	3360	108	246	5	30	1	0	0	39.2	Various	14.0	29	25.2	35.5	17.5	18.0	26.5	21.6	16.2	5.4	31.9	18.9	13.0	55	24	10.9	8.9	0	0	0.0	0.0	0.0					0
+1926-08	722.2	23	714.0	11	8.2	718.7	717.2	722.5	22	714.0	11	8.5	NW									42.4	23	14.2	15 and 31	28.2	36.1	18.9	17.2	27.5	23.8	18.0	5.8	34.4	21.1	13.3	55	27	12.1	10.9	2	0	0.0	18.2	9.2	30	W-NW	W		2
+1926-09	722.9	7	714.2	25	8.7	719.3	717.8	723.0	7	714.0	25	9.0	S									38.4	23	12.4	4	26.0	32.8	18.2	14.6	25.5	21.2	17.7	3.5	29.1	21.5	7.6	69	49	12.9	14.7	0	0	0.0	0.0	0.0					0
+1926-10	721.4	12	704.3	21	17.1	717.2	715.9	722.0	12 and 26	704.0	21	18.0										32.0	15	4.8	25	27.2	23.8	10.9	12.9	17.4	14.1	12.1	2.0	18.1	14.5	3.6	77	65	9.4	10.5	10	0	0.0	116.2	17.2	23				0
+1926-11	722.2	17	704.2	20	18.0	716.3	715.6	722.5	17 and 25	704.0	20	18.5										18.0	15	1.8	22 and 24	16.2	10.7	5.8	4.9	8.2	8.3	7.6	0.7	8.7	7.3	1.4	90	82	7.4	6.9	18	0	0.0	243.0	19.2	17				0
+1926-12																																																		
+1927-01	728.0	10	708.2	18	19.8	720.9	720.4					2.9										17.2	11	-2.2	20	19.4	10.1	2.5	7.6	6.3	5.0	4.4	0.6	5.6	4.5	1.1	90	83	5.9	5.7	3	0	0.0	31.2	15.8	9			1.8	
+1927-02	725.0	14	710.3	22	14.7	719.6	719.0					2.8										16.6	26	-1.2	10	17.8	13.4	4.2	9.2	8.8	6.8	5.3	1.5	9.2	6.8	2.4	79	70	5.9	6.1	0	0	0.0	0.0	0.0	11			1.8	
+1927-03	725.8	19	713.0	12	12.8	719.9	719.8					2.6										20.4	31	0.8	14	19.2	15.7	5.7	10.0	10.3	10.3	8.5	1.8	12.1	10.1	2.0	78	77	7.3	8.2	2	0	0.0	23.0	13.0	18			0.7	
+1933-11																																									9	0	59.8	14.2	16.0	Various				
+1933-12																																									12	0	96.1	32.7	14.0	Various	SW			
+1934-01																																									4		0.0	41.5	14.7	13	SW	Various		
+1934-02																																									3		1.0	11.8	4.4	27	Various	NW		
+1934-03																																									12		0.0	122.6	26.2	18	SW	Various		
+1934-04																																									11		0.0	119.0	30.5	7	Various	Various		
+1934-05																																									6		0.0	47.5	11.2	7	Various			
+1934-06																																									0		0.0	0.0	0.0					
+1934-07																																									0		0.0	0.0	0.0					
+1934-08																																									0		0.0	0.0	0.0					
+1934-09																																									0		0.0	0.0	0.0					
+1934-10																																									3		0.0	17.4	13.1	3	Various	Various		
+1934-11																																									11		0.0	104.0	21.2	3	Various	Various		
+1934-12																																									15		0.0	215.6	50.2	10	Various	Various		
+1935-01																																									0		2.0	2.6	1.8	12				0
+1935-02																																									7		0.0	39.2	8.2	25	SW	SW		0
+1935-03																																									9		0.0	69.2	15.4	6	SW	W		0
+1935-04																																									4		0.0	15.4	9.0	22	SW-W	SW		0
+1935-05																																									15		0.0	146.0	25.4	21	Various	Various		0
+1935-06																																									1		0.0	4.5	4.5	29	S	S		1
+1935-07																																									0		0.0	0.0	0.0					0
+1935-08																																									1		0.0	5.0	5.0	9	S	S		1
+1935-09																																									1		0.0	2.3	2.3	30	SW	SW		0
+1935-10																																									4		0.0	19.2	8.1	26	SW			1
+1935-11																																									10		0.0	162.2	37.7	17	SW	SW		0
+1935-12																																									11		0.0	243.7	40.8	24	SW	SW		0
+1936-01																																									18		0.0	206.1	34.7	1	SW			
+1936-02																																									5		0.0	185.7	52.5	19				
+1936-03																																									5		0.0	186.8	51.0	15				
+1936-04																																									3		0.0	127.7	53.4	8				
+1936-05																																									9		0.0	52.5	15.6	18	S	S		
+1936-06																																									4		0.0	23.3	14.6	15	W	N		

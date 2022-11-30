@@ -1,0 +1,1094 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from BAALAN4 (1882-1893), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926394 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 38.784444 * LONGITUDE: -6.243611
+	DATE/TIME START: 1882-06-24T00:00:00 * DATE/TIME END: 1893-09-30T00:00:00
+Event(s):	BAALAN4 * LATITUDE: 38.784444 * LONGITUDE: -6.243611 * LOCATION: Alange, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Temperature, air [arbitrary units] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Reaumur thermometer * COMMENT: in Reamur degrees at 9am
+	Temperature, air [arbitrary units] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Reaumur thermometer * COMMENT: in Reamur degrees at 2pm
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 9am (W = west, E = east, N = north, S = south)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 2pm (W = west, E = east, N = north, S = south)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean (W = west, E = east, N = north, S = south)
+	Present weather (ww) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 9am (note that the terms “Gallego” and “Solano” in the “wind direction” variable are Spanish terms that could imply different wind directions from one place to another")
+	Present weather (ww) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 2pm (note that the terms “Gallego” and “Solano” in the “wind direction” variable are Spanish terms that could imply different wind directions from one place to another")
+	Present weather (ww) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean (note that the terms “Gallego” and “Solano” in the “wind direction” variable are Spanish terms that could imply different wind directions from one place to another")
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, at 9am
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, at 2pm
+Size:	6561 data points
+*/
+Date/Time	TTT [arbitrary units] (at 9am)	TTT [arbitrary units] (at 2pm)	Wind dir descr (at 9am)	Wind dir descr (at 2pm)	Wind dir descr (mean)	ww (at 9am)	ww (at 2pm)	ww (mean)	PPPP other [arbitrary units] (in mmHg, at 9am)	PPPP other [arbitrary units] (in mmHg, at 2pm)
+1882-06-24	20.0	23			Gallego			Clear		
+1882-06-25	18.0	22			Gallego			Clear		
+1882-06-26	24.0	27			Gallego			Clear		
+1882-06-27	25.0	30			Solano			Clear		
+1882-06-28	19.0	26			Solano			Clouds		
+1882-06-29	18.0	27			Solano			Clouds		
+1882-06-30	23.0	30			Solano			Clear		
+1882-07-01	25.0	30			Solano			Clear		
+1882-07-02	20.0	26			Gallego			Cloudy		
+1882-07-03	20.0	27			Gallego			Clouds		
+1882-07-04	19.0	25			Gallego			Clouds		
+1882-07-05	18.0	23			N			Clouds		
+1882-07-06	18.0	24			N			Cloudy		
+1882-07-07	19.0	24			S			Cloudy		
+1882-07-08	14.0	16			N			Rain		
+1882-07-09	13.0	20			SW			Clouds		
+1882-07-10	15.0	25			SW			Clouds		
+1882-07-11	21.0	32			SW			Clear		
+1882-07-12	23.0	34			S			Clear		
+1882-07-13	21.0	34			S			Clear		
+1882-07-14	20.0	35			SW			Clear		
+1882-07-15	19.0	30			Gallego			Storm		
+1882-07-16	20.0	31			NW			Clouds		
+1882-07-17	22.0	35			SW			Clear		
+1882-07-18	23.0	36			S			Clear		
+1882-07-19	27.0	38			S			Clear		
+1882-07-20	19.0	36			Gallego			Clear		
+1882-07-21	22.0	35			SW			Clear		
+1882-07-22	27.0	36			SW			Clear		
+1882-07-23	27.0	34			NW			Clear		
+1882-07-24	25.0	35			NW			Clear		
+1882-07-25	24.0	33			NW			Clear		
+1882-07-26	28.0	37			SW			Clear		
+1882-07-27	29.0	38			SW			Clear		
+1882-07-28	27.0	38			SW			Clear		
+1882-07-29	27.0	39			Solano			Some clouds		
+1882-07-30	27.0	38			Solano			Clear		
+1882-07-31	26.0	39			Solano			Clear		
+1882-08-01	26.0	39			Solano			Clear		
+1882-08-02	26.0	38			Solano			Clear		
+1882-08-03	25.0	37			SW			Clear		
+1882-08-04	26.0	39			Solano			Clear		
+1882-08-05	26.0	38			Solano			Clear		
+1882-08-06	25.0	37			NW			Clouds		
+1882-08-07	25.0	38			S			Clouds		
+1882-08-08	24.0	39			N			Clouds		
+1882-08-09	31.0	32			N			Clouds		
+1882-08-10	25.0	31			N			Clouds		
+1882-08-11	26.0	33			SW			Clouds		
+1882-08-12	26.0	29			S			Clouds		
+1882-08-13	23.0	30			Gallego			Clouds		
+1882-08-14	22.0	28			Gallego			Clouds		
+1882-08-15	20.0	29			SW			Clear		
+1882-08-16	23.0	30			S			Clear		
+1882-08-17	23.0	31			S			Clear		
+1882-08-18	26.0	32			Solano			Clear		
+1882-08-19	25.0	31			SW			Clear		
+1882-08-20	20.0	30			Gallego			Clear		
+1882-08-21	23.0	35			N			Clouds		
+1882-08-22	25.0	36			N			Clear		
+1882-08-23	24.0	37			Solano			Clear		
+1882-08-24	22.0	28			Gallego			Clear		
+1882-08-25	20.0	27			Gallego			Clear		
+1882-08-26	20.0	29			Gallego			Some clouds		
+1882-08-27	21.0	31			N			Clear		
+1882-08-28	22.0	32			N			Clear		
+1882-08-29	24.0	33			N			Clear		
+1882-08-30	25.0	38			S			Clear		
+1882-08-31	25.0	39			S			Clear		
+1882-09-01	23.0	32			S			Clear		
+1882-09-02	22.0	31			Gallego			Clouds		
+1882-09-03	20.0	30			Gallego			Clouds		
+1882-09-04	21.0	31			Gallego			Clouds		
+1882-09-05	20.0	32			N			Clouds		
+1882-09-06	23.0	28			N			Clouds		
+1882-09-07	23.0	25			S			Clouds		
+1882-09-08	21.0	24			Gallego			Cloudy		
+1882-09-09	20.0	21			SW			Cloudy		
+1882-09-10	19.0	22			S			Cloudy		
+1882-09-11	18.0	21			S			Cloudy		
+1882-09-12	16.0	20			NW			Drizzle		
+1882-09-13	14.0	19			NW			Clouds		
+1882-09-14	13.0	20			SW			Rain		
+1882-09-15	15.0	22			S			Clear		
+1882-09-16	13.0	23			N			Clear		
+1882-09-17	14.0	25			N			Clear		
+1882-09-18	15.0	26			SW			Clear		
+1882-09-19	20.0	24			S			Clear		
+1882-09-20	18.0	20			S			Cloudy		
+1882-09-21	14.0	23			Gallego			Clear		
+1882-09-22	12.0	25			Gallego			Clouds		
+1882-09-23	14.0	24			NW			Clouds		
+1882-09-24	14.0	25			NW			Clouds		
+1882-09-25	15.0	24			S			Cloudy		
+1882-09-26	16.0	20			Gallego			Rain		
+1882-09-27	13.0	23			SW			Cloudy		
+1882-09-28	15.0	24			Gallego			Clear		
+1882-09-29	15.0	26			Gallego			Clear		
+1882-09-30	19.0	27			Gallego			Clear		
+1883-06-24	18.0	21			SW			Clear		
+1883-06-25	19.0	23			SW			Some clouds		
+1883-06-26	18.0	25			Gallego			Clear		
+1883-06-27	19.0	25			Gallego			Clear		
+1883-06-28	22.0	26			S			Clouds		
+1883-06-29	19.0	29			Gallego			Clouds		
+1883-06-30	19.0	25			Gallego			Clouds		
+1883-07-01	20.0	30			N			Clear		
+1883-07-02	22.0	32			S			Clear		
+1883-07-03	22.0	31			Gallego			Clouds		
+1883-07-04	21.0	30			S			Clear		
+1883-07-05	19.0	30			Gallego			Clear		
+1883-07-06	18.0	30			Gallego			Clouds		
+1883-07-07	20.0	31			S			Clear		
+1883-07-08	22.0	32			S			Clear		
+1883-07-09	25.0	32			SW			Some clouds		
+1883-07-10	25.0	31			N			Some clouds		
+1883-07-11	22.0	27			Gallego			Clouds		
+1883-07-12	25.0	32			S			Clear		
+1883-07-13	24.0	31			Gallego			Clouds		
+1883-07-14	23.0	31			Gallego			Clear		
+1883-07-15	23.0	32			N			Clear		
+1883-07-16	24.0				N			Clear		
+1883-07-17	25.0	33			S			Some clouds		
+1883-07-18	24.0	32			Gallego			Clear		
+1883-07-19	22.0	31			Gallego			Clouds		
+1883-07-20	22.0	31			Gallego			Clouds		
+1883-07-21	21.0	26			SW			Clear		
+1883-07-22	20.0	25			Gallego			Clear		
+1883-07-23	24.0	28			SW			Clear		
+1883-07-24	23.0	28			Gallego			Clear		
+1883-07-25	24.0	28			SW			Clear		
+1883-07-26	27.0	33			NW			Clear		
+1883-07-27	28.0	33			Gallego			Clear		
+1883-07-28	21.0	31			Gallego			Clear		
+1883-07-29	22.0	32			N			Clear		
+1883-07-30	22.0	33			Gallego			Clear		
+1883-07-31	23.0	33			Gallego			Clear		
+1883-08-01	24.0	34			S			Clouds		
+1883-08-02	26.0	36			S			Clear		
+1883-08-03	26.0	35			Gallego			Clear		
+1883-08-04	24.0	36			N			Clear		
+1883-08-05	26.0	37			S			Clear		
+1883-08-06	26.0	37			S			Clear		
+1883-08-07	26.0	36			Gallego			Clear		
+1883-08-08	26.0	39			Gallego			Clear		
+1883-08-09	24.0	36			S			Clear		
+1883-08-10	24.0	36			Gallego			Clear		
+1883-08-11	25.0	37			Solano			Clear		
+1883-08-12	27.0	38			N			Some clouds		
+1883-08-13	29.0	39			S			Clouds		
+1883-08-14	29.0	36			S			Clouds		
+1883-08-15	25.0	30			Gallego			Clear		
+1883-08-16	24.0	29			Gallego			Clouds		
+1883-08-17	25.0	29			N			Clear		
+1883-08-18	25.0	29			Gallego			Clear		
+1883-08-19	26.0	35			Gallego			Clear		
+1883-08-20	26.0	36			S			Clear		
+1883-08-21	27.0	38			SE			Clear		
+1883-08-22	26.0	30			W			Cloudy		
+1883-08-23	25.0	29			N			Clouds		
+1883-08-24	27.0	36			N			Clouds		
+1883-08-25	26.0	36			N			Clouds		
+1883-08-26	27.0	36			N			Clouds		
+1883-08-27	26.0	35			S			Clouds		
+1883-08-28	26.0	35			NE			Clouds		
+1883-08-29	26.0	36			S			Some clouds		
+1883-08-30	27.0	37			N			Clouds		
+1883-08-31	24.0	30			Gallego			Clouds		
+1883-09-01	17.0	24			Gallego			Some clouds		
+1883-09-02	17.0	25			Gallego			Some clouds		
+1883-09-03	17.0	25			Gallego			Some clouds		
+1883-09-04	16.0	26			Gallego			Some clouds		
+1883-09-05	17.0	27			Gallego			Clear		
+1883-09-06	18.0	27			NE			Clear		
+1883-09-07	20.0	29			N			Clear		
+1883-09-08	23.0	34			N			Clear		
+1883-09-09	24.0	34			N			Clear		
+1883-09-10	21.0	32			Gallego			Clear		
+1883-09-11	21.0	30			Gallego			Clouds		
+1883-09-12	18.0	31			N			Clouds		
+1883-09-13	18.0	27			N			Clear		
+1883-09-14	17.0	26			N			Clear		
+1883-09-15	16.0	26			N			Clear		
+1883-09-16	15.0	26			S			Clear		
+1883-09-17	16.0	30			NE			Some clouds		
+1883-09-18	20.0	31			SE			Clouds		
+1883-09-19	20.0	27			N			Drizzle		
+1883-09-20	20.0	26			N			Clouds		
+1883-09-21	18.0	25			Gallego			Fog		
+1883-09-22	17.0	24			N			Clouds		
+1883-09-23	19.0	27			NE			Cloudy		
+1883-09-24	19.0	27			Gallego			Clouds		
+1883-09-25	20.0	30			N			Clouds		
+1883-09-26	20.0	32			S			Clouds		
+1883-09-27	18.0	29			Gallego			Clouds		
+1883-09-28	15.0	25			N			Clouds		
+1883-09-29	15.0	22			Gallego			Cloudy		
+1883-09-30	12.0	19			Gallego			Clouds		
+1884-06-24	21.0	28			SW			Clear		
+1884-06-25	22.0	29			SW			Clear		
+1884-06-26	22.0	28			SW			Clear		
+1884-06-27	21.0	28			N			Cloudy		
+1884-06-28	23.0	30			S			Cloudy		
+1884-06-29	22.0	29			S			Cloudy		
+1884-06-30	23.0	30			SW			Cloudy		
+1884-07-01	22.0	30			S			Clouds - Storm - Rain		
+1884-07-02	23.0	34			S					
+1884-07-03	22.0	33			Gallego			Some clouds		
+1884-07-04	21.0	28			SW			Cloudy		
+1884-07-05	23.0	26			Gallego			Some clouds		
+1884-07-06	22.0	28			N					
+1884-07-07	24.0	30			S			Clear		
+1884-07-08	26.0	30			SW			Clouds		
+1884-07-09	22.0	28			SW			Clouds		
+1884-07-10	23.0	26			SW			Clouds		
+1884-07-11	26.0	28			SW			Clouds		
+1884-07-12	23.0	30			Gallego			Clear		
+1884-07-13	24.0	29			SW			Clear		
+1884-07-14	25.0	31			SW			Clear		
+1884-07-15	27.0	33			SW			Clear		
+1884-07-16	22.0	30			SW			Clouds		
+1884-07-17	23.0	31			N			Clear		
+1884-07-18	25.0	31			Gallego			Clear		
+1884-07-19	26.0	33			Gallego			Clear		
+1884-07-20	29.0	33			Solano			Clear		
+1884-07-21	29.0	34			Solano			Clear		
+1884-07-22	30.0	35			NW			Clear		
+1884-07-23	32.0	37			NW			Clouds		
+1884-07-24	29.0	35			S			Clear		
+1884-07-25	25.0	33			S			Clear		
+1884-07-26	27.0	33			NE			Clear		
+1884-07-27	26.0	33			N			Clear		
+1884-07-28	26.0	35			Solano			Clear		
+1884-07-29	28.0	34			N			Clear		
+1884-07-30	29.0	36			S			Clear		
+1884-07-31	29.0	37			Solano			Clear		
+1884-08-01	29.0	35			W			Some clouds		
+1884-08-02	26.0	36			S			Clouds		
+1884-08-03	31.0	37			S			Clouds		
+1884-08-04	30.0	37			Solano			Clouds		
+1884-08-05	31.0	36			Solano			Clouds		
+1884-08-06	31.0	37			S			Clouds		
+1884-08-07	27.0	34			N			Clouds		
+1884-08-08	23.0	32			Solano			Clouds		
+1884-08-09	23.0	32			SW			Clouds		
+1884-08-10	23.0	35			SE			Storm - Rain		
+1884-08-11	27.0	36			SE			Storm - Rain		
+1884-08-12	26.0	35			W			Storm - Rain		
+1884-08-13	25.0	36			W			Storm - Rain		
+1884-08-14	27.0	34			SW			Clouds		
+1884-08-15	28.0	36			SW			Clouds		
+1884-08-16	28.0	35			N			Clouds		
+1884-08-17	23.0	33			SW			Clouds		
+1884-08-18	26.0	31			W			Clouds		
+1884-08-19	27.0	33			S			Clouds		
+1884-08-20	19.0	27			S			Storm - Rain		
+1884-08-21	21.0	29			S			Clear		
+1884-08-22	24.0	31			S			Clear		
+1884-08-23	25.0	32			S			Clouds		
+1884-08-24	29.0	33			W			Clouds		
+1884-08-25	24.0	29			S			Clouds		
+1884-08-26	24.0	28			S			Clouds		
+1884-08-27	25.0	30			Gallego			Clouds		
+1884-08-28	21.0	25			Gallego			Storm		
+1884-08-29	19.0	24			S			Clouds		
+1884-08-30	18.0	22			S			Clouds		
+1884-08-31	20.0	21			S			Cloudy		
+1884-09-01	20.0	22			Gallego			Cloudy		
+1884-09-02	20.0	23			Gallego			Clouds		
+1884-09-03	21.0	17			S			Storm - Rain		
+1884-09-04	14.0	22			Gallego			Clear		
+1884-09-05	18.0	23			Gallego			Clear		
+1884-09-06	19.0	25			Gallego			Clear		
+1884-09-07	22.0	27			NW			Clear		
+1884-09-08	23.0	30			Gallego			Clear		
+1884-09-09	26.0	32			SE			Clear		
+1884-09-10	26.0	30			S			Clear		
+1884-09-11	25.0	32			S			Clouds		
+1884-09-12	25.0	29			Gallego			Clouds		
+1884-09-13	18.0	23			Gallego			Cloudy		
+1884-09-14	12.0	21			Gallego			Rain		
+1884-09-15	18.0	20			Gallego			Clouds		
+1884-09-16	19.0	25			S			Clouds		
+1884-09-17	15.0	22			SW			Clouds		
+1884-09-18	15.0	22			N			Clouds		
+1884-09-19	14.0	20			Gallego			Clouds		
+1884-09-20	16.0	23			Gallego			Clouds		
+1884-09-21	19.0	23			Gallego			Cloudy		
+1884-09-22	17.0	23			Gallego			Clouds		
+1884-09-23	16.0	25			NW			Cloudy		
+1884-09-24	17.0	25			N			Clouds		
+1884-09-25	17.0	21			N			Cloudy		
+1884-09-26	17.0	22			W			Clouds		
+1884-09-27	17.0	24			W			Clear		
+1884-09-28	19.0	25			N			Clear		
+1884-09-29	22.0	27			Solano			Cloudy		
+1884-09-30	22.0	26			S			Clouds		
+1885-06-24	18.0	22	Solano	N		Clear	Cloudy			
+1885-06-25	17.0	21	Gallego	Gallego		Cloudy	Light rain			
+1885-06-26	18.0	23	N	N		Cloudy	Cloudy			
+1885-06-27	17.0	21	N	N		Light rain	Drizzle			
+1885-06-28	19.0	21	N	N		Cloudy	Rain			
+1885-06-29	15.0	19	N	N		Drizzle	Rain			
+1885-06-30	14.0	22	N	N		Cloudy	Clear			
+1885-07-01	17.0	23	N	N		Clear	Cloudy			
+1885-07-02	14.0	23	N	N		Clouds	Cloudy			
+1885-07-03	19.0	23	N	N		Cloudy	Cloudy			
+1885-07-04	14.0	24	N	N		Clouds	Clouds			
+1885-07-05	18.0	26	N	N		Clear	Clear			
+1885-07-06	20.0	32	N	N		Clouds	Clear			
+1885-07-07	20.0	32	N	N		Clear	Clear			
+1885-07-08	24.0	32	S	N		Clear	Clear			
+1885-07-09	23.0	31	S	N		Clear	Clear			
+1885-07-10	21.0	31	S	Gallego		Clear	Clear			
+1885-07-11	24.0	32	Gallego	N		Clear	Clouds			
+1885-07-12	23.0	33	Solano	Gallego		Clear	Clouds			
+1885-07-13	25.0	32	Gallego	Gallego		Clear	Clouds			
+1885-07-14	24.0	33	Solano	Solano		Clouds	Storm			
+1885-07-15	25.0	33	Solano	N		Clouds	Clouds			
+1885-07-16	27.0	34	Solano	S		Clouds	Clouds			
+1885-07-17	23.0	29	S	S		Cloudy	Cloudy			
+1885-07-18	25.0	31	S	Gallego		Clouds	Clouds			
+1885-07-19	26.0	35	Solano	S		Clouds	Storm			
+1885-07-20	28.0	36	Solano	S		Clouds	Clouds			
+1885-07-21	27.0	35	Gallego	S		Clouds	Clear			
+1885-07-22	27.0	35	S	S		Clear	Clear			
+1885-07-23	27.0	35	S	S		Clouds	Clouds			
+1885-07-24	26.0	33	Solano	S		Clouds	Cloudy			
+1885-07-25	26.0	31	SE	S		Clouds	Storm			
+1885-07-26	22.0	22	N	S		Storm	Rain			
+1885-07-27	23.0	27	S	S		Clouds	Clouds			
+1885-07-28	26.0	26	S	S		Clouds	Cloudy			
+1885-07-29	27.0	29	S	S		Clouds	Cloudy			
+1885-07-30	24.0	28	S	S		Clouds	Cloudy			
+1885-07-31	23.0	27	S	S		Cloudy	Cloudy			
+1885-08-01	23.0	28	S	S		Clouds	Clear			
+1885-08-02	23.0	27	S	S		Clouds	Clouds			
+1885-08-03	24.0	27	S	S		Clear	Clouds			
+1885-08-04	22.0	26	S	S		Clouds	Clouds			
+1885-08-05	24.0	27	S	S		Clear	Cloudy			
+1885-08-06	21.0	28	SE	S		Clear	Clouds			
+1885-08-07	21.0	26	Gallego	Gallego		Clear	Clouds			
+1885-08-08	23.0	28	Solano	Solano		Clear	Clear			
+1885-08-09	23.0	28	S	S		Clear	Clear			
+1885-08-10	24.0	32	SW	SW		Clear	Clear			
+1885-08-11	22.0	31	S	S		Clear	Clear			
+1885-08-12	21.0	32	S	S		Clear	Clear			
+1885-08-13	21.0	31	S	N		Clear	Clear			
+1885-08-14	22.0	32	N	N		Clear	Clear			
+1885-08-15	24.0	34	S	S		Clear	Clear			
+1885-08-16	26.0	35	S	S		Clouds	Clouds			
+1885-08-17	26.0	36	S	SW		Clear	Clouds			
+1885-08-18	25.0	36	S	S		Clear	Clear			
+1885-08-19	26.0	37	S	S		Clouds	Clouds			
+1885-08-20	21.0	28	Gallego	SW		Clouds	Clouds			
+1885-08-21	22.0	29	S	SW		Clouds	Clouds			
+1885-08-22	23.0	29	S	S		Clouds	Clouds			
+1885-08-23	19.0	25	S	S		Clouds	Clouds			
+1885-08-24	23.0	28	S	Gallego		Clouds	Clear			
+1885-08-25	21.0	26	S	Gallego		Clouds	Clouds			
+1885-08-26	22.0	26	S	SW		Clouds	Clear			
+1885-08-27	19.0	22	SW	SW		Cloudy	Cloudy			
+1885-08-28	16.0	21	E	S		Heavy rain	Cloudy			
+1885-08-29	17.0	20	SW	S		Cloudy	Clouds			
+1885-08-30	19.0	22	N	N		Clear	Clouds			
+1885-08-31	20.0	25	N	N		Clear	Clear			
+1885-09-01	21.0	27	E	N		Clear	Clear			
+1885-09-02	26.0	31	E	E		Clouds	Clouds			
+1885-09-03	19.0	25	S	E		Cloudy	Clouds			
+1885-09-04	18.0	22	W	S		Clouds	Clouds			
+1885-09-05	19.0	25	E	S		Clouds	Clouds			
+1885-09-06	20.0	26	S	S		Clouds	Clouds			
+1885-09-07	18.0	22	W	W		Clouds	Clouds			
+1885-09-08	17.0	24	W	N		Clouds	Clouds			
+1885-09-09	18.0	27	S	N		Clear	Clear			
+1885-09-10	21.0	31	SE	S		Clear	Clear			
+1885-09-11	20.0	27	S	S		Clear	Clear			
+1885-09-12	21.0	29	S	S		Clear	Clouds			
+1885-09-13	22.0	32	E	NW		Clear	Some clouds			
+1885-09-14	25.0	32	E	E		Clear	Clear			
+1885-09-15	22.0	32	S	NW		Clear	Clear			
+1885-09-16	26.0	32	E	S		Clouds	Cloudy			
+1885-09-17	19.0	24	W	S		Clouds	Clouds			
+1885-09-18	17.0	22	W	W		Clouds	Clouds			
+1885-09-19	18.0	25	S	N		Clouds	Clear			
+1885-09-20	19.0	26	N	N		Clear	Clear			
+1885-09-21	18.0	27	N	N		Clear	Clear			
+1885-09-22	21.0	26	N	N		Clear	Cloudy			
+1885-09-23	22.0	27	N	N		Cloudy	Clouds			
+1885-09-24	21.0	26	N	N		Clouds	Cloudy			
+1885-09-25	19.0	25	S	S		Clouds	Clouds			
+1885-09-26	16.0	20	N	N		Cloudy	Storm			
+1885-09-27	15.0	20	W	W		Clouds	Clouds			
+1885-09-28	14.0	19	E	E		Clear	Clear			
+1885-09-29	13.0	21	N	N		Clear	Clear			
+1885-09-30	13.0	23	N	S		Clear	Clear			
+1885-10-01	15.0	26	S	SE		Clouds	Clouds			
+1885-10-02	17.0	25	N	E		Clouds	Cloudy			
+1885-10-03	18.0	24	E	N		Clear	Clouds			
+1885-10-04	17.0	24	N	N		Clouds	Clouds			
+1885-10-05	19.0	21	SE	SE		Cloudy	Drizzle			
+1885-10-06	18.0	22	W	SE		Clouds	Clear			
+1885-10-07	17.0	23	E	SE		Clear	Clear			
+1885-10-08	15.0	24	E	SE		Clear	Clear			
+1885-10-09	16.0	23	W	W		Clouds	Clouds			
+1885-10-10	14.0	20	W	W		Clear	Cloudy			
+1885-10-11	12.0	12	W	W		Clear	Cloudy			
+1885-10-12	12.0	16	W	W		Clouds	Clouds			
+1885-10-13	9.0	14	W	N		Clouds	Clouds			
+1885-10-14	8.0	13	N	N		Clouds	Clouds			
+1885-10-15	7.0	14	S	SE		Clear	Clear			
+1886-06-24	24.0	33	S	E		Clear	Clear			
+1886-06-25	23.0	32	E	NW		Clear	Clear			
+1886-06-26	24.0	32	SW	SW		Clouds	Clouds			
+1886-06-27	23.0	31	SW	SW		Clear	Clear			
+1886-06-28	24.0	32	SW	SW		Clear	Clear			
+1886-06-29	23.0	31	SW	SW		Clouds	Clouds			
+1886-06-30	21.0	29	SW	SW		Cloudy	Cloudy			
+1886-07-01	22.0	28	W	W		Clouds	Clouds			
+1886-07-02	24.0	31	N	NW		Clouds	Clouds			
+1886-07-03	25.0	34	SE	NW		Clear	Clouds			
+1886-07-04	25.0	35	N	NW		Clouds	Clouds			
+1886-07-05	26.0	36	NW	W		Clear	Clear			
+1886-07-06	28.0	37	W	SW		Clouds	Clear			
+1886-07-07	25.0	31	SW	W		Clear	Clear			
+1886-07-08	24.0	31	W	W		Clouds	Clear			
+1886-07-09	22.0	30	W	NW		Clouds	Clear			
+1886-07-10	23.0	32	S	N		Clear	Clouds			
+1886-07-11	25.0	31	N	N		Clouds	Clouds			
+1886-07-12	27.0	33	N	N		Clear	Clear			
+1886-07-13	27.0	34	N	S		Clouds	Clear			
+1886-07-14	28.0	37	S	S		Clouds	Clouds			
+1886-07-15	27.0	36	N	NW		Clear	Clouds			
+1886-07-16	28.0	38	N	N		Clear	Clear			
+1886-07-17	30.0	38	N	N		Clear	Clear			
+1886-07-18	29.0	36	S	NW		Clear	Clouds			
+1886-07-19	25.0	31	NW	W		Clouds	Clouds			
+1886-07-20	25.0	34	SW	S		Clouds	Cloudy			
+1886-07-21	24.0	33	S	W		Clouds	Clouds			
+1886-07-22	25.0	33	S	W		Clear	Clear			
+1886-07-23	24.0	33	S	W		Clear	Clear			
+1886-07-24	25.0	34	NW	SW		Clear	Clouds			
+1886-07-25	25.0	34	S	W		Clouds	Clouds			
+1886-07-26	24.0	28	W	W		Clouds	Clouds			
+1886-07-27	21.0	29	N	N		Clear	Clear			
+1886-07-28	29.0	33	N	N		Clear	Clear			
+1886-07-29	25.0	36	E	N		Clear	Clear			
+1886-07-30	27.0	30	S	W		Clear	Clear			
+1886-07-31	22.0	29	W	NW		Clouds	Clouds			
+1886-08-01	23.0	32	W	N		Clear	Clear			
+1886-08-02	25.0	35	W	N		Clear	Clear			
+1886-08-03	26.0	34	S	W		Clear	Clear			
+1886-08-04	25.0	34	N	W		Clear	Clear			
+1886-08-05	26.0	34	N	N		Clouds	Clouds			
+1886-08-06	28.0	36	N	N		Clear	Clear			
+1886-08-07	30.0	38	S	S		Clear	Clear			
+1886-08-08	30.0	37	S	S		Clear	Clear			
+1886-08-09	29.0	38	S	E		Clear	Clear			
+1886-08-10	27.0	33	W	W		Clear	Clear			
+1886-08-11	23.0	31	S	W		Clouds	Cloudy			
+1886-08-12	24.0	33	S	S		Clouds	Clear			
+1886-08-13	24.0	32	W	W		Clouds	Clouds			
+1886-08-14	24.0	33	W	W		Clear	Clear			
+1886-08-15	25.0	34	S	S		Clear	Clear			
+1886-08-16	26.0	35	S	N		Clear	Clear			
+1886-08-17	27.0	36	S	W		Clear	Clear			
+1886-08-18	26.0	33	N	N		Clouds	Clear			
+1886-08-19	26.0	33	N	N		Clouds	Clear			
+1886-08-20	25.0	33	N	N		Clear	Clear			
+1886-08-21	25.0	34	S	W		Clouds	Clouds			
+1886-08-22	25.0	35	S	S		Cloudy	Clouds			
+1886-08-23	22.0	26	W	W		Cloudy	Clouds			
+1886-08-24	21.0	28	W	W		Clouds	Clear			
+1886-08-25	20.0	29	W	W		Clouds	Clouds			
+1886-08-26	24.0	32	N	N		Clouds	Clear			
+1886-08-27	24.0	34	N	N		Clear	Clouds			
+1886-08-28	25.0	33	N	N		Clouds	Clouds			
+1886-08-29	27.0	34	S	E		Clouds	Clouds			
+1886-08-30	27.0	35	N	NW		Clouds	Clouds			
+1886-08-31	27.0	36	S	E		Clouds	Clouds			
+1886-09-01	27.0	35	S	S		Clouds	Clouds			
+1886-09-02	26.0	33	S	W		Clouds	Clouds			
+1886-09-03	26.0	32	NW	W		Clouds	Clouds			
+1886-09-04	22.0	30	S	W		Clouds	Clouds			
+1886-09-05	23.0	30	W	W		Clouds	Clear			
+1886-09-06	24.0	33	S	S		Clouds	Clouds			
+1886-09-07	24.0	30	S	SW		Cloudy	Cloudy			
+1886-09-08	22.0	28	W	W		Clouds	Clouds			
+1886-09-09	22.0	31	S	SW		Clouds	Clear			
+1886-09-10	20.0	29	S	W		Clear	Clear			
+1886-09-11	20.0	30	N	W		Clear	Clear			
+1886-09-12	22.0	32	N	E		Clear	Clear			
+1886-09-13	24.0	32	W	W		Clear	Clouds			
+1886-09-14	24.0	25	S	N		Clouds	Storm			
+1886-09-15	24.0	29	SW	W		Cloudy	Cloudy			
+1886-09-16	24.0	29	SW	W		Clouds	Clouds			
+1886-09-17	23.0	26	W	W		Clouds	Cloudy			
+1886-09-18	21.0	26	W	W		Cloudy	Cloudy			
+1886-09-19	20.0	27	S	S		Clear	Clouds			
+1886-09-20	20.0	27	W	S		Cloudy	Clouds			
+1886-09-21	21.0	25	S	S		Cloudy	Clouds			
+1886-09-22	20.0	19	S	W		Clouds	Rain			
+1886-09-23	19.0	23	W	S		Rain	Storm			
+1886-09-24	23.0	19	SW	W		Cloudy	Rain			
+1886-09-25	16.0	23	E	W		Clouds	Cloudy			
+1886-09-26	18.0	24	W	W		Clouds	Clouds			
+1886-09-27	20.0	27	N	N		Clear	Clouds			
+1886-09-28	17.0	26	N	N		Clear	Clear			
+1886-09-29	18.0	28	N	N		Clear	Clear			
+1886-09-30	24.0	29	N	N		Clear	Clear			
+1887-06-24	23.0	30	Gallego	Gallego				Clouds		
+1887-06-25	23.0	30	Gallego	Gallego				Clear		
+1887-06-26	25.0	31	S	S				Clear		
+1887-06-27	25.0	35	Gallego	Gallego				Clear		
+1887-06-28	27.0	32	S	S				Clear		
+1887-06-29	25.0	27	S	S				Storm - Rain		
+1887-06-30	26.0	34	S	S				Clouds		
+1887-07-01	30.0	34	S	W				Clear		
+1887-07-02	31.0	34	Solano	Solano				Clouds		
+1887-07-03	31.0	34	W	Solano				Clear		
+1887-07-04	35.0	30	Gallego	Gallego				Clouds		
+1887-07-05	30.0	29	Gallego	Gallego				Clouds		
+1887-07-06	31.0	33	Solano	Solano				Clear		
+1887-07-07	33.0	36	S	Solano				Clouds		
+1887-07-08	37.0	36	S	Solano				Clear		
+1887-07-09	33.0	35	Gallego	Solano				Clouds		
+1887-07-10	29.0	35	W	W				Clear		
+1887-07-11	33.0	39	Solano	Solano				Clouds		
+1887-07-12	34.0	39	S	S				Clouds		
+1887-07-13	36.0	35	Gallego	Gallego				Clear		
+1887-07-14	29.0	34	Gallego	Gallego				Clear		
+1887-07-15	30.0	35	S	Solano				Clear		
+1887-07-16	29.0	35	Gallego	Gallego				Clear		
+1887-07-17	29.0	35	Gallego	Gallego				Clear		
+1887-07-18	25.0	30	Gallego	Gallego				Clouds		
+1887-07-19	19.0	25	Gallego	Gallego				Clouds		
+1887-07-20	20.0	25	N	N				Clear		
+1887-07-21	25.0	31	N	Solano				Clouds		
+1887-07-22	30.0	35	NE	NE				Clouds		
+1887-07-23	31.0	39	S	Solano				Clouds		
+1887-07-24	27.0	33	Gallego	Gallego				Clear		
+1887-07-25	23.0	30	Gallego	Gallego				Clear		
+1887-07-26	24.0	30	Gallego	Gallego				Clouds		
+1887-07-27	25.0	31	Gallego	Gallego				Clear		
+1887-07-28	28.0	35	S	Solano				Clear		
+1887-07-29	30.0	35	N	N				Clear		
+1887-07-30	30.0	39	S	Solano				Clouds		
+1887-07-31	30.0	38	S	Solano				Clouds		
+1887-08-01	31.0	35	S	S				Clear		
+1887-08-02	31.0	38	S	S				Clouds		
+1887-08-03	31.0	37	S	S				Clear		
+1887-08-04	31.0	37	S	S				Clouds		
+1887-08-05			S	S				Clouds		
+1887-08-06		38	S	S				Clouds		
+1887-08-07		37	S	S				Clouds		
+1887-08-08		38	S	W				Storm		
+1887-08-09			S	W				Clouds		
+1887-08-10			S	W				Clouds		
+1887-08-11			W					Clouds		
+1887-08-12		28						Clouds		
+1887-08-13		29						Clouds		
+1887-08-14		29						Clouds		
+1887-08-15		30						Clouds		
+1887-08-16								Clouds		
+1887-08-17		26						Clouds		
+1887-08-18								Clear		
+1887-08-19	23.0							Clouds		
+1887-08-20	24.0	32						Clear		
+1887-08-21	24.0	32						Clouds		
+1887-08-22								Clouds		
+1887-08-23	29.0	34						Clouds		
+1887-08-24	27.0	31						Clouds		
+1887-08-25	24.0	30						Clear		
+1887-08-26	35.0	39		S				Clouds		
+1887-08-27	33.0	31		W				Clouds		
+1887-08-28	31.0	37		S				Cloudy		
+1887-08-29	31.0	37		S				Clear		
+1887-08-30	33.0			S				Clouds		
+1887-08-31	34.0			N				Clouds		
+1887-09-01	21.0	20	W	W				Clear		
+1887-09-02	22.0	27	W	W				Clouds		
+1887-09-03	21.0	27	N	S				Clouds		
+1887-09-04	20.0	26	S	N				Clouds		
+1887-09-05	22.0	31	S	S				Clear		
+1887-09-06	35.0	32	S	S				Clear		
+1887-09-07	34.0	36	E	S				Cloudy		
+1887-09-08	28.0	29	SE	N				Clouds		
+1887-09-09	24.0	29	N	S				Clouds		
+1887-09-10	24.0	32	W	W				Clouds		
+1887-09-11	22.0	31	S	SW				Clouds		
+1887-09-12	22.0	39	W	W				Clear		
+1887-09-13	22.0	39	N	W				Clear		
+1887-09-14	30.0	36	N	W				Clouds		
+1887-09-15	19.0	35	W	S				Clouds		
+1887-09-16	18.0	35	W	S				Clear		
+1887-09-17	31.0	37	N	S				Clear		
+1887-09-18	22.0	39	S	S				Clouds		
+1887-09-19	23.0	36	S	W				Clouds		
+1887-09-20	23.0	35	W	W				Clouds		
+1887-09-21	19.0	34	S	N				Cloudy		
+1887-09-22	21.0	35	S	S				Cloudy		
+1887-09-23	20.0	27	S	S				Clouds		
+1887-09-24	22.0	27	S	E				Drizzle		
+1887-09-25	19.0	24	S	S				Rain		
+1887-09-26	16.0	23	W	W				Clouds		
+1887-09-27	15.0	22	W	W				Clouds		
+1887-09-28	15.0	20	W	W				Clouds		
+1887-09-29	16.0	17	S	W				Drizzle		
+1887-09-30	15.0	20	S	S				Rain		
+1889-06-24	20.0	28	Gallego	Gallego		Clouds	Clouds		708	705
+1889-06-25	18.0	21	Gallego	Gallego		Rain	Cloudy		706	705
+1889-06-26	17.0	22	Gallego	Gallego		Clouds	Clouds		707	707
+1889-06-27	20.0	22	Gallego	Gallego		Cloudy	Clouds		710	707
+1889-06-28	22.0	29	Gallego	Gallego		Clear	Clear		710	709
+1889-06-29	28.0	33	Solano	Solano		Clear	Clear		709	709
+1889-06-30	28.0	31	Solano	SE		Clear	Clear		710	709
+1889-07-01	31.0	35	S	S		Clear	Clear		707	707
+1889-07-02	29.0	36	Solano	Solano		Clear	Clouds		705	703
+1889-07-03	30.0	37	Solano	Solano		Clear	Clouds		702	701
+1889-07-04	24.0	29	Gallego	Gallego		Clouds	Clear		705	705
+1889-07-05	23.0	31	Gallego	Gallego		Clear	Clear		708	707
+1889-07-06	24.0	31	Gallego	Gallego		Clear	Clouds		710	706
+1889-07-07	22.0	32	Gallego	Gallego		Clear	Clouds		706	704
+1889-07-08	28.0	33	Solano	Gallego		Clear	Clear		704	704
+1889-07-09	26.0	32	Gallego	Gallego		Clear	Clouds		704	702
+1889-07-10	25.0	32	SE	Gallego		Clear	Clear		704	704
+1889-07-11	25.0	33	SE	Gallego		Clear	Clouds		704	705
+1889-07-12	24.0	32	N	Gallego		Clouds	Clear		708	706
+1889-07-13	23.0	30	Gallego	Gallego		Clouds	Clouds		707	706
+1889-07-14	22.0	29	Gallego	Gallego		Clear	Clear		707	705
+1889-07-15	24.0	32	N	Gallego		Clear	Clear		705	705
+1889-07-16	26.0	34	Gallego	Gallego		Clear	Clouds		706	704
+1889-07-17	24.0	33	Gallego	Gallego		Clear	Clear		705	704
+1889-07-18	26.0	31	Gallego	Gallego		Clouds	Clouds		703	702
+1889-07-19	24.0	29	Gallego	Gallego		Clouds	Cloudy		703	703
+1889-07-20	26.0	34	Solano	Gallego		Clouds	Clouds		706	705
+1889-07-21	25.0	34	Gallego	Gallego		Clear	Clear		706	704
+1889-07-22	22.0	29	Gallego	Gallego		Clear	Clear		705	704
+1889-07-23	22.0	29	Gallego	Gallego		Clear	Clear		706	705
+1889-07-24	24.0	32	Gallego	Gallego		Clear	Clear		707	706
+1889-07-25	27.0	35	S	Gallego		Clear	Clear		706	705
+1889-07-26	24.0	32	Gallego	Gallego		Clear	Clear		705	703
+1889-07-27	25.0	30	Solano	Gallego		Clear	Clear		705	704
+1889-07-28	25.0	30	S	S		Clear	Clear		707	705
+1889-07-29	26.0	35	S	S		Clear	Clear		704	703
+1889-07-30	29.0	36	S	S		Cloudy	Clouds		704	703
+1889-07-31	28.0	36	S	S		Clear	Clear		705	704
+1889-08-01	30.0	36	Solano	Solano		Clear	Clear		705	704
+1889-08-02	24.0	34	Gallego	Gallego		Clear	Clear		707	706
+1889-08-03	26.0	36	Gallego	Gallego		Clear	Clear		706	705
+1889-08-04	24.0	33	Gallego	Gallego		Clear	Clear		705	705
+1889-08-05	23.0	30	Gallego	Gallego		Clear	Clear		705	703
+1889-08-06	24.0	31	Gallego	Gallego		Clear	Clear		703	702
+1889-08-07	25.0	34	Gallego	Gallego		Clear	Clear		704	704
+1889-08-08	26.0	34	Gallego	Gallego		Clear	Clouds		704	705
+1889-08-09	22.0	32	Gallego	Gallego		Clear	Clear		707	705
+1889-08-10	23.0	32	Gallego	Gallego		Clear	Clear		706	705
+1889-08-11	20.0	29	Gallego	Gallego		Clear	Clear		705	706
+1889-08-12	22.0	29	Gallego	Gallego		Clouds	Clouds		706	704
+1889-08-13	22.0	28	Gallego	S		Clear	Clouds		706	705
+1889-08-14	24.0	30	S	S		Clear	Clear		708	707
+1889-08-15	26.0	32	S	S		Clear	Clear		708	706
+1889-08-16	28.0	33	S	S		Clouds	Clouds		705	702
+1889-08-17	28.0	39	S	Gallego		Clouds	Clouds		701	702
+1889-08-18	28.0	39	S	S		Clouds	Clouds		703	701
+1889-08-19	26.0	29	Gallego	Gallego		Clouds	Clouds		703	702
+1889-08-20	23.0	30	Gallego	Gallego		Clouds	Clear		704	706
+1889-08-21	26.0	35	Solano	S		Clear	Clouds		705	704
+1889-08-22	22.0	31	Gallego	Gallego		Clouds	Clouds		705	703
+1889-08-23	22.0	28	Gallego	Gallego		Clear	Clear		704	705
+1889-08-24	24.0	29	Gallego	Solano		Clouds	Clouds		705	705
+1889-08-25	24.0	31	Solano	Gallego		Clear	Clear		705	706
+1889-08-26	23.0	31	Gallego	Solano		Clouds	Clouds		704	704
+1889-08-27	26.0	32	Solano	Solano		Clear	Clouds		705	704
+1889-08-28	27.0	34	Solano	Solano		Clear	Clear		705	703
+1889-08-29	28.0	36	Solano	Solano		Clouds	Clouds		705	704
+1889-08-30	27.0	37	Solano	Solano		Clouds	Clouds		706	705
+1889-08-31	25.0	35	Solano	Gallego		Clear	Clear		706	704
+1889-09-01	26.0	34	Solano	Gallego		Clear	Clear		704	705
+1889-09-02	23.0	30	Gallego	Gallego		Clear	Clear		706	705
+1889-09-03	23.0	31	Gallego	Gallego		Clouds	Clear		705	705
+1889-09-04	23.0	32	Gallego	Gallego		Clear	Clear		706	705
+1889-09-05	24.0	33	Gallego	Gallego		Clouds	Clear		705	703
+1889-09-06	25.0	32	Gallego	Gallego		Clouds	Clear		705	704
+1889-09-07	25.0	31	Solano	Gallego		Clear	Clear		704	702
+1889-09-08	23.0	31	Gallego	Gallego		Clear	Clear		703	702
+1889-09-09	24.0	34	Gallego	Solano		Clear	Clouds		709	704
+1889-09-10	26.0	34	Solano	Solano		Clear	Clear		706	705
+1889-09-11	26.0	35	Solano	Solano		Clear	Clouds		706	705
+1889-09-12	26.0	34	Solano	Solano		Clear	Clear		705	704
+1889-09-13	25.0	34	Solano	Solano		Clear	Clouds		705	704
+1889-09-14	26.0	34	Solano	Solano		Clouds	Clouds		704	704
+1889-09-15	25.0	34	Solano	Solano		Clear	Clear		704	705
+1889-09-16	27.0	33	Solano	Solano		Clear	Clear		703	701
+1889-09-17	23.0	31	S	S		Clear	Clear		703	701
+1889-09-18	20.0	25	Solano	Solano		Cloudy	Cloudy		700	692
+1889-09-19	24.0	24	Solano	Solano		Clouds	Cloudy		702	701
+1889-09-20	23.0	29	Solano	Solano		Clear	Cloudy		702	703
+1889-09-21	23.0	21	Gallego	Solano		Clear	Clouds		703	702
+1889-09-22	21.0	23	Solano	Solano		Cloudy	Clouds		702	701
+1889-09-23	21.0	24	Solano	Solano		Clouds	Clouds		702	701
+1889-09-24	17.0	18	Gallego	Solano		Cloudy	Rain		701	698
+1889-09-25	17.0	17	Solano	Gallego		Cloudy	Cloudy		700	701
+1889-09-26	19.0	26	Solano	Gallego		Cloudy	Clouds		702	704
+1889-09-27	20.0	26	Solano	Gallego		Cloudy	Clouds		707	708
+1889-09-28	20.0	26	S	Solano		Clouds	Clouds		707	708
+1890-06-24	27.0	30	Solano	Solano		Clouds	Clouds		707	706
+1890-06-25	27.0	32	Gallego	Gallego		Clear	Clouds		707	707
+1890-06-26	29.0	33	Gallego	Gallego		Clear	Clear		708	708
+1890-06-27	27.0	35	Gallego	Gallego		Clear	Clouds		707	705
+1890-06-28	25.0	33	Gallego	Gallego		Clear	Clear		705	705
+1890-06-29	27.0	31	Gallego	Gallego		Clear	Clear		706	705
+1890-06-30	25.0	32	Gallego	Gallego		Clear	Clear		708	706
+1890-07-01	24.0	28	Gallego	Gallego		Clear	Clear		706	705
+1890-07-02	23.0	30	Gallego	Solano		Clear	Clear		707	707
+1890-07-03	26.0	33	Solano	Solano		Clear	Clear		708	707
+1890-07-04	25.0	32	Gallego	Gallego		Clouds	Clouds		707	706
+1890-07-05	21.0	28	Gallego	Gallego		Clear	Clear		707	707
+1890-07-06	21.0	28	Gallego	Gallego		Clear	Clear		708	708
+1890-07-07	24.0	32	Gallego	Solano		Clear	Clear		709	708
+1890-07-08	25.0	34	Solano	Solano		Clear	Clear		708	708
+1890-07-09	26.0	36	Solano	Solano		Clear	Clear		708	708
+1890-07-10	26.0	33	Solano	Solano		Clear	Clear		708	706
+1890-07-11	25.0	35	Gallego	Gallego		Clear	Clear		706	703
+1890-07-12	24.0	30	Solano	Solano		Clouds	Clear		706	706
+1890-07-13	28.0	35	Solano	Solano		Clear	Clear		708	707
+1890-07-14	29.0	38	Solano	Solano		Clear	Clouds		706	706
+1890-07-15	25.0	31	Solano	Gallego		Clear	Clear		709	708
+1890-07-16	26.0	33	Solano	Gallego		Clear	Clear		707	706
+1890-07-17	25.0	31	Gallego	Gallego		Clear	Clear		708	707
+1890-07-18	24.0	33	Gallego	Gallego		Clear	Clear		709	708
+1890-07-19	26.0	35	Gallego	Gallego		Clear	Clear		709	709
+1890-07-20	27.0	33	Solano	Gallego		Clouds	Clouds		705	705
+1890-07-21	23.0	27	Gallego	Gallego		Clear	Clear		707	706
+1890-07-22	26.0	30	N	Solano		Clouds	Clouds		707	708
+1890-07-23	24.0	27	Solano	Solano		Clouds	Clouds		708	706
+1890-07-24	24.0	31	Solano	Solano		Clouds	Clouds		706	705
+1890-07-25	28.0	34	Solano	Solano		Clear	Clear		707	706
+1890-07-26	30.0	37	Solano	Gallego		Clear	Clouds		707	706
+1890-07-27	30.0	37	Solano	Solano		Clear	Clear		706	706
+1890-07-28	23.0	32	Solano	Solano		Clear	Clear		706	705
+1890-07-29	22.0	32	Gallego	Gallego		Clouds	Clear		706	704
+1890-07-30	25.0	34	Gallego	Gallego		Clear	Clear		706	706
+1890-07-31	29.0	37	Solano	Solano		Clear	Clouds		708	708
+1890-08-01	29.0	35	Solano	Gallego		Clear	Clouds		706	705
+1890-08-02	26.0	35	Gallego	Gallego		Clear	Clouds		705	703
+1890-08-03	29.0	36	Solano	Gallego		Clear	Clouds		704	703
+1890-08-04	29.0	36	Solano	Solano		Clear	Clear		706	705
+1890-08-05	29.0	35	Solano	Gallego		Clear	Clouds		704	705
+1890-08-06	28.0	35	Solano	Gallego		Clear	Clouds		705	704
+1890-08-07	27.0	33	Gallego	Gallego		Clear	Clouds		705	702
+1890-08-08	24.0	31	Gallego	Gallego		Clear	Clouds		704	702
+1890-08-09	24.0	32	Solano	Gallego		Clear	Clear		704	702
+1890-08-10	24.0	31	Gallego	Gallego		Clear	Clear		705	706
+1890-08-11	27.0	36	Solano	Gallego		Clear	Clear		708	707
+1890-08-12	24.0	34	Gallego	Gallego		Clear	Clear		707	706
+1890-08-13	23.0	27	Gallego	Gallego		Cloudy	Cloudy		704	703
+1890-08-14	29.0	23	Gallego	Gallego		Clear	Cloudy		705	702
+1890-08-15	22.0	28	Gallego	Solano		Clear	Cloudy		707	707
+1890-08-16	28.0	28	Gallego	Gallego		Clear	Clear		707	706
+1890-08-17	23.0	28	Gallego	Gallego		Clear	Clouds		705	702
+1890-08-18	28.0	33	Gallego	Gallego		Cloudy	Clouds		705	705
+1890-08-19	23.0	28	Gallego	Gallego		Clear	Clear		707	706
+1890-08-20	21.0	32	Gallego	Gallego		Clouds	Clouds		708	707
+1890-08-21	21.0	33	Gallego	Gallego		Cloudy	Clear		709	707
+1890-08-22	24.0	33	Gallego	Solano		Clear	Cloudy		710	707
+1890-08-23	27.0	32	Solano	Gallego		Cloudy	Cloudy		708	706
+1890-08-24	24.0	31	Gallego	Gallego		Clear	Clouds		706	704
+1890-08-25	19.0	27	Gallego	Gallego		Clear	Clear		708	708
+1890-08-26	23.0	31	Solano	Solano		Clear	Clear		709	707
+1890-08-27	23.0	31	Solano	Gallego		Clear	Clear		707	706
+1890-08-28	21.0	27	Gallego	Gallego		Clear	Clear		708	706
+1890-08-29	20.0	26	Gallego	Gallego		Clear	Clear		711	711
+1890-08-30	20.0	29	Gallego	Gallego		Clear	Clear		711	709
+1890-08-31	21.0	29	Solano	Solano		Clear	Clear		709	708
+1890-09-01	23.0	29	Solano	Solano		Clear	Clear		709	707
+1890-09-02	25.0	32	Solano	Solano		Clear	Clouds		708	707
+1890-09-03	25.0	32	Solano	Gallego		Clouds	Clouds		708	708
+1890-09-04	25.0	33	Solano	Solano		Clear	Clear		707	708
+1890-09-05	27.0	34	Solano	Solano		Clear	Clear		708	706
+1890-09-06	28.0	34	Solano	Solano		Clear	Clear		707	706
+1890-09-07	26.0	34	Solano	Solano		Clear	Clear		709	708
+1890-09-08	27.0	33	Solano	Solano		Clear	Clouds		709	708
+1890-09-09	29.0	35	Solano	Solano		Clear	Clear		708	706
+1890-09-10	24.0	33	Solano	Gallego		Clear	Clouds		707	706
+1890-09-11	28.0	35	Solano	Solano		Clear	Clear		708	709
+1890-09-12	22.0	20	Solano	Solano		Cloudy	Drizzle		708	709
+1890-09-13	23.0	33	Solano	Solano		Clouds	Clouds		708	706
+1890-09-14	20.0	28	Gallego	Gallego		Clear	Clouds		707	707
+1890-09-15	20.0	28	Gallego	Gallego		Clouds	Cloudy		708	706
+1890-09-16	19.0	27	Gallego	Gallego		Clear	Clear		708	706
+1890-09-17	22.0	27	Solano	Solano		Clouds	Clouds		708	708
+1890-09-18	17.0	25	Gallego	Gallego		Clouds	Clouds		708	709
+1890-09-19	18.0	26	Gallego	Gallego		Clouds	Cloudy		708	708
+1890-09-20	20.0	26	Gallego	Gallego		Cloudy	Clouds		709	708
+1890-09-21	20.0	24	Gallego	Gallego		Clouds	Clouds		707	709
+1890-09-22	17.0	24	Gallego	Gallego		Cloudy	Clouds		705	706
+1890-09-23	16.0	22	Gallego	Solano		Clouds	Clear		709	711
+1890-09-24	18.0	26	Solano	Solano		Clear	Clouds		712	714
+1890-09-25	19.0	27	Solano	Solano		Clear	Clear		713	715
+1890-09-26	20.0	27	Solano	Solano		Clear	Clouds		712	713
+1890-09-27	20.0	25	Solano	Solano		Clouds	Clouds		711	712
+1890-09-28	24.0	29	Solano	Solano		Clouds	Cloudy		709	709
+1890-09-29	20.0	25	Solano	Solano		Clouds	Clouds		708	709
+1890-09-30	22.0	25	Solano	Solano		Clouds	Clouds		708	708
+1891-06-24	21.0	27	Gallego	Gallego		Cloudy	Cloudy		715	716
+1891-06-25	21.0	28	Gallego	Gallego		Clouds	Clouds		710	716
+1891-06-26	22.0	31	Gallego	Gallego		Clouds	Clouds		720	717
+1891-06-27	26.0	32	N	NE		Clear	Clear		720	720
+1891-06-28	26.0	36	NE	NE		Clear	Clear		719	719
+1891-06-29	24.0	33	E	NW		Clouds	Clouds		718	717
+1891-06-30	24.0	35	SE	SE		Clouds	Clouds		717	716
+1891-07-01	25.0	32	SE	SW		Clear	Clouds		719	719
+1891-07-02	20.0	29	Gallego	S		Drizzle	Clouds		720	719
+1891-07-03	22.0	29	Gallego	Gallego		Clouds	Clouds		719	719
+1891-07-04	22.0	32	Gallego	N		Clear	Clear		721	721
+1891-07-05	26.0	34	Solano	NW		Clear	Clear		723	723
+1891-07-06	32.0	37	Solano	NW		Clear	Clear		721	719
+1891-07-07	32.0	38	Solano	Solano		Clear	Clear		718	717
+1891-07-08	33.0	38	NW	Solano		Clouds	Clear		716	715
+1891-07-09	27.0	33	S	SW		Clear	Clear		716	715
+1891-07-10	27.0	34	SW	SW		Clear	Clear		716	715
+1891-07-11	29.0	34	S	S		Clear	Clouds		716	715
+1891-07-12	24.0	29	SW	SW		Cloudy	Clear		718	718
+1891-07-13	27.0	36	N	N		Clouds	Clouds		716	715
+1891-07-14	24.0	31	W	W		Clouds	Clear		716	715
+1891-07-15	25.0	33	NW	NW		Clear	Clouds		716	715
+1891-07-16	26.0	31	NW	NW		Clouds	Cloudy		716	716
+1891-07-17	25.0	30	SW	E		Clouds	Clouds		719	718
+1891-07-18	26.0	30	W	W		Clouds	Clear		720	720
+1891-07-19	24.0	31	W	NW		Clear	Clear		721	721
+1891-07-20	26.0	35	W	N		Clear	Clear		721	722
+1891-07-21	27.0	37	S	S		Clear	Clear		719	718
+1891-07-22	29.0	38	S	S		Clouds	Clear		718	717
+1891-07-23	30.0	37	S	NW		Clear	Clear		716	718
+1891-07-24	27.0	35	E	N		Clear	Clear		717	716
+1891-07-25	27.0	36	E	SE		Clear	Clear		720	719
+1891-07-26	27.0	36	E	SW		Clear	Clear		718	716
+1891-07-27	24.0	33	W	S		Clear	Clear		717	715
+1891-07-28	24.0	34	W	S		Clear	Clear		716	715
+1891-07-29	24.0	31	W	W		Clear	Clear		718	717
+1891-07-30	22.0	29	W	W		Clear	Clouds		716	716
+1891-07-31	22.0	28	W	W		Clouds	Clouds		715	715
+1891-08-01	24.0	28	W			Clear	Clouds		710	717
+1891-08-02	27.0	33	E			Clouds	Clear		720	719
+1891-08-03	28.0	34	S			Clear	Clear		718	715
+1891-08-04	24.0	32	N			Clear	Clouds		716	715
+1891-08-05	20.0	27	W			Clear	Clear		718	719
+1891-08-06	21.0	28	W			Clear	Clear		721	721
+1891-08-07	24.0	29	E			Clear	Clear		723	721
+1891-08-08	24.0	31	N			Clear	Clear		721	720
+1891-08-09	26.0	34	NE			Clear	Clear		719	717
+1891-08-10	27.0	35	E			Clear	Clouds		718	716
+1891-08-11	25.0	34	NE			Clear	Clear		717	716
+1891-08-12	27.0	36	NE			Clear	Clear		719	718
+1891-08-13	30.0	36	E			Clear	Clear		719	719
+1891-08-14	30.0	39	E			Clear	Clouds		720	717
+1891-08-15	31.0	37	E			Clouds	Clouds		719	718
+1891-08-16	28.0	37	N			Clear	Cloudy		717	716
+1891-08-17	25.0	31	E			Clear	Clear		716	715
+1891-08-18	24.0	27	E			Clouds	Clouds		717	716
+1891-08-19	24.0	29	W			Clear	Clear		719	720
+1891-08-20	25.0	34	NE			Clear	Clear		729	718
+1891-08-21	26.0	31	NE			Clear	Clear		717	716
+1891-08-22	19.0	20	W			Clear	Clear		718	716
+1891-08-23	18.0	26	W			Clear	Clear		718	717
+1891-08-24	17.0	26	W			Cloudy	Cloudy		719	718
+1891-08-25	26.0	28	NE			Clouds	Clouds		721	720
+1891-08-26	26.0	30	N			Clouds	Clouds		719	718
+1891-08-27	20.0	27	N			Cloudy	Cloudy		719	718
+1891-08-28	20.0	23	N			Cloudy	Clouds		720	720
+1891-08-29	24.0	32	E			Clear	Clear		719	718
+1891-08-30	20.0	28	W			Clear	Clear		721	720
+1891-08-31	22.0	28	W			Clear	Clear		721	720
+1892-06-23	23.0	29	SW	SW		Clouds	Clouds		723	723
+1892-06-24	24.0	30	SW	SW		Cloudy	Clouds		724	723
+1892-06-25	29.0	37	SW	N		Clear	Clear		723	723
+1892-06-26	29.0	40	NE	Solano		Clear	Clear		723	724
+1892-06-27	30.0	38	Solano	Solano		Clear	Clouds		721	720
+1892-06-28	29.0	37	Solano	Solano		Clear	Clouds		721	721
+1892-06-29	30.0	37	S	W		Clear	Clear		722	722
+1892-06-30	29.0	37	NE	NW		Clear	Clear		722	720
+1892-07-01	31.0	38	N	NE		Clear	Clouds		720	718
+1892-07-02	31.0	36	NE	NE		Clouds	Cloudy		717	717
+1892-07-03	28.0	36	SW	NE		Clear	Clouds		718	716
+1892-07-04	26.0	33	SW	W		Clear	Clouds		720	719
+1892-07-05	27.0	36	NE	NE		Clear	Clouds		721	720
+1892-07-06	25.0	35	NE	NE		Clear	Clear		721	721
+1892-07-07	30.0	37	NE	NE		Clear	Clear		721	718
+1892-07-08	30.0	37	NE	NE		Clear	Clear		720	719
+1892-07-09	28.0	36	SW	SW		Clear	Clouds		719	719
+1892-07-10	27.0	36	SW	SW		Clear	Clear		719	718
+1892-07-11	25.0	32	SW	SW		Clear	Clear		718	716
+1892-07-12	21.0	37	SW	SW		Clouds	Clear		719	719
+1892-07-13	22.0	27	SW	SW		Clouds	Clouds		721	720
+1892-07-14	23.0	32	SW	SW		Clear	Clouds		722	721
+1892-07-15	26.0	33	SW	SW		Clear	Clear		720	717
+1892-07-16	22.0	28	SW	SW		Cloudy	Clouds		718	717
+1892-07-17	24.0	28	SW	SW		Clouds	Clouds		717	717
+1892-07-18	23.0	30	SW	SW		Clear	Clouds		720	720
+1892-07-19	24.0	32	SW	SW		Clear	Clear		722	722
+1892-07-20	25.0	32	SW	SW		Clear	Clear		721	721
+1892-07-21	25.0	32	SW	SW		Clear	Clear		720	719
+1892-07-22	25.0	34	SW	SW		Clear	Clear		719	716
+1892-07-23	27.0	35	Solano	S		Clear	Clouds		717	716
+1892-07-24	27.0	34	Solano	S		Clear	Clouds		719	717
+1892-07-25	23.0	29	Gallego	Gallego		Clouds	Clouds		720	718
+1892-07-26	22.0	28	Gallego	Gallego		Clouds	Clouds		718	717
+1892-07-27	25.0	30	Gallego	Gallego		Clouds	Clouds		720	718
+1892-07-28	23.0	30	Gallego	Gallego		Clouds	Clouds		718	717
+1892-07-29	23.0	31	NE	Solano		Clear	Clouds		720	720
+1892-07-30	25.0	33	Solano	Solano		Clear	Clear		720	719
+1892-07-31	25.0	32	Gallego	Gallego		Clouds	Clouds		719	718
+1892-08-01	25.0	34	Gallego	S		Clear	Clear		719	719
+1892-08-02	26.0	35	S	S		Clear	Clear		719	717
+1892-08-03	26.0	36	S	S		Clear	Clouds		716	716
+1892-08-04	29.0	37	S	S		Clear	Clouds		715	715
+1892-08-05	28.0	35	S	W		Clear	Clouds		716	715
+1892-08-06	27.0	36	W	S		Clear	Clouds		719	716
+1892-08-07	29.0	37	S	S		Clear	Clouds		718	717
+1892-08-08	26.0	32	W	W		Clear	Clouds		718	716
+1892-08-09	28.0	32	N	W		Clear	Clouds		719	717
+1892-08-10	23.0	32	W	W		Clear	Clear		720	719
+1892-08-11	27.0	35	S	S		Clear	Clear		718	719
+1892-08-12	24.0	37	S	S		Clear	Clear		718	717
+1892-08-13	31.0	36	S	S		Clear	Clear		719	719
+1892-08-14	29.0	39	SW	S		Clear	Clouds		719	718
+1892-08-15	31.0	40	S	S		Clouds	Clouds		718	718
+1892-08-16	33.0	41	S	S		Clouds	Clouds		718	718
+1892-08-17	31.0	38	S	S		Clear	Clouds		719	716
+1892-08-18	26.0	32	W	W		Clouds	Clouds		715	715
+1892-08-19	21.0	27	W	W		Clouds	Clouds		718	718
+1892-08-20	25.0	30	W	W		Clouds	Clear		720	719
+1892-08-21	27.0	34	S	W		Clear	Clear		719	718
+1892-08-22	26.0	32	N	W		Clouds	Clouds		717	718
+1892-08-23	22.0	26	W	W		Clouds	Clouds		717	717
+1892-08-24	18.0	24	W	W		Clouds	Clouds		719	718
+1892-08-25	22.0	27	E	W		Clear	Clouds		722	721
+1892-08-26	22.0	30	W	N		Clear	Clear		721	720
+1892-08-27	25.0	32	E	S		Clear	Clear		720	719
+1892-08-28	27.0	33	S	S		Clear	Clear		719	718
+1892-08-29	26.0	32	S	W		Clear	Clear		719	718
+1892-08-30	25.0	29	W	W		Clouds	Clouds		720	719
+1892-08-31	21.0	26	W	W		Clouds	Clouds		721	720
+1892-09-01	20.0	27	W	W		Clouds	Clouds		721	720
+1892-09-02	19.0	21	NE	NE		Clouds	Drizzle		721	720
+1892-09-03	22.0	30	N	N		Clear	Clear		721	720
+1892-09-04	23.0	30	E	W		Clear	Clouds		720	720
+1892-09-05	22.0	30	N	N		Clear	Clouds		722	721
+1892-09-06	22.0	31	W	N		Clear	Clear		721	719
+1892-09-07	25.0	31	S	N		Clear	Clouds		719	718
+1892-09-08	21.0	32	E	E		Clouds	Clouds		720	719
+1892-09-09	25.0	34	E	E		Clear	Clear		719	718
+1892-09-10	26.0	30	S	E		Clear	Clear		720	720
+1892-09-11	25.0	33	S	E		Clear	Clear		721	720
+1892-09-12	27.0	33	E	E		Clear	Clear		721	720
+1892-09-13	26.0	31	N	N		Clear	Clouds		721	720
+1892-09-14	23.0	30	N	E		Clear	Clouds		720	719
+1892-09-15	24.0	29	S	S		Clouds	Cloudy		719	718
+1892-09-16	23.0	28	S	S		Cloudy	Clouds		716	715
+1892-09-17	25.0	31	S	E		Clouds	Clouds		718	718
+1892-09-18	23.0	32	N	E		Cloudy	Cloudy		719	718
+1892-09-19	26.0	33	E	S		Clouds	Cloudy		721	720
+1892-09-20	28.0	27	S	W		Clouds	Clouds		721	720
+1892-09-21	28.0	27	N	N		Cloudy	Drizzle		719	718
+1892-09-22	23.0	32	W	S		Clouds	Cloudy		720	718
+1892-09-23	22.0	30	W	S		Cloudy	Clouds		721	720
+1892-09-24	23.0	31	E	S		Clouds	Clear		720	719
+1892-09-25	25.0	29	S	N		Clouds	Clouds		718	716
+1892-09-26	23.0	28	W	W		Clouds	Clouds		717	716
+1892-09-27	22.0	27	W	S		Clouds	Clouds		718	716
+1892-09-28	19.0	26	W	W		Clouds	Clouds		717	716
+1892-09-29	17.0	26	W	W		Clear	Clear		718	717
+1892-09-30	18.0	27	W	W		Clear	Clear		717	716
+1893-06-24	23.0	27	N	N		Cloudy	Clear		718	718
+1893-06-25	24.0	30	E	E		Clear	Clear		720	718
+1893-06-26	25.0	33	Solano	Solano		Clear	Clear		719	717
+1893-06-27	27.0	34	S	Gallego		Clear	Clear		716	715
+1893-06-28	24.0	31	SW	Gallego		Clouds	Clouds		717	716
+1893-06-29	25.0	31	SW	SW		Clear	Clear		716	715
+1893-06-30	28.0	34	S	SW		Clear	Clouds		717	717
+1893-07-01	26.0	33	SW	SW		Clouds	Clear		719	717
+1893-07-02	28.0	36	S	W		Clear	Clear		717	716
+1893-07-03	29.0	37	SE	S		Clear	Clear		716	715
+1893-07-04	25.0	32	SW	S		Clear	Clear		717	717
+1893-07-05	25.0	32	NW	NW		Clear	Clear		716	715
+1893-07-06	27.0	35	NW	SW		Clear	Clear		715	714
+1893-07-07	27.0	34	SW	SW		Clear	Clouds		714	713
+1893-07-08	23.0	30	SW	SW		Clouds	Clouds		716	716
+1893-07-09	23.0	28	SW	SW		Cloudy	Cloudy		717	717
+1893-07-10	22.0	28	SW	SW		Clouds	Clouds		717	717
+1893-07-11	22.0	28	SW	SW		Clear	Clear		718	717
+1893-07-12	23.0	30	SW	SW		Clear	Clear		717	716
+1893-07-13	24.0	30	SW	SW		Clouds	Clouds		717	716
+1893-07-14	24.0	30	SW	SW		Clear	Clouds		716	716
+1893-07-15	26.0	31	N	SW		Clear	Clear		716	715
+1893-07-16	28.0	33	SE	N		Clear	Clear		717	717
+1893-07-17	29.0	36	N	SW		Clear	Clear		717	717
+1893-07-18	30.0	37	S	S		Clear	Clear		717	716
+1893-07-19	27.0	33	SW	SW		Clouds	Clouds		715	714
+1893-07-20	23.0	32	SW	N		Clouds	Clouds		716	714
+1893-07-21	24.0	33	SW	S		Cloudy	Rain		715	715
+1893-07-22	24.0	30	S	N		Clouds	Clear		718	718
+1893-07-23	29.0	35	N	NW		Clear	Clear		719	718
+1893-07-24	30.0	36	NW	NW		Clear	Clear		717	716
+1893-07-25	30.0	36	S	NW		Clear	Clouds		715	714
+1893-07-26	30.0	36	S	SW		Clouds	Clouds		713	712
+1893-07-27	28.0	36	SW	NW		Clear	Clear		712	712
+1893-07-28	27.0	32	N	N		Clear	Clear		716	715
+1893-07-29	28.0	33	N	N		Clear	Clear		718	717
+1893-07-30	28.0	34	N	NW		Clear	Clear		717	716
+1893-07-31	30.0	36	N	N		Clear	Clear		714	712
+1893-08-01	29.0	35	S	SW		Clear	Clouds		712	711
+1893-08-02	28.0	35	SE	N		Clear	Clouds		714	712
+1893-08-03	32.0	28	N	S		Cloudy	Rain		713	712
+1893-08-04	26.0	32	N	SW		Clear	Clear		717	717
+1893-08-05	26.0	33	S	W		Clear	Clear		719	718
+1893-08-06	27.0	35	W	S		Clear	Clear		716	714
+1893-08-07	26.0	35	S	N		Clear	Clear		714	713
+1893-08-08	27.0	35	N	S		Clear	Clear		714	713
+1893-08-09	27.0	34	SW	SW		Clear	Clear		715	715
+1893-08-10	28.0	35	SW	SW		Clouds	Clouds		716	715
+1893-08-11	27.0	35	S	S		Clear	Clear		717	716
+1893-08-12	29.0	36	S	S		Clear	Clear		716	714
+1893-08-13	27.0	36	N	SW		Clear	Clear		714	714
+1893-08-14	30.0	37	S	NW		Clouds	Clouds		716	716
+1893-08-15	30.0	38	N	N		Clouds	Clouds		716	715
+1893-08-16	30.0	37	S	N		Clouds	Clouds		716	715
+1893-08-17	30.0	38	SW	S		Clouds	Clouds		715	714
+1893-08-18	30.0	36	S	S		Clouds	Clouds		714	714
+1893-08-19	28.0	34	SW	SW		Clouds	Clouds		714	714
+1893-08-20	22.0	33	SW	SW		Clear	Clear		717	714
+1893-08-21	24.0	33	SW	SW		Clear	Clear		717	716
+1893-08-22	27.0	36	SW	S		Clear	Clouds		716	715
+1893-08-23	29.0	38	E	S		Clouds	Clouds		715	714
+1893-08-24	30.0	37	S	N		Clear	Clouds		716	715
+1893-08-25	30.0	37	S	S		Clouds	Clouds		717	717
+1893-08-26	29.0	36	SW	SW		Clouds	Clouds		715	715
+1893-08-27	24.0	30	N	S		Drizzle	Cloudy		715	715
+1893-08-28	24.0	31	SW	SW		Cloudy	Clouds		715	713
+1893-08-29	21.0	28	SW	SW		Clouds	Clouds		716	715
+1893-08-30	22.0	30	SW	N		Clouds	Clouds		716	715
+1893-08-31	22.0	29	S	SW		Clouds	Clear		715	715
+1893-09-01	24.0	31	SW	W		Clouds	Clouds		716	716
+1893-09-02	25.0	33	SW	W		Clear	Clear		718	716
+1893-09-03	28.0	35	N	NE		Clear	Clear		715	714
+1893-09-04	28.0	33	S	S		Clouds	Cloudy		714	713
+1893-09-05	26.0	30	S	S		Cloudy	Cloudy		716	716
+1893-09-06	25.0	30	E	S		Clouds	Clouds		717	718
+1893-09-07	23.0	32	S	S		Cloudy	Clear		718	716
+1893-09-08	27.0	32	S	N		Clouds	Clouds		718	716
+1893-09-09	24.0	31	S	SW		Clear	Clouds		716	714
+1893-09-10	23.0	31	SW	S		Clouds	Clouds		713	712
+1893-09-11	21.0	26	NW	NW		Clouds	Clouds		713	714
+1893-09-12	22.0	25	N	SW		Clouds	Cloudy		715	715
+1893-09-13	22.0	28	N	N		Clouds	Clouds		716	715
+1893-09-14	24.0	28	E	N		Clouds	Clouds		717	715
+1893-09-15	23.0	26	S	S		Cloudy	Cloudy		717	716
+1893-09-16	20.0	26	SW	SW		Cloudy	Clouds		718	718
+1893-09-17	22.0	26	SW	SW		Cloudy	Clouds		717	716
+1893-09-18	21.0	26	N	N		Cloudy	Cloudy		715	714
+1893-09-19	17.0	23	S	S		Rain	Clouds		714	714
+1893-09-20	19.0	24	N	SW		Clouds	Cloudy		718	717
+1893-09-21	19.0	24	SW	SW		Clouds	Clouds		718	718
+1893-09-22	18.0	23	S	SW		Clouds	Clouds			
+1893-09-23	20.0	22	S	S		Cloudy	Rain			
+1893-09-24	16.0	20	S	SW		Cloudy	Rain			
+1893-09-25	16.0	18	S	S		Cloudy	Drizzle			
+1893-09-26	17.0	22	S	N		Clouds	Clouds			
+1893-09-27	16.0	23	N	N		Clouds	Clouds			
+1893-09-28	17.0	25	N	S		Clouds	Clouds			
+1893-09-29	20.0	26	N	N		Clouds	Clouds			
+1893-09-30	17.0	24	S	SW		Drizzle	Cloudy			

@@ -1,0 +1,98 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from BAMONS1 (1925-1935), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926145 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 38.080000 * LONGITUDE: -6.260000
+	DATE/TIME START: 1925-12-01T00:00:00 * DATE/TIME END: 1935-12-01T00:00:00
+Event(s):	BAMONS1 * LATITUDE: 38.080000 * LONGITUDE: -6.260000 * LOCATION: Monesterio, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of snowy days [days/month] (Snowy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Precipitation [mm/month] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge
+	Precipitation, daily, maximum [mm/day] (Precip day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge * COMMENT: within this month
+	Date (Date) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max daily precipitation
+	Number of foggy days [days/month] (Foggy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of stormy days [days/month] (Stormy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+Size:	394 data points
+*/
+Date/Time	Rainy days [days/month]	Snowy days [days/month]	Precip [mm/month]	Precip day max [mm/day]	Date	Foggy days [days/month]	Stormy days [days/month]
+1925-12	13	0	173.90	68.0	1925-12-19		
+1926-01	7	0	73.90	30.0	1926-01-31	1	0
+1926-02	12	0	163.10	43.5	1926-02-01	0	0
+1926-03	11	0	104.60	29.5	1926-03-23	0	3
+1926-04	10	0	83.20	36.1	1926-04-29	0	0
+1926-05	6	0	57.40	22.7	1926-05-02	0	0
+1926-06	0	0	0.00	0.0		0	0
+1926-07	1	0	8.60	8.6	1926-07-28	0	1
+1926-08	2	0	28.80	27.5	1926-08-31	0	2
+1926-09	0	0	0.00	0.0		2	0
+1926-10	11	0	213.10	71.0	1926-10-22	0	7
+1926-11	18	0	126.00	23.0	1926-11-12	0	1
+1926-12	2	1	12.40	7.8	1926-12-27	0	0
+1927-01	15	0	46.60	7.0	1927-01-28		0
+1927-02	8	0	51.60	25.5	1927-02-24		0
+1927-03	12	0	670.00	164.0	1927-03-17		0
+1927-04	2	0	1.50	1.3	1927-04-24		1
+1927-05	6	0	23.90	25.5	1927-05-14		3
+1927-06	3	0	21.60	12.7	1927-06-02		0
+1927-07	2	0	2.40	2.1	1927-07-08		0
+1927-08	1	0	4.70	4.7	1927-08-06		1
+1927-09	1	0	0.70	0.7	1927-09-25		0
+1927-10	5	0	101.40	47.0	1927-10-22		1
+1927-11	9	0	190.20	88.5	1927-11-09		2
+1927-12	19	0	204.90	30.0	1927-12-05		0
+1928-01	6	0	14.80	5.5	1928-01-29		0
+1928-02	6	0	121.80	35.0	1928-02-26		0
+1928-03	20	0	147.40	41.1	1928-03-20		3
+1928-04	16	0	148.00	23.0	1928-04-09		2
+1928-05	13	0	77.00	14.2	1928-05-15		2
+1928-06	3	0	30.30	16.2	1928-06-05		1
+1928-07	2	0	14.60	2.2	1928-07-02		0
+1928-08	0	0	0.00	0.0			0
+1928-09	8	0	149.20	82.5	1928-09-27		3
+1928-10	4	0	7.10	3.0	1928-10-22		0
+1928-11	3	0	52.80	22.3	1928-11-06		0
+1928-12	6	0	19.40	8.0	1928-12-12		0
+1929-01	6	0	28.80	11.6	1929-01-01		
+1929-02	13	0	88.30	36.2	1929-02-24		
+1929-03	9	0	45.30	12.3	1929-03-05		
+1929-04	9	0	79.20	39.9	1929-04-22		
+1929-05	3	0	67.00	30.0	1929-05-19		
+1929-06	1	0	4.00	4.0	1929-06-22		
+1929-07	1	0	5.00	5.0	1929-07-29		
+1931-01	7	0	54.20	34.2	1931-01-04		
+1931-02	4	0	11.70	6.1	1931-02-06		
+1931-03	19	0	247.60	45.3	1931-03-19		
+1931-04	7	0	27.30	9.8	1931-04-02		
+1931-05	7	0	48.90	18.6	1931-05-02		
+1931-06	2	0	40.40	39.4	1931-06-23		
+1931-07	0	0	0.00	0.0			
+1931-08	2	0	6.00	4.0	1931-08-25		
+1931-09	4	0	39.10	19.9	1931-09-08		
+1931-10	6	0	344.70	126.5	1931-10-23		
+1931-11	11	0	123.60	63.4	1931-11-06		
+1931-12	0	1	2.50	2.5	1931-12-23		
+1932-01	9	0	104.00	44.5	1932-01-28		
+1932-02	5	0	42.70	16.7	1932-02-06		
+1932-03	12	0	117.30	23.4	1932-03-13		
+1932-04	7	0	28.80	7.9	1932-04-04		
+1932-05	6	0	83.80	33.1	1932-05-05		
+1932-06	3	0	32.30	29.8	1932-06-14		
+1932-07	0	0	0.00	0.0			
+1932-08	0	0	0.00	0.0			
+1932-09	7	0	26.80	11.5	1932-09-24		
+1932-10	5	0	31.80	21.4	1932-10-13		
+1932-11	8	0	78.40	22.1	1932-11-18		
+1932-12	11	0	195.90	55.1	1932-12-07		
+1935-01			10.10				
+1935-02			14.60				
+1935-03			58.90				
+1935-04			14.40				
+1935-05			86.70				
+1935-06			6.40				
+1935-07			6.40				
+1935-08			0.00				
+1935-09			0.00				
+1935-10			28.60				
+1935-11			88.00				
+1935-12			61.70				

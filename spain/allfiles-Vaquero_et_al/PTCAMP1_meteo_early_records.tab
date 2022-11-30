@@ -1,0 +1,52 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from PTCAMP1 (1861-1863), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926450 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 39.033333 * LONGITUDE: -6.983333 * ALTITUDE: 288 m
+	DATE/TIME START: 1861-01-01T00:00:00 * DATE/TIME END: 1863-01-01T00:00:00
+Event(s):	PTCAMP1 * LATITUDE: 39.033333 * LONGITUDE: -6.983333 * ALTITUDE: 288 m * LOCATION: Campo Maior (Portugal) * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Kew barometer * COMMENT: in mmHg, annual mean
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Kew barometer * COMMENT: in mmHg, maximum in one day of the year
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Kew barometer * COMMENT: in mmHg, minimum in one day of the year
+	Date (Date) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of maximum pressure
+	Date (Date) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of minimum pressure
+	Temperature, air, annual mean [°C] (MAAT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Kew barometer
+	Temperature, air, annual maximum [°C] (TX) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Kew barometer * COMMENT: mean maximum
+	Temperature, air, annual minimum [°C] (TN) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Kew barometer * COMMENT: mean minimum
+	Temperature, air, annual maximum [°C] (TX) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Kew barometer * COMMENT: max in one day of the year
+	Temperature, air, annual minimum [°C] (TN) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Kew barometer * COMMENT: min in one day of the year
+	Date (Date) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of maximum temperature
+	Date (Date) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of minimum temperature
+	Vapor pressure [arbitrary units] (VP) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: Vapor pressure in mmHg
+	Humidity, relative [%] (RH) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Precipitation, annual total [mm/a] (Precip annual total) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Babinet udometer
+	Evaporation [mm/a] (Evaporation) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Piché evaporimeter
+	Number of rainy days [days/year] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Serenity of the sky [arbitrary units] (Serenity) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: annual, in tenths of the sky without clouds (scale: 0 the sky is completely covered, 10 there is no cloud in the sky)
+	Ozone [arbitrary units] (O3) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: James ozonometer * COMMENT: annual
+	Wind speed [arbitrary units] (ff) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: annual mean, in km/h
+	Wind speed, gust [arbitrary units] (ff gust) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: annual max, in km/h
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: N
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: NNE
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: NE
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: ENE
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: E
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: ESE
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: SE
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: SSE
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: S
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: SSO
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: SO
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: OSO
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: O
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: ONO
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: NO
+	Frequency (Frequency) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of wind: NNO
+	Number of calm days [days/year] (Calm days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+Size:	114 data points
+*/
+Date/Time	PPPP other [arbitrary units] (in mmHg, annual mean, Kew bar...)	PPPP other [arbitrary units] (in mmHg, maximum in one day o...)	PPPP other [arbitrary units] (in mmHg, minimum in one day o...)	Date (of maximum pressure)	Date (of minimum pressure)	MAAT [°C] (Kew barometer)	TX [°C] (mean maximum, Kew barometer)	TN [°C] (mean minimum, Kew barometer)	TX [°C] (max in one day of the year, K...)	TN [°C] (min in one day of the year, K...)	Date (of maximum temperature)	Date (of minimum temperature)	No (Vapor pressure in °C)	RH [%]	Precip annual total [mm/a] (Babinet udometer)	Evaporation [mm/a] (Piché evaporimeter)	Rainy days [days/year]	Serenity [arbitrary units] (annual)	O3 [arbitrary units] (annual, James ozonometer)	ff [arbitrary units] (annual mean, in km)	ff gust [arbitrary units] (annual max, in km)	Frequency (of wind: N)	Frequency (of wind: NNE)	Frequency (of wind: NE)	Frequency (of wind: ENE)	Frequency (of wind: E)	Frequency (of wind: ESE)	Frequency (of wind: SE)	Frequency (of wind: SSE)	Frequency (of wind: S)	Frequency (of wind: SSO)	Frequency (of wind: SO)	Frequency (of wind: OSO)	Frequency (of wind: O)	Frequency (of wind: ONO)	Frequency (of wind: NO)	Frequency (of wind: NNO)	Calm days [days/year]
+1861	737.44	747.68	719.82	1861-03-03	1860-12-24	16.27	23.03	10.55	44.0	-1.6	1861-08-10	1860-12-18	8.70	63.12	659.5	2641.8	101	6.1	4.3	12.37	54	43	41	51	44	37	42	61	52	30	51	40	39	13	65	244	62	87
+1862	737.22	747.88	710.66	1862-01-30	1862-11-24	15.90	22.66	10.28	43.6	-2.7	1862-08-01	1862-02-12	8.68	63.18	665.7	2274.5	101	6.0	4.3	13.20	60	45	56	66	36	51	74	78	44	41	45	50	27	23	33	272	74	78
+1863	739.20	751.90	724.15	1862-12-18	1863-03-04	15.85	23.03	9.81	43.3	-0.9	1863-07-05	1863-01-17	8.46	60.61	423.9	2309.5	81	6.4	4.3	12.57	61	57	43	89	37	81	80	55	17	29	31	27	35	33	53	259	50	100

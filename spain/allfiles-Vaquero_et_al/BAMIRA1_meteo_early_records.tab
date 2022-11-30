@@ -1,0 +1,59 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from BAMIRA1 (1933-1936), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926142 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 39.000000 * LONGITUDE: -6.250000
+	DATE/TIME START: 1933-12-01T00:00:00 * DATE/TIME END: 1936-12-01T00:00:00
+Event(s):	BAMIRA1 * LATITUDE: 39.000000 * LONGITUDE: -6.250000 * LOCATION: Mirandilla, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of snowy days [days/month] (Snowy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Precipitation [mm/month] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge
+	Precipitation, daily, maximum [mm/day] (Precip day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge * COMMENT: within this month
+	Date (Date) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max daily precipitation
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean, in rainy days (W = west, E = east, N = north, S = south). (From the North to East (0º-90º): 1er Cte = first quadrant, from the East to South (90º-180º): 2° Cte = second quadrant, from the South to West (180º-270º): 3er Cte = third quadrant, from the West to North (270º-360º): 4° Cte = fourth quadrant) ("Various" means several directions)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: max, in rainy days (W = west, E = east, N = north, S = south). (From the North to East (0º-90º): 1er Cte = first quadrant, from the East to South (90º-180º): 2° Cte = second quadrant, from the South to West (180º-270º): 3er Cte = third quadrant, from the West to North (270º-360º): 4° Cte = fourth quadrant)
+	Number of frost days [days/month] (Frost days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of foggy days [days/month] (Foggy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of stormy days [days/month] (Stormy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of hail days [days/month] (Hail days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+Size:	314 data points
+*/
+Date/Time	Rainy days [days/month] (Observation)	Snowy days [days/month] (Observation)	Precip [mm/month] (Hellmann Rain Gauge)	Precip day max [mm/day] (within this month, Hellmann R...)	Date (of max daily precipitation)	Wind dir descr (mean, in rainy days (W = west...)	Wind dir descr (max, in rainy days (W = west,...)	Frost days [days/month] (Observation)	Foggy days [days/month] (Observation)	Stormy days [days/month] (Observation)	Hail days [days/month] (Observation)
+1933-12	8	0	56.20	15.1	1933-12-06						
+1934-01	3	0	12.30	5.8	1934-01-13	SW	SW		3	0	
+1934-02	4	0	7.50	3.2	1934-02-27				0	0	
+1934-03	10	0	79.30	29.2	1934-03-09				0	1	
+1934-04	15	0	102.70	32.2	1934-04-07				0	3	
+1934-05	8	0	64.50	18.2	1934-05-16	Various	SW		0	4	
+1934-06	0	0	0.00	0.0					0	0	
+1934-07	0	0	0.00	0.0					0	0	
+1934-08	1	0	25.50	25.5	1934-08-19	NE	NE		0	1	
+1934-09	1	0	13.20	13.2	1934-09-12	NW	NW		0	1	
+1934-10	1	0	4.10	4.1	1934-10-04	SE	SE		0	1	
+1934-11	9	0	58.40	19.6	1934-11-05	Various	SW		0	0	
+1934-12	19	0	153.30	30.8	1934-12-10	3er Cte	SW		1	0	
+1935-01	1	0	1.10	1.1	1935-01-20	NE	NE			0	
+1935-02	8	0	35.50	13.9	1935-02-25	SW-W	SW			0	
+1935-03	5	0	41.20	14.8	1935-03-20	SW	SW			0	
+1935-04	4	0	21.10	9.5	1935-04-22	SW	SW			0	
+1935-05	14	0	109.00	20.2	1935-05-08	3er Cte	NE			0	
+1935-06	2	0	4.60	2.7	1935-06-29	E-S	E			1	
+1935-07	0	0	0.00	0.0						0	
+1935-08	0	0	0.00	0.0						0	
+1935-09	0	0	0.00	0.0						0	
+1935-10	2	0	7.60	6.1	1935-10-07	NE-W	NE			0	
+1935-11	13	0	100.60	18.2	1935-11-17	SW-W	SW			0	
+1935-12	15	0	171.60	61.5	1935-12-24	3er Cte	SW			1	
+1936-01	20	0	183.30	42.1	1936-01-19	SW	W	0	1	0	0
+1936-02	17	0	146.70	30.1	1936-02-17	W	NW	0	1	1	0
+1936-03	18	0	138.20	18.9	1936-03-24	3er Cte	SW	0	0	3	0
+1936-04	9	0	85.30	17.1	1936-04-15	3er Cte	SW	0	0	1	0
+1936-05	10	0	49.80	20.9	1936-05-18	3er Cte		0	0	0	0
+1936-06	4	0	18.00	12.0	1936-06-22	3er Cte	W	0	0	0	0
+1936-07	2	0	1.70	1.5	1936-07-01	W	W	0	0	0	0
+1936-08	0	0	0.00	0.0				0	0	0	0
+1936-09	1	0	9.40	9.4	1936-09-30	W	W	0	0	0	0
+1936-10	5	0	39.30	24.6	1936-10-12	3er Cte		0	0	1	0
+1936-11	9	0	59.40	11.1	1936-11-09	SW	SW	0	0	0	0
+1936-12	5	0	36.20	18.3	1936-12-28	SE-S		0	0	0	0

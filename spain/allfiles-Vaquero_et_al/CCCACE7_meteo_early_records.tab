@@ -1,0 +1,31 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from CCCACE7 (1844), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926328 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 38.4800 * LONGITUDE: -6.3700
+	DATE/TIME START: 1844-07-09T07:00:00 * DATE/TIME END: 1844-07-30T17:00:00
+Event(s):	CCCACE7 * LATITUDE: 38.4800 * LONGITUDE: -6.3700 * LOCATION: Cáceres, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST) * COMMENT: the symbol "#" represents suspicious data found from a quality control
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Temperature, air [arbitrary units] (T air other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in Reamur
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Pressure [arbitrary units] (PP) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: inches of preasure
+	Pressure [arbitrary units] (PP) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: preasure lines
+	Present weather (ww) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+Size:	75 data points
+*/
+Date/Time	T air other [arbitrary units] (in Reamur)	TTT [°C]	PP (Inches of preasure)	PP (preasure lines)	ww
+1844-07-09T07:00	13	17	26	7	Clear
+1844-07-09T12:00	#13	24	26	8	Cloudy
+1844-07-09T17:00	24	31	26	8	Clear
+1844-07-16T07:00	17	22	26	8	Clear
+1844-07-16T12:00	22	28	26	8	Clear
+1844-07-16T17:00	27	34	26	8	Clear
+1844-07-20T07:00	17	22	26	8	Clear
+1844-07-20T12:00	20	25	26	8	Clear
+1844-07-20T17:00	30	38	26	8	Clear
+1844-07-27T07:00	18	23	26	8	Clear
+1844-07-27T12:00	25	32	26	8	Clear
+1844-07-27T17:00	36	#29	26	8	Clear
+1844-07-30T07:00	19	24	26	8	Clear
+1844-07-30T12:00	26	33	26	8	Clear
+1844-07-30T17:00	29	37	26	8	Clear

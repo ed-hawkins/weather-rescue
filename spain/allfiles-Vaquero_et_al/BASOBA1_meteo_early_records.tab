@@ -1,0 +1,48 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from BASOBA1 (1934-1936), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926164 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 38.730000 * LONGITUDE: -6.530000
+	DATE/TIME START: 1934-01-01T00:00:00 * DATE/TIME END: 1936-06-01T00:00:00
+Event(s):	BASOBA1 * LATITUDE: 38.730000 * LONGITUDE: -6.530000 * LOCATION: Solana de Barros, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Number of rainy days [days/month] (Rainy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Number of snowy days [days/month] (Snowy days) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Observation (OBSE)
+	Precipitation [mm/month] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge
+	Precipitation, daily, maximum [mm/day] (Precip day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * METHOD/DEVICE: Hellmann Rain Gauge * COMMENT: within this month
+	Date (Date) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: of max daily precipitation
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean, in rainy days (W = west, E = east, N = north, S = south). 
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: max, in rainy days (W = west, E = east, N = north, S = south). 
+Size:	147 data points
+*/
+Date/Time	Rainy days [days/month] (Observation)	Snowy days [days/month] (Observation)	Precip [mm/month] (Hellmann Rain Gauge)	Precip day max [mm/day] (within this month, Hellmann R...)	Date (of max daily precipitation)	Wind dir descr (mean, in rainy days (W = west...)	Wind dir descr (max, in rainy days (W = west,...)
+1934-01	1	0	2.50	2.5	1934-01-28	NE	NE
+1934-02	2	1	4.30	2.5	1934-02-13	NE	NE
+1934-03	10	0	48.10	12.0	1934-03-10		
+1934-04	11	0	108.60	28.0	1934-04-06		
+1934-05	8	0	27.40	8.0	1934-05-12		
+1934-06	0	0	0.00	0.0			
+1934-07	0	0	0.00	0.0			
+1934-08	0	0	0.00	0.0			
+1934-09	0	0	0.00	0.0			
+1934-10	0	0	0.00	0.0			
+1934-11	12	0	60.60	12.0	1934-11-21		
+1934-12	16	0	119.10	40.0	1934-12-10		
+1935-01	1	0	2.00	2.0	1935-01-10		
+1935-02	4	0	26.50	12.0	1935-02-25		
+1935-03	6	0	27.80	9.0	1935-03-16		
+1935-04	3	0	5.30	3.3	1935-04-28		
+1935-05	14	0	95.60	23.6	1935-05-21		
+1935-06	2	0	8.70	5.5	1935-06-29		
+1935-07	0	0	0.00	0.0			
+1935-08	2	0	1.40	1.0	1935-08-06		
+1935-09	0	0	0.00	0.0			
+1935-10	1	0	12.00	12.0	1935-10-07		
+1935-11	13	0	49.30	14.5	1935-11-22		
+1935-12	11	0	48.90	29.0	1935-12-24		
+1936-01	14	0	121.60	31.5	1936-01-19		
+1936-02	17	0	85.20	22.5	1936-02-18		
+1936-03	20	0	90.70	14.0	1936-03-02		
+1936-04	10	0	83.40	23.0	1936-04-19		
+1936-05	11	0	54.50	23.5	1936-05-18		
+1936-06	4	0	7.50	3.0	1936-06-22		

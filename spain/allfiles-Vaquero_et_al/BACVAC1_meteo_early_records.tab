@@ -1,0 +1,505 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from BACVAC1 (1882-1883), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926387 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 38.086667 * LONGITUDE: -6.421111
+	DATE/TIME START: 1882-01-06T00:00:00 * DATE/TIME END: 1883-12-31T00:00:00
+Event(s):	BACVAC1 * LATITUDE: 38.086667 * LONGITUDE: -6.421111 * LOCATION: Cabeza la Vaca, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST)
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, at 9am
+	Pressure, atmospheric [arbitrary units] (PPPP other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: in mmHg, at 3pm
+	Temperature, air, daily maximum [°C] (TxTxTx day max) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Temperature, air [arbitrary units] (T air other) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: daily max, in Reamur (=0.8*T[°C])
+	Temperature, air, daily minimum [°C] (TnTnTn day min) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: WD1, during morning (W = west, E = east, N = north, S = south)
+	Wind direction description (Wind dir descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: WD2, during afternoon (W = west, E = east, N = north, S = south)
+	Wind speed description (ff descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: WF1, during morning
+	Wind speed description (ff descr) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: WF2, during afternoon
+	Present weather (ww) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: SS1, during morning
+	Present weather (ww) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: SS2, during morning
+	Precipitation [mm/day] (Precip) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Evaporation [mm] (Evapor) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean
+Size:	5091 data points
+*/
+Date/Time	PPPP other [arbitrary units] (in mmHg, at 9am)	PPPP other [arbitrary units] (in mmHg, at 3pm)	TxTxTx day max [°C]	T air other [arbitrary units] (daily max, in Reamur (=0.8*T[...)	TnTnTn day min [°C]	Wind dir descr (WD1, during morning)	Wind dir descr (WD2, during afternoon)	ff descr (WF1, during morning)	ff descr (WF2, during afternoon)	ww (SS1, during morning)	ww (SS2, during morning)	Precip [mm/day]	Evapor [mm] (mean)
+1882-01-06	705.0	703.0		0.1	0.300	N	NE	Calm	Breeze	Clear	Cloudy		4.0
+1882-01-07	707.5	705.0		4.0	5.000	NE	NE	Calm	Calm	Clear	Clear		3.0
+1882-01-08	709.0	708.0		4.0	6.000	E	NE	Calm	Calm	Clear	Clear		5.0
+1882-01-09	709.5	709.5		5.0	7.000	SE	E	Calm	Calm	Cloudy	Clear		5.0
+1882-01-10	708.5	709.0		5.0	7.000	SE	SE	Calm	Calm	Cloudy	Clear		4.5
+1882-01-11	708.0	708.0		7.0	7.000	SE	SE	Calm	Calm	Clear	Cloudy		3.5
+1882-01-12	706.0	708.0		4.0	6.000	NE	NE	Calm	Breeze	Clear	Cloudy		4.5
+1882-01-13	706.0	705.0		7.0	6.000	E	NE	Calm	Breeze	Clear	Clear		3.0
+1882-01-14	708.5	706.5		4.0	6.000	SE	E	Calm	Breeze	Clear	Clear		4.0
+1882-01-15	709.0	708.5		4.5	6.500	SE	E	Wind	Breeze	Clear	Clear		6.0
+1882-01-16	712.0	709.0		4.5	6.500	E	E	Breeze	Wind	Clear	Clear		5.0
+1882-01-17	712.0	712.0		4.0	6.000	E	E	Wind	Breeze	Clear	Clear		4.5
+1882-01-18	712.0	711.5		3.5	6.000	NE	NE	Breeze	Breeze	Clear	Clear		3.0
+1882-01-19	710.5	711.0		3.5	5.000	E	E	Breeze	Breeze	Clear	Cloudy		4.0
+1882-01-20	710.5	710.0		3.0	5.500	E	NE	Breeze	Breeze	Clear	Cloudy		4.0
+1882-01-21	710.0	710.5		3.0	5.500	E	E	Calm	Breeze	Clear	Clear		5.0
+1882-01-22	707.5	709.0		3.0	5.500	E	SE	Calm	Calm	Cloudy	Clear		4.0
+1882-01-23	706.0	706.5		5.0	5.500	SE	N	Breeze	Breeze	Cloudy	Cloudy		3.5
+1882-01-24	705.5	705.0		5.0	4.500	SE	SE	Breeze	Breeze	Cloudy	Cloudy	2.0	
+1882-01-25	708.0	705.5		5.0	5.000	SW	SW	Breeze	Breeze	Cloudy	Cloudy	9.0	
+1882-01-26	708.0	708.0		5.0	6.000	SW	SW	Wind	Wind	Cloudy	Cloudy		5.5
+1882-01-27	708.5	708.0		4.0	6.000	NE	SE	Breeze	Calm	Clear	Clear		5.0
+1882-01-28	708.5	708.0		5.5	7.000	SE	NE	Calm	Breeze	Covered	Clear		5.0
+1882-01-29	708.0	708.5				E	SE	Calm	Breeze	Clear	Covered		4.0
+1882-01-30	706.5	708.0				SE	SE	Calm	Breeze	Covered	Clear		5.5
+1882-01-31	705.0	706.0				S	S	Calm	Breeze	Cloudy	Cloudy		4.5
+1882-02-01	704.0	704.5				S	S	Breeze	Breeze	Clear	Cloudy		3.0
+1882-02-02	704.5	704.0				NE	E	Calm	Breeze	Clear	Cloudy		4.0
+1882-02-03	704.5	704.0				E	SE	Calm	Breeze	Clear	Clear		3.5
+1882-02-04	704.5	704.5				NE	NE	Breeze	Breeze	Cloudy	Cloudy		4.0
+1882-02-05	704.5	704.5				NE	SE	Breeze	Calm	Cloudy	Covered		3.5
+1882-02-06	705.5	704.5				SE	SE	Calm	Breeze	Clear	Cloudy		3.0
+1882-02-07	706.0	705.0				E	NE	Wind	Breeze	Clear	Cloudy		4.0
+1882-02-08	707.0	706.0				SE	E	Calm	Breeze	Clear	Cloudy		5.0
+1882-02-09	708.0	707.5				SE	NE	Wind	Breeze	Clear	Clear		7.0
+1882-02-10	706.0	708.0				S	S	Wind	Breeze	Cloudy	Clear		8.0
+1882-02-11	706.0	706.0				SW	S	Calm	Wind	Covered	Covered	10.0	0.0
+1882-02-12	704.0	704.0				NW	SW	Wind	Wind	Cloudy	Covered	10.0	0.0
+1882-02-13	707.0	704.0				N	NE	Breeze	Breeze	Clear	Cloudy		4.0
+1882-02-14	708.0	707.0				E	NE	Breeze	Breeze	Clear	Clear		5.5
+1882-02-15	711.5	708.5				E	E	Breeze	Breeze	Clear	Clear		5.0
+1882-02-16	709.5	711.0				NE	N	Breeze	Calm	Clear	Clear		5.0
+1882-02-17	708.5	709.0				NE	NE	Wind	Breeze	Clear	Clear		6.0
+1882-02-18	708.5	708.0				NE	NE	Breeze	Wind	Clear	Clear		6.0
+1882-02-19	707.0	708.0				N	NE	Calm	Breeze	Clear	Clear		4.5
+1882-02-20	706.0	706.5				NE	N	Breeze	Breeze	Clear	Clear		6.5
+1882-02-21	708.0	707.0				E	E	Wind	Breeze	Clear	Clear		8.0
+1882-02-22	707.5	707.0				NE	E	Breeze	Breeze	Clear	Clear		7.5
+1882-02-23	707.5	707.0				NE	E	Wind	Calm	Cloudy	Clear		8.0
+1882-02-24	707.5	707.5				SE	SE	Wind	Breeze	Clear	Cloudy		9.0
+1882-02-25	707.0	707.0				S	S	Wind	Wind	Cloudy	Clear		16.0
+1882-02-26	704.8	707.0				SW	SW	Wind	Wind	Covered	Cloudy	25.0	0.0
+1882-02-27	705.0	704.2				W	SW	Wind	Wind	Covered	Covered	23.0	0.0
+1882-02-28	705.0	705.0				SW	W	Breeze	Breeze	Covered	Cloudy	4.0	0.0
+1882-03-01	704.5	705.0				W	SW	Breeze	Breeze	Cloudy	Cloudy	4.0	0.0
+1882-03-02	706.5	705.0				SW	W	Breeze	Breeze	Cloudy	Cloudy	2.0	0.0
+1882-03-03	700.0	706.0				SW	W	Wind	Wind	Covered	Cloudy	6.0	0.0
+1882-03-04	696.0	695.0				NW	SW	Wind	Wind	Cloudy	Covered	11.5	0.0
+1882-03-05	703.0	697.0				N	NW	Breeze	Breeze	Clear	Cloudy		4.5
+1882-03-06	705.0	704.0				NW	NW	Breeze	Breeze	Clear	Clear		4.5
+1882-03-07	708.0	706.0				NE	N	Breeze	Breeze	Clear	Clear		5.0
+1882-03-08	709.0	708.0				NE	NE	Calm	Calm	Clear	Clear		8.0
+1882-03-09	708.5	708.0				NE	N	Breeze	Calm	Clear	Clear		9.0
+1882-03-10	709.0	708.0				E	NE	Breeze	Breeze	Clear	Clear		10.0
+1882-03-11	709.0	709.0				SE	NE	Calm	Calm	Clear	Clear		9.0
+1882-03-12	707.0	708.5				NE	NE	Calm	Breeze	Clear	Clear		10.0
+1882-03-13	706.5	707.0				NE	NE	Calm	Calm	Clear	Clear		10.0
+1882-03-14	706.5	706.0				S	E	Calm	Breeze	Clear	Clear		8.5
+1882-03-15	708.0	707.0				E	E	Breeze	Breeze	Clear	Clear		9.0
+1882-03-16	708.5	708.0				E	NE	Wind	Calm	Clear	Clear		11.0
+1882-03-17	708.8	708.5				E	SE	Breeze	Breeze	Clear	Clear		12.0
+1882-03-18	708.5	708.3				E	E	Calm	Breeze	Clear	Clear		11.0
+1882-03-19	704.0	706.5				SE	E	Calm	Breeze	Cloudy	Cloudy		10.0
+1882-03-20	700.0	704.0				S	S	Breeze	Breeze	Covered	Covered		
+1882-03-21	699.0	700.0				SE	S	Breeze	Wind	Cloudy	Cloudy	2.0	
+1882-03-22	705.0	700.0				N	SE	Calm	Breeze	Clear	Cloudy		7.0
+1882-03-23	702.5	700.0				N	NE	Wind	Breeze	Clear	Cloudy	0.5	6.5
+1882-03-24	703.0	702.7				NE	NE	Breeze	Wind	Clear	Clear		8.0
+1882-03-25	703.8	703.5				N	N	Breeze	Breeze	Clear	Clear		8.5
+1882-03-26	703.8	703.5				N	N	Wind	Breeze	Clear	Clear		12.0
+1882-03-27	703.0	702.5				N	N	Strong Wind	Breeze	Clear	Clear		18.0
+1882-03-28	705.0	703.0				NE	NE	Wind	Wind	Clear	Clear		9.5
+1882-03-29	704.0	705.0				N	N	Calm	Breeze	Clear	Clear		9.5
+1882-03-30	701.0	703.0				SW	NW	Breeze	Calm	Clear	Clear		12.5
+1882-03-31	699.5	700.0				N	W	Breeze	Breeze	Clear	Clear		7.0
+1882-05-01	699.8	700.0				NE	NE	Breeze	Calm	Clear	Clear		7.0
+1882-05-02	700.0	700.0				W	NW	Breeze	Breeze	Clear	Cloudy		8.5
+1882-05-03	698.4	700.0				W	NW	Breeze	Breeze	Cloudy	Clear	3.0	6.0
+1882-05-04	702.0	700.0				NW	NW	Breeze	Breeze	Cloudy	Clear		4.0
+1882-05-05	699.5	702.0				NW	NW	Breeze	Breeze	Covered	Cloudy	6.0	0.0
+1882-05-06	700.7	700.0				W	NW	Calm	Wind	Clear	Covered	15.0	5.0
+1882-05-07	699.5	701.0				SW	W	Breeze	Breeze	Cloudy	Clear		6.5
+1882-05-08	699.5	699.5				E	SW	Breeze	Breeze	Covered	Cloudy	1.0	3.5
+1882-05-09	700.0	700.0				NE	N	Wind	Breeze	Cloudy	Covered	1.0	5.0
+1882-05-10	702.0	701.0				E	NE	Breeze	Strong Wind	Clear	Cloudy		12.0
+1882-05-11	702.5	702.7				SE	E	Breeze	Wind	Clear	Clear		15.5
+1882-05-12	705.5	703.0				S	SW	Breeze	Calm	Clear	Clear		11.8
+1882-05-13	705.5	704.0				S	SW	Wind	Breeze	Clear	Clear		13.0
+1882-05-14	702.0	704.0				W	SE	Breeze	Calm	Clear	Clear		8.0
+1882-05-15	698.8	700.0				NW	E	Calm	Calm	Clear	Clear		7.0
+1882-05-16	698.0	698.4				S	NW	Wind	Breeze	Cloudy	Cloudy		6.0
+1882-05-17	698.5	698.0				S	SW	Wind	Breeze	Cloudy	Cloudy		9.0
+1882-05-18	700.0	699.0				SW	S	Breeze	Wind	Covered	Covered	2.0	3.0
+1882-05-19	696.2	698.0				SE	S	Wind	Breeze	Cloudy	Cloudy	2.0	0.0
+1882-05-20	696.0	69.2				S	SW	Breeze	Strong Wind	Covered	Covered	18.5	0.0
+1882-05-21	701.0	696.3				S	S	Breeze	Wind	Covered	Covered	14.5	0.0
+1882-05-22	701.0	701.0				S	S	Wind	Calm	Covered	Cloudy	0.5	0.0
+1882-05-23	700.4	701.0				SW	S	Calm	Strong Wind	Covered	Cloudy	0.5	3.0
+1882-05-24	700.0	700.0				SW	S	Breeze	Breeze	Cloudy	Cloudy	3.0	0.0
+1882-05-25	701.0	700.0				SW	S	Breeze	Wind	Covered	Cloudy	4.0	0.0
+1882-05-26	703.0	700.0				S	S	Calm	Breeze	Clear	Covered	3.5	2.0
+1882-05-27	704.0	703.0				NW	S	Calm	Calm	Clear	Cloudy		6.0
+1882-05-28	704.0	704.0				NW	S	Calm	Calm	Clear	Cloudy		8.0
+1882-05-29	704.0	704.0				W	S	Calm	Calm	Clear	Cloudy		7.5
+1882-05-30	704.0	704.5				SE	W	Calm	Breeze	Clear	Clear		12.0
+1882-05-31	701.0	704.0				S	SW	Strong Wind	Calm	Clear	Cloudy		14.0
+1882-06-01	700.5	701.0				S	S	Calm	Breeze	Cloudy	Clear		15.0
+1882-06-02	703.0	701.0				SW	S	Calm	Calm	Clear	Cloudy		9.0
+1882-06-03	702.0	702.5				SW	SW	Breeze	Calm	Cloudy	Cloudy		8.5
+1882-06-04	703.0	703.0				SW	SW	Calm	Breeze	Clear	Cloudy		7.5
+1882-06-05	704.5	704.0				NE	N	Calm	Calm	Clear	Clear		9.5
+1882-06-06	703.7	704.7	33.0	26.0		S	NE	Calm	Calm	Clear	Clear		13.5
+1882-06-07	703.0	703.4	35.0	28.0		NW	SW	Wind	Calm	Clear	Clear		10.0
+1882-06-08	703.0	703.5	30.0	25.0		NW	N	Breeze	Calm	Clear	Clear		9.0
+1882-06-09	704.0	704.0	32.5	26.0		N	NE	Calm	Calm	Clear	Clear		10.5
+1882-06-10	703.2	705.7	36.0	22.0		NW	NW	Breeze	Calm	Clear	Clear		15.0
+1882-06-11	704.0	703.5	32.5	26.0		NE	NW	Breeze	Calm	Clear	Clear		16.0
+1882-06-12	703.0	703.5	34.0	27.5		SE	S	Calm	Calm	Clear	Clear		14.0
+1882-06-13	703.0	703.0	37.0	30.0		NW	NE	Calm	Calm	Clear	Clear		15.0
+1882-06-14	703.0	703.0	37.0	30.0		E	NW	Wind	Calm	Clear	Clear		15.0
+1882-06-15	704.0	704.7	37.0	30.0		SE	E	Breeze	Breeze	Clear	Clear		17.0
+1882-06-16	704.0	704.0	36.0	29.0		S	S	Calm	Breeze	Clear	Clear		15.0
+1882-06-17	703.0	704.0	36.0	28.0		SW	SW	Calm	Calm	Clear	Clear		13.0
+1882-06-18	704.5	703.0		24.0		NW	SW	Breeze	Wind	Cloudy	Clear		12.0
+1882-06-19	705.4	703.0	16.5	21.5		NW	N	Breeze	Calm	Clear	Clear		8.0
+1882-06-20	705.0	705.3	34.5	27.5		NW	NW	Calm	Calm	Clear	Clear		9.0
+1882-06-21	704.0	705.0	38.0	30.5		W	W	Calm	Breeze	Clear	Cloudy		14.0
+1882-06-22	703.2	704.0	36.0	27.0		SW	SW	Breeze	Breeze	Clear	Cloudy		15.0
+1882-06-23	703.0	703.0		27.0		NW	SW	Breeze	Wind	Clear	Clear		12.0
+1882-06-24	703.5	703.0	22.0	26.0		W	W	Breeze	Calm	Clear	Clear		10.0
+1882-06-25	704.0	704.0	34.0	22.5		NW	W	Calm	Calm	Clear	Clear		11.0
+1882-06-26	704.0	704.0	33.0	26.5		NE	W	Breeze	Breeze	Clear	Clear		15.0
+1882-06-27	704.0	705.0		28.0		SE	N	Calm	Calm	Clear	Clear		14.0
+1882-06-28	706.4	704.0		22.0		NW	W	Breeze	Calm	Cloudy	Clear		18.0
+1882-06-29	706.0	706.4		31.0		NW	NW	Calm	Wind	Clear	Clear		16.0
+1882-06-30	703.5	705.0		30.0		W	NW	Calm	Calm	Clear	Clear		13.0
+1882-08-01	708.0	705.2	32.5			SE	E	Calm	Calm	Clear	Clear		17.0
+1882-08-02	708.0	708.0	34.0			E	S	Calm	Calm	Clear	Clear		9.0
+1882-08-03	706.0	707.0	34.5			S	SW	Calm	Breeze	Clear	Cloudy		8.0
+1882-08-04	705.0	706.0	35.0			W	W	Calm	Breeze	Clear	Cloudy		11.0
+1882-08-05	705.0	704.0	32.5			W	SW	Calm	Calm	Clear	Cloudy		11.0
+1882-08-06	703.0	704.0	32.0			S	W	Calm	Calm	Clear	Cloudy		8.0
+1882-08-07	703.0	704.0	31.0			S	SW	Calm	Calm	Cloudy	Clear		11.0
+1882-08-08	702.0	702.5	28.0			W	SW	Breeze	Calm	Cloudy	Clear		11.0
+1882-08-09	703.0	702.0	26.0			W	W	Calm	Calm	Clear	Cloudy		5.0
+1882-08-10	704.0	703.0	29.0			S	W	Calm	Calm	Clear	Clear		9.0
+1882-08-11	703.0	703.0	29.0			SW	SW	Calm	Calm	Clear	Clear		8.0
+1882-08-12	703.0	703.0	28.0			SW	W	Calm	Calm	Cloudy	Clear		17.0
+1882-08-13	704.0	704.5	29.0			SW	SW	Calm	Breeze	Clear	Cloudy		18.0
+1882-08-14	706.0	705.0	29.0			SW	W	Calm	Calm	Clear	Cloudy		17.0
+1882-08-15	706.0	706.0	26.0			SW	W	Calm	Calm	Clear	Clear		14.0
+1882-08-16	705.0	705.0	26.5			NW	N	Calm	Calm	Clear	Clear		14.0
+1882-08-17	704.0	704.0	31.0			E	E	Calm	Calm	Clear	Clear		20.0
+1882-08-18	704.0	704.0	32.0			W	SW	Calm	Calm	Clear	Clear		22.0
+1882-08-19	704.5	704.0	34.0			SW	S	Calm	Calm	Clear	Clear		34.0
+1882-08-20	704.0	704.0	29.0			NE	NE	Calm	Calm	Clear	Clear		24.0
+1882-08-21	705.0	704.0	30.0			NE	N	Calm	Calm	Clear	Clear		17.0
+1882-08-22	706.0	705.0	32.0			E	E	Calm	Calm	Clear	Clear		17.0
+1882-08-23	702.5	702.0	29.0			W	W	Calm	Calm	Clear	Clear		29.0
+1882-08-24	702.2	702.0	29.0			NW	N	Calm	Calm	Clear	Clear		16.0
+1882-08-25	702.0	702.0	28.5			NW	NW	Calm	Calm	Clear	Clear		19.0
+1882-08-26	704.0	704.0	28.0			NW	NW	Calm	Calm	Clear	Clear		19.0
+1882-08-27	704.5	704.0	23.0			N	N	Calm	Calm	Clear	Clear		26.0
+1882-08-28	705.0	704.5	28.0			NE	NE	Calm	Calm	Clear	Clear		17.0
+1882-08-29	705.0	705.0	29.0			N	NE	Calm	Calm	Clear	Clear		18.0
+1882-08-30	705.0	704.5	31.0			NE	N	Calm	Calm	Clear	Clear		31.0
+1882-08-31	705.0	705.0	33.5			NW	NW	Calm	Calm	Clear	Clear		30.0
+1882-09-01	704.0	704.0	32.0			NW	N	Calm	Calm	Clear	Clear		29.0
+1882-09-02	704.0	704.0	30.0			SW	SW	Calm	Breeze	Clear	Clear		22.0
+1882-09-03	704.5	704.0	30.5			E	E	Calm	Calm	Clear	Clear		16.0
+1882-09-04	704.0	704.0	30.0			S	S	Calm	Calm	Clear	Clear		26.0
+1882-09-05	704.0	704.0	30.0			W	W	Calm	Calm	Clear	Clear		17.0
+1882-09-06	702.0	702.0	30.0			SW	NW	Calm	Calm	Clear	Cloudy		16.0
+1882-09-07	701.5	701.0	29.0			S	S	Calm	Calm	Cloudy	Clear		16.0
+1882-09-08	701.0	701.0	26.0			E	E	Calm	Breeze	Cloudy	Covered	5.0	6.0
+1882-09-09	701.5	701.0	35.0			W	E	Wind	Breeze	Clear	Cloudy	6.0	3.0
+1882-09-10	704.0	704.0	24.0			S	N	Breeze	Calm	Cloudy	Cloudy		7.0
+1882-09-11	703.0	703.0	20.5			W	SW	Breeze	Breeze	Cloudy	Clear		11.0
+1882-09-12	702.5	702.0	17.5			NW	N	Breeze	Calm	Cloudy	Cloudy		6.0
+1882-09-13	701.0	701.0	18.0			N	S	Wind	Breeze	Clear	Cloudy		10.0
+1882-09-14	702.0	702.0	20.0			W	S	Wind	Breeze	Cloudy	Cloudy		5.0
+1882-09-15	700.5	701.0	18.0			W	SW	Breeze	Breeze	Clear	Cloudy	6.0	2.0
+1882-09-16	701.0	701.0	19.0			N	NW	Breeze	Breeze	Cloudy	Clear		10.0
+1882-09-17	702.0	702.0	22.0			SE	W	Calm	Calm	Clear	Clear		12.0
+1882-09-18	703.4	703.0	23.0			SW	S	Calm	Calm	Clear	Clear		11.0
+1882-09-19	701.0	702.0	26.0			W	SW	Breeze	Calm	Clear	Clear		12.0
+1882-09-20	701.0	701.0	26.5			W	SW	Breeze	Breeze	Clear	Clear		8.0
+1882-09-21	702.3	702.0	27.5			NW	W	Breeze	Breeze	Clear	Clear		6.0
+1882-09-22	702.0	702.0	20.0			N	NW	Calm	Calm	Clear	Clear		12.0
+1882-09-23	701.0	701.0	20.0			S	W	Calm	Breeze	Clear	Cloudy		10.0
+1882-09-24	702.0	702.0	21.0			NE	NW	Calm	Calm	Clear	Clear		11.0
+1882-09-25	702.0	702.0	21.5			S	SW	Calm	Calm	Clear	Clear		8.0
+1882-09-26	702.0	702.0	18.0			S	SW	Breeze	Breeze	Cloudy	Cloudy	4.5	0.0
+1882-09-27	704.5	704.0	16.0			S	SW	Breeze	Calm	Cloudy	Covered	5.5	0.0
+1882-09-28	708.0	705.0	18.0			W	W	Calm	Calm	Clear	Cloudy		10.0
+1882-09-29	707.5	707.0	22.0			W	W	Calm	Calm	Clear	Clear		6.0
+1882-09-30	707.0	707.0	24.0			E	NE	Calm	Calm	Clear	Clear		9.0
+1882-10-01	706.0	707.0	26.0			SW	W	Calm	Calm	Clear	Clear		14.0
+1882-10-02	707.5	707.0	25.0			S	SW	Calm	Calm	Clear	Clear		17.0
+1882-10-03	706.5	707.0	28.0			NW	SW	Calm	Breeze	Cloudy	Clear		8.0
+1882-10-04	706.0	706.0	22.5			E	SE	Breeze	Calm	Cloudy	Clear		10.0
+1882-10-05	703.0	706.5	21.0			NE	E	Breeze	Breeze	Clear	Cloudy	4.0	3.0
+1882-10-06	700.5	705.0	25.0			S	E	Wind	Breeze	Clear	Cloudy		11.0
+1882-10-07	701.7	701.0	21.5			SW	S	Breeze	Breeze	Cloudy	Cloudy		11.0
+1882-10-08	704.0	702.0	21.0			SE	SW	Breeze	Breeze	Cloudy	Clear		14.0
+1882-10-09	705.0	704.0	25.0			S	SW	Wind	Breeze	Cloudy	Clear		15.0
+1882-10-10	704.5	704.0	24.5			S	S	Strong Wind	Breeze	Clear	Cloudy		16.0
+1882-10-11	704.0	704.5	18.0			S	SW	Strong Wind	Wind	Cloudy	Clear		14.0
+1882-10-12	703.5	704.0	17.0			SW	S	Breeze	Wind	Covered	Cloudy	2.0	3.0
+1882-10-13	703.0	704.0	19.0			NW	S	Calm	Breeze	Clear	Cloudy	5.0	3.0
+1882-10-14	704.0	704.0	20.0			NW	NW	Calm	Calm	Clear	Clear		5.0
+1882-10-15	704.0	704.0	20.0			N	NW	Calm	Calm	Clear	Clear		9.0
+1882-10-16	703.0	704.0	20.0			W	NW	Breeze	Calm	Covered	Clear		8.0
+1882-10-17	704.0	704.0	20.0			N	SW	Calm	Calm	Clear	Cloudy	3.0	5.0
+1882-10-18	704.5	704.0	19.5			NW	NW	Calm	Calm	Clear	Clear		5.0
+1882-10-19	704.5	704.0	22.0			SW	N	Breeze	Calm	Clear	Clear		9.0
+1882-10-20	705.0	705.0	19.0			N	NW	Calm	Breeze	Clear	Cloudy	2.0	4.0
+1882-10-21	705.0	704.5	19.5			N	NW	Calm	Calm	Clear	Clear		6.0
+1882-10-22	706.0	705.0	18.0			N	NE	Breeze	Calm	Cloudy	Clear		7.0
+1882-10-23	705.5	705.0	22.0			N	NW	Calm	Breeze	Cloudy	Clear		7.0
+1882-10-24	704.0	705.0	21.5			N	NE	Breeze	Calm	Cloudy	Clear		5.0
+1882-10-25	704.5	704.0	18.5			W	S	Breeze	Calm	Cloudy	Clear		5.0
+1882-10-26	704.5	704.0	16.5			W	N	Breeze	Breeze	Cloudy	Cloudy	2.0	3.0
+1882-10-27	695.5	704.0	15.5			W	SW	Strong Wind	Wind	Covered	Cloudy	28.5	0.0
+1882-10-28	701.0	696.0	11.5			NW	SW	Breeze	Wind	Cloudy	Cloudy	2.0	2.0
+1882-10-29	703.5	701.0	15.0			N	W	Breeze	Wind	Clear	Cloudy	1.5	4.0
+1882-10-30	705.0	703.0	16.5			N	W	Breeze	Calm	Cloudy	Clear		2.5
+1882-10-31	705.0	704.0	17.0			E	NW	Calm	Breeze	Clear	Clear		5.0
+1882-11-01	704.0	704.0	17.0			NW	N	Calm	Breeze	Clear	Clear		8.0
+1882-11-02	705.0	704.5	18.0			SW	W	Calm	Calm	Cloudy	Clear		9.0
+1882-11-03	705.6	705.0	19.0			NW	SW	Calm	Calm	Clear	Clear		4.0
+1882-11-04	708.5	705.0	17.5			N	NW	Calm	Calm	Clear	Clear		6.0
+1882-11-05	709.5	708.0	18.0			SE	NW	Breeze	Calm	Clear	Clear		8.0
+1882-11-06	708.5	709.0	19.0			E	S	Calm	Calm	Clear	Clear		7.0
+1882-11-07	708.0	708.0	19.0			S	SE	Calm	Calm	Clear	Clear		6.0
+1882-11-08	708.2	708.0	20.0			W	SE	Calm	Calm	Clear	Clear		6.0
+1882-11-09	706.5	708.0	18.5			W	NW	Calm	Calm	Cloudy	Clear		5.0
+1882-11-10	706.5	707.0	19.5			W	NW	Calm	Calm	Clear	Clear		5.0
+1882-11-11	705.0	706.5	19.0			SE	NW	Breeze	Calm	Cloudy	Clear		5.0
+1882-11-12	704.5	705.0	17.5			S	W	Wind	Breeze	Cloudy	Clear		9.0
+1882-11-13	704.0	704.5	17.0			S	SE	Wind	Strong Wind	Clear	Cloudy		10.0
+1882-11-14	702.0	703.5	18.0			W	SW	Breeze	Wind	Covered	Cloudy	6.0	0.0
+1882-11-15	703.8	702.5	16.5			NE	SW	Breeze	Wind	Clear	Cloudy		7.0
+1882-11-16	701.2	703.8	14.0			N	NE	Calm	Breeze	Clear	Clear		5.0
+1882-11-17	705.2	704.5	15.0			NW	N	Calm	Breeze	Clear	Clear		6.0
+1882-11-18	707.0	705.5	14.5			NE	NW	Wind	Breeze	Clear	Clear		5.0
+1882-11-19	707.0	707.0	14.0			NE	NE	Calm	Calm	Clear	Clear		5.0
+1882-11-20	705.2	707.0	15.0			N	NE	Calm	Calm	Clear	Clear		5.0
+1882-11-21	704.8	705.2	15.0			NW	N	Breeze	Calm	Cloudy	Clear		4.0
+1882-11-22	708.0	706.0	14.0			N	NW	Calm	Strong Wind	Clear	Cloudy		5.5
+1882-11-23	707.0	707.0	14.0			N	N	Calm	Breeze	Clear	Clear		6.0
+1882-11-24	705.0	706.5	15.0			NW	N	Breeze	Calm	Cloudy	Clear		3.5
+1882-11-25	705.8	705.2	16.0			NW	N	Calm	Calm	Clear	Cloudy	5.0	1.0
+1882-11-26	705.0	705.0	17.0			NW	NW	Calm	Calm	Clear	Clear		4.0
+1882-11-27	703.7	705.0	14.0			W	NW	Calm	Calm	Cloudy	Clear	1.0	2.0
+1882-11-28	707.0	705.0	12.5			E	NW	Wind	Calm	Clear	Clear		3.0
+1882-11-29	708.0	707.0	11.0			N	NE	Wind	Wind	Clear	Clear		6.0
+1882-11-30	707.0	707.5	11.0			N	E	Wind	Breeze	Clear	Clear		4.5
+1883-04-01	705.0	700.0				S	SW	Breeze	Wind	Cloudy	Covered	20.0	0.0
+1883-04-02	705.0	704.0				SW	SW	Calm	Breeze	Cloudy	Cloudy	1.0	5.0
+1883-04-03	705.0	705.0				N	W	Calm	Calm	Cloudy	Cloudy	0.0	6.0
+1883-04-04	705.0	705.0				E	N	Breeze	Breeze	Clear	Cloudy	0.5	5.0
+1883-04-05	704.5	705.0				NE	N	Breeze	Calm	Clear	Cloudy	0.0	6.5
+1883-04-06	703.6	704.0				E	NE	Calm	Calm	Clear	Clear	0.0	9.0
+1883-04-07	701.5	703.0				E	NE	Wind	Breeze	Clear	Clear	0.0	11.0
+1883-04-08	700.0	701.0				NW	E	Calm	Calm	Clear	Clear	0.0	8.0
+1883-04-09	701.0	700.0				E	S	Breeze	Calm	Cloudy	Clear	2.0	5.0
+1883-04-10	702.0	701.0				SE	E	Wind	Calm	Clear	Cloudy	0.0	8.0
+1883-04-11	702.0	702.0				NE	E	Breeze	Breeze	Clear	Clear	0.0	11.0
+1883-04-12	700.0	702.0				NE	N	Wind	Breeze	Cloudy	Clear	0.0	12.0
+1883-04-13	698.0	700.0				N	NE	Breeze	Breeze	Clear	Clear	0.0	8.0
+1883-04-14	695.0	698.0				NW	N	Wind	Breeze	Cloudy	Clear	0.0	9.0
+1883-04-15	698.0	696.0				N	SE	Wind	Wind	Cloudy	Cloudy	6.0	0.0
+1883-04-16	702.5	700.0				NE	N	Calm	Breeze	Cloudy	Cloudy	2.0	8.0
+1883-04-17	702.0	702.0				N	NE	Breeze	Calm	Clear	Cloudy	0.0	8.0
+1883-04-18	700.0	702.0				NE	N	Breeze	Breeze	Clear	Clear	0.0	8.0
+1883-04-19	699.5	699.0				NW	SW	Strong Wind	Breeze	Cloudy	Cloudy	10.0	0.0
+1883-04-20	706.2	704.0				NW	W	Breeze	Wind	Clear	Cloudy	0.0	7.0
+1883-04-21	705.5	705.0				N	NW	Breeze	Wind	Clear	Cloudy	0.0	8.0
+1883-04-22	703.0	705.0				NW	W	Calm	Calm	Clear	Clear	0.0	6.0
+1883-04-23	698.0	702.0				NW	NW	Breeze	Calm	Cloudy	Clear	0.0	8.0
+1883-04-24	698.0	698.0				W	NW	Breeze	Wind	Cloudy	Cloudy	0.0	7.0
+1883-04-25	698.0	698.0				W	NW	Breeze	Breeze	Cloudy	Cloudy	0.0	8.0
+1883-04-26	694.0	698.0				S	NW	Strong Wind	Breeze	Covered	Cloudy	4.0	0.0
+1883-04-27	693.5	693.0				N	SW	Breeze	Strong Wind	Covered	Covered	20.0	0.0
+1883-04-28	695.5	693.0				NW	SE	Breeze	Breeze	Cloudy	Cloudy	10.0	0.0
+1883-04-29	703.0	698.0				W	NW	Breeze	Breeze	Cloudy	Cloudy	3.0	2.0
+1883-04-30	700.5	702.0				W	SW	Breeze	Breeze	Cloudy	Cloudy	6.0	0.0
+1883-05-01	700.0	700.0				W	SW	Calm	Breeze	Cloudy	Cloudy	7.0	0.0
+1883-05-02	698.0	700.0				W	SW	Calm	Wind	Clear	Cloudy	4.0	0.0
+1883-05-03	695.0	697.0				SW	S	Breeze	Breeze	Covered	Covered	26.0	0.0
+1883-05-04	693.5	694.0				SW	W	Breeze	Wind	Cloudy	Covered	25.0	0.0
+1883-05-05	698.0	695.0				SW	W	Breeze	Breeze	Cloudy	Cloudy	8.0	0.0
+1883-05-06	697.0	697.0				SE	SW	Breeze	Breeze	Covered	Cloudy	10.0	0.0
+1883-05-07	694.5	695.0				SW	W	Breeze	Wind	Covered	Covered	20.0	0.0
+1883-05-08	696.0	695.0				S	SW	Breeze	Breeze	Covered	Covered	23.0	0.0
+1883-05-09	700.0	696.0				SW	W	Breeze	Breeze	Covered	Covered	25.0	0.0
+1883-05-10	701.0	701.0				SW	W	Breeze	Breeze	Cloudy	Covered	1.0	6.0
+1883-05-11	704.0	702.0				NE	E	Breeze	Calm	Clear	Clear	0.0	7.0
+1883-05-12	706.5	706.0				NE	N	Calm	Breeze	Clear	Cloudy	0.0	8.0
+1883-05-13	704.5	705.0				NE	NE	Calm	Calm	Clear	Clear	0.0	8.0
+1883-05-14	703.0	704.0				W	NW	Calm	Calm	Clear	Cloudy	0.0	7.0
+1883-05-15	701.0	704.0				NW	W	Calm	Calm	Cloudy	Clear	0.0	7.0
+1883-05-16	698.0	700.0				SE	SW	Breeze	Calm	Covered	Cloudy	44.0	0.0
+1883-05-17	700.0	698.0				SW	W	Breeze	Breeze	Covered	Covered	20.0	0.0
+1883-05-18	704.0	701.0				E	SW	Calm	Calm	Clear	Cloudy	2.0	5.0
+1883-05-19	704.0	703.0				SE	S	Breeze	Calm	Clear	Clear	0.0	8.0
+1883-05-20	703.0	704.0				S	SE	Calm	Calm	Clear	Clear	0.0	10.0
+1883-05-21	703.0	704.0				SO	S	Calm	Calm	Cloudy	Clear	3.0	4.0
+1883-05-22	704.5	703.0				S	SW	Calm	Calm	Clear	Cloudy	5.0	2.0
+1883-05-23	705.5	704.0				S	SE	Calm	Calm	Clear	Cloudy	0.0	8.0
+1883-05-24	704.0	704.0				S	SW	Calm	Calm	Clear	Cloudy	0.0	9.0
+1883-05-25	705.0	704.0				SE	S	Wind	Breeze	Cloudy	Cloudy	4.0	2.0
+1883-05-26	701.0	703.0				SW	S	Calm	Breeze	Cloudy	Cloudy	2.0	5.0
+1883-05-27	703.0	702.5				SW	W	Calm	Calm	Clear	Cloudy	0.0	9.0
+1883-05-28	702.7	702.0				SW	S	Calm	Calm	Clear	Clear	0.0	8.0
+1883-05-29	704.0	703.0				E	SE	Calm	Calm	Clear	Clear	0.0	9.0
+1883-05-30	706.0	704.0				NW	SW	Calm	Calm	Clear	Clear	0.0	12.0
+1883-05-31	705.6	704.0				SE	S	Calm	Calm	Clear	Clear	0.0	14.0
+1883-06-01	703.0	704.0		21.0	0.200	S	SW	Calm	Calm	Clear	Clear	0.0	11.0
+1883-06-02	701.0	701.0		22.0	0.400	S	SE	Calm	Calm	Clear	Clear	0.0	12.0
+1883-06-03	701.0	701.0		26.0	0.200	S	SW	Breeze	Breeze	Cloudy	Cloudy	0.0	11.0
+1883-06-04	699.5	701.0		20.0	0.100	SW	S	Calm	Wind	Cloudy	Covered	17.0	
+1883-06-05	703.0	700.0		15.5	0.300	SW	SW	Calm	Breeze	Covered	Cloudy	10.5	
+1883-06-06	703.0	703.0		18.0	0.100	W	SW	Calm	Breeze	Clear	Cloudy	0.0	9.0
+1883-06-07	700.5	703.0		24.0	0.300	S	W	Calm	Calm	Cloudy	Clear	0.0	6.0
+1883-06-08	702.3	700.2		20.5	0.100	W	SW	Calm	Calm	Cloudy	Clear	0.0	7.0
+1883-06-09	704.5	703.0		22.0	0.200	NW	W	Calm	Calm	Cloudy	Clear	0.0	8.0
+1883-06-10	704.0	704.0		24.0	0.300	NW	W	Calm	Calm	Cloudy	Clear	0.0	9.0
+1883-06-11	704.0	703.0		22.0	0.400	NW	NW	Breeze	Breeze	Clear	Clear	0.0	6.0
+1883-06-12	703.5	704.0		27.0	0.400	NW	W	Breeze	Calm	Cloudy	Cloudy	0.0	8.0
+1883-06-13	706.0	704.0		26.0	0.500	NE	NW	Breeze	Calm	Cloudy	Clear	0.0	11.0
+1883-06-14	704.5	705.0		27.0	0.600	E	NE	Breeze	Calm	Clear	Clear	0.0	11.0
+1883-06-15	704.0	706.0		31.0	0.700	E	NE	Calm	Calm	Clear	Clear	0.0	12.0
+1883-06-16	704.0	703.0		33.0	0.800	W	NE	Calm	Calm	Clear	Clear	0.0	10.0
+1883-06-17	704.0	703.0		31.0	0.300	NE	NE	Calm	Calm	Cloudy	Clear	0.0	11.0
+1883-06-18	705.3	703.5		27.0	0.100	NE	NW	Breeze	Breeze	Clear	Clear	0.0	10.0
+1883-06-19	706.0	705.0		27.0	0.400	NE	NE	Calm	Calm	Clear	Cloudy	0.0	13.0
+1883-06-20	703.5	704.0		31.0	0.700	NE	NW	Calm	Calm	Clear	Clear	0.0	12.0
+1883-06-21	704.0	704.0		33.0	0.650	NW	NE	Calm	Calm	Clear	Clear	0.0	12.0
+1883-06-22	706.0	705.0		32.0	0.650	N	NE	Calm	Calm	Clear	Clear	0.0	14.0
+1883-06-23	705.0	705.0		35.0	0.900	NW	SW	Calm	Calm	Clear	Clear	0.0	11.0
+1883-06-24	704.0	705.0		35.0	0.800	SW	SW	Calm	Calm	Clear	Clear	0.0	11.0
+1883-06-25	704.0	704.0		31.5	0.300	W	SW	Calm	Calm	Clear	Clear	0.0	12.0
+1883-06-26	704.5	704.5		32.0	0.400	NW	NW	Calm	Calm	Clear	Clear	0.0	10.0
+1883-06-27	704.5	704.5		33.0	0.300	SW	NW	Calm	Calm	Clear	Clear	0.0	12.0
+1883-06-28	704.5	704.5		32.5	0.400	W	NW	Calm	Calm	Clear	Clear	0.0	9.0
+1883-06-29	704.5	704.0		32.5	0.400	SW	W	Calm	Calm	Clear	Clear	0.0	12.0
+1883-06-30	706.0	704.5		29.5	0.400	SW	NW	Calm	Calm	Clear	Clear	0.0	9.0
+1883-07-01	705.0	704.5		34.0	0.400	SE	SW	Calm	Calm	Clear	Clear	0.0	12.0
+1883-07-02	704.0	705.0		35.0	0.500	S	SW	Calm	Calm	Clear	Clear	0.0	13.0
+1883-07-03	703.5	704.0		37.8	0.100	W	SW	Calm	Calm	Clear	Clear	0.0	15.0
+1883-07-04	704.0	703.5		36.0	0.900	SW	SW	Calm	Calm	Clear	Clear	0.0	12.0
+1883-07-05	703.0	703.5		32.3	0.400	W	W	Breeze	Calm	Clear	Cloudy	0.0	9.0
+1883-07-06	703.0	704.0		28.0	0.300	W	SW	Calm	Calm	Cloudy	Clear	0.0	8.0
+1883-07-07	704.0	704.0		30.8	0.400	W	W	Calm	Calm	Clear	Clear	0.0	8.0
+1883-07-08	704.2	703.5		36.0	0.600	W	W	Calm	Calm	Clear	Clear	0.0	12.0
+1883-07-09	704.5	705.0		37.8	0.110	SW	W	Calm	Calm	Clear	Clear	0.0	14.0
+1883-07-10	705.0	704.0		36.0	0.950	W	W	Calm	Calm	Clear	Clear	0.0	18.0
+1883-07-11	704.0	704.0		36.0	0.800	W	SW	Calm	Calm	Clear	Cloudy	0.0	12.0
+1883-07-12	704.3	704.0		35.5	0.950	SW	SW	Calm	Calm	Clear	Clear	0.0	12.0
+1883-07-13	703.5	704.0		37.0	0.850	W	W	Wind	Breeze	Clear	Clear	0.0	10.0
+1883-07-14	704.0	704.0		31.0	0.150	N	NW	Calm	Breeze	Clear	Clear	0.0	9.0
+1883-07-15	706.0	705.0		29.0	0.300	NE	N	Calm	Calm	Clear	Clear	0.0	11.0
+1883-07-16	708.0	706.0		36.0	0.950	NE	NE	Breeze	Calm	Clear	Clear	0.0	14.0
+1883-07-17	708.0	706.0		40.0	0.100	SW	W	Calm	Calm	Clear	Clear	0.0	15.0
+1883-07-18	707.0	707.0		32.5	0.125	W	SW	Calm	Calm	Clear	Clear	0.0	17.0
+1883-07-19	703.2	706.0		32.4	0.800	W	W	Calm	Calm	Clear	Clear	0.0	15.0
+1883-07-20	702.3	703.4		35.5	0.500	W	W	Calm	Calm	Clear	Clear	0.0	12.0
+1883-07-21	704.0	703.0		31.0	0.700	W	W	Calm	Calm	Clear	Clear	0.0	10.0
+1883-07-22	705.0	704.0		32.0	0.300	N	W	Calm	Calm	Clear	Clear	0.0	11.0
+1883-07-23	705.0	704.0		33.0	0.500	NW	N	Calm	Calm	Clear	Clear	0.0	12.0
+1883-07-24	704.5	705.0		36.0	0.900	NW	NW	Breeze	Calm	Clear	Clear	0.0	13.0
+1883-07-25	704.0	704.0		39.0	0.120	N	NW	Calm	Calm	Clear	Clear	0.0	16.0
+1883-07-26	706.0	705.0		40.5	0.140	SW	W	Calm	Calm	Clear	Clear	0.0	19.0
+1883-07-27	705.0	705.0		40.5	0.130	NW	W	Calm	Calm	Clear	Clear	0.0	16.0
+1883-07-28	704.5	705.0		38.0	0.700	W	NW	Calm	Calm	Clear	Clear	0.0	13.0
+1883-07-29	705.0	705.0		33.0	0.700	NE	N	Calm	Calm	Clear	Clear	0.0	14.0
+1883-07-30	703.5	704.5		37.0	0.800	NW	N	Calm	Calm	Clear	Clear	0.0	11.0
+1883-07-31	703.5	704.0		36.0	0.400	NE	N	Breeze	Breeze	Clear	Clear	0.0	11.0
+1883-09-01	703.0	705.0		31.0	0.500	W	SW	Breeze	Calm	Clear	Cloudy	0.0	9.0
+1883-09-02	704.0	705.0		26.0	0.300	S	SE	Calm	Calm	Clear	Clear	0.0	7.0
+1883-09-03	704.0	704.0		28.0	0.300	SW	S	Calm	Calm	Clear	Clear	0.0	8.0
+1883-09-04	706.0	704.0		28.0		NW	W	Calm	Calm	Clear	Clear	0.0	9.0
+1883-09-05	708.0	705.0		27.0	0.200	NW	NW	Calm	Calm	Clear	Clear	0.0	12.0
+1883-09-06	706.0	707.0		31.0	0.300	NW	NE	Calm	Calm	Clear	Clear	0.0	11.0
+1883-09-07	704.5	705.0		39.0	0.900	E	SW	Calm	Calm	Clear	Clear	0.0	14.0
+1883-09-08	705.4	705.0		37.0	0.110	SW	W	Calm	Calm	Clear	Clear	0.0	11.0
+1883-09-09	705.0	705.0		38.5	0.110	S	SE	Calm	Calm	Clear	Clear	0.0	15.0
+1883-09-10	705.0	705.0		38.0	0.110	S	S	Calm	Calm	Clear	Clear	0.0	14.0
+1883-09-11	706.0	705.0		37.0	0.100	NW	W	Calm	Calm	Clear	Clear	0.0	13.0
+1883-09-12	706.0	705.0		34.0	0.700	NW	W	Calm	Calm	Clear	Clear	0.0	10.0
+1883-09-13	704.0	705.0		33.5	0.500	SE	S	Calm	Calm	Clear	Clear	0.0	13.0
+1883-09-14	703.0	705.0		33.0	0.800	S	SW	Calm	Calm	Clear	Clear	0.0	17.0
+1883-09-15	703.2	703.0		30.0	0.400	S	SW	Calm	Calm	Clear	Clear	0.0	10.0
+1883-09-16	706.0	705.0		29.0	0.600	S	SW	Calm	Calm	Clear	Clear	0.0	8.0
+1883-09-17	708.5	705.0		28.0	0.400	NW	W	Calm	Calm	Clear	Clear	0.0	10.0
+1883-09-18	708.5	708.0		30.0	0.700	S	SW	Calm	Calm	Clear	Clear	0.0	12.0
+1883-09-19	705.0	707.0		34.0	0.350	S	SW	Calm	Calm	Clear	Clear	0.0	11.0
+1883-09-20	706.0	707.0		30.0	0.500	S	SW	Calm	Calm	Clear	Clear	0.0	10.0
+1883-09-21	706.0	706.0		34.0	0.400	SW	SW	Calm	Calm	Clear	Clear	0.0	12.0
+1883-09-22	706.0	706.0		30.5	0.300	NW	SW	Calm	Calm	Clear	Clear	0.0	11.0
+1883-09-23	707.0	705.0		33.0	0.800	NW	W	Calm	Calm	Clear	Clear	0.0	10.0
+1883-09-24	708.0	707.0		34.0	0.300	NW	W	Calm	Calm	Clear	Clear	0.0	13.0
+1883-09-25	708.0	707.0		34.0	0.600	NW	NW	Calm	Calm	Clear	Clear	0.0	8.0
+1883-09-26	707.4	708.0		35.5	0.105	NE	NW	Calm	Calm	Clear	Clear	0.0	11.0
+1883-09-27	707.0	707.0		38.0	0.110	SW	NW	Calm	Calm	Clear	Clear	0.0	15.0
+1883-09-28	705.0	708.0		33.0	0.100	N	SW	Calm	Calm	Clear	Clear	0.0	15.0
+1883-09-29	704.0	705.0		27.0	0.300	NW	N	Calm	Calm	Clear	Clear	0.0	12.0
+1883-09-30	703.0	706.0		27.0	3.000	NW	W	Calm	Calm	Clear	Clear	0.0	5.0
+1883-11-01	704.0	705.0		22.0	0.400	E	NE	Calm	Calm	Clear	Clear	0.0	3.0
+1883-11-02	703.5	704.0		22.0	0.400	SE	E	Calm	Calm	Clear	Clear	0.0	8.0
+1883-11-03	703.0	704.0		23.0	0.200	SE	SE	Calm	Calm	Cloudy	Cloudy	13.0	
+1883-11-04	704.0	703.0		22.0	0.200	E	SE	Calm	Breeze	Clear	Cloudy	11.0	
+1883-11-05	705.5	704.0		21.0	0.100	E	E	Calm	Breeze	Clear	Clear	0.0	3.0
+1883-11-06	704.0	705.0		24.0	0.200	SW	SE	Calm	Calm	Clear	Clear	0.0	6.0
+1883-11-07	703.0	704.0		21.0	0.300	SW	SE	Breeze	Calm	Cloudy	Clear	0.0	4.0
+1883-11-08	705.0	705.0		16.0	3.000	N	SW	Breeze	Calm	Cloudy	Cloudy	3.0	2.0
+1883-11-09	707.0	704.0		16.0	4.000	E	SW	Calm	Breeze	Clear	Clear	0.0	6.0
+1883-11-10	709.0	705.0		18.0	0.300	NE	SE	Calm	Calm	Clear	Clear	0.0	4.5
+1883-11-11	707.0	707.0		21.0	0.200	NE	NW	Calm	Calm	Clear	Clear	0.0	8.0
+1883-11-12	704.0	705.0		19.0	0.300	SE	E	Calm	Calm	Clear	Clear	0.0	5.0
+1883-11-13	705.0	705.0		20.0	0.100	E	NE	Calm	Calm	Clear	Clear	0.0	5.0
+1883-11-14	703.0	703.5		21.0	3.000	S	S	Calm	Calm	Clear	Clear	0.0	6.0
+1883-11-15	704.0	703.0		21.0	2.000	S	SE	Calm	Calm	Clear	Clear	0.0	5.0
+1883-11-16	704.0	704.0		22.0	1.000	SW	W	Calm	Calm	Clear	Clear	0.0	4.0
+1883-11-17	707.0	705.0		18.0	6.000	NW	SW	Breeze	Breeze	Clear	Cloudy	0.0	7.0
+1883-11-18	706.0	705.0		15.0	2.000	SW	W	Calm	Breeze	Clear	Clear	0.0	4.0
+1883-11-19	709.0	707.0		16.0	0.000	N	NW	Calm	Calm	Clear	Clear	0.0	5.0
+1883-11-20	712.0	710.0		21.0	0.200	NE	N	Calm	Calm	Clear	Clear	0.0	4.0
+1883-11-21	710.0	712.0		26.0	0.200	S	SW	Calm	Calm	Clear	Clear	0.0	6.0
+1883-11-22	709.0	710.0		25.0	0.200	E	N	Calm	Calm	Clear	Clear	0.0	4.0
+1883-11-23	708.5	709.0		24.0	0.100	W	SW	Calm	Calm	Clear	Clear	0.0	5.0
+1883-11-24	707.0	708.0		23.0	0.300	SE	S	Breeze	Calm	Clear	Clear	0.0	9.0
+1883-11-25	706.0	707.0		20.0	4.000	S	S	Wind	Breeze	Clear	Clear	0.0	7.0
+1883-11-26	702.0	705.0		16.0	0.000	S	SW	Wind	Breeze	Covered	Cloudy	4.0	1.0
+1883-11-27	708.0	705.0		12.0	5.000	NW	W	Calm	Breeze	Clear	Cloudy	3.0	3.0
+1883-11-28	705.0	707.0		14.0	4.000	SE	S	Strong Wind	Breeze	Cloudy	Clear	0.0	8.0
+1883-11-29	708.0	706.0		19.0	0.000	SE	S	Wind	Breeze	Clear	Clear	0.0	9.0
+1883-11-30	709.0	708.0		16.0	0.000	SE	S	Strong Wind	Wind	Clear	Clear	0.0	8.0
+1883-12-01	709.0	707.0		17.0	5.000	SE	SE	Calm	Breeze	Clear	Clear	0.0	6.0
+1883-12-02	707.5	707.0		16.0	6.000	NE	SE	Strong Wind	Breeze	Clear	Clear	0.0	8.0
+1883-12-03	708.0	707.0		12.0	7.000	NE	E	Wind	Wind	Clear	Clear	0.0	6.0
+1883-12-04	708.0	707.0		14.0	5.000	E	SE	Calm	Breeze	Clear	Clear	0.0	5.0
+1883-12-05	707.0	706.0		16.0	3.000	E	SE	Calm	Calm	Clear	Clear	0.0	4.0
+1883-12-06	704.5	705.0		19.0	5.000	SW	S	Calm	Calm	Clear	Clear	0.0	5.0
+1883-12-07	704.0	706.0		14.0	7.000	N	SW	Strong Wind	Breeze	Clear	Clear	0.0	5.0
+1883-12-08	704.0	704.0		7.0	14.000	N	N	Breeze	Wind	Clear	Clear	0.0	0.0
+1883-12-09	704.0	704.0		6.0	14.000	N	N	Breeze	Breeze	Clear	Clear	0.0	0.0
+1883-12-10	706.0	704.0		9.0	4.000	NW	NW	Breeze	Breeze	Clear	Clear	0.0	5.0
+1883-12-11	710.0	707.0		10.0	0.300	N	NW	Breeze	Breeze	Clear	Clear	0.0	4.0
+1883-12-12	712.0	710.0		11.0	0.500	N	N	Calm	Breeze	Clear	Clear	0.0	3.0
+1883-12-13	711.0	712.0		16.0	0.600	E	SE	Breeze	Calm	Clear	Clear	0.0	5.0
+1883-12-14	710.0	711.0		19.0	0.600	E	SE	Calm	Calm	Clear	Clear	0.0	7.0
+1883-12-15	709.0	710.0		20.0	0.600	E	E	Calm	Calm	Clear	Clear	0.0	5.0
+1883-12-16	705.0	708.0		19.0	0.500	N	E	Breeze	Breeze	Clear	Clear	0.0	5.0
+1883-12-17				14.0	0.400	N	N	Breeze	Calm	Cloudy	Clear	0.0	3.0
+1883-12-18	698.0	700.0		8.0	0.400	NE	N	Wind	Wind	Covered	Cloudy	0.0	7.0
+1883-12-19	700.0	700.0		0.1	0.300	N	N	Wind	Wind	Cloudy	Cloudy	5.0	5.0
+1883-12-20	696.0	700.0		0.7	0.300	NE	N	Breeze	Wind	Covered	Covered	17.0	0.0
+1883-12-21	697.0	696.0		6.0	0.200	S	NE	Calm	Breeze	Clear	Cloudy	5.0	0.0
+1883-12-22	700.0	697.0		10.0	0.500	SE	E	Breeze	Breeze	Covered	Cloudy	1.0	4.0
+1883-12-23	704.0	705.0		10.0	0.600	N	NE	Breeze	Calm	Cloudy	Clear	15.0	0.0
+1883-12-24	707.0	706.0		12.0	0.500	S	SE	Calm	Calm	Clear	Clear	0.0	4.0
+1883-12-25	703.0	704.0		10.0	0.600	NE	E	Calm	Calm	Clear	Clear	0.0	4.0
+1883-12-26	700.0	701.0		14.0	0.600	E	E	Calm	Calm	Clear	Clear	0.0	5.0
+1883-12-27	700.0	701.0		16.0	0.600	E	E	Calm	Calm	Clear	Clear	0.0	6.0
+1883-12-28	705.0	703.0		16.0	0.700	SE	E	Calm	Calm	Clear	Clear	0.0	7.0
+1883-12-29	704.0	705.0		17.0	0.600	SE	E	Calm	Calm	Clear	Clear	0.0	5.0
+1883-12-30	705.0	704.0		16.0	0.700	S	E	Calm	Calm	Clear	Clear	0.0	4.0
+1883-12-31	703.0	702.0		17.0	0.500	SE	S	Breeze	Calm	Clear	Clear	0.0	3.0

@@ -1,0 +1,505 @@
+/* DATA DESCRIPTION:
+Citation:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (2021): Early meteorological records from CCMONT1 (1883-1887), Extremadura region, SW Iberia. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.926332 (dataset in review), 
+	In: Vaquero, JM et al. (2020): Early meteorological records from Extremadura region, SW Iberia (CliPastExtrem). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.925807 (dataset in review)
+Related to:	Vaquero, José Manuel; Bravo-Paredes, Nieves; Obregón, María Angeles; Sánchez-Carrasco, Víctor Manuel; Valente, Maria Antónia; Trigo, Ricardo M; Domínguez-Castro, Fernando; Montero-Martín, Javier; Vaquero-Martínez, Javier; Antón, Manuel; García, José Agustín; Gallego, María Cruz (in prep.): Recovery of early meteorological records from Extremadura region (SW Iberia): the "CliPastExtrem" (v1.0) database.
+Coverage:	LATITUDE: 40.320155 * LONGITUDE: -5.857607
+	DATE/TIME START: 1883-06-01T00:00:00 * DATE/TIME END: 1887-09-30T00:00:00
+Event(s):	CCMONT1 * LATITUDE: 40.320155 * LONGITUDE: -5.857607 * LOCATION: Baños de Montemayor, Spain * METHOD/DEVICE: Weather station/meteorological observation (WST) * COMMENT: the symbol "#" represents suspicious data found from a quality control
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509)
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 6am
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 1pm
+	Temperature, air [°C] (TTT) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 6pm
+	Present weather (ww) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 6am
+	Present weather (ww) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 1pm
+	Present weather (ww) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: at 6pm
+	Present weather (ww) * PI: Vaquero, José Manuel (https://orcid.org/0000-0002-8754-1509) * COMMENT: mean
+Size:	3304 data points
+*/
+Date/Time	TTT [°C] (at 6am)	TTT [°C] (at 1pm)	TTT [°C] (at 6pm)	ww (at 6am)	ww (at 1pm)	ww (at 6pm)	ww (mean)
+1883-06-01	14	17	15	Cloudscape	Clear Sky	Cloudscape	Clear Sky
+1883-06-02	15	15	12	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1883-06-03	11	15	13	Covered Sky	Rainy Day	Rainy Day	Rainy Day
+1883-06-04	12	16	14	Rainy Day	Cloudy	Covered Sky	Rainy Day
+1883-06-05	13	16	15	Covered Sky	Cloudy	Rainy Day	Rainy Day
+1883-06-06	15	18	15	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1883-06-07	14	17	15	Cloudscape	Cloudscape	Clear Sky	Clear Sky
+1883-06-08	14	18	14	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1883-06-09	15	17	14	Cloudscape	Clear Sky	Cloudy	Clear Sky
+1883-06-10	12	17	15	Cloudscape	Covered Sky	Cloudy	Covered Sky
+1883-06-11	15	19	15	Covered Sky	Covered Sky	Cloudy	Covered Sky
+1883-06-12	13	17	14	Cloudscape	Cloudscape	Cloudscape	Clear Sky
+1883-06-13	12	18	16	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1883-06-14	15	17	16	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1883-06-15	14	18	15	Covered Sky	Cloudy	Cloudy	Covered Sky
+1883-06-16	13	18	16	Cloudscape	Cloudscape	Clear Sky	Clear Sky
+1883-06-17	16	20	18	Cloudscape	Cloudscape	Cloudscape	Clear Sky
+1883-06-18	16	21	18	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1883-06-19	14	20	18	Clear Sky	Cloudscape	Covered Sky	Covered Sky
+1883-06-20	18	23	19	Cloudy	Cloudscape	Cloudy	Clear Sky
+1883-06-21	17	20	18	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1883-06-22	17	20	15	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1883-06-23	14	18	15	Cloudscape	Cloudy	Cloudy	Clear Sky
+1883-06-24	12	17	14	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1883-06-25	13	18	15	Cloudscape	Clear Sky	Cloudy	Clear Sky
+1883-06-26	14	19	17	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1883-06-27	15	19	18	Covered Sky	Cloudy	Cloudscape	Covered Sky
+1883-06-28	17	22	20	Clear Sky	Cloudscape	Cloudy	Clear Sky
+1883-06-29	19	24	21	Clear Sky	Cloudy	Cloudscape	Clear Sky
+1883-06-30	20	24	21	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1883-07-01	19	23	19	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1883-07-02	18	22	20	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1883-07-03	20	23	19	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1883-07-04	18	22	19	Cloudscape	Cloudy	Cloudscape	Clear Sky
+1883-07-05	19	23	19	Cloudy	Cloudscape	Cloudy	Clear Sky
+1883-07-06	18	22	19	Cloudy	Covered Sky	Cloudscape	Covered Sky
+1883-07-07	17	20	18	Clear Sky	Cloudscape	Cloudy	Clear Sky
+1883-07-08	16	19	17	Clear Sky	Cloudy	Covered Sky	Covered Sky
+1883-07-09	15	20	17	Cloudscape	Clear Sky	Cloudscape	Clear Sky
+1883-07-10	14	20	18	Cloudscape	Cloudscape	Cloudscape	Clear Sky
+1883-07-11	17	21	18	Clear Sky	Cloudscape	Cloudscape	Clear Sky
+1883-07-12	16	21	19	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1883-07-13	17	21	19	Cloudy	Clear Sky	Covered Sky	Covered Sky
+1883-07-14	19	22	19	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1883-07-15	18	22	19	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1883-07-16	18	23	20	Cloudy	Cloudy	Cloudscape	Clear Sky
+1883-07-17	17	21	19	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1883-07-18	19	23	20	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1883-07-19	17	23	20	Covered Sky	Cloudscape	Clear Sky	Covered Sky
+1883-07-20	20	24	21	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1883-07-21	19	25	22	Cloudy	Covered Sky	Cloudscape	Covered Sky
+1883-07-22	21	26	23	Clear Sky	Cloudscape	Cloudy	Clear Sky
+1883-07-23	22	26	23	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1883-07-24	23	28	25	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1883-07-25	23	27	24	Clear Sky	Cloudy	Cloudscape	Clear Sky
+1883-07-26	24	27	23	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1883-07-27	22	25	23	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1883-07-28	23	26	22	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1883-07-29	21	26	23	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1883-07-30	23	27	25	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1883-07-31	24	28	25	Clear Sky	Cloudy	Clear Sky	Clear Sky
+1883-08-01	23	26	23	Cloudscape	Cloudscape	Clear Sky	Clear Sky
+1883-08-02	22	27	24	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1883-08-03	23	26	22	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1883-08-04	21	27	23	Cloudy	Covered Sky	Cloudy	Covered Sky
+1883-08-05	22	25	21	Cloudscape	Clear Sky	Cloudy	Clear Sky
+1883-08-06	20	24	21	Cloudy	Covered Sky	Cloudscape	Covered Sky
+1883-08-07	19	24	22	Clear Sky	Cloudy	Cloudscape	Clear Sky
+1883-08-08	21	24	20	Clear Sky	Cloudy	Cloudscape	Clear Sky
+1883-08-09	18	23	22	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1883-08-10	22	27	24	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1883-08-11	23	27	25	Cloudscape	Cloudscape	Cloudscape	Clear Sky
+1883-08-12	24	28	24	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1883-08-13	23	26	24	Cloudy	Clear Sky	Covered Sky	Covered Sky
+1883-08-14	21	24	20	Cloudscape	Clear Sky	Cloudy	Clear Sky
+1883-08-15	19	25	21	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1883-08-16	20	24	21	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1883-08-17	20	23	20	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1883-08-18	19	23	21	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1883-08-19	19	24	21	Cloudy	Clear Sky	Clear Sky	Clear Sky
+1883-08-20	21	25	22	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1883-08-21	21	25	22	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1883-08-22	20	24	21	Cloudy	Clear Sky	Covered Sky	Covered Sky
+1883-08-23	18	23	20	Covered Sky	Covered Sky	Covered Sky	Covered Sky
+1883-08-24	19	23	20	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1883-08-25	18	22	20	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1883-08-26	19	25	22	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1883-08-27	20	24	21	Cloudy	Covered Sky	Cloudy	Covered Sky
+1883-08-28	19	23	20	Clear Sky	Cloudy	Cloudscape	Clear Sky
+1883-08-29	18	22	20	Clear Sky	Cloudy	Clear Sky	Clear Sky
+1883-08-30	19	24	21	Cloudscape	Cloudscape	Clear Sky	Clear Sky
+1883-08-31	20	25	21	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1883-09-01	19	23	20	Cloudscape	Clear Sky	Cloudy	Clear Sky
+1883-09-02	18	23	20	Cloudy	Cloudscape	Cloudscape	Clear Sky
+1883-09-03	19	22	20	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1883-09-04	17	21	19	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1883-09-05	17	22	19	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1883-09-06	18	22	19	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1883-09-07	16	22	20	Cloudscape	Cloudscape	Cloudscape	Clear Sky
+1883-09-08	19	23	#28	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1883-09-09	17	22	20	Covered Sky	Cloudy	Cloudscape	Covered Sky
+1883-09-10	18	24	21	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1883-09-11	19	22	18	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1883-09-12	17	21	18	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1883-09-13	17	20	17	Covered Sky	Cloudy	Clear Sky	Covered Sky
+1883-09-14	16	20	19	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1883-09-15	18	21	17	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1883-09-16	16	19	17	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1883-09-17	15	19	18	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1883-09-18	15	20	18	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1883-09-19	17	21	19	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1883-09-20	18	22	19	Covered Sky	Cloudy	Cloudscape	Covered Sky
+1883-09-21	16	20	17	Clear Sky	Cloudy	Cloudscape	Clear Sky
+1883-09-22	16	19	15	Covered Sky	Cloudy	Cloudscape	Covered Sky
+1883-09-23	14	18	15	Clear Sky	Cloudy	Cloudscape	Clear Sky
+1883-09-24	#19	17	15	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1883-09-25	14	19	17	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1883-09-26	15	18	14	Covered Sky	Covered Sky	Cloudy	Covered Sky
+1883-09-27	12	17	15	Cloudscape	Cloudy	Cloudscape	Clear Sky
+1883-09-28	14	19	15	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1883-09-29	13	18	16	Cloudscape	Clear Sky	Cloudy	Clear Sky
+1883-09-30	14	17	15	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1884-06-01	13	16	14	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1884-06-02	12	14	13	Covered Sky	Rainy Day	Covered Sky	Rainy Day
+1884-06-03	13	17	15	Rainy Day	Cloudy	Rainy Day	Rainy Day
+1884-06-04	14	17	15	Covered Sky	Covered Sky	Cloudy	Covered Sky
+1884-06-05	15	19	16	Covered Sky	Covered Sky	Rainy Day/Stormy Day	Rainy Day/Stormy Day
+1884-06-06	15	18	17	Covered Sky	Cloudy	Cloudy	Covered Sky
+1884-06-07	17	21	17	Cloudy	Cloudy	Covered Sky	Covered Sky
+1884-06-08	16	18	16	Cloudy	Cloudscape	Cloudscape	Clear Sky
+1884-06-09	16	19	16	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1884-06-10	15	18	16	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1884-06-11	16	19	18	Cloudscape	Clear Sky	Cloudscape	Clear Sky
+1884-06-12	18	22	20	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1884-06-13	19	23	19	Covered Sky	Cloudy	Cloudscape	Covered Sky
+1884-06-14	17	19	17	Cloudscape	Cloudy	Clear Sky	Clear Sky
+1884-06-16	17	21	19	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1884-06-17	18	21	18	Covered Sky	Cloudy	Cloudscape	Covered Sky
+1884-06-18	17	21	19	Cloudy	Cloudscape	Covered Sky/Stormy Day	Covered Sky/Stormy Day
+1884-06-19	18	22	19	Covered Sky	Cloudscape	Covered Sky/Stormy Day	Covered Sky/Stormy Day
+1884-06-20	19	22	18	Clear Sky	Cloudscape	Covered Sky/Stormy Day	Covered Sky/Stormy Day
+1884-06-21	17	21	18	Cloudscape	Covered Sky	Cloudy	Covered Sky
+1884-06-22	18	22	20	Cloudscape	Cloudy	Cloudscape	Clear Sky
+1884-06-23	20	24	20	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1884-06-24	19	23	20	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1884-06-25	19	25	21	Clear Sky	Cloudscape	Cloudy	Clear Sky
+1884-06-26	18	23	20	Cloudy	Covered Sky	Clear Sky	Covered Sky
+1884-06-27	20	24	21	Covered Sky	Clear Sky	Clear Sky	Covered Sky
+1884-06-28	21	25	22	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1884-06-29	21	25	21	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1884-06-30	20	25	22	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1884-07-01	21	25	22	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1884-07-02	22	25	21	Cloudy	Clear Sky	Clear Sky	Clear Sky
+1884-07-03	21	26	22	Cloudscape	Cloudy	Covered Sky	Covered Sky
+1884-07-04	20	25	22	Cloudscape	Clear Sky	Cloudy	Clear Sky
+1884-07-05	22	26	22	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1884-07-06	21	25	21	Cloudscape	Cloudy	Clear Sky	Clear Sky
+1884-07-07	20	24	21	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1884-07-08	19	24	22	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1884-07-09	21	26	24	Covered Sky	Cloudscape	Covered Sky	Covered Sky
+1884-07-10	22	27	24	Rainy Day	Covered Sky	Cloudy	Rainy Day
+1884-07-11	23	28	23	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1884-07-12	21	25	23	Covered Sky	Cloudscape	Clear Sky	Covered Sky
+1884-07-13	22	27	22	Clear Sky	Cloudscape	Cloudscape	Clear Sky
+1884-07-14	21	26	21	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1884-07-16	22	26	24	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1884-07-17	24	28	24	Cloudy	Cloudscape	Cloudscape	Clear Sky
+1884-07-18	23	27	24	Cloudscape	Cloudscape	Cloudscape	Clear Sky
+1884-07-19	24	27	25	Cloudy	Clear Sky	Covered Sky	Covered Sky
+1884-07-20	25	29	24	Cloudy	Clear Sky	Clear Sky	Clear Sky
+1884-07-21	23	28	25	Clear Sky	Cloudscape	Cloudy	Clear Sky
+1884-07-22	24	29	27	Cloudy	Cloudy	Cloudscape	Clear Sky
+1884-07-23	26	30	24	Cloudscape	Cloudy	Cloudscape	Clear Sky
+1884-07-24	22	28	25	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1884-07-25	24	27	25	Cloudscape	Clear Sky	Cloudy	Clear Sky
+1884-07-26	23	29	25	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1884-07-27	24	28	25	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1884-07-28	25	29	27	Covered Sky	Covered Sky	Cloudy	Covered Sky
+1884-07-29	26	30	27	Covered Sky	Covered Sky	Covered Sky	Covered Sky
+1884-07-30	26	29	27	Cloudscape	Clear Sky	Cloudscape	Clear Sky
+1884-07-31	27	31	28	Cloudscape	Cloudy	Clear Sky	Clear Sky
+1884-08-01	26	29	27	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1884-08-02	25	30	27	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1884-08-03	26	29	26	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1884-08-04	24	28	26	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1884-08-05	25	29	26	Cloudy	Cloudy	Covered Sky/Stormy Day	Covered Sky/Stormy Day
+1884-08-06	27	30	25	Covered Sky	Rainy Day/Stormy Day	Cloudy	Rainy Day/Stormy Day
+1884-08-07	28	32	30	Covered Sky	Cloudy	Cloudscape	Covered Sky
+1884-08-08	#29	32	29	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1884-08-09	27	30	28	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1884-08-10	26	29	27	Covered Sky	Cloudy	Cloudscape	Covered Sky
+1884-08-11	26	30	27	Cloudscape	Clear Sky	Cloudscape	Clear Sky
+1884-08-12	25	30	25	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1884-08-13	24	28	25	Rainy Day/Stormy Day	Covered Sky	Cloudy	Rainy Day/Stormy Day
+1884-08-14	25	27	26	Cloudscape	Cloudy	Cloudscape	Clear Sky
+1884-08-18	24	29	26	Covered Sky	Cloudscape	Covered Sky	Covered Sky
+1884-08-19	25	29	26	Cloudscape	Cloudy	Cloudscape	Clear Sky
+1884-08-20	25	30	27	Rainy Day/Stormy Day	Covered Sky	Covered Sky	Rainy Day/Stormy Day
+1884-08-21	24	29	25	Covered Sky	Cloudscape	Rainy Day/Stormy Day	Rainy Day/Stormy Day
+1884-08-22	24	28	25	Cloudscape	Clear Sky	Cloudscape	Clear Sky
+1884-08-23	23	28	25	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1884-08-24	24	29	26	Cloudy	Covered Sky	Rainy Day/Stormy Day	Rainy Day/Stormy Day
+1884-08-25	23	28	24	Rainy Day	Covered Sky	Rainy Day	Rainy Day
+1884-08-26	22	25	23	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1884-08-27	23	25	22	Cloudscape	Clear Sky	Cloudscape	Clear Sky
+1884-08-28	21	27	23	Clear Sky	Cloudy	Cloudy	Clear Sky
+1884-08-29	22	28	25	Cloudy	Cloudy	Clear Sky	Clear Sky
+1884-08-30	24	29	25	Cloudscape	Cloudy	Covered Sky	Covered Sky
+1884-08-31	23	#29	23	Rainy Day	Covered Sky	Cloudy	Rainy Day
+1884-09-01	21	24	20	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1884-09-02	19	22	20	Cloudscape	Clear Sky	Covered Sky	Covered Sky
+1884-09-03	18	24	19	Covered Sky	Rainy Day	Rainy Day	Rainy Day
+1884-09-04	17	22	19	Cloudscape	Cloudy	Clear Sky	Clear Sky
+1884-09-05	18	23	20	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1884-09-06	19	25	22	Covered Sky	Covered Sky	Cloudy	Covered Sky
+1884-09-07	21	26	22	Cloudscape	Clear Sky	Cloudscape	Clear Sky
+1884-09-08	20	26	23	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1884-09-09	22	27	23	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1884-09-10	23	29	23	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1884-09-11	21	27	24	Cloudscape	Clear Sky	Cloudscape	Clear Sky
+1884-09-12	22	26	22	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1884-09-13	21	25	22	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1884-09-14	20	26	23	Rainy Day	Covered Sky	Covered Sky	Rainy Day
+1884-09-18	19	24	21	Covered Sky	Rainy Day	Rainy Day	Rainy Day
+1884-09-19	20	25	21	Rainy Day	Covered Sky	Rainy Day	Rainy Day
+1884-09-20	19	24	20	Rainy Day	Covered Sky	Rainy Day	Rainy Day
+1884-09-21	18	24	20	Rainy Day	Cloudy	Rainy Day	Rainy Day
+1884-09-22	17	22	19	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1884-09-23	17	21	17	Cloudy	Rainy Day	Covered Sky	Covered Sky
+1884-09-24	16	22	20	Cloudscape	Clear Sky	Cloudscape	Clear Sky
+1884-09-25	18	23	19	Cloudscape	Cloudy	Clear Sky	Clear Sky
+1884-09-26	16	19	17	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1884-09-27	17	23	20	Cloudy	Clear Sky	Covered Sky	Covered Sky
+1884-09-28	18	23	20	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1884-09-29	19	25	22	Rainy Day/Stormy Day	Covered Sky	Cloudy	Rainy Day/Stormy Day
+1884-09-30	18	22	19	Rainy Day	Covered Sky	Cloudy	Rainy Day
+1885-06-01	19	23	20	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1885-06-02	20	24	21	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1885-06-03	20	23	20	Covered Sky	Covered Sky/Stormy Day	Covered Sky	Covered Sky/Stormy Day
+1885-06-04	19	23	21	Clear Sky	Covered Sky	Cloudy	Covered Sky
+1885-06-05	20	24	21	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1885-06-06	21	25	22	Clear Sky	Cloudscape	Cloudscape	Clear Sky
+1885-06-07	19	24	21	Covered Sky	Cloudscape	Covered Sky	Covered Sky
+1885-06-08	20	#25	21	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1885-06-09	16	20	17	Covered Sky	Rainy Day	Covered Sky	Rainy Day
+1885-06-10	16	19	17	Clear Sky	Cloudscape	Cloudscape	Clear Sky
+1885-06-11	16	20	18	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1885-06-12	17	22	20	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1885-06-13	19	24	21	Clear Sky	Cloudy	Cloudy	Clear Sky
+1885-06-16	18	22	19	Cloudy	Rainy Day	Rainy Day	Rainy Day
+1885-06-17	19	24	20	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1885-06-18	19	23	20	Clear Sky	Cloudscape	Covered Sky	Covered Sky
+1885-06-19	21	25	22	Cloudscape	Cloudy	Cloudscape	Clear Sky
+1885-06-20	19	23	20	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1885-06-21	20	25	22	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1885-06-22	21	25	21	Covered Sky	Cloudy	Rainy Day/Stormy Day	Rainy Day/Stormy Day
+1885-06-23	20	24	20	Covered Sky	Rainy Day	Rainy Day	Rainy Day
+1885-06-24	18	23	20	Rainy Day	Covered Sky	Cloudy	Rainy Day
+1885-06-25	19	23	19	Rainy Day	Covered Sky	Rainy Day	Rainy Day
+1885-06-26	17	22	20	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1885-06-27	18	22	19	Rainy Day	Covered Sky	Cloudy	Rainy Day
+1885-06-28	17	21	18	Rainy Day	Covered Sky	Rainy Day	Rainy Day
+1885-06-29	18	23	19	Rainy Day	Covered Sky	Cloudy	Rainy Day
+1885-06-30	17	21	18	Rainy Day	Covered Sky	Covered Sky	Rainy Day
+1885-07-01	17	20	18	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1885-07-02	17	21	18	Clear Sky	Cloudy	Covered Sky	Covered Sky
+1885-07-03	16	20	17	Covered Sky	Rainy Day	Rainy Day/Stormy Day	Rainy Day/Stormy Day
+1885-07-04	17	20	18	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1885-07-05	18	22	19	Covered Sky	Cloudscape	Clear Sky	Covered Sky
+1885-07-06	17	22	20	Cloudscape	Cloudy	Clear Sky	Clear Sky
+1885-07-07	19	23	20	Cloudscape	Cloudscape	Cloudy	Clear Sky
+1885-07-08	20	24	22	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1885-07-09	21	24	20	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1885-07-10	19	24	20	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1885-07-11	19	23	21	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1885-07-12	20	25	22	Covered Sky	Cloudy	Cloudscape	Covered Sky
+1885-07-13	22	26	22	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1885-07-16	21	25	23	Clear Sky	Cloudy	Covered Sky/Stormy Day	Covered Sky/Stormy Day
+1885-07-17	22	27	24	Clear Sky	Cloudscape	Covered Sky	Covered Sky
+1885-07-18	22	28	25	Clear Sky	Cloudy	Cloudscape	Clear Sky
+1885-07-19	23	29	25	Cloudy	Covered Sky	Cloudy	Covered Sky
+1885-07-20	22	28	24	Cloudscape	Clear Sky	Covered Sky	Covered Sky
+1885-07-21	23	30	26	Clear Sky	Cloudscape	Cloudscape	Clear Sky
+1885-07-22	25	31	27	Clear Sky	Cloudy	Covered Sky	Covered Sky
+1885-07-23	24	30	27	Cloudscape	Cloudscape	Clear Sky	Clear Sky
+1885-07-24	22	28	26	Cloudscape	Cloudy	Rainy Day/Stormy Day	Rainy Day/Stormy Day
+1885-07-25	23	28	24	Cloudy	Covered Sky	Rainy Day/Stormy Day	Rainy Day/Stormy Day
+1885-07-26	22	28	25	Covered Sky	Covered Sky	Rainy Day/Stormy Day	Rainy Day/Stormy Day
+1885-07-27	21	26	23	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1885-07-28	22	26	23	Cloudscape	Clear Sky	Covered Sky	Covered Sky
+1885-07-29	20	25	22	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1885-07-30	20	24	21	Clear Sky	Cloudy	Covered Sky	Covered Sky
+1885-07-31	19	24	20	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1885-08-01	20	25	22	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1885-08-02	19	25	20	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1885-08-03	18	23	20	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1885-08-04	18	24	21	Cloudscape	Clear Sky	Cloudy	Clear Sky
+1885-08-05	20	26	23	Clear Sky	Cloudy	Cloudscape	Clear Sky
+1885-08-06	19	24	21	Cloudy	Clear Sky	Clear Sky	Clear Sky
+1885-08-07	21	25	21	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1885-08-08	20	25	22	Cloudscape	Cloudscape	Cloudscape	Clear Sky
+1885-08-09	21	25	22	Cloudy	Covered Sky	Cloudy	Covered Sky
+1885-08-10	22	26	23	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1885-08-11	21	25	22	Clear Sky	Cloudscape	Cloudscape	Clear Sky
+1885-08-12	21	26	22	Clear Sky	Cloudy	Covered Sky	Covered Sky
+1885-08-13	20	26	23	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1885-08-14	21	25	23	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1885-08-17	24	27	25				
+1885-08-18	23	28	25				
+1885-08-19	24	30	26				
+1885-08-20	23	27	24				
+1885-08-21	22	25	23				
+1885-08-22	21	25	20				
+1885-08-23	19	23	21				
+1885-08-24	20	25	22				
+1885-08-25	20	23	21				
+1885-08-26	21	25	22				
+1885-08-27	19	24	20				
+1885-08-28	18	22	20				
+1885-08-29	19	23	20				
+1885-08-30	18	23	19				
+1885-08-31	17	22	19				
+1885-09-01	17	23	20	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1885-09-02	18	24	21	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1885-09-03	19	24	21	Cloudy	Covered Sky	Rainy Day/Stormy Day	Rainy Day/Stormy Day
+1885-09-04	20	26	23	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1885-09-05	20	25	22	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1885-09-06	19	25	21	Clear Sky	Cloudscape	Cloudscape	Clear Sky
+1885-09-07	19	24	21	Cloudy	Clear Sky	Cloudscape	Clear Sky
+1885-09-08	18	23	20	Clear Sky	Cloudscape	Covered Sky	Covered Sky
+1885-09-09	19	23	20	Cloudy	Clear Sky	Cloudscape	Clear Sky
+1885-09-10	18	23	21	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1885-09-11	20	25	20	Clear Sky	Cloudscape	Cloudy	Clear Sky
+1885-09-12	18	24	20	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1885-09-13	17	22	18	Covered Sky	Covered Sky	Cloudscape	Covered Sky
+1885-09-14	16	21	19	Clear Sky	Cloudy	Cloudy	Clear Sky
+1885-09-17	19	24	20	Clear Sky	Cloudscape	Cloudy	Clear Sky
+1885-09-18	20	24	20	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1885-09-19	18	22	19	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1885-09-20	17	22	18	Clear Sky	Cloudscape	Cloudscape	Clear Sky
+1885-09-21	18	23	20	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1885-09-22	19	23	20	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1885-09-23	19	24	20	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1885-09-24	17	22	19	Clear Sky	Covered Sky	Rainy Day	Rainy Day
+1885-09-25	17	21	18	Covered Sky	Covered Sky	Covered Sky	Covered Sky
+1885-09-26	16	18	16	Rainy Day	Covered Sky	Rainy Day	Rainy Day
+1885-09-27	15	19	17	Covered Sky	Covered Sky	Covered Sky	Covered Sky
+1885-09-28	15	18	16	Cloudy	Covered Sky	Cloudy	Covered Sky
+1885-09-29	14	18	15	Cloudscape	Cloudy	Covered Sky	Covered Sky
+1885-09-30	15	20	17	Clear Sky	Cloudscape	Covered Sky	Covered Sky
+1885-10-01	15	26				Cloudy	Cloudy
+1885-10-02	17	25				Cloudy	Cloudy
+1885-10-03	18	24				Clear sky	Cloudy
+1885-10-04	17	24				Cloudy	Cloudy
+1885-10-05	19	21				Cloudy	Drizzle
+1885-10-06	18	22				Cloudy	Clear sky
+1885-10-07	17	23				Clear sky	Clear sky
+1885-10-08	15	24				Clear sky	Clear sky
+1885-10-09	16	23				Cloudy	Cloudy
+1885-10-10	14	20				Clear sky	Cloudy
+1885-10-11	12	12				Clear sky	Cloudy
+1885-10-12	12	16				Cloudy	Cloudy
+1885-10-13	9	14				Cloudy	Cloudy
+1885-10-14	8	13				Cloudy	Cloudy
+1885-10-15	7	14				Clear sky	Clear sky
+1887-06-01	15	18	16	Rainy Day	Covered Sky	Rainy Day	Rainy Day
+1887-06-02	16	18	17	Cloudy	Rainy Day	Rainy Day	Rainy Day
+1887-06-03	15	19	18	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1887-06-04	18	22	19	Covered Sky	Rainy Day	Rainy Day	Rainy Day
+1887-06-05	17	20	19	Cloudy	Covered Sky	Cloudy	Covered Sky
+1887-06-06	19	22	21	Cloudscape	Clear Sky	Cloudscape	Clear Sky
+1887-06-07	20	24	21	Cloudy	Clear Sky	Clear Sky	Clear Sky
+1887-06-08	21	24	20	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1887-06-09	20	23	20	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1887-06-10	19	22	20	Cloudscape	Cloudy	Covered Sky	Covered Sky
+1887-06-11	20	24	21	Clear Sky	Cloudscape	Covered Sky	Covered Sky
+1887-06-12	19	24	20	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1887-06-13	18	23	21	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1887-06-14	20	24	21	Cloudy	Cloudscape	Cloudscape	Clear Sky
+1887-06-15	21	24	22	Clear Sky	Rainy Day	Covered Sky	Rainy Day
+1887-06-16	20	23	20	Cloudscape	Cloudscape	Clear Sky	Clear Sky
+1887-06-17	19	23	20	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1887-06-18	20	25	21	Cloudy	Covered Sky	Rainy Day/Stormy Day	Rainy Day/Stormy Day
+1887-06-19	18	22	20	Cloudscape	Cloudy	Cloudscape	Clear Sky
+1887-06-20	19	24	21	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1887-06-21	20	23	19	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1887-06-22	18	22	19	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1887-06-23	18	21	17	Cloudy	Clear Sky	Covered Sky	Covered Sky
+1887-06-24	16	20	18	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1887-06-25	17	20	18	Cloudscape	Cloudscape	Covered Sky	Covered Sky
+1887-06-26	17	22	19	Clear Sky	Cloudscape	Cloudscape	Clear Sky
+1887-06-27	16	20	18	Cloudy	Cloudy	Cloudscape	Clear Sky
+1887-06-28	17	20	17	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1887-06-29	16	19	18	Covered Sky	Rainy Day/Stormy Day	Rainy Day	Rainy Day/Stormy Day
+1887-06-30	18	23	21	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1887-07-01	20	25	22	Cloudscape	Cloudy	Cloudy	Clear Sky
+1887-07-02	20	26	22	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1887-07-03	21	26	20	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1887-07-04	18	24	20	Clear Sky	Cloudscape	Rainy Day/Stormy Day	Rainy Day/Stormy Day
+1887-07-05	17	22	19	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1887-07-06	19	24	22	Cloudscape	Cloudy	Clear Sky	Clear Sky
+1887-07-07	21	25	22	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1887-07-08	20	24	20	Cloudscape	Cloudscape	Clear Sky	Clear Sky
+1887-07-09	19	24	22	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1887-07-10	20	26	23	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1887-07-11	22	27	23	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1887-07-12	21	27	21	Clear Sky	Cloudscape	Covered Sky	Covered Sky
+1887-07-13	18	25	21	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1887-07-14	19	25	22	Clear Sky	Cloudscape	Cloudscape	Clear Sky
+1887-07-15	20	27	23	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1887-07-16	18	25	21	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1887-07-17	19	23	20	Clear Sky	Clear Sky	Cloudscape	Clear Sky
+1887-07-18	17	21	19	Clear Sky	Cloudy	Clear Sky	Clear Sky
+1887-07-19	17	22	19	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1887-07-20	18	24	21	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1887-07-21	20	24	20	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1887-07-22	19	23	20	Cloudscape	Cloudy	Cloudscape	Clear Sky
+1887-07-23	22	26	24	Cloudy	Clear Sky	Cloudscape	Clear Sky
+1887-07-24	23	26	23	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1887-07-25	22	24	21	Covered Sky	Covered Sky	Covered Sky	Covered Sky
+1887-07-26	20	25	22	Cloudy	Covered Sky	Covered Sky	Covered Sky
+1887-07-27	21	25	23	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1887-07-28	23	28	23	Clear Sky	Clear Sky	Cloudy	Clear Sky
+1887-07-29	20	26	22	Cloudscape	Cloudy	Clear Sky	Clear Sky
+1887-07-30	19	24	22	Cloudscape	Covered Sky	Cloudy	Covered Sky
+1887-07-31	21	25	22	Clear Sky	Clear Sky	Cloudy	Clear Sky
+1887-08-01	21	27	24	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1887-08-02	23	29	26	Cloudy	Cloudy	Cloudscape	Clear Sky
+1887-08-03	24	30	26	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1887-08-04	25	31	27	Clear Sky	Cloudscape	Covered Sky	Covered Sky
+1887-08-05	25	32	28	Cloudy	Cloudscape	Covered Sky	Covered Sky
+1887-08-06	25	31	28	Cloudy	Covered Sky	Rainy Day	Rainy Day
+1887-08-07	26	32	27	Cloudy	Covered Sky	Rainy Day	Rainy Day
+1887-08-08	25	30	27	Covered Sky	Covered Sky	Cloudy	Covered Sky
+1887-08-09	26	31	28	Cloudscape	Clear Sky	Cloudy	Clear Sky
+1887-08-10	27	32	26	Cloudy	Cloudscape	Clear Sky	Clear Sky
+1887-08-11	25	30	26	Clear Sky	Cloudscape	Cloudy	Clear Sky
+1887-08-12	24	28	25	Clear Sky	Cloudy	Covered Sky	Covered Sky
+1887-08-13	24	29	23	Rainy Day	Covered Sky	Covered Sky	Rainy Day
+1887-08-14	21	25	21	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1887-08-15	20	24	20	Covered Sky	Covered Sky	Rainy Day	Rainy Day
+1887-08-16	18	23	20	Cloudscape	Cloudscape	Covered Sky	Covered Sky
+1887-08-17	17	22	19	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1887-08-18	17	23	20	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1887-08-19	18	25	22	Cloudy	Cloudy	Cloudscape	Clear Sky
+1887-08-20	20	26	22	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1887-08-21	19	24	20	Cloudy	Cloudy	Covered Sky	Covered Sky
+1887-08-22	18	24	20	Cloudscape	Clear Sky	Cloudscape	Clear Sky
+1887-08-23	17	26	22	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1887-08-24	20	27	23	Covered Sky	Cloudy	Cloudy	Covered Sky
+1887-08-25	21	26	21	Cloudscape	Cloudscape	Cloudscape	Clear Sky
+1887-08-26	18	22	19	Covered Sky	Clear Sky	Covered Sky	Covered Sky
+1887-08-27	17	24	20	Covered Sky	Clear Sky	Covered Sky	Covered Sky
+1887-08-28	18	25	22	Rainy Day	Covered Sky	Covered Sky	Rainy Day
+1887-08-29	20	27	21	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1887-08-30	17	24	21	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1887-08-31	18	26	22	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1887-09-01	17	22	20	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1887-09-02	18	23	21	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1887-09-03	20	25	20	Cloudy	Covered Sky	Cloudy	Covered Sky
+1887-09-04	19	25	21	Cloudscape	Cloudscape	Cloudscape	Clear Sky
+1887-09-05	19	24	20	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1887-09-06	18	22	19	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1887-09-07	17	22	18	Covered Sky	Cloudy	Covered Sky	Covered Sky
+1887-09-08	17	21	19	Cloudscape	Cloudscape	Clear Sky	Clear Sky
+1887-09-09	18	23	19	Cloudy	Cloudscape	Cloudscape	Clear Sky
+1887-09-10	17	23	18	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1887-09-11	16	22	18	Clear Sky	Cloudy	Covered Sky	Covered Sky
+1887-09-12	16	23	20	Clear Sky	Cloudscape	Covered Sky	Covered Sky
+1887-09-13	18	24	21	Cloudy	Cloudy	Covered Sky	Covered Sky
+1887-09-14	20	26	20	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1887-09-15	16	23	20	Cloudscape	Cloudscape	Cloudscape	Clear Sky
+1887-09-16	18	23	20	Clear Sky	Cloudscape	Clear Sky	Clear Sky
+1887-09-17	17	24	21	Clear Sky	Clear Sky	Clear Sky	Clear Sky
+1887-09-18	19	26	22	Cloudscape	Clear Sky	Clear Sky	Clear Sky
+1887-09-19	18	26	22	Cloudscape	Cloudy	Cloudy	Clear Sky
+1887-09-20	20	27	24	Covered Sky	Covered Sky	Rainy Day/Stormy Day	Rainy Day/Stormy Day
+1887-09-21	21	26	21	Covered Sky	Cloudy	Cloudy	Covered Sky
+1887-09-22	19	25	21	Covered Sky	Covered Sky	Cloudscape	Covered Sky
+1887-09-23	17	24	20	Cloudy	Rainy Day/Stormy Day	Covered Sky	Rainy Day/Stormy Day
+1887-09-24	18	24	20	Covered Sky	Rainy Day/Stormy Day	Rainy Day/Stormy Day	Rainy Day/Stormy Day
+1887-09-25	16	21	16	Clear Sky	Rainy Day	Covered Sky	Rainy Day
+1887-09-26	14	20	16	Clear Sky	Covered Sky	Covered Sky	Covered Sky
+1887-09-27	13	18	16	Covered Sky	Cloudy	Cloudy	Covered Sky
+1887-09-28	15	19	15	Covered Sky	Covered Sky	Cloudy	Covered Sky
+1887-09-29	14	19	17	Rainy Day	Covered Sky	Cloudy	Rainy Day
+1887-09-30	15	18	#16	Clear Sky	Cloudy	Covered Sky	Covered Sky
