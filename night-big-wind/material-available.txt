@@ -2,7 +2,7 @@ MATERIAL ALREADY DIGITALLY AVAILABLE
 IN ISPDv4: Armagh, Rochefort, Stockholm, Uppsala, Amsterdam (hourly), Marseille, Hohenpeissenberg, Turin, Basel, Genova, Geneva, St. Petersberg, Great St Bernhard
 RICHARD CORNES: London, Paris, De Bilt
 METEO-FRANCE: Paris (4x day), Rochefort (extra morning observations), Marseille (corrections)
-OTHER NEW: Oslo, Reykjavik, Ukraine (x6 station), at least 11 stations in Switzerland, Modbury, Haarlem & Zwanenberg & Utrecht (Fremory) from KNMI (https://www.knmi.nl/nederland-nu/klimatologie/daggegevens/antieke-waarnemingen)
+OTHER NEW: Oslo, Reykjavik, Ukraine (x6 station), at least 11 stations in Switzerland, Modbury, Phoenix Park, Haarlem & Zwanenberg & Utrecht (Fremory) from KNMI (https://www.knmi.nl/nederland-nu/klimatologie/daggegevens/antieke-waarnemingen)
 
 NEW MATERIAL SCANNED
 Logbooks/diaries: Exeter, Thwaite, Oxford, London (Beaufort), Cobham (2x daily)
@@ -35,8 +35,6 @@ Kendal - https://archiveweb.cumbria.gov.uk/Calmview/Record.aspx?src=CalmView.Cat
 
 York - Charles Piazzi Smyth (1831-1860): https://archives.exploreyork.org.uk/index.php/meteorological-records-of-charles-piazzi-smyth
 (Likely only monthly summaries for 1838-1839)
-
-Essex - Christopher Parsons (1841-1852): https://www.essexarchivesonline.co.uk/result_details.aspx?ThisRecordsOffSet=51&id=261241
 
 Aberdeen (1829-1839): https://archives.aberdeencity.gov.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=ED%2fGR6S%2fA58%2f33&pos=7
 
@@ -84,6 +82,8 @@ Private weather diary for Dollar Institution.		1836 - 1856
 Private Weather Diary for Edinburgh.		1795 - 1850 (possibly missing 1838)
 Private weather diary for Glendoick, Perthshire.		1831 - 1864
 Private weather diary for Inverness - hourly readings,.		1838 - 1839
+LOOKED AT BY ANDREW SCHURER
+Kirkcaldy, Aberdeen, Inverness, Glendoick, Dollar, Carbeth
 
 IN BRITISH LIBRARY
 Add MS 16882-16887 	Welbeck, Nottinghamshire: Meteorological observations.: 1802-1852.  (imaged 1838-1839)
