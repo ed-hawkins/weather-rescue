@@ -7,6 +7,7 @@ OTHER NEW: Oslo, Reykjavik, Ukraine (x6 station), at least 11 stations in Switze
 NEW MATERIAL SCANNED
 Logbooks/diaries: Exeter, Thwaite, Oxford, London (Beaufort), Cobham (2x daily)
 Annals Natural Philosophy periodical: London (Royal Society), Boston, Dumfries
+Berlin: https://articles.adsabs.harvard.edu/full/1840ABSBe...1...95./0000156.000.html (see email from Thomas Schmidt)
 
 MATERIAL IN NEWSPAPERS (British Newspaper Archive)
 Cambridge Observatory - Cambridge Chronicle and Journal (2x daily)
@@ -16,7 +17,7 @@ Cheltenham - Cheltenham Chronicle (2x daily)
 Northampton - Althorp, Northampton Mercury (2x daily)
 Aberavon - Shipping and Mercantile Gazette (2x daily, unclear on other periods)
 Dalkey (Dublin) - Shipping and Mercantile Gazette (daily means?)
-Berwick and Inveresk - Shipping and Mercantile Gazette (2x day)
+Berwick and Inveresk - Shipping and Mercantile Gazette (2x day) - not seen Jan 1839, but Dec 1838 exists
 Waterford - Waterford Mail (2x daily)
 Bristol - Bristol Mercury (1x daily)
 Swansea - The Cambrian (2x daily) - e.g. https://newspapers.library.wales/view/3329495/3329499/19/
@@ -37,7 +38,7 @@ Kendal - https://archiveweb.cumbria.gov.uk/Calmview/Record.aspx?src=CalmView.Cat
 York - Charles Piazzi Smyth (1831-1860): https://archives.exploreyork.org.uk/index.php/meteorological-records-of-charles-piazzi-smyth
 (Likely only monthly summaries for 1838-1839)
 
-Aberdeen (1829-1839): https://archives.aberdeencity.gov.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=ED%2fGR6S%2fA58%2f33&pos=7
+Aberdeen (1829-1839): https://archives.aberdeencity.gov.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=ED%2fGR6S%2fA58%2f33&pos=7 (scanned)
 
 Whitby - Henry Belcher?
 
@@ -96,6 +97,9 @@ POST 32/16	Dunvegan - Lochmaddy mail packet service
 SHIPS
 174 ship logbooks that include January 1839 in National Archives - no idea on locations:
 https://discovery.nationalarchives.gov.uk/results/r?_srt=5&_cr=ADM+53&_dss=range&_sd=01%2F01%2F1839&_ed=10%2F01%2F1839&_ro=any&_st=adv
+
+ADM 7/563 and ADM 7/564 include ship movements for 1838-1839.
+
 Home ports for the ships are available in the Navy List for 1839:
 https://babel.hathitrust.org/cgi/pt?id=mdp.39015025976732&view=1up&seq=702&skin=2021
-56 ships have home port in UK
+56 ships apparently have home port in UK
