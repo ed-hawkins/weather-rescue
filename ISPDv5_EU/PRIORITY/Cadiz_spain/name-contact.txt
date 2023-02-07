@@ -1,0 +1,29 @@
+Yin and Rob,
+
+Going through old emails, I found this daily SLP series that Rob had forwarded from Spanish colleagues. The series is documented in the paper
+
+Gallego, D., R. Garcia-Herrera, N. Calvo, and P. Ribera (2007), A new meteorological record for Cádiz (Spain) 1806–1852: Implications for climatic reconstructions, J. Geophys. Res., 112, D12108, doi:10.1029/2007JD008517.
+
+When I originally received the data from Rob, I assumed it was a daily-average series, and I am pretty sure I never sent it to you.
+
+Going back through the paper, I see that the observations are actually for the time of  "sunset".  I think you have already thought about how to assign UTC to this time specification?
+
+From the paper and metadata in the text file, the data have already been reduced to SLP and corrected for standard gravity. The pressure data are estimated to be from
+
+45 m above sea level
+
+at location
+
+36º31'56''N
+ 6º17'54''W
+
+The series should go under the individual series collections with the tentative name
+Universidad Pablo de Olavide Cadiz, Spain series
+
+contact
+David Gallego (dgalpuy@upo.es)
+
+Rob, would you contact Dr. Gallego to see if this "collection" title is appropriate?
+
+best wishes,
+gil
