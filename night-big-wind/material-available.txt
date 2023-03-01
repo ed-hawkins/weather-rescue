@@ -9,6 +9,9 @@ Logbooks/diaries: Exeter, Thwaite, Oxford, London (Beaufort), Cobham (2x daily)
 Annals Natural Philosophy periodical: London (Royal Society), Boston, Dumfries
 Berlin: https://articles.adsabs.harvard.edu/full/1840ABSBe...1...95./0000156.000.html (see email from Thomas Schmidt)
 
+ONLINE:
+Brussels: https://www.google.co.uk/books/edition/Annales_de_l_Observatoire_royal_de_Bruxe/LQZLAAAAYAAJ?hl=en&gbpv=1&pg=RA3-PA104&printsec=frontcover
+
 MATERIAL IN NEWSPAPERS (British Newspaper Archive)
 Cambridge Observatory - Cambridge Chronicle and Journal (2x daily)
 Fife - Fife Herald (only two observations)
@@ -16,7 +19,7 @@ Falmouth - Falmouth Express and Colonial Journal (3x daily)
 Cheltenham - Cheltenham Chronicle (2x daily)
 Northampton - Althorp, Northampton Mercury (2x daily)
 Aberavon - Shipping and Mercantile Gazette (2x daily, unclear on other periods)
-Dalkey (Dublin) - Shipping and Mercantile Gazette (daily means?)
+Dalkey (Dublin) - Shipping and Mercantile Gazette - Carla Mateus confirmed daily means available
 Berwick and Inveresk - Shipping and Mercantile Gazette (2x day) - not seen Jan 1839, but Dec 1838 exists
 Waterford - Waterford Mail (2x daily)
 Bristol - Bristol Mercury (1x daily)
@@ -49,7 +52,7 @@ Birmingham (1836-1846): http://calmview.birmingham.gov.uk/CalmView/Record.aspx?s
 Edinburgh - Waterston records (1797-1850) at NLS within the RSE archives: https://digital.nls.uk/catalogues/guide-to-manuscript-collections/inventories/acc12933.pdf. Volume 2 is in a different collection:
 https://manuscripts.nls.uk/repositories/2/resources/1434
 
-Carrickfergus, Northern Ireland - James Boyle - PRONI T2383/A/27/8J - probably at Royal Irish Academy?
+Carrickfergus, Northern Ireland - James Boyle - PRONI T2383/A/27/8J - probably at Royal Irish Academy (obtained from Carla Mateus)
 
 OTHERS IN MET OFFICE ARCHIVES IN EXETER
 MET/2/1/2/3/3	Private Weather Diary for Aylesbury, Buckinghamshire DCnn: 45AB1839 - 1840	Dell, T.	1838 - 1840. (probably only starts in Jan 1839, 3x daily - imaged)
