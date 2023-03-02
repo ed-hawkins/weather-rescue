@@ -2,29 +2,39 @@ MATERIAL ALREADY DIGITALLY AVAILABLE
 IN ISPDv4: Armagh, Rochefort, Stockholm, Uppsala, Amsterdam (hourly), Marseille, Hohenpeissenberg, Turin, Basel, Genova, Geneva, St. Petersberg, Great St Bernhard
 RICHARD CORNES: London, Paris, De Bilt
 METEO-FRANCE: Paris (4x day), Rochefort (extra morning observations), Marseille (corrections)
-OTHER NEW: Oslo, Reykjavik, Ukraine (x6 station), at least 11 stations in Switzerland, Modbury, Phoenix Park, Haarlem & Zwanenberg & Utrecht (Fremory) from KNMI (https://www.knmi.nl/nederland-nu/klimatologie/daggegevens/antieke-waarnemingen)
+OTHER NEW: Cadiz, Oslo, Reykjavik, Ukraine (x6 station), at least 11 stations in Switzerland, Modbury, Phoenix Park, Haarlem & Zwanenberg & Utrecht (Fremory) from KNMI (https://www.knmi.nl/nederland-nu/klimatologie/daggegevens/antieke-waarnemingen)
 
 NEW MATERIAL SCANNED
-Logbooks/diaries: Exeter, Thwaite, Oxford, London (Beaufort), Cobham (2x daily)
+Logbooks/diaries at NMLA+: Exeter, Thwaite, Oxford, London (Beaufort), Cobham (2x daily)
 Annals Natural Philosophy periodical: London (Royal Society), Boston, Dumfries
-Berlin: https://articles.adsabs.harvard.edu/full/1840ABSBe...1...95./0000156.000.html (see email from Thomas Schmidt)
+Carla Mateus: Dunsink, Carrickfergus and Dublin St Frederick St
+Aberdeen (1829-1839): https://archives.aberdeencity.gov.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=ED%2fGR6S%2fA58%2f33&pos=7
+Welbeck, Nottinghamshire (imaged 1838-1839): https://searcharchives.bl.uk/primo_library/libweb/action/display.do;jsessionid=9DE7CA7901EF66EADE9DC7B0AB2ABB84?tabs=detailsTab&ct=display&fn=search&doc=IAMS032-002094672
 
 ONLINE:
 Brussels: https://www.google.co.uk/books/edition/Annales_de_l_Observatoire_royal_de_Bruxe/LQZLAAAAYAAJ?hl=en&gbpv=1&pg=RA3-PA104&printsec=frontcover
+Berlin: https://articles.adsabs.harvard.edu/full/1840ABSBe...1...95./0000156.000.html (see email from Thomas Schmidt)
 
-MATERIAL IN NEWSPAPERS (British Newspaper Archive)
+MATERIAL IN NEWSPAPERS (British Newspaper Archive) - mostly not checked for length of series
 Cambridge Observatory - Cambridge Chronicle and Journal (2x daily)
 Fife - Fife Herald (only two observations)
 Falmouth - Falmouth Express and Colonial Journal (3x daily)
 Cheltenham - Cheltenham Chronicle (2x daily)
 Northampton - Althorp, Northampton Mercury (2x daily)
-Aberavon - Shipping and Mercantile Gazette (2x daily, unclear on other periods)
-Dalkey (Dublin) - Shipping and Mercantile Gazette - Carla Mateus confirmed daily means available
+Aberavon - Shipping and Mercantile Gazette (2x daily during storm, unclear on other periods)
+Dalkey (Dublin) - Shipping and Mercantile Gazette (Carla Mateus confirmed only daily means available)
 Berwick and Inveresk - Shipping and Mercantile Gazette (2x day) - not seen Jan 1839, but Dec 1838 exists
 Waterford - Waterford Mail (2x daily)
 Bristol - Bristol Mercury (1x daily)
 Swansea - The Cambrian (2x daily) - e.g. https://newspapers.library.wales/view/3329495/3329499/19/
 Neath Phil Inst - The Cambrian (2-3x daily) - e.g. https://newspapers.library.wales/view/3329485/3329489/25/
+
+OTHER NEWSPAPERS NOT YET EXTRACTED IMAGES
+Redgrave - Bury & Suffolk Herald
+St Jus Penwith - Falmouth Express and Colonial Journal
+Chesterfield - Derbysire Courier
+Derby - Derby Mercury (monthly summaries with min/max)
+
 
 MATERIAL AVAILABLE FOR 1839 IN ARCHIVES
 
@@ -32,27 +42,19 @@ Kinfauns Castle - http://archivecatalogue.pkc.gov.uk/Record.aspx?src=CalmView.Ca
 
 Ackworth School (1824-1851): https://www.catalogue.wyjs.org.uk/calmview/Record.aspx?src=CalmView.Catalog&id=C678%2f4%2f4a%2f1&pos=3
 
-Whitehaven - John Fletcher Miller (1832-1854): https://archiveweb.cumbria.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=DH%2f1%2f1
-(observer was away in 1838-39 so no observations)
-
 Kendal - https://archiveweb.cumbria.gov.uk/Calmview/Record.aspx?src=CalmView.Catalog&id=WDX+1198
 (possibly including graphs and numerical data)
 
 York - Charles Piazzi Smyth (1831-1860): https://archives.exploreyork.org.uk/index.php/meteorological-records-of-charles-piazzi-smyth
 (Likely only monthly summaries for 1838-1839)
 
-Aberdeen (1829-1839): https://archives.aberdeencity.gov.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=ED%2fGR6S%2fA58%2f33&pos=7 (scanned)
-
 Whitby - Henry Belcher?
-
-North Yorks - Reference ZQG Cholmeley of Brandsby Weather 1783-1830
 
 Birmingham (1836-1846): http://calmview.birmingham.gov.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=AX%2f302%2f16&pos=2
 
 Edinburgh - Waterston records (1797-1850) at NLS within the RSE archives: https://digital.nls.uk/catalogues/guide-to-manuscript-collections/inventories/acc12933.pdf. Volume 2 is in a different collection:
 https://manuscripts.nls.uk/repositories/2/resources/1434
 
-Carrickfergus, Northern Ireland - James Boyle - PRONI T2383/A/27/8J - probably at Royal Irish Academy (obtained from Carla Mateus)
 
 OTHERS IN MET OFFICE ARCHIVES IN EXETER
 MET/2/1/2/3/3	Private Weather Diary for Aylesbury, Buckinghamshire DCnn: 45AB1839 - 1840	Dell, T.	1838 - 1840. (probably only starts in Jan 1839, 3x daily - imaged)
@@ -89,10 +91,6 @@ Private weather diary for Glendoick, Perthshire.		1831 - 1864
 Private weather diary for Inverness - hourly readings,.		1838 - 1839
 LOOKED AT BY ANDREW SCHURER
 Kirkcaldy, Aberdeen, Inverness, Glendoick, Dollar, Carbeth
-
-IN BRITISH LIBRARY
-Add MS 16882-16887 	Welbeck, Nottinghamshire: Meteorological observations.: 1802-1852.  (imaged 1838-1839)
-https://searcharchives.bl.uk/primo_library/libweb/action/display.do;jsessionid=9DE7CA7901EF66EADE9DC7B0AB2ABB84?tabs=detailsTab&ct=display&fn=search&doc=IAMS032-002094672&indx=2&recIds=IAMS032-002094672&recIdxs=1&elementId=1&renderMode=poppedOut&displayMode=full&frbrVersion=&frbg=&&dscnt=0&scp.scps=scope%3A%28BL%29&mode=Basic&vid=IAMS_VU2&srt=rank&tab=local&vl(freeText0)=16882&dum=true&dstmp=1660039643708
 
 POST OFFICE MUSEUM (unclear on whether any meteorological observations)
 POST 32/16	Dunvegan - Lochmaddy mail packet service
