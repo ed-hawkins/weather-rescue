@@ -35,7 +35,6 @@ St Jus Penwith - Falmouth Express and Colonial Journal
 Chesterfield - Derbysire Courier
 Derby - Derby Mercury (monthly summaries with min/max)
 
-
 MATERIAL AVAILABLE FOR 1839 IN ARCHIVES
 
 Kinfauns Castle - http://archivecatalogue.pkc.gov.uk/Record.aspx?src=CalmView.Catalog&id=MS34%2fBundle24&pos=2 (possibly only monthly max/min)
@@ -52,9 +51,10 @@ Whitby - Henry Belcher?
 
 Birmingham (1836-1846): http://calmview.birmingham.gov.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=AX%2f302%2f16&pos=2
 
-Edinburgh - Waterston records (1797-1850) at NLS within the RSE archives: https://digital.nls.uk/catalogues/guide-to-manuscript-collections/inventories/acc12933.pdf. Volume 2 is in a different collection:
-https://manuscripts.nls.uk/repositories/2/resources/1434
+Edinburgh - Waterston records (1797-1850) at NLS within the RSE archives: https://digital.nls.uk/catalogues/guide-to-manuscript-collections/inventories/acc12933.pdf. [Note that Volume 2 is in a different collection: https://manuscripts.nls.uk/repositories/2/resources/1434]
 
+Edinburgh, Dunfermline, Carlisle - at NLS within RSE archives - https://digital.nls.uk/catalogues/guide-to-manuscript-collections/inventories/acc10069.pdf
+(Mariano Barriéndos has digitised some of this, but not overlapping series)
 
 OTHERS IN MET OFFICE ARCHIVES IN EXETER
 MET/2/1/2/3/3	Private Weather Diary for Aylesbury, Buckinghamshire DCnn: 45AB1839 - 1840	Dell, T.	1838 - 1840. (probably only starts in Jan 1839, 3x daily - imaged)
