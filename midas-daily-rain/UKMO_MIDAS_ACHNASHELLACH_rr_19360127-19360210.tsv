@@ -1,0 +1,25 @@
+SEF	1.0.0
+ID	ACHNASHELLACH
+Name	ACHNASHELLACH
+Lat	57.4900
+Lon	-5.2750
+Alt	67.0
+Source	UKMO MIDAS
+Link	NA
+Vbl	rr
+Stat	sum
+Units	mm
+Meta	PTC=Y|PGC=?
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1936	1	27	9	0	p1day	0.00	
+1936	1	28	9	0	p1day	0.00	
+1936	2	1	9	0	p1day	0.00	
+1936	2	2	9	0	p1day	0.00	
+1936	2	3	9	0	p1day	0.00	
+1936	2	4	9	0	p1day	0.00	
+1936	2	5	9	0	p1day	0.00	
+1936	2	6	9	0	p1day	0.00	
+1936	2	7	9	0	p1day	0.00	
+1936	2	8	9	0	p1day	0.00	
+1936	2	9	9	0	p1day	0.00	
+1936	2	10	9	0	p1day	0.00	

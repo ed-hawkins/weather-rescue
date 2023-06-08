@@ -1,0 +1,19 @@
+SEF	1.0.0
+ID	GATWICK
+Name	GATWICK
+Lat	51.1520
+Lon	-0.1930
+Alt	59.0
+Source	UKMO MIDAS
+Link	NA
+Vbl	rr
+Stat	sum
+Units	mm
+Meta	PTC=Y|PGC=?
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1958	10	9	9	0	p1day	1.20	
+1958	12	20	9	0	p1day	3.10	
+1959	11	3	9	0	p1day	2.60	
+1959	12	7	9	0	p1day	15.40	
+1960	7	8	9	0	p1day	15.40	
+1960	10	10	9	0	p1day	1.20	

@@ -1,0 +1,21 @@
+SEF	1.0.0
+ID	ELMDON
+Name	ELMDON
+Lat	52.4530
+Lon	-1.7420
+Alt	96.0
+Source	UKMO MIDAS
+Link	NA
+Vbl	rr
+Stat	sum
+Units	mm
+Meta	PTC=Y|PGC=?
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1950	7	9	9	0	p1day	4.90	
+1950	8	9	9	0	p1day	0.00	
+1956	1	8	9	0	p1day	0.40	
+1956	1	20	9	0	p1day	0.20	
+1956	4	8	9	0	p1day	0.70	
+1956	9	3	9	0	p1day	3.40	
+1960	9	6	9	0	p1day	13.80	
+1960	9	7	9	0	p1day	0.40	

@@ -1,0 +1,16 @@
+SEF	1.0.0
+ID	FINNINGLEY
+Name	FINNINGLEY
+Lat	53.4830
+Lon	-1.0080
+Alt	10.0
+Source	UKMO MIDAS
+Link	NA
+Vbl	rr
+Stat	sum
+Units	mm
+Meta	PTC=Y|PGC=?
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1959	12	26	9	0	p1day	5.60	
+1959	12	30	9	0	p1day	6.60	
+1960	10	20	9	0	p1day	13.10	
