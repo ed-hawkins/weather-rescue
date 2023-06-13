@@ -1,0 +1,28 @@
+Title,"Halkali Agricultural School (Istanbul, Turkey): Daily Meteorological Observations 1896-1917"
+Description,"Daily weather observations measured by students and staff at Halkali Agricultural School (a school opened in 1892 on agriculture and animal husbandry during the Ottoman period) from 1896 to 1917 in Istanbul, Turkey have been transcribed from the original publications into digital form and translated from Ottoman Turkish (the Perso-Arabic script) to English (Latin alphabet). Over 55 thousand observations of daily maximum, minimum and average temperature, rainfall, soil and under soil (0.25m) temperature, humidity, pressure, and wind speed were recovered."
+Authors,"Ferhat Yilmaz, Michel Tsamados, Dan Osborn"
+Affiliation,"Department of Earth Sciences, University College London, Gower Street, London WC1E 6BT, UK"
+
+Station Name,Halkali Agricultural School 
+Latitude,41.03
+Longitude,28.78
+
+Data,Daily Meteorological Observations 1896-1917
+Column Headers,Explanation
+Year,Year
+Month,Month
+Day,Day
+Tmin,Minimum Temperature (deg C)
+Tmax,Maximum Temperature (deg C)
+Tavg,Average Temperature (deg C)
+Tdiff,Temperature Difference (deg C)
+Tsoil,Soil Surface Temperature (deg C)
+Tusoil,Under Soil (0.25m) Temperature (deg C)
+Humidity,Humidity (%)
+Pressure,Pressure (mmHg)
+Wind_Speed,Wind Speed (meters per second)
+
+Files,Explanation
+halkali_data_morning_1896-1917.csv,includes observations recorded throughout the early morning hours.
+halkali_data_afternoon_1896_1897_1912.csv,"includes observations (temperature, humidity, pressure, wind speed) recorded throughout the afternoon hours."
+images_date.csv,includes the explanation of each page of observations books.
