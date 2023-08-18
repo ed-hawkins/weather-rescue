@@ -47,6 +47,12 @@ Kendal - https://archiveweb.cumbria.gov.uk/Calmview/Record.aspx?src=CalmView.Cat
 York - Charles Piazzi Smyth (1831-1860): https://archives.exploreyork.org.uk/index.php/meteorological-records-of-charles-piazzi-smyth
 (Likely only monthly summaries for 1838-1839)
 
+Buckinghamshire - William Wilson Saunders - https://archives.buckinghamshire.gov.uk/records/D_152/A/7
+
+Allenheads - William Walton - in Royal Society - https://catalogues.royalsociety.org/CalmView/Record.aspx?src=CalmView.Catalog&id=AP%2f23%2f42
+
+Kåfjord, Alta, Norway - in Royal Society - https://catalogues.royalsociety.org/CalmView/Record.aspx?src=CalmView.Catalog&id=MA%2f19%2f1&pos=27
+
 Whitby - Henry Belcher?
 
 Birmingham (1836-1846): http://calmview.birmingham.gov.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=AX%2f302%2f16&pos=2
