@@ -10,6 +10,7 @@ Annals Natural Philosophy periodical: London (Royal Society), Boston, Dumfries
 Carla Mateus: Dunsink, Carrickfergus, Dublin St Frederick St, Linen Hall Belfast, Trinity College Dublin
 Aberdeen (1829-1839): https://archives.aberdeencity.gov.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=ED%2fGR6S%2fA58%2f33&pos=7
 Welbeck, Nottinghamshire (imaged 1838-1839): https://searcharchives.bl.uk/primo_library/libweb/action/display.do;jsessionid=9DE7CA7901EF66EADE9DC7B0AB2ABB84?tabs=detailsTab&ct=display&fn=search&doc=IAMS032-002094672
+Buckinghamshire - William Wilson Saunders - https://archives.buckinghamshire.gov.uk/records/D_152/A/7
 
 ONLINE:
 Brussels: https://www.google.co.uk/books/edition/Annales_de_l_Observatoire_royal_de_Bruxe/LQZLAAAAYAAJ?hl=en&gbpv=1&pg=RA3-PA104&printsec=frontcover
@@ -38,17 +39,15 @@ Derby - Derby Mercury (monthly summaries with min/max)
 
 MATERIAL AVAILABLE FOR 1839 IN ARCHIVES
 
-Kinfauns Castle - http://archivecatalogue.pkc.gov.uk/Record.aspx?src=CalmView.Catalog&id=MS34%2fBundle24&pos=2 (possibly only monthly max/min)
+Kinfauns Castle - Perth & Kinross Archives - http://archivecatalogue.pkc.gov.uk/Record.aspx?src=CalmView.Catalog&id=MS34%2fBundle24&pos=2 (possibly only monthly max/min)
 
-Ackworth School (1824-1851): https://www.catalogue.wyjs.org.uk/calmview/Record.aspx?src=CalmView.Catalog&id=C678%2f4%2f4a%2f1&pos=3
+Ackworth School (1824-1851) - Wakefield Archives - https://www.catalogue.wyjs.org.uk/calmview/Record.aspx?src=CalmView.Catalog&id=C678%2f4%2f4a%2f1&pos=3
 
 Kendal - https://archiveweb.cumbria.gov.uk/Calmview/Record.aspx?src=CalmView.Catalog&id=WDX+1198
 (possibly including graphs and numerical data)
 
 York - Charles Piazzi Smyth (1831-1860): https://archives.exploreyork.org.uk/index.php/meteorological-records-of-charles-piazzi-smyth
 (Likely only monthly summaries for 1838-1839)
-
-Buckinghamshire - William Wilson Saunders - https://archives.buckinghamshire.gov.uk/records/D_152/A/7
 
 Kåfjord, Alta, Norway - in Royal Society - https://catalogues.royalsociety.org/CalmView/Record.aspx?src=CalmView.Catalog&id=MA%2f19%2f1&pos=27
 
@@ -60,6 +59,14 @@ Edinburgh - Waterston records (1797-1850) at NLS within the RSE archives: https:
 
 Edinburgh, Dunfermline, Carlisle - at NLS within RSE archives - https://digital.nls.uk/catalogues/guide-to-manuscript-collections/inventories/acc10069.pdf
 (Mariano Barriéndos has digitised some of this, but not overlapping series)
+
+Cambridge Archives - tide & meteorological information at various sites:
+https://archivesearch.lib.cam.ac.uk/repositories/2/archival_objects/98691
+Cambridge Archives - Airy papers, incl Helston:
+https://archivesearch.lib.cam.ac.uk/repositories/2/archival_objects/98891
+Cambridge Archives - Airy papers, barometer curves & tabulated data for Greenwich:
+https://archivesearch.lib.cam.ac.uk/repositories/2/archival_objects/98855
+https://archivesearch.lib.cam.ac.uk/repositories/2/archival_objects/98854
 
 OTHERS IN MET OFFICE ARCHIVES IN EXETER
 MET/2/1/2/3/3	Private Weather Diary for Aylesbury, Buckinghamshire DCnn: 45AB1839 - 1840	Dell, T.	1838 - 1840. (probably only starts in Jan 1839, 3x daily - imaged)
@@ -86,7 +93,7 @@ MET/2/1/2/3/439	Private Weather Diary for Walkeringham, Nottinghamshire (DCnn: 4
 MET/2/1/2/3/479	Private Weather Diary for Ballimore, Tayside (old county Perthshire), Scotland		1833 - 1857.  (1x daily - imaged)
 
 IN NATIONAL RECORDS OF SCOTLAND (EDINBURGH)
-Private weather diary for Aberdeen.		1829 - 1841
+Private weather diary for Aberdeen.		1829 - 1841 - Aberdeen Archives version scanned
 Private weather diary for Captain McKellar for Greenock?		1835 - 1849
 Private weather diary for Carbeth, Stirlingshire 1839 - 1859.		1817 - 1859
 Private weather diary for Castle Newe, Aberdeenshire.		1836 - 1847
