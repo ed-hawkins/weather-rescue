@@ -4484,7 +4484,6 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1832	3	17	10	0	0	990.91	original 29.290 inHg | T 42.7 F
 1832	3	17	14	0	0	991.07	original 29.300 inHg | T 44.7 F
 1832	3	17	22	0	0	993.54	original 29.370 inHg | T 43.6 F
-1832	3	18	10	0	0	992.60	original 29.340 inHg | T 42.7 F
 1832	3	18	14	0	0	992.09	original 29.330 inHg | T 44.7 F
 1832	3	18	22	0	0	999.63	original 29.550 inHg | T 43.6 F
 1832	3	19	10	0	0	1004.78	original 29.700 inHg | T 42.7 F
@@ -5218,7 +5217,6 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1832	11	17	22	0	0	1019.04	original 30.130 inHg | T 45.8 F
 1832	11	18	10	0	0	1014.67	original 30.000 inHg | T 45.6 F
 1832	11	18	14	0	0	1011.85	original 29.920 inHg | T 46.8 F
-1832	11	18	22	0	0	1010.25	original 29.870 inHg | T 45.8 F
 1832	11	19	10	0	0	1006.89	original 29.770 inHg | T 45.6 F
 1832	11	19	14	0	0	1004.41	original 29.700 inHg | T 46.8 F
 1832	11	19	22	0	0	1002.47	original 29.640 inHg | T 45.8 F
@@ -6220,7 +6218,6 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1833	10	19	14	0	0	988.47	original 29.250 inHg | T 54.8 F
 1833	10	19	22	0	0	988.96	original 29.260 inHg | T 53.2 F
 1833	10	20	10	0	0	995.74	original 29.460 inHg | T 52.9 F
-1833	10	20	14	0	0	998.27	original 29.540 inHg | T 54.8 F
 1833	10	20	22	0	0	1000.45	original 29.600 inHg | T 53.2 F
 1833	10	21	10	0	0	995.74	original 29.460 inHg | T 52.9 F
 1833	10	21	14	0	0	993.88	original 29.410 inHg | T 54.8 F
@@ -6843,6 +6840,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1834	5	17	22	0	0	986.05	original 29.190 inHg | T 59.2 F
 1834	5	18	10	0	0	988.77	original 29.270 inHg | T 59.0 F
 1834	5	18	14	0	0	990.26	original 29.320 inHg | T 61.3 F
+1834	5	18	22	0	0	995.85	original 29.480 inHg | T 59.2 F
 1834	5	19	10	0	0	1000.93	original 29.630 inHg | T 59.0 F
 1834	5	19	14	0	0	1003.43	original 29.710 inHg | T 61.3 F
 1834	5	19	22	0	0	1010.04	original 29.900 inHg | T 59.2 F
@@ -7837,6 +7835,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1835	5	17	14	0	0	1006.41	original 29.790 inHg | T 58.2 F
 1835	5	17	22	0	0	1006.92	original 29.800 inHg | T 56.3 F
 1835	5	18	10	0	0	1005.23	original 29.750 inHg | T 56.4 F
+1835	5	18	14	0	0	1004.72	original 29.740 inHg | T 58.2 F
+1835	5	18	22	0	0	1004.90	original 29.740 inHg | T 56.3 F
 1835	5	19	10	0	0	1004.21	original 29.720 inHg | T 56.4 F
 1835	5	19	14	0	0	1003.37	original 29.700 inHg | T 58.2 F
 1835	5	19	22	0	0	1004.22	original 29.720 inHg | T 56.3 F
@@ -10211,9 +10211,6 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1837	9	1	10	0	0	988.13	original 29.250 inHg | T 58.6 F
 1837	9	1	14	0	0	988.29	original 29.260 inHg | T 60.6 F
 1837	9	1	22	0	0	988.12	original 29.250 inHg | T 58.8 F
-1837	9	2	10	0	0	991.85	original 29.360 inHg | T 58.6 F
-1837	9	2	14	0	0	994.03	original 29.430 inHg | T 60.6 F
-1837	9	2	22	0	0	996.56	original 29.500 inHg | T 58.8 F
 1837	9	3	10	0	0	998.27	original 29.550 inHg | T 58.6 F
 1837	9	3	14	0	0	999.44	original 29.590 inHg | T 60.6 F
 1837	9	3	22	0	0	1002.64	original 29.680 inHg | T 58.8 F
@@ -10394,7 +10391,6 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1837	11	1	10	0	0	974.29	original 28.800 inHg | T 43.2 F
 1837	11	1	14	0	0	968.05	original 28.620 inHg | T 44.9 F
 1837	11	1	22	0	0	977.28	original 28.890 inHg | T 43.8 F
-1837	11	2	10	0	0	979.37	original 28.950 inHg | T 43.2 F
 1837	11	2	14	0	0	979.89	original 28.970 inHg | T 44.9 F
 1837	11	2	22	0	0	978.97	original 28.940 inHg | T 43.8 F
 1837	11	3	10	0	0	984.44	original 29.100 inHg | T 43.2 F
@@ -13014,7 +13010,6 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	6	6	10	0	0	1005.35	original 29.766 inHg | T 60.9 F
 1840	6	6	14	0	0	1004.21	original 29.738 inHg | T 63.1 F
 1840	6	6	22	0	0	1004.44	original 29.742 inHg | T 62.0 F
-1840	6	7	10	0	0	1007.31	original 29.824 inHg | T 60.9 F
 1840	6	7	14	0	0	1009.54	original 29.896 inHg | T 63.1 F
 1840	6	7	22	0	0	1010.52	original 29.922 inHg | T 62.0 F
 1840	6	8	14	0	0	1008.33	original 29.860 inHg | T 63.1 F
@@ -14402,7 +14397,6 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	10	10	22	0	0	995.53	original 29.446 inHg | T 50.0 F
 1841	10	11	10	0	0	997.44	original 29.502 inHg | T 49.8 F
 1841	10	11	14	0	0	995.76	original 29.458 inHg | T 52.0 F
-1841	10	11	22	0	0	993.84	original 29.396 inHg | T 50.0 F
 1841	10	12	10	0	0	982.63	original 29.064 inHg | T 49.8 F
 1841	10	12	14	0	0	987.78	original 29.222 inHg | T 52.0 F
 1841	10	12	22	0	0	996.75	original 29.482 inHg | T 50.0 F

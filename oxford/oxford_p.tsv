@@ -4577,7 +4577,6 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1832	3	17	10	0	0	991.87	original 29.290 inHg
 1832	3	17	14	0	0	992.21	original 29.300 inHg
 1832	3	17	22	0	0	994.58	original 29.370 inHg
-1832	3	18	10	0	0	993.57	original 29.340 inHg
 1832	3	18	14	0	0	993.23	original 29.330 inHg
 1832	3	18	22	0	0	1000.68	original 29.550 inHg
 1832	3	19	10	0	0	1005.76	original 29.700 inHg
@@ -5311,7 +5310,6 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1832	11	17	22	0	0	1020.32	original 30.130 inHg
 1832	11	18	10	0	0	1015.92	original 30.000 inHg
 1832	11	18	14	0	0	1013.21	original 29.920 inHg
-1832	11	18	22	0	0	1011.51	original 29.870 inHg
 1832	11	19	10	0	0	1008.13	original 29.770 inHg
 1832	11	19	14	0	0	1005.76	original 29.700 inHg
 1832	11	19	22	0	0	1003.73	original 29.640 inHg
@@ -6313,7 +6311,6 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1833	10	19	14	0	0	990.52	original 29.250 inHg
 1833	10	19	22	0	0	990.86	original 29.260 inHg
 1833	10	20	10	0	0	997.63	original 29.460 inHg
-1833	10	20	14	0	0	1000.34	original 29.540 inHg
 1833	10	20	22	0	0	1002.37	original 29.600 inHg
 1833	10	21	10	0	0	997.63	original 29.460 inHg
 1833	10	21	14	0	0	995.94	original 29.410 inHg
@@ -6936,6 +6933,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1834	5	17	22	0	0	988.49	original 29.190 inHg
 1834	5	18	10	0	0	991.20	original 29.270 inHg
 1834	5	18	14	0	0	992.89	original 29.320 inHg
+1834	5	18	22	0	0	998.31	original 29.480 inHg
 1834	5	19	10	0	0	1003.39	original 29.630 inHg
 1834	5	19	14	0	0	1006.10	original 29.710 inHg
 1834	5	19	22	0	0	1012.53	original 29.900 inHg
@@ -8020,6 +8018,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1835	5	17	14	0	0	1008.81	original 29.790 inHg
 1835	5	17	22	0	0	1009.14	original 29.800 inHg
 1835	5	18	10	0	0	1007.45	original 29.750 inHg
+1835	5	18	14	0	0	1007.11	original 29.740 inHg
+1835	5	18	22	0	0	1007.11	original 29.740 inHg
 1835	5	19	10	0	0	1006.44	original 29.720 inHg
 1835	5	19	14	0	0	1005.76	original 29.700 inHg
 1835	5	19	22	0	0	1006.44	original 29.720 inHg
@@ -10515,9 +10515,6 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1837	9	1	10	0	0	990.52	original 29.250 inHg
 1837	9	1	14	0	0	990.86	original 29.260 inHg
 1837	9	1	22	0	0	990.52	original 29.250 inHg
-1837	9	2	10	0	0	994.24	original 29.360 inHg
-1837	9	2	14	0	0	996.61	original 29.430 inHg
-1837	9	2	22	0	0	998.99	original 29.500 inHg
 1837	9	3	10	0	0	1000.68	original 29.550 inHg
 1837	9	3	14	0	0	1002.03	original 29.590 inHg
 1837	9	3	22	0	0	1005.08	original 29.680 inHg
@@ -10698,7 +10695,6 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1837	11	1	10	0	0	975.28	original 28.800 inHg
 1837	11	1	14	0	0	969.18	original 28.620 inHg
 1837	11	1	22	0	0	978.33	original 28.890 inHg
-1837	11	2	10	0	0	980.36	original 28.950 inHg
 1837	11	2	14	0	0	981.04	original 28.970 inHg
 1837	11	2	22	0	0	980.02	original 28.940 inHg
 1837	11	3	10	0	0	985.44	original 29.100 inHg
@@ -13525,7 +13521,6 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	6	6	10	0	0	1007.99	original 29.766 inHg
 1840	6	6	14	0	0	1007.04	original 29.738 inHg
 1840	6	6	22	0	0	1007.18	original 29.742 inHg
-1840	6	7	10	0	0	1009.96	original 29.824 inHg
 1840	6	7	14	0	0	1012.40	original 29.896 inHg
 1840	6	7	22	0	0	1013.28	original 29.922 inHg
 1840	6	8	14	0	0	1011.18	original 29.860 inHg
@@ -14974,7 +14969,6 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	10	10	22	0	0	997.16	original 29.446 inHg
 1841	10	11	10	0	0	999.05	original 29.502 inHg
 1841	10	11	14	0	0	997.56	original 29.458 inHg
-1841	10	11	22	0	0	995.46	original 29.396 inHg
 1841	10	12	10	0	0	984.22	original 29.064 inHg
 1841	10	12	14	0	0	989.57	original 29.222 inHg
 1841	10	12	22	0	0	998.38	original 29.482 inHg
