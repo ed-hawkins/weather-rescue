@@ -30,6 +30,7 @@ Waterford - Waterford Mail (2x daily)
 Bristol - Bristol Mercury (1x daily)
 Swansea - The Cambrian (2x daily) - e.g. https://newspapers.library.wales/view/3329495/3329499/19/
 Neath Phil Inst - The Cambrian (2-3x daily) - e.g. https://newspapers.library.wales/view/3329485/3329489/25/
+Trondheim, Norway - 3x daily - images available
 
 OTHER NEWSPAPERS NOT YET EXTRACTED IMAGES
 Redgrave - Bury & Suffolk Herald
