@@ -1,3 +1,5 @@
+EVENT: Nov 23rd 1824
+
 MATERIAL ALREADY DIGITALLY AVAILABLE
 IN ISPDv4: Armagh, Amsterdam, Paris, Rochefort, St Bernhard
 RICHARD CORNES: London, De Bilt
@@ -67,7 +69,7 @@ Private Weather Diary for Edinburgh.		1795 - 1850 (possibly missing 1838)
 Private weather diary of James Ramsay for Perthshire (3 sites).		1804 - 1832
 
 WELLCOME TRUST
-AMS/MF/3/11	Meteorological Journal kept near Kendal by John Gough
+AMS/MF/3/11	Meteorological Journal kept near Kendal by John Gough - NOT SURE THIS WILL HAVE DATA
 
 SHIPS
 Unknown
