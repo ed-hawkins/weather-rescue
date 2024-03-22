@@ -1,0 +1,80 @@
+EVENT: Nov 23rd 1824
+
+MATERIAL ALREADY DIGITALLY AVAILABLE
+IN ISPDv4: Armagh, Amsterdam, Paris, Rochefort, St Bernhard
+RICHARD CORNES: London, De Bilt
+OTHER NEW: Switzerland (x4), Reykjavik, Gibraltar, Modbury, Exeter, Oslo (x2)
+
+NEW MATERIAL SCANNED
+Logbooks/diaries: Oxford, Beaufort
+
+MATERIAL IN NEWSPAPERS (British Newspaper Archive)
+Belfast Chronicle
+
+MATERIAL AVAILABLE FOR 1824 IN ARCHIVES
+
+Ackworth School (1824-1851): https://www.catalogue.wyjs.org.uk/calmview/Record.aspx?src=CalmView.Catalog&id=C678%2f4%2f4a%2f1&pos=3
+
+Sunbury - Revd Cowe (1789-1839): fascimile copies - Met Office have one
+
+North Yorks - Reference ZQG Cholmeley of Brandsby Weather 1783-1830
+
+Edinburgh - Waterston records (1797-1850) at NLS within the RSE archives: https://digital.nls.uk/catalogues/guide-to-manuscript-collections/inventories/acc12933.pdf. Volume 2 is in a different collection:
+https://manuscripts.nls.uk/repositories/2/resources/1434
+
+Manchester - Dalton - Science Museum: https://collection.sciencemuseumgroup.org.uk/documents/aa110068938/meteorological-registers
+
+Newcastle Lit & Phil - James Losh registers
+
+Jenyn's Collection, Bath
+
+OTHERS IN MET OFFICE ARCHIVES IN EXETER
+MET/2/1/2/3/39	Private Weather Diaries for Benefield (Northants) 1815 - 1858 DCnn: 43BE	Millar, J. E.	1815 - 1858	
+MET/2/1/2/3/42	Private Weather Diary for Highfield House Observatory, Beeston, Nottinghamshire DCnn: 42BO 1810 - 1893 - very incomplete	Lowe, E. J.	1810 - 1893	
+MET/2/1/2/3/62	Private Weather Diary for Bungay, Suffolk 1822 - 1825 DCnn: 31BG	Unknown	1822 - 1825	
+MET/2/1/2/3/98	Private Weather Diary for Clare Street and Strand, London 1790 - 1854 DCnn: 50CS	Souse, C.	1790 - 1854	
+MET/2/1/2/3/123	Private Weather Diary for Epping, Essex 1820 - 1860 51.41.42 N approx 25 East DCnn: 36EP	Squire, J.	1820 - 1860	
+MET/2/1/2/3/127	Private Weather Diary for Derby, Derbyshire 1793 - 1838 Latitude 52.58 N Longitude 1. 30 W DCnn: 41DY	Swanwick, J.	1793 - 1838	
+MET/2/1/2/3/143	Private Weather Diary - Extracts from other publications collated by Thomas Squire of Epping, Essex 1822 - 1827	Squire, T.	1822 - 1827	
+MET/2/1/2/3/150	Private Weather Diary for Guilsborough, Northamptonshire DCnn: 43GB	Silkes, T. Watson, F. D.	1815 - 1863	
+MET/2/1/2/3/157	Private Weather Diary for Great Yarmouth, Norfolk DCnn: 30GT for 1793 - 1819, 1821 - 1826 and 1828 - 1832	Turner, R.	1793 - 1832	
+MET/2/1/2/3/159	Private Weather Diary for Greenwich, Greater London DCnn: 50GB 1811 - 1851	Belville, J. H.	1811 - 1851	
+MET/2/1/2/3/160	Private Weather Diary for Greenwhich, Greater London 1811 - 1856 DCnn: 50GE	Eaton, H. S.	1811 - 1856	
+MET/2/1/2/3/161	Private Weather Diary for Greenwich and Somerset House DCnn: 50GS	Gwilliams, G. T.	1770 - 1924	
+MET/2/1/2/3/175	Private Weather Diary for Harleston, Norfolk DCnn: 30HA	Pallant, T.	1786 - 1842	
+MET/2/1/2/3/177	Private Weather Diary for Pool Cottage, Hereford (old county Hereford and Worcester DCnn: 48HC) 1821 - 1842	Pendergrass, J.	1821 - 1842	
+MET/2/1/2/3/184	Private Weather Diary for Harpenden, Hertfordshire DCnn: 35HN Latitude 51.48.4 N Longitude 21.20 W 1817 - 1823, High Wycombe, Buckinghamshire (DCnn: 45HY) Latitude 51.37.30 N Longitude 40.30 W 1823 - 1824 and Reading, Berkshire (DCnn: 55RD) Latitude 51.26 N Longitude 1.03.W 1847 - 1855 by an unknown observer 1817 - 1855 (missing 1819 - 1821).	Tatem, G.	1817 - 1855	
+MET/2/1/2/3/187	Private Weather Diary for Highworth, Wiltshire DCnn: 58HW 1813 - 1821 and Stonesfield, Oxfordshire DCnn: 45SN 1836 - 1842	Rowden, E. Robinson, F.	1813 - 1842
+MET/2/1/2/3/194	Private Weather Diary for Holywell (Downing Hall), Clywd (old county Flintshire DCnn:74HW) 1793 - 1835	Pennant, D.	1793 - 1835	
+MET/2/1/2/3/202	Private Weather Diary for Kyme Manor, South Kyme near Sleaford Lincolnshire 1800 - 1869	Vicar of Kyme Moor	1800 - 1869	
+MET/2/1/2/3/241	Private Weather Diary for Royal Observatory Greenwich - Brumham collection	Brumham, G. D.	1814 - 1879	
+MET/2/1/2/3/242	Private Weather Diary for various locations (Brumham) 1726 - 1869	Brumham, G. D.	1726 - 1869	
+MET/2/1/2/3/243	Private Weather Diary for Greenwich Royal Observatory	Brumham, G. D.	1776 - 1871	
+MET/2/1/2/3/247	Private Weather Diary for London, Strand 1815 - 1816, Clerkenwell 1816 - 1831 and Islington 1832 - 1851 - A. Edwin papers	Edwin, A.	1815 - 1851	
+MET/2/1/2/3/249	Papers of A. Edwin	Edwin, A.	1817 - 1870	
+MET/2/1/2/3/251	Private Weather Diary various sites esp. Manchester, Stratford, Boston Linconlshire and Plaistow, London (L. Howard) 1820 - 1830
+MET/2/1/2/3/257	Private Weather Diary for London and various other locations (Gentleman's Magazine) 1791 - 1829	Various	1791 - 1829	
+MET/2/1/2/3/260	Private Weather Diary for London (various sites) compiled by Doxat (DCnn: 50DO)	Doxat, H.	1757 - 1838	
+MET/2/1/2/3/311	Private Weather Diary for Owston Hall, Owston Doncaster, South Yorkshire	?Binnbury	1819 - 1840	
+MET/2/1/2/3/384	Private Weather Diary for Somerstown or Camden Greater London (DCnn: 50ST) missing September 1786 - 1799	Unknown	1783 - 1842	
+MET/2/1/2/3/390	Private Weather Diary for Sunbury, Vicarage, Surrey (old county Middlesex) (DCnn: 51SV)	Cowe, J.	1795 - 1839	
+MET/2/1/2/3/415	Private Weather Diary for Swansea , West Glamorgan (DCnn: 84SN) 1818 - 1843	Edwards, Dr Gutch, J. Jenkins, J.	1818 - 1843	
+MET/2/1/2/3/432	Private Weather Diary for various sites (cuttings from newspapers etc)	Unknown	1807 - 1843
+MET/2/1/2/3/491	Private Weather Diary for Tullygowan, Ireland	Dickson, T.	1817 - 1853	
+MET/2/1/2/3/496	Private Weather Diary for HMS Blonde (DCnn: 50BL) on voyage from Falmouth to the Sandwich Islands	Maldon, C. R.	1824 - 1826
+
+IN NATIONAL RECORDS OF SCOTLAND (EDINBURGH)
+Private weather diary for Carbeth, Stirlingshire 1839 - 1859.		1817 - 1859
+Private Weather Diary for Edinburgh.		1795 - 1850 (possibly missing 1838)
+Private weather diary of James Ramsay for Perthshire (3 sites).		1804 - 1832
+
+WELLCOME TRUST
+AMS/MF/3/11	Meteorological Journal kept near Kendal by John Gough - NOT SURE THIS WILL HAVE DATA
+
+BRITISH LIBRARY:
+Welbeck Abbey
+
+SHIPS
+Unknown
+
+
