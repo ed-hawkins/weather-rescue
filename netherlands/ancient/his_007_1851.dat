@@ -26,7 +26,7 @@ U   = relatieve vochtigheid in procenten/ relative atmospheric humidity in perce
 
 STN,YYYYMMDD,HHMM,   DD,   FD,   FK,   FX,    T,   TN,   TX,    R,     P,    N,    U
 
-007,18511210,0800,     ,     ,     ,     ,     ,     ,     ,     ,      ,     ,                     
+007,18511210,0800,    X,    0,     ,     ,     ,     ,     ,     ,      ,     ,                     
 007,18511210,0900,   ZW,     ,     ,     ,     ,     ,     ,     ,      ,     ,                     
 007,18511210,1400,   ZW,     ,     ,     ,     ,     ,     ,     ,      ,     ,                     
 007,18511210,1800,     ,     ,     ,     ,     ,     ,     ,     ,      ,     ,                     
