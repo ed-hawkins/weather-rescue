@@ -4,12 +4,12 @@ Name	THWAITE
 Lat	52.2710
 Lon	1.0960
 Alt	45.0
-Source	Ed Hawkins | Met Office Archives
+Source	Ed Hawkins | Met Office Archives | Observations by Orlando Whistlecraft
 Link	
 Vbl	p
 Stat	point
 Units	hPa
-Meta	PTC=? | PGC=? | Observations by Orlando Whistlecraft
+Meta	PTC=? | PGC=?
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1859	8	1	9	0	0	1015.92	
 1859	8	1	20	0	0	1019.30	
