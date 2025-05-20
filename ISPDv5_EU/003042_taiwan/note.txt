@@ -1,0 +1,11 @@
+The name of our collection is ‘Taiwan hourly SLP, Central Weather Bureau’.
+And its description is ‘Taiwan Stations’.
+
+bankid=3102xxx but (04/19/2017) but found 3042 is better
+
+On Wednesday, March 22, 2017, leonshen <leonshen@cwb.gov.tw> wrote:
+> Dear Yin,
+> The pressure data has been corrected by temperature and gravity.
+> Sea level pressure data was transferred from pressure data using temperature and the high of barometer.
+> When there was a severe weather like Typhoon, weather stations did observation each hour in ancient.
+> So some of the sea level pressure digitalized from documents, others was transferred by station pressure.

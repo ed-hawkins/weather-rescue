@@ -1,0 +1,8 @@
+Station name	ID
+Circular Head	91094
+Darwin Post Office	14016
+Eden Post Office	69015
+Goolwa	23718
+Kapunda	23307
+Mount Gambier	26020
+Wallaroo	22020

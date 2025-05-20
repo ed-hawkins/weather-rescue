@@ -1,0 +1,21 @@
+Hello Yin,
+
+ 
+
+Sorry for the delay in responding as I was away. Please find attached a corrected file which replaces 
+the file 'Collec 3030 TOD79_03.txt' (originally submitted on 26 January 2016).
+
+ 
+
+Corrections were made to all records with the year 1879, which in fact should have been 1878. However, 
+some of the station IDs are missing in this file (recorded as '1.00E+13'). We have found some of these 
+station IDs, which I have attached separately. Mac thought you might already have a script for updating 
+station IDs. If not, please let me know.
+
+ 
+
+Regards,
+
+ 
+
+Kimi
