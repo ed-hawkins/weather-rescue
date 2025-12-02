@@ -1,0 +1,181 @@
+'As-digitised',           'SEF_ID',            'Number'
+'16 de Octubre',          'DWR_16_de_Octubre',   125
+'9 de Julio',             'DWR_9_de_Julio',      1
+'Abra Pampa',             'DWR_Abra_Pampa',      2
+'Andalgalá',              'DWR_Andalgala',       3
+'Andalgala',              'DWR_Andalgala',       3000
+'Arias',                  'DWR_Arias',           4
+'Arocena',                'DWR_Arocena',         126
+'Arroyitos',              'DWR_Arroyitos',       5
+'Bahia Blanca',           'DWR_Bahia_Blanca',    6 
+'Balcarce',               'DWR_Balcarce',        7
+'Bernasconi',             'DWR_Bernasconi',      8
+'B. Mitre',               'DWR_B._Mitre',        9
+'Bolivar',                'DWR_Bolivar',        10
+'B. Parada',              'DWR_B._Parada',      11
+'BRASIL - Rio de Janeiro' 'DWR_Rio_Janeiro'     127
+'BUENOS AIRES-Azul',      'DWR_Azul_BA',        12
+'BUENOS AIRES - Azul'     'DWR_Azul_BA',        12000
+'BUENOS AIRES-Junin',     'DWR_Junin_BA',       13
+'Bahia Blanca',           'DWR_Bahia_Blanca',   127
+'Balcarce',               'DWR_Balcarce',       128
+'Bell Ville',             'DWR_Bell_Ville',     129
+'Bernasconi',             'DWR_Bernasconi',     130
+'Bolivar',                'DWR_Bolivar',        131
+'Buena Esperanza',        'DWR_B_Esperanza',    132
+'Burruyacu',              'DWR_Burruyacu',      14
+'Cabo Alarcon',           'DWR_Cabo_Alarcon',   15 
+'Cabo Blanco',            'DWR_Cabo_Blanco',    16
+'Cabo Raso',              'DWR_Cabo_Raso',      17
+'C. Rivadavia',           'DWR_C._Rivadavia',   133
+'C. Virgenes',            'DWR_C._Virgenes',    134
+'Caleta Olivia',          'DWR_Caleta_Oliv.',   18 
+'Camarones',              'DWR_Camarones',      19
+'Cañada Verde',           'DWR_Canada_Verde',   20
+'Canadon de las Vacas',   'DWR_Canadon_dlV.'    136
+'Canadon',                'DWR_Canadon',        137
+'CAPITAL FEDERAL',        'DWR_Capital_Fed.',   21 
+'Carcarañá',              'DWR_Carcarana',      22
+'CATAMARCA-Capital',      'DWR_Catamarca-Cp',   23 
+'Ceres',                  'DWR_Ceres',          24
+'Chamical',               'DWR_Chamical',       138
+'CHACO - La Sábana',      'DWR_Chaco-La_Sb.',   25 
+'Chilecito',              'DWR_Chilecito',      26
+'CHILE - P.  Arenas',     'DWR_Punta_Arenas',   135
+'Chilcas',                'DWR_Chilcas',        138
+'Chivilcoy',              'DWR_Chivilcoy',      27
+'Choele Choel',           'DWR_Choele_Choel',   28
+'Cholila',                'DWR_Cholila',        139
+'Chos - Malal',           'DWR_Chos-Malal',     140
+'CHUBUT-Madryn',          'DWR_Chubut-Mdryn',   29
+'Colonia Sarmiento',      'DWR_Colonia_Sarm',   141
+'Concepcion-MISSIONES',   'DWR_Concep.-Mis.',   30 
+'Concepcion-TUCUMAN',     'DWR_Concep.-Tuc.',   31 
+'Concordia',              'DWR_Concordia',      32
+'Conesa',                 'DWR_Conesa',         33
+'CORDOBA-Capital',        'DWR_Cordoba-Cap.',   34 
+'Coronel Pringles',       'DWR_Coronel_Prg.',   35
+'CORRIENTES-Capital',     'DWR_Corrientes-C',   36 
+'C. Rivadavia',           'DWR_C._Rivadavia',   37
+'Cruz del Eje',           'DWR_Cruz_del_Eje',   142
+'Cuadro Nacional',        'DWR_Cuadro_Nac',     143
+'Curityba',               'DWR_Curityba',       144
+'Curuzú-Cuatiá',          'DWR_Curuzu-Cuat.',   38
+'Cuyaba',                 'DWR_Cuyaba',         145
+'Dique San Roque',        'DWR_Dique_Sn_Rq',    39
+'Dolores',                'DWR_Dolores',        40
+'Dos Pozos',              'DWR_Dos_Pozos',      41
+'ENTRE RIOS-Delicias',    'DWR_Delicias_ER',    41
+'Esperanza',              'DWR_Esperanza',      43
+'Esquina',                'DWR_Esquina',        44
+'Estacion Pereyra',       'DWR_Estc_Pereyra',   45
+'F. Roca',                'DWR_F. Roca',        146
+'FORMOSA - Formosa',      'DWR_Formosa_Arg.',   46
+'Florianopolis',          'DWR_Florianoplis',   147
+'General Uriburu',        'DWR_Gen_Uriburu',    47
+'General Villegas',       'DWR_Gen_Villegas',   48
+'Goya',                   'DWR_Goya',           49
+'Gualeguay',              'DWR_Gualeguay',      50
+'Guaminí',                'DWR_Guamini',        51
+'Humahuaca',              'DWR_Humahuaca',      52
+'JUJUY-Capital',          'DWR_Jujuy-Cap.',     53
+'Jachal',                 'DWR_Jachal',         148
+'Junin',                  'DWR_Junin_BA',       13000
+'La Carlota',             'DWR_La_Carlota',     55
+'La Cautiva',             'DWR_La_Cautiva',     56
+'La Cocha',               'DWR_La_Cocha',       57
+'La Paz',                 'DWR_La Paz',         148
+'La Plata',               'DWR_La_Plata',       58
+'La Quiaca',              'DWR_La_Quiaca',      148
+'Las Cuevas',             'DWR_Las_Cuevas',     149
+'Las Flores',             'DWR_Las_Flores',     59
+'Las Lajas',              'DWR_Las_Lajas',      60
+'Lujan',                  'DWR_Lujan',          150
+'Malaspina',              'DWR_Malaspina',      61
+'Mar del Plata',          'DWR_Mar_dl_Plata',   62
+'MENDOZA-Capital',        'DWR_Mendoza-Cap.',   63
+'MISIONES-Posadas',       'DWR_Posadas_Mis.',   64
+'MONTEVIDEO',             'DWR_Monvevideo',     151
+'Malaspina',              'DWR_Malaspina',      152
+'Necochea',               'DWR_Necochea',       65
+'NEQUEN - Arroyitos',     'DWR_Arroyitos_Nq',   66
+'Neuquen',                'DWR_Neuquen',        67
+'NEUQUEN - Pilcaneyen',   'DWR_Pilcaneyen',     68
+'NEUQUEN-Cabo Alarcon.csv','DWR_Cabo_Alarcon',  15000
+'N. Huapí',               'DWR_N._Huapi',       69
+'Nahuel Huapi',           'DWR_N._Huapi',       69000
+'Necochea',               'DWR_Necochea',       153
+'Norquinco'               'DWR_Norquinco',      154
+'Olavarria',              'DWR_Olavarria',      70
+'PAMPA - Acha',           'DWR_Acha_Pampa',     71
+'PARAGUAY-Asunción',      'DWR_Asuncion_Pgy',   72
+'Paso de los Libres',     'DWR_Paso_Libres',    73
+'Patagones',              'DWR_Patagones',      74
+'P. Coyle',               'DWR_P._Coyle',       155
+'P. Deseado',             'DWR_P._Deseado',     75
+'P. Gallegos',            'DWR_P._Gallegos',    156
+'Pico Salamanca',         'DWR_Pico_Salama.',   76
+'Piedra de Aguila',       'DWR_Piedra_Agui.',   77
+'Pueblo Brugo',           'DWR_Pueblo_Brugo',   78
+'Puerto Militar',         'DWR_Puerto_Mili.',   79
+'Quiaca',                 'DWR_Quiaca',         80
+'Quilino',                'DWR_Quilino',        81
+'Recreo',                 'DWR_Recreo',         82
+'Renca',                  'DWR_Renca',          157
+'Rio Cuarto',             'DWR_Rio_Cuarto',     83
+'Rio Grande do Sul',      'DWR_R_Grande_dS',    158
+'Rio Seco',               'DWR_Rio_Seco',       159
+'RIOJA-Capital',          'DWR_Rioja-Cap.',     84
+'Rioja',                  'DWR_Rioja',          84000
+'RIOJA-Chilecito',        'DWR_Chilecito_Rj',   85
+'RIO NEGRO-Roca',         'DWR_Roca_Rio_N.',    86
+'RIO NEGRO - Choele Choel','DWR_Choele_Choel',  28000
+'RIOJA - Chilecito',      'DWR_Chilecito',      26000
+'Rosario',                'DWR_Rosario',        88
+'Rosario de la Frontera', 'DWR_Rosario_dlF.',   89
+'S. Julian',              'DWR_S._Julian',      160
+'San Julian',             'DWR_S._Julian',      160000
+'Saladillo',              'DWR_Saladillo',      90
+'SALTA',                  'DWR_Salta',          91
+'SALTA-Capital',          'DWR_Salta',          91000
+'Salta-La Merced',        'DWR_Salta-La_Mcd',   92
+'San Antonio',            'DWR_San_Antonio',    93
+'San Blas',               'DWR_San_Blas',       94
+'San Carlos',             'DWR_San_Carlos',     95
+'San_Cristobal',          'DWR_S_Cristobal',    164
+'San Francisco',          'DWR_S_Francisco',    165
+'San Jorge',              'DWR_San_Jorge',      96
+'SAN JUAN-Capital',       'DWR_San_Juan-Cp.',   97
+'San Lorenzo',            'DWR_San_Lorenzo',    98
+'SAN LUIS',               'DWR_San_Luis',       99
+'San Luis - Capital',     'DWR_San_Luis',       99000
+'SAN LUIS-V. Mercedes',   'DWR_San_L-V._Mcd',  100
+'SAN Luius-V. MERCEDES',  'DWR_San_L-V._Mcd',  100000
+'San Martin',             'DWR_San_Martin',    101      
+'San Nicolás',            'DWR_San_Nicolas',   102
+'Santa Cruz',             'DWR_Santa_Cruz',    103
+'SANTA CRUZ - Mazaredo',  'DWR_SC_Mazaredo',   161
+'SANTA FE-Capital',       'DWR_Santa_Fa-Cp.',  104
+'Santa Maria',            'DWR_Santa_Maria',   105
+'SANTIAGO - Capital',     'DWR_Santiago-Cap',  162
+'SANTIAGO - Corral',      'DWR_Stigo-Corral',  163
+'Santo Tomé',             'DWR_Santo_Tome',    106
+'Sierra Grande',          'DWR_Sierra_Grnde',  107
+'Suncho Corral',          'DWR_Sncho_Corral',  166
+'Sta. CRUZ-Mazaredo',     'DWR_St._Cruz-Mzd',  108
+'Tandil',                 'DWR_Tandil',        109
+'Tinogasta',              'DWR_Tinogasta',     110
+'Trancas',                'DWR_Trancas',       111
+'Tratayen',               'DWR_Tratayen',      112
+'Trenque Lauquen',        'DWR_Trenque_Lauq',  113
+'Tres Arroyos',           'DWR_Tres_Arroyos',  114
+'TUCUMAN-Capital',        'DWR_Tucman-Captl',  115
+'Tumbaya',                'DWR_Tumbaya',       116
+'Uruguay',                'DWR_Uruguay',       117
+'V. Casilda',             'DWR_V._Casilda',    118
+'Vera',                   'DWR_Vera',          119
+'Villaguay',              'DWR_Villaguay',     120
+'Villa Maria',            'DWR_Villa_Maria',   121
+'Villa Mercedes',         'DWR_Villa_Mrced.',  122
+'Ytaybate',               'DWR_Ytaybate',      123
+'Zárate',                 'DWR_Zarate',        124
