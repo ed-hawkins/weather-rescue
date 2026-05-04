@@ -1,0 +1,17 @@
+SEF	1.0.0
+ID	StJohnsCanada
+Name	StJohnsNFLDCas
+Lat	47.55
+Lon	307.28
+Alt	37.6
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	p
+Stat	point
+Unit	hPa
+Meta		UTCOffset=Applied	UTCOffset=3.5
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1869	02	26	01	30	0	1014.90	|	orig=29.97 inHg|Local time: 2100|QC flag: none|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	26	11	30	0	-999	|	orig=Empty inHg|Local time: 0700|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	26	18	30	0	1022.01	|	orig=30.18 inHg|Local time: 1400|QC flag: none|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	27	01	30	0	1022.01	|	orig=30.18 inHg|Local time: 2100|QC flag: none|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
