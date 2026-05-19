@@ -1,0 +1,4 @@
+Source_ID|Station_ID|Station_name|Alias_station_name|Year|Month|Day|Hour|Minute|Latitude|Longitude|Elevation|Observed_value|Source_QC_flag|Original_observed_value|Original_observed_value_units|Report_type_code|Measurement_code_1|Measurement_code_2
+400|8052|DENIA POLICIA LOCAL||1975|11|24|18|0|38.841389|0.105556|17|906.0||9060.0|Hpa|||
+400|8052|DENIA POLICIA LOCAL||1975|11|24|13|0|38.841389|0.105556|17|905.2||9052.0|Hpa|||
+400|8052|DENIA POLICIA LOCAL||1975|11|24|7|0|38.841389|0.105556|17|905.7||9057.0|Hpa|||

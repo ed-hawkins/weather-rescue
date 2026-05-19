@@ -1,0 +1,4 @@
+Source_ID|Station_ID|Station_name|Alias_station_name|Year|Month|Day|Hour|Minute|Latitude|Longitude|Elevation|Observed_value|Source_QC_flag|Original_observed_value|Original_observed_value_units|Report_type_code|Measurement_code_1|Measurement_code_2
+400|3100B|ARANJUEZ||2000|10|27|13|0|40.067222|-3.546111|540|943.4||9434.0|Hpa|||
+400|3100B|ARANJUEZ||2000|10|27|7|0|40.067222|-3.546111|540|943.5||9435.0|Hpa|||
+400|3100B|ARANJUEZ||2000|10|27|0|0|40.067222|-3.546111|540|942.4||9424.0|Hpa|||
