@@ -1,0 +1,75 @@
+SEF	1.0.0
+ID	CRONKBOURNE_DOUGLAS
+Name	Cronkbourne Douglas
+Source	Brotchie et al. (in review)
+Lat	54.1667
+Lon	-4.6667
+Alt	86.5
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	p
+Stat	point
+Units	hPa
+Meta	Adjusted=N|PTC=Y|PTC_Correction=32F|PGC=Y|PGC_Correction=+.024 in.
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1908	5	1	9	18	0	1016.26	orig=30.01 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	1	21	18	0	1015.92	orig=30.0 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	2	9	18	0	1014.22	orig=29.95 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	2	21	18	0	1012.19	orig=29.89 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	3	9	18	0	1011.18	orig=29.86 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	3	21	18	0	1007.45	orig=29.75 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	4	9	18	0	1000.0	orig=29.53 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	4	21	18	0	995.26	orig=29.39 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	5	9	18	0	988.83	orig=29.2 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	5	21	18	0	984.76	orig=29.08 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	6	9	18	0	985.44	orig=29.1 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	6	21	18	0	994.24	orig=29.36 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	7	9	18	0	1003.39	orig=29.63 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	7	21	18	0	1001.69	orig=29.58 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	8	9	18	0	998.99	orig=29.5 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	8	21	18	0	994.92	orig=29.38 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	9	9	18	0	1000.34	orig=29.54 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	9	21	18	0	999.66	orig=29.52 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	10	9	18	0	1002.71	orig=29.61 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	10	21	18	0	1003.73	orig=29.64 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	11	9	18	0	1007.79	orig=29.76 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	11	21	18	0	1005.76	orig=29.7 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	12	9	18	0	1003.39	orig=29.63 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	12	21	18	0	1002.37	orig=29.6 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	13	9	18	0	1001.36	orig=29.57 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	13	21	18	0	997.97	orig=29.47 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	14	9	18	0	995.26	orig=29.39 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	14	21	18	0	993.57	orig=29.34 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	15	9	18	0	995.94	orig=29.41 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	15	21	18	0	1000.34	orig=29.54 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	16	9	18	0	1012.87	orig=29.91 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	16	21	18	0	1016.26	orig=30.01 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	17	9	18	0	1019.98	orig=30.12 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	17	21	18	0	1019.98	orig=30.12 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	18	9	18	0	1022.01	orig=30.18 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	18	21	18	0	1023.37	orig=30.22 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	19	9	18	0	1019.64	orig=30.11 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	19	21	18	0	1019.98	orig=30.12 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	20	9	18	0	1023.03	orig=30.21 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	20	21	18	0	1014.22	orig=29.95 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	21	9	18	0	1006.44	orig=29.72 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	21	21	18	0	997.29	orig=29.45 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	22	9	18	0	1002.71	orig=29.61 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	22	21	18	0	1005.42	orig=29.69 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	23	9	18	0	1011.85	orig=29.88 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	23	21	18	0	1011.85	orig=29.88 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	24	9	18	0	1006.44	orig=29.72 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	24	21	18	0	1000.0	orig=29.53 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	25	9	18	0	1000.34	orig=29.54 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	25	21	18	0	1005.42	orig=29.69 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	26	9	18	0	1012.87	orig=29.91 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	26	21	18	0	1017.95	orig=30.06 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	27	9	18	0	1027.43	orig=30.34 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	27	21	18	0	1028.11	orig=30.36 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	28	9	18	0	1029.46	orig=30.4 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	28	21	18	0	1025.4	orig=30.28 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	29	9	18	0	1026.41	orig=30.31 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	29	21	18	0	1022.69	orig=30.2 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	30	9	18	0	1016.26	orig=30.01 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	30	21	18	0	1011.85	orig=29.88 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	31	9	18	0	1009.48	orig=29.81 inHg|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	31	21	18	0	1009.48	orig=29.81 inHg|orig.time=21:00 Local Mean Time|qc_colmath=pass

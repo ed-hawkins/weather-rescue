@@ -1,0 +1,75 @@
+SEF	1.0.0
+ID	DEERNESS
+Name	Deerness
+Source	Brotchie et al. (in review)
+Lat	58.9333
+Lon	-2.75
+Alt	55.2
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	p
+Stat	point
+Units	hPa
+Meta	Adjusted=N|PTC=Y|PTC_Correction=32F|PGC=Y|PGC_Correction=+ .036 in.
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1897	10	1	9	11	0	1010.16	orig=29.83 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	1	21	11	0	1014.22	orig=29.95 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	2	9	11	0	1013.21	orig=29.92 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	2	21	11	0	1008.81	orig=29.79 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	3	9	11	0	1008.81	orig=29.79 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	3	21	11	0	1017.27	orig=30.04 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	4	9	11	0	1022.69	orig=30.2 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	4	21	11	0	1020.32	orig=30.13 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	5	9	11	0	1012.19	orig=29.89 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	5	21	11	0	1012.53	orig=29.9 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	6	9	11	0	1017.95	orig=30.06 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	6	21	11	0	1019.3	orig=30.1 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	7	9	11	0	1014.9	orig=29.97 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	7	21	11	0	1007.79	orig=29.76 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	8	9	11	0	1000.0	orig=29.53 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	8	21	11	0	1002.71	orig=29.61 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	9	9	11	0	1006.77	orig=29.73 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	9	21	11	0	1004.74	orig=29.67 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	10	9	11	0	994.58	orig=29.37 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	10	21	11	0	989.16	orig=29.21 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	11	9	11	0	993.91	orig=29.35 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	11	21	11	0	999.66	orig=29.52 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	12	9	11	0	1001.36	orig=29.57 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	12	21	11	0	998.99	orig=29.5 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	13	9	11	0	994.24	orig=29.36 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	13	21	11	0	998.65	orig=29.49 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	14	9	11	0	999.66	orig=29.52 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	14	21	11	0	1000.34	orig=29.54 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	15	9	11	0	997.97	orig=29.47 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	15	21	11	0	985.78	orig=29.11 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	16	9	11	0	985.78	orig=29.11 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	16	21	11	0	991.87	orig=29.29 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	17	9	11	0	993.91	orig=29.35 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	17	21	11	0	990.18	orig=29.24 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	18	9	11	0	992.55	orig=29.31 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	18	21	11	0	1003.39	orig=29.63 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	19	9	11	0	1007.79	orig=29.76 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	19	21	11	0	1015.58	orig=29.99 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	20	9	11	0	1019.3	orig=30.1 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	20	21	11	0	1024.04	orig=30.24 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	21	9	11	0	1026.41	orig=30.31 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	21	21	11	0	1028.79	orig=30.38 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	22	9	11	0	1029.12	orig=30.39 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	22	21	11	0	1027.09	orig=30.33 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	23	9	11	0	1023.71	orig=30.23 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	23	21	11	0	1020.32	orig=30.13 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	24	9	11	0	1023.37	orig=30.22 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	24	21	11	0	1023.03	orig=30.21 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	25	9	11	0	1020.66	orig=30.14 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	25	21	11	0	1019.3	orig=30.1 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	26	9	11	0	1018.29	orig=30.07 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	26	21	11	0	1018.96	orig=30.09 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	27	9	11	0	1018.96	orig=30.09 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	27	21	11	0	1014.56	orig=29.96 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	28	9	11	0	1014.22	orig=29.95 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	28	21	11	0	1013.55	orig=29.93 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	29	9	11	0	1011.18	orig=29.86 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	29	21	11	0	1007.79	orig=29.76 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	30	9	11	0	1008.13	orig=29.77 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	30	21	11	0	1017.61	orig=30.05 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	31	9	11	0	1024.38	orig=30.25 inHg|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1897	10	31	21	11	0	1024.04	orig=30.24 inHg|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass

@@ -1,0 +1,69 @@
+SEF	1.0.0
+ID	CHELTENHAM
+Name	Cheltenham
+Source	Brotchie et al. (in review)
+Lat	51.9
+Lon	-2.05
+Alt	65.2
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	dep_wet
+Stat	point
+Units	C
+Meta	Adjusted=N|height_of_thermometer=NA
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1909	2	1	9	8	0	0.7	orig=1.3 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	1	21	8	0	1.2	orig=2.1 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	2	9	8	0	0.7	orig=1.3 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	2	21	8	0	0.7	orig=1.2 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	3	9	8	0	1.6	orig=2.9 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	3	21	8	0	1.3	orig=2.4 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	4	9	8	0	1.6	orig=2.8 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	4	21	8	0	0.8	orig=1.5 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	5	9	8	0	2.1	orig=3.8 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	5	21	8	0	1.4	orig=2.5 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	6	9	8	0	1.3	orig=2.4 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	6	21	8	0	1.1	orig=1.9 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	7	9	8	0	0.6	orig=1.1 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	7	21	8	0	1.1	orig=1.9 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	8	9	8	0	0.6	orig=1.1 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	8	21	8	0	1.5	orig=2.7 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	9	9	8	0	1.3	orig=2.3 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	9	21	8	0	0.7	orig=1.2 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	10	9	8	0	0.3	orig=0.5 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	10	21	8	0	0.3	orig=0.6 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	11	9	8	0	0.6	orig=1.1 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	11	21	8	0	0.6	orig=1.1 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	12	9	8	0	1.8	orig=3.3 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	12	21	8	0	1.2	orig=2.1 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	13	9	8	0	1.7	orig=3.1 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	13	21	8	0	0.8	orig=1.4 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	14	9	8	0	0.7	orig=1.3 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	14	21	8	0	0.4	orig=0.7 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	15	9	8	0	0.7	orig=1.3 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	15	21	8	0	1.3	orig=2.3 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	16	9	8	0	1.7	orig=3.1 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	16	21	8	0	0.8	orig=1.5 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	17	9	8	0	1.7	orig=3.1 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	17	21	8	0	2.0	orig=3.6 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	18	9	8	0	1.7	orig=3.0 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	18	21	8	0	1.2	orig=2.1 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	19	9	8	0	1.9	orig=3.5 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	19	21	8	0	1.5	orig=2.7 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	20	9	8	0	2.0	orig=3.6 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	20	21	8	0	2.1	orig=3.7 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	21	9	8	0	1.7	orig=3.1 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	21	21	8	0	3.8	orig=6.9 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	22	9	8	0	3.0	orig=5.4 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	22	21	8	0	1.4	orig=2.5 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	23	9	8	0	2.3	orig=4.1 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	23	21	8	0	0.6	orig=1.1 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	24	9	8	0	1.7	orig=3.1 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	24	21	8	0	0.6	orig=1.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	25	9	8	0	1.4	orig=2.5 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	25	21	8	0	1.7	orig=3.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	26	9	8	0	1.6	orig=2.8 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	26	21	8	0	1.1	orig=1.9 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	27	9	8	0	0.6	orig=1.1 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	27	21	8	0	0.3	orig=0.6 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1909	2	28	9	8	0	0.2	orig=0.3 F|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1909	2	28	21	8	0	1.1	orig=1.9 F|orig.time=21:00 Local Mean Time|qc_colmath=pass

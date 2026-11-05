@@ -1,0 +1,73 @@
+SEF	1.0.0
+ID	PLYMOUTH
+Name	Plymouth
+Source	Brotchie et al. (in review)
+Lat	50.4667
+Lon	-4.1333
+Alt	35.4
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	n
+Stat	point
+Units	%
+Meta	Adjusted=N
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1899	6	1	9	16	0	30	orig=3.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	1	21	16	0	30	orig=3.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	2	9	16	0	40	orig=4.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	2	21	16	0	0	orig=0.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	3	9	16	0	0	orig=0.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	3	21	16	0	0	orig=0.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	4	9	16	0	30	orig=3.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	4	21	16	0	0	orig=0.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	5	9	16	0	60	orig=6.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	5	21	16	0	20	orig=2.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	6	9	16	0	30	orig=3.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	6	21	16	0	20	orig=2.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	7	9	16	0	60	orig=6.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	7	21	16	0	10	orig=1.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	8	9	16	0	100	orig=10.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	8	21	16	0	0	orig=0.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	9	9	16	0	20	orig=2.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	9	21	16	0	0	orig=0.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	10	9	16	0	70	orig=7.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	10	21	16	0	0	orig=0.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	11	9	16	0	0	orig=0.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	11	21	16	0	0	orig=0.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	12	9	16	0	0	orig=0.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	12	21	16	0	30	orig=3.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	13	9	16	0	0	orig=0.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	13	21	16	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	14	9	16	0	50	orig=5.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	14	21	16	0	10	orig=1.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	15	9	16	0	60	orig=6.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	15	21	16	0	0	orig=0.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	16	9	16	0	0	orig=0.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	16	21	16	0	0	orig=0.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	17	9	16	0	0	orig=0.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	17	21	16	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	18	9	16	0	100	orig=10.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	18	21	16	0	30	orig=3.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	19	9	16	0	90	orig=9.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	19	21	16	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	20	9	16	0	80	orig=8.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	20	21	16	0	80	orig=8.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	21	9	16	0	70	orig=7.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	21	21	16	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	22	9	16	0	70	orig=7.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	22	21	16	0	0	orig=0.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	23	9	16	0	90	orig=9.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	23	21	16	0	10	orig=1.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	24	9	16	0	50	orig=5.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	24	21	16	0	70	orig=7.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	25	9	16	0	90	orig=9.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	25	21	16	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	26	9	16	0	80	orig=8.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	26	21	16	0	30	orig=3.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	27	9	16	0	60	orig=6.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	27	21	16	0	90	orig=9.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	28	9	16	0	100	orig=10.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	28	21	16	0	90	orig=9.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	29	9	16	0	50	orig=5.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	29	21	16	0	0	orig=0.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	30	9	16	0	50	orig=5.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	30	21	16	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass

@@ -1,0 +1,75 @@
+SEF	1.0.0
+ID	SCARBOROUGH
+Name	Scarborough
+Source	Brotchie et al. (in review)
+Lat	54.3
+Lon	-0.4
+Alt	30.5
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	dd
+Stat	point
+Units	degree
+Meta	Adjusted=N
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1897	12	1	9	1		270	orig=W|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	1	21	1		270	orig=W|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	2	9	1		315	orig=NW|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	2	21	1		315	orig=NW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	3	9	1		0	orig=CALM|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	3	21	1		0	orig=CALM|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	4	9	1		225	orig=SW|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	4	21	1		225	orig=SW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	5	9	1		0	orig=CALM|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	5	21	1		225	orig=SW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	6	9	1		225	orig=SW|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	6	21	1		225	orig=SW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	7	9	1		225	orig=SW|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	7	21	1		225	orig=SW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	8	9	1		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	8	21	1		225	orig=SW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	9	9	1		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	9	21	1		225	orig=SW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	10	9	1		225	orig=SW|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	10	21	1		225	orig=SW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	11	9	1		270	orig=W|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	11	21	1		270	orig=W|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	12	9	1		225	orig=SW|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	12	21	1		0	orig=CALM|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	13	9	1		225	orig=SW|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	13	21	1		225	orig=SW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	14	9	1		0	orig=CALM|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	14	21	1		225	orig=SW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	15	9	1		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	15	21	1		180	orig=S|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	16	9	1		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	16	21	1		180	orig=S|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	17	9	1		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	17	21	1		225	orig=SW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	18	9	1		270	orig=W|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	18	21	1		0	orig=CALM|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	19	9	1		0	orig=CALM|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	19	21	1		0	orig=CALM|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	20	9	1		0	orig=CALM|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	20	21	1		135	orig=SE|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	21	9	1		135	orig=SE|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	21	21	1		180	orig=S|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	22	9	1		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	22	21	1		225	orig=SW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	23	9	1		225	orig=SW|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	23	21	1		270	orig=W|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	24	9	1		225	orig=SW|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	24	21	1		225	orig=SW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	25	9	1		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	25	21	1		0	orig=CALM|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	26	9	1		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	26	21	1		225	orig=SW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	27	9	1		225	orig=SW|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	27	21	1		225	orig=SW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	28	9	1		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1897	12	28	21	1		270	orig=W|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1897	12	29	9	1		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA|qc=subdaily_repetition
+1897	12	29	21	1		180	orig=S|orig.time=21:00 Local Mean Time|qc_colmath=NA|qc=subdaily_repetition
+1897	12	30	9	1		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA|qc=subdaily_repetition
+1897	12	30	21	1		180	orig=S|orig.time=21:00 Local Mean Time|qc_colmath=NA|qc=subdaily_repetition
+1897	12	31	9	1		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA|qc=subdaily_repetition
+1897	12	31	21	1		180	orig=S|orig.time=21:00 Local Mean Time|qc_colmath=NA|qc=subdaily_repetition

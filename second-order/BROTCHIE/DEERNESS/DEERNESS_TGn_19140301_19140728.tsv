@@ -1,0 +1,54 @@
+SEF	1.0.0
+ID	DEERNESS
+Name	Deerness
+Source	Brotchie et al. (in review)
+Lat	58.9333
+Lon	-2.75
+Alt	48.8
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	TGn
+Stat	minimum
+Units	C
+Meta	Adjusted=N
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1914	3	1	21	11	p24hour	-66.6	orig=206.4 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	2	21	11	p24hour	-51.1	orig=221.9 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	3	21	11	p24hour	-69.9	orig=203.1 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	4	21	11	p24hour	-64.1	orig=208.9 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	5	21	11	p24hour	-66.1	orig=206.9 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	6	21	11	p24hour	-70.7	orig=202.3 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	7	21	11	p24hour	-71.7	orig=201.3 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	9	21	11	p24hour	-67.4	orig=205.6 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	10	21	11	p24hour	-70.5	orig=202.5 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	11	21	11	p24hour	-71.7	orig=201.3 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	12	21	11	p24hour	-68.2	orig=204.8 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	13	21	11	p24hour	-69.9	orig=203.1 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	14	21	11	p24hour	-69.9	orig=203.1 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	15	21	11	p24hour	-69.9	orig=203.1 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	16	21	11	p24hour	-70.7	orig=202.3 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	17	21	11	p24hour	-72.0	orig=201.0 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	18	21	11	p24hour	-70.2	orig=202.8 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	21	21	11	p24hour	-69.7	orig=203.3 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	22	21	11	p24hour	-71.5	orig=201.5 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	23	21	11	p24hour	-68.4	orig=204.6 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	24	21	11	p24hour	-65.4	orig=207.6 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	25	21	11	p24hour	-70.2	orig=202.8 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	29	21	11	p24hour	-69.9	orig=203.1 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	3	30	21	11	p24hour	-69.4	orig=203.6 K|orig.time=21:00 Local Mean Time|qc_colmath=unverified_no_mean
+1914	7	1	21	11	p24hour	-71.0	orig=202.0 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	2	21	11	p24hour	-68.7	orig=204.3 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	3	21	11	p24hour	-65.4	orig=207.6 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	5	21	11	p24hour	-63.6	orig=209.4 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	6	21	11	p24hour	-69.1	orig=203.9 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	7	21	11	p24hour	-72.8	orig=200.2 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	11	21	11	p24hour	-72.5	orig=200.5 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	15	21	11	p24hour	-67.4	orig=205.6 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	16	21	11	p24hour	-72.2	orig=200.8 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	20	21	11	p24hour	-72.0	orig=201.0 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	21	21	11	p24hour	-69.9	orig=203.1 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	22	21	11	p24hour	-67.9	orig=205.1 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	23	21	11	p24hour	-67.5	orig=205.5 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	24	21	11	p24hour	-34.4	orig=238.6 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	25	21	11	p24hour	-71.0	orig=202.0 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	26	21	11	p24hour	-72.6	orig=200.4 K|orig.time=21:00 Local Mean Time|qc_colmath=fail
+1914	7	28	21	11	p24hour	-71.7	orig=201.3 K|orig.time=21:00 Local Mean Time|qc_colmath=fail

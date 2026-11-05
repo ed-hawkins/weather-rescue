@@ -1,0 +1,74 @@
+SEF	1.0.0
+ID	CAMBRIDGE
+Name	Cambridge
+Source	Brotchie et al. (in review)
+Lat	52.2
+Lon	0.1333
+Alt	12.0
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	rr
+Stat	sum
+Units	mm
+Meta	Adjusted=N|height_of_raingauge=0.0m
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1912	9	2	8	59	p24hour	3.6	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	3	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	4	8	59	p24hour	0.3	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	5	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	6	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	7	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	8	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	9	8	59	p24hour	6.6	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	10	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	11	8	59	p24hour	2.3	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	12	8	59	p24hour	2.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	13	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	14	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	15	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	16	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	17	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	18	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	19	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	20	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	21	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	22	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	23	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	24	8	59	p24hour	0.3	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	25	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	26	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	27	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	28	8	59	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	29	8	59	p24hour	2.3	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	30	8	59	p24hour	14.7	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	10	1	8	59	p24hour	13.2	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1921	4	2	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	3	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	4	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	5	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	6	7	59	p24hour	0.3	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	7	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	8	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	9	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	10	7	59	p24hour	2.8	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	11	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	12	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	13	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	14	7	59	p24hour	11.2	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	15	7	59	p24hour	0.2	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	16	7	59	p24hour	5.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	17	7	59	p24hour	2.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	18	7	59	p24hour	0.3	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	19	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	20	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	21	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	22	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	23	7	59	p24hour	0.8	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	24	7	59	p24hour	3.1	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	25	7	59	p24hour	6.4	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	26	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	27	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	28	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	29	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	4	30	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1921	5	1	7	59	p24hour	0.0	orig.time=08:00 Greenwich Mean Time|qc_colmath=pass
+1922	1	1	8	59	p24hour	0.0	orig.time=09:00 Greenwich Mean Time|qc_colmath=pass

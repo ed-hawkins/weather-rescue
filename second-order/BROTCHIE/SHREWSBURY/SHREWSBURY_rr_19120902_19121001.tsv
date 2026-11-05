@@ -1,0 +1,43 @@
+SEF	1.0.0
+ID	SHREWSBURY
+Name	Shrewsbury
+Source	Brotchie et al. (in review)
+Lat	52.7167
+Lon	-2.75
+Alt	57.0
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	rr
+Stat	sum
+Units	mm
+Meta	Adjusted=N|height_of_raingauge=0.0m
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1912	9	2	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	3	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	4	9	11	p24hour	1.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	5	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	6	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	7	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	8	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	9	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	10	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	11	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	12	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	13	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	14	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	15	9	11	p24hour	2.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	16	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	17	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	18	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	19	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	20	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	21	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	22	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	23	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	24	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	25	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	26	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	27	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	28	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	29	9	11	p24hour	0.5	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	9	30	9	11	p24hour	10.7	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1912	10	1	9	11	p24hour	0.0	orig.time=09:00 Local Mean Time|qc_colmath=pass

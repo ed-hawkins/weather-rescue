@@ -1,0 +1,75 @@
+SEF	1.0.0
+ID	BABBACOMBE
+Name	Babbacombe
+Source	Brotchie et al. (in review)
+Lat	50.4833
+Lon	-3.5167
+Alt	89.3
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	rh
+Stat	point
+Units	%
+Meta	Adjusted=N
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1880	8	1	8	45	0	90.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	1	20	45	0	87.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	2	8	45	0	73.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	2	20	45	0	78.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	3	8	45	0	72.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	3	20	45	0	91.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	4	8	45	0	85.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	4	20	45	0	92.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	5	8	45	0	94.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	5	20	45	0	83.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	6	8	45	0	77.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	6	20	45	0	89.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	7	8	45	0	89.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	7	20	45	0	74.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	8	8	45	0	73.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	8	20	45	0	83.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	9	8	45	0	85.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	9	20	45	0	92.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	10	8	45	0	96.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	10	20	45	0	95.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	11	8	45	0	81.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	11	20	45	0	84.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	12	8	45	0	80.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	12	20	45	0	80.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	13	8	45	0	80.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	13	20	45	0	81.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	14	8	45	0	76.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	14	20	45	0	81.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	15	8	45	0	95.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	15	20	45	0	96.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	16	8	45	0	93.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	16	20	45	0	84.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	17	8	45	0	88.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	17	20	45	0	87.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	18	8	45	0	89.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	18	20	45	0	85.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	19	8	45	0	88.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	19	20	45	0	81.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	20	8	45	0	85.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	20	20	45	0	87.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	21	8	45	0	77.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	21	20	45	0	84.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	22	8	45	0	73.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	22	20	45	0	71.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	23	8	45	0	81.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	23	20	45	0	88.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	24	8	45	0	87.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	24	20	45	0	90.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	25	8	45	0	97.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	25	20	45	0	96.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	26	8	45	0	92.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	26	20	45	0	99.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	27	8	45	0	94.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	27	20	45	0	85.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	28	8	45	0	88.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	28	20	45	0	91.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	29	8	45	0	82.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	29	20	45	0	58.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	30	8	45	0	86.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	30	20	45	0	79.0	orig.time=21:00 Local Mean Time|qc_colmath=pass
+1880	8	31	8	45	0	74.0	orig.time=09:00 Local Mean Time|qc_colmath=pass
+1880	8	31	20	45	0	85.0	orig.time=21:00 Local Mean Time|qc_colmath=pass

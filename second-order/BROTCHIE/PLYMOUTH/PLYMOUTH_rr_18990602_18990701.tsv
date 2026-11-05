@@ -1,0 +1,43 @@
+SEF	1.0.0
+ID	PLYMOUTH
+Name	Plymouth
+Source	Brotchie et al. (in review)
+Lat	50.4667
+Lon	-4.1333
+Alt	35.7
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	rr
+Stat	sum
+Units	mm
+Meta	Adjusted=N|height_of_raingauge=0.3m
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1899	6	2	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	3	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	4	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	5	9	16	p24hour	0.889	orig=0.035 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	6	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	7	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	8	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	9	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	10	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	11	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	12	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	13	9	16	p24hour	1.27	orig=0.05 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	14	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	15	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	16	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	17	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	18	9	16	p24hour	0.889	orig=0.035 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	19	9	16	p24hour	9.906	orig=0.39 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	20	9	16	p24hour	13.462	orig=0.53 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	21	9	16	p24hour	0.508	orig=0.02 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	22	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	23	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	24	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	25	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	26	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	27	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	28	9	16	p24hour	0.508	orig=0.02 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	29	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	6	30	9	16	p24hour	0.0	orig=0.0 in|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1899	7	1	9	16	p24hour	16.256	orig=0.64 in|orig.time=09:00 Local Mean Time|qc_colmath=pass

@@ -1,0 +1,44 @@
+SEF	1.0.0
+ID	CRONKBOURNE_DOUGLAS
+Name	Cronkbourne Douglas
+Source	Brotchie et al. (in review)
+Lat	54.1667
+Lon	-4.6667
+Alt	84.4
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	TGn
+Stat	minimum
+Units	C
+Meta	Adjusted=N
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1908	5	1	21	18	p24hour	7.2	orig=45.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	2	21	18	p24hour	0.6	orig=33.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	3	21	18	p24hour	6.1	orig=43.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	4	21	18	p24hour	5.6	orig=42.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	5	21	18	p24hour	6.1	orig=43.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	6	21	18	p24hour	5.6	orig=42.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	7	21	18	p24hour	0.6	orig=33.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	8	21	18	p24hour	6.7	orig=44.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	9	21	18	p24hour	6.7	orig=44.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	10	21	18	p24hour	-0.6	orig=31.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	11	21	18	p24hour	5.0	orig=41.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	12	21	18	p24hour	7.2	orig=45.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	13	21	18	p24hour	6.7	orig=44.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	14	21	18	p24hour	-0.6	orig=31.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	15	21	18	p24hour	1.7	orig=35.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	16	21	18	p24hour	-0.6	orig=31.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	17	21	18	p24hour	8.3	orig=47.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	18	21	18	p24hour	10.0	orig=50.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	19	21	18	p24hour	6.7	orig=44.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	20	21	18	p24hour	3.3	orig=38.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	21	21	18	p24hour	0.0	orig=32.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	22	21	18	p24hour	1.1	orig=34.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	23	21	18	p24hour	0.6	orig=33.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	24	21	18	p24hour	8.3	orig=47.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	25	21	18	p24hour	1.7	orig=35.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	26	21	18	p24hour	3.9	orig=39.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	27	21	18	p24hour	4.4	orig=40.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	28	21	18	p24hour	1.7	orig=35.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	29	21	18	p24hour	4.4	orig=40.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	30	21	18	p24hour	5.0	orig=41.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	31	21	18	p24hour	10.6	orig=51.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass

@@ -1,0 +1,75 @@
+SEF	1.0.0
+ID	CRONKBOURNE_DOUGLAS
+Name	Cronkbourne Douglas
+Source	Brotchie et al. (in review)
+Lat	54.1667
+Lon	-4.6667
+Alt	84.4
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	n
+Stat	point
+Units	%
+Meta	Adjusted=N
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1908	5	1	9	18	0	90	orig=9.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	1	21	18	0	0	orig=0.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	2	9	18	0	20	orig=2.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	2	21	18	0	80	orig=8.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	3	9	18	0	100	orig=10.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	3	21	18	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	4	9	18	0	100	orig=10.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	4	21	18	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	5	9	18	0	90	orig=9.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	5	21	18	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	6	9	18	0	100	orig=10.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	6	21	18	0	60	orig=6.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	7	9	18	0	10	orig=1.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	7	21	18	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	8	9	18	0	100	orig=10.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	8	21	18	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	9	9	18	0	40	orig=4.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	9	21	18	0	80	orig=8.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	10	9	18	0	40	orig=4.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	10	21	18	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	11	9	18	0	90	orig=9.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	11	21	18	0	90	orig=9.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	12	9	18	0	80	orig=8.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	12	21	18	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	13	9	18	0	90	orig=9.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	13	21	18	0	20	orig=2.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	14	9	18	0	80	orig=8.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	14	21	18	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	15	9	18	0	100	orig=10.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	15	21	18	0	40	orig=4.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	16	9	18	0	100	orig=10.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	16	21	18	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	17	9	18	0	100	orig=10.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	17	21	18	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	18	9	18	0	100	orig=10.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	18	21	18	0	70	orig=7.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	19	9	18	0	100	orig=10.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	19	21	18	0	10	orig=1.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	20	9	18	0	80	orig=8.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	20	21	18	0	20	orig=2.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	21	9	18	0	100	orig=10.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	21	21	18	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	22	9	18	0	70	orig=7.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	22	21	18	0	0	orig=0.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	23	9	18	0	40	orig=4.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	23	21	18	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	24	9	18	0	100	orig=10.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	24	21	18	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	25	9	18	0	70	orig=7.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	25	21	18	0	20	orig=2.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	26	9	18	0	70	orig=7.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	26	21	18	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	27	9	18	0	60	orig=6.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	27	21	18	0	0	orig=0.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	28	9	18	0	0	orig=0.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	28	21	18	0	20	orig=2.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	29	9	18	0	60	orig=6.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	29	21	18	0	0	orig=0.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	30	9	18	0	60	orig=6.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	30	21	18	0	100	orig=10.0|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1908	5	31	9	18	0	100	orig=10.0|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1908	5	31	21	18	0	40	orig=4.0|orig.time=21:00 Local Mean Time|qc_colmath=pass

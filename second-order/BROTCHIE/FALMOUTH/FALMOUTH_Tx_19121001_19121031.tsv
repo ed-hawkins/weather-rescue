@@ -1,0 +1,44 @@
+SEF	1.0.0
+ID	FALMOUTH
+Name	Falmouth
+Source	Brotchie et al. (in review)
+Lat	50.15
+Lon	-5.0667
+Alt	51.0
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	Tx
+Stat	maximum
+Units	C
+Meta	Adjusted=N|height_of_thermometer=1.0m
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1912	10	1	21	20	p24hour	14.0	orig=287.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	2	21	20	p24hour	14.0	orig=287.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	3	21	20	p24hour	10.0	orig=283.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	4	21	20	p24hour	10.0	orig=283.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	5	21	20	p24hour	12.0	orig=285.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	6	21	20	p24hour	12.0	orig=285.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	7	21	20	p24hour	12.0	orig=285.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	8	21	20	p24hour	13.0	orig=286.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	9	21	20	p24hour	14.0	orig=287.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	10	21	20	p24hour	14.0	orig=287.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	11	21	20	p24hour	15.0	orig=288.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	12	21	20	p24hour	14.0	orig=287.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	13	21	20	p24hour	14.0	orig=287.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	14	21	20	p24hour	16.0	orig=289.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	15	21	20	p24hour	13.0	orig=286.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	16	21	20	p24hour	14.0	orig=287.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	17	21	20	p24hour	14.0	orig=287.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	18	21	20	p24hour	14.0	orig=287.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	19	21	20	p24hour	13.0	orig=286.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	20	21	20	p24hour	13.0	orig=286.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	21	21	20	p24hour	11.0	orig=284.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	22	21	20	p24hour	10.0	orig=283.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	23	21	20	p24hour	11.0	orig=284.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	24	21	20	p24hour	10.0	orig=283.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	25	21	20	p24hour	11.0	orig=284.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	26	21	20	p24hour	14.0	orig=287.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass|qc=daily_repetition
+1912	10	27	21	20	p24hour	14.0	orig=287.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass|qc=daily_repetition
+1912	10	28	21	20	p24hour	14.0	orig=287.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass|qc=daily_repetition
+1912	10	29	21	20	p24hour	14.0	orig=287.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass|qc=daily_repetition
+1912	10	30	21	20	p24hour	12.0	orig=285.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass
+1912	10	31	21	20	p24hour	12.0	orig=285.0 K|orig.time=21:00 Greenwich Mean Time|qc_colmath=pass

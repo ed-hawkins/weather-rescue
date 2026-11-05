@@ -1,0 +1,73 @@
+SEF	1.0.0
+ID	PLYMOUTH
+Name	Plymouth
+Source	Brotchie et al. (in review)
+Lat	50.4667
+Lon	-4.1333
+Alt	35.4
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	dd
+Stat	point
+Units	degree
+Meta	Adjusted=N
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1899	6	1	9	16		90	orig=E|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	1	21	16		180	orig=S|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	2	9	16		315	orig=NW|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	2	21	16		315	orig=NW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	3	9	16		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	3	21	16		270	orig=W|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	4	9	16		45	orig=NE|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	4	21	16		45	orig=NE|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	5	9	16		90	orig=E|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	5	21	16		158	orig=SSE|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	6	9	16		158	orig=SSE|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	6	21	16		22	orig=NNE|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	7	9	16		45	orig=NE|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	7	21	16		45	orig=NE|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	8	9	16		45	orig=NE|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	8	21	16		180	orig=S|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	9	9	16		360	orig=N|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	9	21	16		202	orig=SSW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	10	9	16		45	orig=NE|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	10	21	16		68	orig=ENE|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	11	9	16		45	orig=NE|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	11	21	16		45	orig=NE|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	12	9	16		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	12	21	16		338	orig=NNW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	13	9	16		135	orig=SE|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	13	21	16		270	orig=W|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	14	9	16		90	orig=E|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	14	21	16		158	orig=SSE|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	15	9	16		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	15	21	16		180	orig=S|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	16	9	16		315	orig=NW|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	16	21	16		360	orig=N|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	17	9	16		158	orig=SSE|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	17	21	16		315	orig=NW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	18	9	16		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	18	21	16		315	orig=NW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	19	9	16		135	orig=SE|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	19	21	16		90	orig=E|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	20	9	16		112	orig=ESE|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	20	21	16		112	orig=ESE|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	21	9	16		135	orig=SE|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	21	21	16		135	orig=SE|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	22	9	16		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	22	21	16		315	orig=NW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	23	9	16		360	orig=N|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	23	21	16		360	orig=N|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	24	9	16		292	orig=WNW|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	24	21	16		292	orig=WNW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	25	9	16		270	orig=W|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	25	21	16		315	orig=NW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	26	9	16		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	26	21	16		315	orig=NW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	27	9	16		180	orig=S|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	27	21	16		90	orig=E|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	28	9	16		112	orig=ESE|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	28	21	16		292	orig=WNW|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	29	9	16		315	orig=NW|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	29	21	16		270	orig=W|orig.time=21:00 Local Mean Time|qc_colmath=NA
+1899	6	30	9	16		202	orig=SSW|orig.time=09:00 Local Mean Time|qc_colmath=NA
+1899	6	30	21	16		202	orig=SSW|orig.time=21:00 Local Mean Time|qc_colmath=NA

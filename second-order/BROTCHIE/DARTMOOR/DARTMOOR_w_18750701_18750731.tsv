@@ -1,0 +1,75 @@
+SEF	1.0.0
+ID	DARTMOOR
+Name	Dartmoor
+Source	Brotchie et al. (in review)
+Lat	50.5333
+Lon	-3.9833
+Alt	418.2
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	w
+Stat	point
+Units	m/s
+Meta	Adjusted=N
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1875	7	1	9	15		5.0	orig=3.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	1	21	15		5.0	orig=3.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	2	9	15		5.0	orig=3.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	2	21	15		3.0	orig=2.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	3	9	15		10.0	orig=5.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	3	21	15		7.0	orig=4.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	4	9	15		7.0	orig=4.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	4	21	15		1.0	orig=1.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	5	9	15		3.0	orig=2.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	5	21	15		5.0	orig=3.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	6	9	15		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	6	21	15		1.0	orig=1.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	7	9	15		5.0	orig=3.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	7	21	15		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	8	9	15		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	8	21	15		7.0	orig=4.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	9	9	15		10.0	orig=5.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	9	21	15		10.0	orig=5.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	10	9	15		12.0	orig=6.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	10	21	15		12.0	orig=6.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	11	9	15		15.0	orig=7.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	11	21	15		10.0	orig=5.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	12	9	15		3.0	orig=2.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	12	21	15		1.0	orig=1.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	13	9	15		0.0	orig=0.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	13	21	15		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	14	9	15		10.0	orig=5.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	14	21	15		19.0	orig=8.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	15	9	15		3.0	orig=2.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	15	21	15		3.0	orig=2.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	16	9	15		19.0	orig=8.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	16	21	15		12.0	orig=6.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	17	9	15		10.0	orig=5.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	17	21	15		7.0	orig=4.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	18	9	15		7.0	orig=4.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	18	21	15		1.0	orig=1.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	19	9	15		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	19	21	15		5.0	orig=3.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	20	9	15		3.0	orig=2.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	20	21	15		3.0	orig=2.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	21	9	15		3.0	orig=2.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	21	21	15		10.0	orig=5.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	22	9	15		5.0	orig=3.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	22	21	15		7.0	orig=4.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	23	9	15		5.0	orig=3.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	23	21	15		7.0	orig=4.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	24	9	15		7.0	orig=4.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	24	21	15		3.0	orig=2.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	25	9	15		3.0	orig=2.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	25	21	15		7.0	orig=4.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	26	9	15		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	26	21	15		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	27	9	15		5.0	orig=3.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	27	21	15		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	28	9	15		5.0	orig=3.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	28	21	15		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	29	9	15		3.0	orig=2.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	29	21	15		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	30	9	15		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	30	21	15		3.0	orig=2.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1875	7	31	9	15		7.0	orig=4.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1875	7	31	21	15		5.0	orig=3.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass

@@ -1,0 +1,69 @@
+SEF	1.0.0
+ID	Dublin_Phoenix_Park
+Name	Dublin Phoenix Park
+Source	Brotchie et al. (in review)
+Lat	53.3667
+Lon	-6.35
+Alt	49.4
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	w
+Stat	point
+Units	m/s
+Meta	Adjusted=N
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1886	2	1	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	1	21	25		1.0	orig=1.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	2	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	2	21	25		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	3	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	3	21	25		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	4	9	25		0.0	orig=0.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	4	21	25		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	5	9	25		0.0	orig=0.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	5	21	25		1.0	orig=1.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	6	9	25		0.0	orig=0.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	6	21	25		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	7	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	7	21	25		1.0	orig=1.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	8	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	8	21	25		1.0	orig=1.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	9	9	25		0.0	orig=0.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	9	21	25		1.0	orig=1.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	10	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	10	21	25		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	11	9	25		0.0	orig=0.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	11	21	25		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	12	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	12	21	25		3.0	orig=2.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	13	9	25		3.0	orig=2.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	13	21	25		1.0	orig=1.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	14	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	14	21	25		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	15	9	25		0.0	orig=0.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	15	21	25		1.0	orig=1.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass|qc=subdaily_repetition
+1886	2	16	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass|qc=subdaily_repetition
+1886	2	16	21	25		1.0	orig=1.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass|qc=subdaily_repetition
+1886	2	17	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass|qc=subdaily_repetition
+1886	2	17	21	25		1.0	orig=1.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass|qc=subdaily_repetition
+1886	2	18	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass|qc=subdaily_repetition
+1886	2	18	21	25		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	19	9	25		0.0	orig=0.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	19	21	25		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	20	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	20	21	25		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	21	9	25		0.0	orig=0.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	21	21	25		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	22	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	22	21	25		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	23	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	23	21	25		1.0	orig=1.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	24	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	24	21	25		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	25	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	25	21	25		1.0	orig=1.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	26	9	25		0.0	orig=0.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	26	21	25		0.0	orig=0.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	27	9	25		3.0	orig=2.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	27	21	25		3.0	orig=2.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1886	2	28	9	25		1.0	orig=1.0 beaufort|orig.time=09:00 Local Mean Time|qc_colmath=pass
+1886	2	28	21	25		3.0	orig=2.0 beaufort|orig.time=21:00 Local Mean Time|qc_colmath=pass

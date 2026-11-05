@@ -1,0 +1,103 @@
+SEF	1.0.0
+ID	SHREWSBURY
+Name	Shrewsbury
+Source	Brotchie et al. (in review)
+Lat	52.7167
+Lon	-2.75
+Alt	57.9
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	ss
+Stat	sum
+Units	hrs
+Meta	Adjusted=N|Instrument=Campbell-Stokes Burning Recorder
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1908	4	2	NA	NA	p24hour	0.0	orig=0.01 hrs|qc_colmath=fail
+1908	4	3	NA	NA	p24hour	0.1	orig=0.05 hrs|qc_colmath=fail
+1908	4	4	NA	NA	p24hour	0.1	orig=0.11 hrs|qc_colmath=fail
+1908	4	5	NA	NA	p24hour	0.1	orig=0.06 hrs|qc_colmath=fail
+1908	4	6	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail
+1908	4	7	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail
+1908	4	8	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail
+1908	4	9	NA	NA	p24hour	0.1	orig=0.06 hrs|qc_colmath=fail
+1908	4	10	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1908	4	11	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1908	4	12	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1908	4	13	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1908	4	14	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1908	4	15	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1908	4	16	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1908	4	17	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1908	4	18	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1908	4	19	NA	NA	p24hour	0.1	orig=0.07 hrs|qc_colmath=fail
+1908	4	20	NA	NA	p24hour	0.0	orig=0.01 hrs|qc_colmath=fail
+1908	4	21	NA	NA	p24hour	0.0	orig=0.03 hrs|qc_colmath=fail
+1908	4	22	NA	NA	p24hour	0.1	orig=0.07 hrs|qc_colmath=fail
+1908	4	23	NA	NA	p24hour	0.2	orig=0.16 hrs|qc_colmath=fail
+1908	4	24	NA	NA	p24hour	0.1	orig=0.11 hrs|qc_colmath=fail
+1908	4	25	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail
+1908	4	26	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail
+1908	4	27	NA	NA	p24hour	0.6	orig=0.55 hrs|qc_colmath=fail
+1908	4	28	NA	NA	p24hour	0.6	orig=0.62 hrs|qc_colmath=fail
+1908	4	29	NA	NA	p24hour	0.5	orig=0.47 hrs|qc_colmath=fail
+1908	4	30	NA	NA	p24hour	0.0	orig=0.02 hrs|qc_colmath=fail|qc=daily_repetition
+1908	12	1	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1908	12	2	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1908	12	3	NA	NA	p24hour	0.0	orig=0.03 hrs|qc_colmath=fail|qc=daily_repetition
+1908	12	4	NA	NA	p24hour	0.1	orig=0.07 hrs|qc_colmath=fail
+1908	12	5	NA	NA	p24hour	0.0	orig=0.04 hrs|qc_colmath=fail
+1908	12	6	NA	NA	p24hour	0.0	orig=0.01 hrs|qc_colmath=fail
+1908	12	7	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail
+1908	12	8	NA	NA	p24hour	0.2	orig=0.23 hrs|qc_colmath=fail
+1908	12	9	NA	NA	p24hour	0.1	orig=0.05 hrs|qc_colmath=fail
+1908	12	10	NA	NA	p24hour	0.1	orig=0.08 hrs|qc_colmath=fail
+1908	12	11	NA	NA	p24hour	0.0	orig=0.04 hrs|qc_colmath=fail
+1908	12	12	NA	NA	p24hour	0.0	orig=0.01 hrs|qc_colmath=fail
+1908	12	13	NA	NA	p24hour	0.0	orig=0.03 hrs|qc_colmath=fail
+1908	12	14	NA	NA	p24hour	0.1	orig=0.12 hrs|qc_colmath=fail
+1908	12	15	NA	NA	p24hour	0.6	orig=0.57 hrs|qc_colmath=fail
+1908	12	16	NA	NA	p24hour	0.0	orig=0.04 hrs|qc_colmath=fail|qc=daily_repetition
+1908	12	17	NA	NA	p24hour	0.0	orig=0.03 hrs|qc_colmath=fail|qc=daily_repetition
+1908	12	18	NA	NA	p24hour	0.0	orig=0.02 hrs|qc_colmath=fail|qc=daily_repetition
+1908	12	19	NA	NA	p24hour	0.0	orig=0.03 hrs|qc_colmath=fail|qc=daily_repetition
+1908	12	20	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1908	12	21	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1908	12	22	NA	NA	p24hour	0.0	orig=0.01 hrs|qc_colmath=fail|qc=daily_repetition
+1908	12	23	NA	NA	p24hour	0.0	orig=0.02 hrs|qc_colmath=fail|qc=daily_repetition
+1908	12	24	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1908	12	25	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1908	12	26	NA	NA	p24hour	0.1	orig=0.05 hrs|qc_colmath=fail
+1908	12	27	NA	NA	p24hour	0.1	orig=0.1 hrs|qc_colmath=fail
+1908	12	28	NA	NA	p24hour	0.2	orig=0.17 hrs|qc_colmath=fail
+1908	12	29	NA	NA	p24hour	0.2	orig=0.19 hrs|qc_colmath=fail
+1908	12	30	NA	NA	p24hour	0.1	orig=0.12 hrs|qc_colmath=fail
+1908	12	31	NA	NA	p24hour	0.0	orig=0.01 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	1	NA	NA	p24hour	0.0	orig=0.03 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	2	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	3	NA	NA	p24hour	0.0	orig=0.04 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	4	NA	NA	p24hour	0.0	orig=0.02 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	5	NA	NA	p24hour	0.1	orig=0.13 hrs|qc_colmath=fail
+1911	8	6	NA	NA	p24hour	0.0	orig=0.02 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	7	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	8	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	9	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	10	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	11	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	12	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	13	NA	NA	p24hour	0.1	orig=0.06 hrs|qc_colmath=fail
+1911	8	14	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	15	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	16	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	17	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	18	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	19	NA	NA	p24hour	0.1	orig=0.06 hrs|qc_colmath=fail
+1911	8	21	NA	NA	p24hour	0.3	orig=0.26 hrs|qc_colmath=fail
+1911	8	22	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail
+1911	8	23	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail
+1911	8	24	NA	NA	p24hour	0.2	orig=0.18 hrs|qc_colmath=fail
+1911	8	25	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail
+1911	8	26	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail
+1911	8	27	NA	NA	p24hour	0.5	orig=0.54 hrs|qc_colmath=fail
+1911	8	28	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	29	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	30	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition
+1911	8	31	NA	NA	p24hour	0.0	orig=0.0 hrs|qc_colmath=fail|qc=daily_repetition

@@ -1,0 +1,72 @@
+SEF	1.0.0
+ID	FORT_WILLIAM
+Name	Fort William
+Source	Brotchie et al. (in review)
+Lat	56.8167
+Lon	-5.1167
+Alt	11.9
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	rr
+Stat	sum
+Units	mm
+Meta	Adjusted=N|height_of_raingauge=0.3m|Note= precise latitude and longitude are uncertain due to conflicting heights of the station and the barometer
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1911	1	2	9	20	p24hour	0.0	orig=0.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	3	9	20	p24hour	0.0	orig=0.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	4	9	20	p24hour	0.0	orig=0.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	5	9	20	p24hour	0.0	orig=0.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	6	9	20	p24hour	18.288	orig=0.72 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	7	9	20	p24hour	5.334	orig=0.21 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	8	9	20	p24hour	17.526	orig=0.69 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	9	9	20	p24hour	5.842	orig=0.23 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	10	9	20	p24hour	9.144	orig=0.36 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	11	9	20	p24hour	29.718	orig=1.17 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	12	9	20	p24hour	1.778	orig=0.07 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	13	9	20	p24hour	0.508	orig=0.02 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	14	9	20	p24hour	2.54	orig=0.1 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	15	9	20	p24hour	8.382	orig=0.33 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	16	9	20	p24hour	7.366	orig=0.29 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	17	9	20	p24hour	5.334	orig=0.21 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	18	9	20	p24hour	5.334	orig=0.21 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	19	9	20	p24hour	0.254	orig=0.01 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	20	9	20	p24hour	0.254	orig=0.01 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	21	9	20	p24hour	0.0	orig=0.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	22	9	20	p24hour	3.048	orig=0.12 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	23	9	20	p24hour	0.0	orig=0.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	24	9	20	p24hour	18.288	orig=0.72 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	25	9	20	p24hour	29.972	orig=1.18 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	26	9	20	p24hour	8.89	orig=0.35 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	27	9	20	p24hour	10.922	orig=0.43 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	28	9	20	p24hour	4.318	orig=0.17 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	29	9	20	p24hour	1.016	orig=0.04 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	30	9	20	p24hour	0.0	orig=0.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	1	31	9	20	p24hour	0.0	orig=0.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	1	9	20	p24hour	0.0	orig=0.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	2	9	20	p24hour	0.0	orig=0.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	3	9	20	p24hour	0.0	orig=0.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	4	9	20	p24hour	0.0	orig=0.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	5	9	20	p24hour	0.0	orig=0.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	6	9	20	p24hour	0.0	orig=0.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	7	9	20	p24hour	0.0	orig=0.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	8	9	20	p24hour	0.762	orig=0.03 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	9	9	20	p24hour	0.254	orig=0.01 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	10	9	20	p24hour	1.27	orig=0.05 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	11	9	20	p24hour	9.144	orig=0.36 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	12	9	20	p24hour	0.508	orig=0.02 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	13	9	20	p24hour	8.128	orig=0.32 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	14	9	20	p24hour	23.622	orig=0.93 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	15	9	20	p24hour	8.89	orig=0.35 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	16	9	20	p24hour	30.988	orig=1.22 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	17	9	20	p24hour	25.4	orig=1.0 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	18	9	20	p24hour	33.782	orig=1.33 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	19	9	20	p24hour	6.096	orig=0.24 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	20	9	20	p24hour	3.81	orig=0.15 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	21	9	20	p24hour	5.588	orig=0.22 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	22	9	20	p24hour	43.434	orig=1.71 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	23	9	20	p24hour	46.482	orig=1.83 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	24	9	20	p24hour	24.892	orig=0.98 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	25	9	20	p24hour	5.334	orig=0.21 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	26	9	20	p24hour	12.7	orig=0.5 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	27	9	20	p24hour	1.524	orig=0.06 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	2	28	9	20	p24hour	10.922	orig=0.43 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass
+1911	3	1	9	20	p24hour	12.7	orig=0.5 in|orig.time=09:00 Greenwich Mean Time|qc_colmath=pass

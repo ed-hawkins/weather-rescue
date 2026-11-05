@@ -1,0 +1,43 @@
+SEF	1.0.0
+ID	PLYMOUTH
+Name	Plymouth
+Source	Brotchie et al. (in review)
+Lat	50.4667
+Lon	-4.1333
+Alt	35.6
+Link	https://doi.org/10.5281/zenodo.23955578
+Vbl	Tn
+Stat	minimum
+Units	C
+Meta	Adjusted=N|height_of_thermometer=0.2m
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1899	6	1	21	16	p24hour	11.7	orig=53.1 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	2	21	16	p24hour	9.3	orig=48.8 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	3	21	16	p24hour	9.3	orig=48.7 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	4	21	16	p24hour	10.9	orig=51.7 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	5	21	16	p24hour	13.0	orig=55.4 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	6	21	16	p24hour	14.0	orig=57.2 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	7	21	16	p24hour	17.1	orig=62.8 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	8	21	16	p24hour	13.2	orig=55.8 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	9	21	16	p24hour	8.1	orig=46.6 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	10	21	16	p24hour	12.1	orig=53.7 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	11	21	16	p24hour	9.8	orig=49.7 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	12	21	16	p24hour	9.1	orig=48.4 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	13	21	16	p24hour	13.8	orig=56.9 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	14	21	16	p24hour	11.8	orig=53.2 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	15	21	16	p24hour	6.9	orig=44.4 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	16	21	16	p24hour	9.8	orig=49.6 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	17	21	16	p24hour	11.5	orig=52.7 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	18	21	16	p24hour	12.5	orig=54.5 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	19	21	16	p24hour	8.7	orig=47.6 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	20	21	16	p24hour	11.1	orig=51.9 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	21	21	16	p24hour	12.6	orig=54.7 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	22	21	16	p24hour	12.6	orig=54.7 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	23	21	16	p24hour	13.3	orig=56.0 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	24	21	16	p24hour	13.2	orig=55.7 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	25	21	16	p24hour	12.1	orig=53.7 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	26	21	16	p24hour	14.5	orig=58.1 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	27	21	16	p24hour	11.5	orig=52.7 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	28	21	16	p24hour	14.6	orig=58.2 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	29	21	16	p24hour	12.3	orig=54.1 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
+1899	6	30	21	16	p24hour	9.2	orig=48.5 F|orig.time=21:00 Local Mean Time|qc_colmath=pass
